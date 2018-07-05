@@ -1968,10 +1968,6 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -3832,10 +3828,6 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -4067,10 +4059,6 @@
       "imageName": "steppe glider",
       "layout": "normal",
       "legalities": [
-        {
-          "format": "Battle for Zendikar Block",
-          "legality": "Legal"
-        },
         {
           "format": "Commander",
           "legality": "Legal"
@@ -6722,7 +6710,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -6730,23 +6718,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
           "legality": "Legal"
         },
         {
@@ -12256,10 +12228,6 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -15277,10 +15245,6 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -16085,10 +16049,6 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -16188,10 +16148,6 @@
       "imageName": "saddleback lagac",
       "layout": "normal",
       "legalities": [
-        {
-          "format": "Battle for Zendikar Block",
-          "legality": "Legal"
-        },
         {
           "format": "Commander",
           "legality": "Legal"
@@ -18082,10 +18038,6 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -18840,10 +18792,6 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -19049,15 +18997,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -19069,7 +19013,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Scars of Mirrodin Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -20621,15 +20565,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -20642,10 +20582,6 @@
         },
         {
           "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
           "legality": "Legal"
         },
         {

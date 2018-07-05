@@ -4741,7 +4741,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -4749,23 +4749,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
           "legality": "Legal"
         },
         {
@@ -9644,15 +9628,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
           "legality": "Legal"
         },
         {
@@ -13659,10 +13635,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
           "legality": "Legal"
         },
         {

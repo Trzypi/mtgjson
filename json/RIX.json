@@ -104,11 +104,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -117,6 +117,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -217,11 +221,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -230,6 +234,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -353,11 +361,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -366,6 +374,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -457,11 +469,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -470,6 +482,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -561,11 +577,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -578,10 +594,6 @@
         },
         {
           "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
           "legality": "Legal"
         },
         {
@@ -693,11 +705,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -706,6 +718,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -809,11 +825,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -822,6 +838,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -919,11 +939,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -932,6 +952,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -1028,11 +1052,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -1041,6 +1065,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -1144,11 +1172,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -1157,6 +1185,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -1267,11 +1299,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -1382,11 +1414,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -1395,6 +1427,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -1410,7 +1446,8 @@
       "originalText": "Enchant creature\nEnchanted creature can't attack or block.",
       "originalType": "Enchantment — Aura",
       "printings": [
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -1489,11 +1526,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -1502,6 +1539,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -1598,11 +1639,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -1611,6 +1652,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -1708,11 +1753,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -1721,6 +1766,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -1818,11 +1867,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -1831,6 +1880,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -1937,11 +1990,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -1950,6 +2003,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -2070,11 +2127,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -2083,6 +2140,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -2212,11 +2273,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -2245,7 +2306,8 @@
       "power": "3",
       "printings": [
         "XLN",
-        "RIX"
+        "RIX",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -2324,11 +2386,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -2337,6 +2399,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -2434,11 +2500,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -2447,6 +2513,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -2574,11 +2644,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -2587,6 +2657,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -2692,11 +2766,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -2705,6 +2779,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -2831,11 +2909,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -2844,6 +2922,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -2940,11 +3022,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -2953,6 +3035,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -3057,11 +3143,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -3070,6 +3156,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -3086,14 +3176,15 @@
       "originalType": "Creature — Human Soldier",
       "power": "2",
       "printings": [
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
         "Human",
         "Soldier"
       ],
-      "text": "Vigilance",
+      "text": "Vigilance (Attacking doesn't cause this creature to tap.)",
       "toughness": "2",
       "type": "Creature — Human Soldier",
       "types": [
@@ -3167,11 +3258,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -3180,6 +3271,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -3282,11 +3377,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -3295,6 +3390,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -3409,11 +3508,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -3422,6 +3521,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -3540,11 +3643,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -3553,6 +3656,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -3659,11 +3766,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -3672,6 +3779,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -3772,11 +3883,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -3785,6 +3896,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -3882,11 +3997,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -3895,6 +4010,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -4021,11 +4140,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -4034,6 +4153,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -4134,11 +4257,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -4147,6 +4270,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -4247,11 +4374,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -4260,6 +4387,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -4366,11 +4497,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -4379,6 +4510,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -4496,11 +4631,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -4509,6 +4644,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -4606,11 +4745,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -4619,6 +4758,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -4715,11 +4858,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -4728,6 +4871,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -4837,11 +4984,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -4850,6 +4997,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -4866,7 +5017,8 @@
       "originalType": "Creature — Human Pirate",
       "power": "2",
       "printings": [
-        "RIX"
+        "RIX",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -4956,11 +5108,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -4969,6 +5121,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -5090,11 +5246,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -5103,6 +5259,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -5119,7 +5279,8 @@
       "originalType": "Creature — Merfolk Warrior",
       "power": "1",
       "printings": [
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -5200,7 +5361,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -5208,23 +5369,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
           "legality": "Legal"
         },
         {
@@ -5262,7 +5407,9 @@
         "OGW",
         "CN2",
         "AER",
-        "RIX"
+        "RIX",
+        "BBD",
+        "SS1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -5343,11 +5490,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -5356,6 +5503,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -5474,11 +5625,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -5487,6 +5638,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -5596,11 +5751,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -5609,6 +5764,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -5706,11 +5865,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -5719,6 +5878,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -5822,11 +5985,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -5937,11 +6100,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -5950,6 +6113,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -6044,11 +6211,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -6057,6 +6224,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -6160,11 +6331,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -6173,6 +6344,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -6286,11 +6461,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -6298,11 +6473,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Lorwyn-Shadowmoor Block",
+          "format": "Modern",
           "legality": "Legal"
         },
         {
-          "format": "Modern",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -6401,11 +6576,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -6414,6 +6589,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -6521,11 +6700,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -6534,6 +6713,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -6665,11 +6848,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -6678,6 +6861,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -6773,11 +6960,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -6786,6 +6973,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -6912,11 +7103,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -6925,6 +7116,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -7019,11 +7214,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -7032,6 +7227,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -7155,11 +7354,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -7168,6 +7367,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -7278,11 +7481,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -7291,6 +7494,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -7306,7 +7513,8 @@
       "originalText": "Enchant creature\nWhen Waterknot enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
       "originalType": "Enchantment — Aura",
       "printings": [
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -7385,11 +7593,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -7398,6 +7606,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -7503,11 +7715,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -7516,6 +7728,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -7610,11 +7826,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -7623,6 +7839,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -7726,11 +7946,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -7739,6 +7959,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -7829,11 +8053,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -7842,6 +8066,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -7966,11 +8194,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -7979,6 +8207,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -8081,11 +8313,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -8094,6 +8326,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -8191,11 +8427,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -8204,6 +8440,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -8330,11 +8570,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -8343,6 +8583,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -8441,11 +8685,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -8454,6 +8698,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -8556,11 +8804,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -8569,6 +8817,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -8675,11 +8927,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -8688,6 +8940,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -8805,11 +9061,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -8818,6 +9074,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -8834,7 +9094,8 @@
       "originalType": "Creature — Human Pirate",
       "power": "1",
       "printings": [
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -8915,11 +9176,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -8928,6 +9189,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -9025,11 +9290,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -9038,6 +9303,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -9129,11 +9398,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -9142,6 +9411,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -9242,11 +9515,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -9255,6 +9528,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -9385,11 +9662,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -9398,6 +9675,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -9499,11 +9780,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -9512,6 +9793,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -9619,11 +9904,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -9632,6 +9917,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -9735,11 +10024,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -9748,6 +10037,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -9846,11 +10139,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -9859,6 +10152,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -9950,15 +10247,11 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -9967,6 +10260,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -10061,11 +10358,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -10074,6 +10371,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -10176,11 +10477,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -10189,6 +10490,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -10298,11 +10603,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -10311,6 +10616,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -10407,11 +10716,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -10420,6 +10729,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -10563,11 +10876,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -10576,6 +10889,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -10672,11 +10989,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -10685,6 +11002,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -10802,11 +11123,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -10815,6 +11136,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -10912,11 +11237,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -10925,6 +11250,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -11042,11 +11371,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -11055,6 +11384,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -11146,11 +11479,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -11159,6 +11492,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -11250,11 +11587,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -11263,6 +11600,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -11360,11 +11701,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -11373,6 +11714,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -11464,11 +11809,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -11477,6 +11822,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -11583,11 +11932,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -11596,6 +11945,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -11698,11 +12051,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -11711,6 +12064,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -11818,11 +12175,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -11831,6 +12188,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -11961,11 +12322,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -11974,6 +12335,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -12070,11 +12435,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -12083,6 +12448,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -12185,11 +12554,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -12198,6 +12567,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -12303,11 +12676,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -12316,6 +12689,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -12426,11 +12803,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -12439,6 +12816,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -12536,11 +12917,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -12549,6 +12930,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -12646,11 +13031,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -12659,6 +13044,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -12765,11 +13154,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -12778,6 +13167,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -12872,11 +13265,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -12885,6 +13278,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -12976,11 +13373,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -12989,6 +13386,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -13089,11 +13490,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -13102,6 +13503,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -13207,11 +13612,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -13220,6 +13625,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -13320,11 +13729,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -13333,6 +13742,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -13424,19 +13837,11 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -13444,19 +13849,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Modern",
           "legality": "Legal"
         },
         {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Tempest Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -13574,11 +13971,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -13587,6 +13984,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -13701,11 +14102,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -13714,6 +14115,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -13816,11 +14221,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -13829,6 +14234,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -13960,11 +14369,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -13973,6 +14382,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -14069,11 +14482,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -14082,6 +14495,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -14178,11 +14595,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -14191,6 +14608,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -14284,11 +14705,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -14297,6 +14718,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -14432,15 +14857,11 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -14449,6 +14870,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -14548,11 +14973,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -14561,6 +14986,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -14667,11 +15096,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -14680,6 +15109,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -14798,11 +15231,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -14833,13 +15266,14 @@
       "printings": [
         "XLN",
         "RIX",
-        "A25"
+        "A25",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
         "Dinosaur"
       ],
-      "text": "Trample",
+      "text": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",
       "toughness": "6",
       "type": "Creature — Dinosaur",
       "types": [
@@ -14913,11 +15347,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -14926,6 +15360,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -15022,11 +15460,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -15035,6 +15473,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -15137,11 +15579,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -15150,6 +15592,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -15266,11 +15712,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -15279,6 +15725,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -15382,11 +15832,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -15395,6 +15845,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -15513,11 +15967,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -15526,6 +15980,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -15629,11 +16087,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -15642,6 +16100,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -15880,11 +16342,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -15893,6 +16355,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -15990,11 +16456,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -16003,6 +16469,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -16099,11 +16569,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -16112,6 +16582,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -16227,11 +16701,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -16240,6 +16714,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -16337,11 +16815,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -16350,6 +16828,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -16453,19 +16935,11 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -16477,23 +16951,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -16523,7 +16985,8 @@
         "KTK",
         "DTK",
         "RIX",
-        "DDU"
+        "DDU",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Destroy target artifact or enchantment.",
@@ -16599,11 +17062,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -16612,6 +17075,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -16706,11 +17173,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -16719,6 +17186,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -16824,11 +17295,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -16837,6 +17308,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -16946,15 +17421,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -16963,6 +17434,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -16990,7 +17465,8 @@
         "BFZ",
         "CN2",
         "RIX",
-        "A25"
+        "A25",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Destroy target creature with flying.",
@@ -17066,11 +17542,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -17079,6 +17555,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -17197,11 +17677,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -17210,6 +17690,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -17301,11 +17785,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -17314,6 +17798,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -17410,11 +17898,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -17423,6 +17911,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -17553,11 +18045,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -17566,6 +18058,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -17662,11 +18158,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -17675,6 +18171,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -17771,11 +18271,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -17784,6 +18284,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -17910,11 +18414,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -17923,6 +18427,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -18021,11 +18529,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -18034,6 +18542,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -18152,11 +18664,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -18165,6 +18677,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -18273,11 +18789,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -18286,6 +18802,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -18392,11 +18912,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -18405,6 +18925,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -18534,11 +19058,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -18547,6 +19071,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -18646,11 +19174,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -18659,6 +19187,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -18775,11 +19307,11 @@
       "layout": "double-faced",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -18788,6 +19320,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -18889,11 +19425,11 @@
       "layout": "double-faced",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -18902,6 +19438,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -19000,11 +19540,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -19013,6 +19553,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -19123,11 +19667,11 @@
       "layout": "double-faced",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -19136,6 +19680,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -19253,11 +19801,11 @@
       "layout": "double-faced",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -19266,6 +19814,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -19365,11 +19917,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -19378,6 +19930,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -19475,11 +20031,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -19488,6 +20044,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -19600,11 +20160,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -19613,6 +20173,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -19718,11 +20282,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -19731,6 +20295,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -19835,11 +20403,11 @@
       "layout": "double-faced",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -19848,6 +20416,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -19957,11 +20529,11 @@
       "layout": "double-faced",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -19970,6 +20542,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -20103,11 +20679,11 @@
       "layout": "double-faced",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -20116,6 +20692,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -20226,11 +20806,11 @@
       "layout": "double-faced",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -20239,6 +20819,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -20348,11 +20932,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -20361,6 +20945,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -20494,11 +21082,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -20507,6 +21095,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -20611,11 +21203,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -20624,6 +21216,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -20727,11 +21323,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -20740,6 +21336,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -20868,11 +21468,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -20881,6 +21481,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -20989,11 +21593,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -21002,6 +21606,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -21100,11 +21708,11 @@
       "layout": "double-faced",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -21113,6 +21721,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -21227,11 +21839,11 @@
       "layout": "double-faced",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -21240,6 +21852,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -21340,11 +21956,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -21353,6 +21969,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -21457,11 +22077,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -21470,6 +22090,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -21570,11 +22194,11 @@
       "layout": "double-faced",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -21583,6 +22207,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -21697,11 +22325,11 @@
       "layout": "double-faced",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -21710,6 +22338,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -21806,11 +22438,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -21819,6 +22451,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -21913,11 +22549,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -21926,6 +22562,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -22016,11 +22656,11 @@
       "layout": "double-faced",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -22029,6 +22669,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -22142,11 +22786,11 @@
       "layout": "double-faced",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -22155,6 +22799,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -22242,11 +22890,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -22255,6 +22903,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -22348,11 +23000,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -22361,6 +23013,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -22472,11 +23128,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -22485,6 +23141,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -22580,15 +23240,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -22600,7 +23256,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Scars of Mirrodin Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -22813,11 +23469,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -22826,6 +23482,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -23012,7 +23672,8 @@
         "CMA",
         "C17",
         "IMA",
-        "RIX"
+        "RIX",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
@@ -23128,7 +23789,8 @@
         "SOI",
         "AKH",
         "C17",
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Uncommon",
       "text": "Forsaken Sanctuary enters the battlefield tapped.\n{T}: Add {W} or {B}.",
@@ -23243,7 +23905,8 @@
       "printings": [
         "SOI",
         "AKH",
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Uncommon",
       "text": "Foul Orchard enters the battlefield tapped.\n{T}: Add {B} or {G}.",
@@ -23358,7 +24021,8 @@
       "printings": [
         "SOI",
         "AKH",
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Uncommon",
       "text": "Highland Lake enters the battlefield tapped.\n{T}: Add {U} or {R}.",
@@ -23480,7 +24144,8 @@
         "AKH",
         "C17",
         "XLN",
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Uncommon",
       "text": "Stone Quarry enters the battlefield tapped.\n{T}: Add {R} or {W}.",
@@ -23602,7 +24267,8 @@
         "AKH",
         "HOU",
         "XLN",
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Uncommon",
       "text": "Woodland Stream enters the battlefield tapped.\n{T}: Add {G} or {U}.",
@@ -23674,11 +24340,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -23686,51 +24348,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -23738,63 +24356,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -23908,7 +24474,11 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -23986,11 +24556,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -23998,51 +24564,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -24050,63 +24572,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -24220,7 +24690,11 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -24298,11 +24772,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -24310,51 +24780,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -24362,63 +24788,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -24535,7 +24909,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -24613,11 +24990,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -24625,51 +24998,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -24677,63 +25006,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -24853,7 +25130,11 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -24931,11 +25212,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -24943,51 +25220,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -24995,63 +25228,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -25168,7 +25349,11 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25249,11 +25434,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -25262,6 +25447,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -25370,11 +25559,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -25383,6 +25572,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -25480,11 +25673,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -25493,6 +25686,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -25589,11 +25786,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -25602,6 +25799,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -25694,11 +25895,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -25707,6 +25908,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -25827,11 +26032,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -25840,6 +26045,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -25937,11 +26146,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -25950,6 +26159,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -26046,11 +26259,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -26059,6 +26272,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -26201,7 +26418,8 @@
         "AKH",
         "HOU",
         "C17",
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Cinder Barrens enters the battlefield tapped.\n{T}: Add {B} or {R}.",

@@ -11463,10 +11463,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Modern",
           "legality": "Legal"
         },
@@ -11720,6 +11716,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -11728,11 +11728,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Mirrodin Block",
+          "format": "Modern",
           "legality": "Legal"
         },
         {
-          "format": "Modern",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -12221,10 +12221,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {

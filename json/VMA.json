@@ -2886,10 +2886,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
@@ -10249,6 +10245,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -10257,7 +10257,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Onslaught Block",
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -10975,6 +10979,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -10983,7 +10991,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Onslaught Block",
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {

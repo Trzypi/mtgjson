@@ -1087,11 +1087,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -1108,10 +1108,6 @@
         },
         {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -1437,10 +1433,6 @@
       "legalities": [
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
           "legality": "Legal"
         },
         {

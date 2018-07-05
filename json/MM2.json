@@ -10708,10 +10708,6 @@
         {
           "format": "Vintage",
           "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
-          "legality": "Legal"
         }
       ],
       "manaCost": "{3}{R}",
@@ -12139,15 +12135,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -12156,6 +12148,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -13447,10 +13443,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
           "legality": "Legal"
         },
         {
@@ -16251,10 +16243,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
           "legality": "Legal"
         },
         {

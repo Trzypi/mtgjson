@@ -1298,10 +1298,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
@@ -2438,6 +2434,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -2944,10 +2944,6 @@
       "legalities": [
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ice Age Block",
           "legality": "Legal"
         },
         {
@@ -3701,10 +3697,6 @@
       "legalities": [
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
           "legality": "Legal"
         },
         {
@@ -4600,10 +4592,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {
@@ -7094,15 +7082,11 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -7115,10 +7099,6 @@
         },
         {
           "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {
@@ -8037,10 +8017,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
@@ -8734,10 +8710,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -9373,10 +9345,6 @@
         },
         {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -12186,19 +12154,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {

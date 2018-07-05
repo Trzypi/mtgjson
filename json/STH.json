@@ -2154,11 +2154,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Kaladesh Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -2170,15 +2170,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Tempest Block",
           "legality": "Legal"
         },
         {

@@ -1705,10 +1705,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
@@ -4084,11 +4080,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Innistrad Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -4100,7 +4096,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Theros Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -10041,10 +10037,6 @@
       "legalities": [
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
           "legality": "Legal"
         },
         {

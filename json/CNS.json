@@ -5563,10 +5563,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
@@ -6444,10 +6440,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
@@ -6653,10 +6645,6 @@
       "legalities": [
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ice Age Block",
           "legality": "Legal"
         },
         {
@@ -7678,15 +7666,11 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -8156,15 +8140,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -8807,10 +8783,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
           "legality": "Legal"
         },
         {
@@ -10582,15 +10554,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
           "legality": "Legal"
         },
         {
@@ -11790,19 +11754,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {
@@ -12101,10 +12057,6 @@
         {
           "format": "Vintage",
           "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
-          "legality": "Legal"
         }
       ],
       "manaCost": "{3}{R}",
@@ -12176,10 +12128,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Tempest Block",
           "legality": "Legal"
         },
         {
@@ -13185,15 +13133,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -13202,6 +13146,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -15185,10 +15133,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -15442,10 +15386,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
           "legality": "Legal"
         },
         {

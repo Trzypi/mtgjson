@@ -166,11 +166,11 @@
       "layout": "double-faced",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -241,11 +241,11 @@
       "layout": "double-faced",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {

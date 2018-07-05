@@ -3077,10 +3077,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -10457,10 +10453,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
           "legality": "Legal"
         },
         {
@@ -22235,10 +22227,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -30393,11 +30381,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -30405,51 +30389,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -30457,63 +30397,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -30784,11 +30672,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -30796,51 +30680,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -30848,63 +30688,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -31175,11 +30963,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -31187,51 +30971,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -31239,63 +30979,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -31566,11 +31254,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -31578,51 +31262,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -31630,63 +31270,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -31957,11 +31545,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -31969,51 +31553,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -32021,63 +31561,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -32348,11 +31836,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -32360,51 +31844,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -32412,63 +31852,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -32739,11 +32127,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -32751,51 +32135,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -32803,63 +32143,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -33130,11 +32418,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -33142,51 +32426,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -33194,63 +32434,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -33521,11 +32709,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -33533,51 +32717,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -33585,63 +32725,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -33915,11 +33003,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -33927,51 +33011,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -33979,63 +33019,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -34309,11 +33297,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -34321,51 +33305,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -34373,63 +33313,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -34703,11 +33591,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -34715,51 +33599,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -34767,63 +33607,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -35097,11 +33885,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -35109,51 +33893,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -35161,63 +33901,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -35494,11 +34182,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -35506,51 +34190,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -35558,63 +34198,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -35891,11 +34479,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -35903,51 +34487,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -35955,63 +34495,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -36288,11 +34776,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -36300,51 +34784,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -36352,63 +34792,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -36685,11 +35073,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -36697,51 +35081,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -36749,63 +35089,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -37079,11 +35367,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -37091,51 +35375,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -37143,63 +35383,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -37473,11 +35661,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -37485,51 +35669,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -37537,63 +35677,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -37867,11 +35955,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -37879,51 +35963,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kamigawa Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -37931,63 +35971,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Theros Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Un-Sets",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],

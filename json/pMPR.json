@@ -1181,19 +1181,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
           "legality": "Legal"
         },
         {
@@ -3747,7 +3739,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -3755,19 +3747,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
           "legality": "Legal"
         },
         {

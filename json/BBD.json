@@ -51,6 +51,21 @@
       "id": "4696f4f0028bab38eb7d6a7af3991b084bdfa3c1",
       "imageName": "will kenrith1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "loyalty": 4,
       "manaCost": "{4}{U}{U}",
       "multiverseid": 445969,
       "name": "Will Kenrith",
@@ -198,6 +213,21 @@
       "id": "fbe270128aff2bdd288cd4ec7489e275128680fd",
       "imageName": "will kenrith2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "loyalty": 4,
       "manaCost": "{4}{U}{U}",
       "multiverseid": 445969,
       "name": "Will Kenrith",
@@ -345,6 +375,21 @@
       "id": "20c4da77fcab69759208f9edb50d4097f1d0838c",
       "imageName": "will kenrith3",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "loyalty": 4,
       "manaCost": "{4}{U}{U}",
       "multiverseid": 445969,
       "name": "Will Kenrith",
@@ -492,6 +537,21 @@
       "id": "b43e60bbc3274f0bf4de54fe54129fdd62288ba9",
       "imageName": "rowan kenrith2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "loyalty": 4,
       "manaCost": "{4}{R}{R}",
       "multiverseid": 445970,
       "name": "Rowan Kenrith",
@@ -631,6 +691,21 @@
       "id": "60c6540a03d79242a7a3406c1e102acca2bfe9de",
       "imageName": "rowan kenrith3",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "loyalty": 4,
       "manaCost": "{4}{R}{R}",
       "multiverseid": 445970,
       "name": "Rowan Kenrith",
@@ -770,6 +845,21 @@
       "id": "3305c98d19b4ae5a2f5728558a257d7ff87ea023",
       "imageName": "rowan kenrith4",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "loyalty": 4,
       "manaCost": "{4}{R}{R}",
       "multiverseid": 445970,
       "name": "Rowan Kenrith",
@@ -909,6 +999,20 @@
       "id": "89bb2ca5287dd22070d7b84c1eae4a2c28edab7e",
       "imageName": "regna, the redeemer1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{5}{W}",
       "multiverseid": 445971,
       "name": "Regna, the Redeemer",
@@ -1011,6 +1115,20 @@
       "id": "c3491f87ea8563ac11351c64d1736d59ba740620",
       "imageName": "regna, the redeemer2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{5}{W}",
       "multiverseid": 445971,
       "name": "Regna, the Redeemer",
@@ -1113,6 +1231,20 @@
       "id": "56582ff42e442fec58100be701c54e550a83b769",
       "imageName": "krav, the unredeemed1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{B}",
       "multiverseid": 445972,
       "name": "Krav, the Unredeemed",
@@ -1207,6 +1339,20 @@
       "id": "59212b6eec645f155ad958c2ca0448351c0cbd74",
       "imageName": "krav, the unredeemed2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{B}",
       "multiverseid": 445972,
       "name": "Krav, the Unredeemed",
@@ -1301,6 +1447,20 @@
       "id": "dfc6e0b0fa0df4ac448d742934a949d6cf4afe52",
       "imageName": "zndrsplt, eye of wisdom1",
       "layout": "flip",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{U}",
       "multiverseid": 445973,
       "name": "Zndrsplt, Eye of Wisdom",
@@ -1356,6 +1516,10 @@
         {
           "date": "2018-06-08",
           "text": "The triggered ability of the \"partner with\" keyword still triggers in a Commander game. If your other commander has somehow ended up in your library, you can find it. You can also target another player who might have that card in their library."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "If an effect has a player flip a coin and refers to winning or losing a flip, only the player who flipped the coin wins or loses the flip. If that player loses the flip, nobody wins the flip."
         }
       ],
       "subtypes": [
@@ -1395,6 +1559,20 @@
       "id": "6d0071d7ae5e227599949c39b5e9f9823261e20c",
       "imageName": "zndrsplt, eye of wisdom2",
       "layout": "flip",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{U}",
       "multiverseid": 445973,
       "name": "Zndrsplt, Eye of Wisdom",
@@ -1450,6 +1628,10 @@
         {
           "date": "2018-06-08",
           "text": "The triggered ability of the \"partner with\" keyword still triggers in a Commander game. If your other commander has somehow ended up in your library, you can find it. You can also target another player who might have that card in their library."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "If an effect has a player flip a coin and refers to winning or losing a flip, only the player who flipped the coin wins or loses the flip. If that player loses the flip, nobody wins the flip."
         }
       ],
       "subtypes": [
@@ -1489,6 +1671,20 @@
       "id": "c7db2237d611eb39b1e43a942864aa226ce4db21",
       "imageName": "okaun, eye of chaos1",
       "layout": "flip",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{R}",
       "multiverseid": 445974,
       "name": "Okaun, Eye of Chaos",
@@ -1552,6 +1748,10 @@
         {
           "date": "2018-06-08",
           "text": "The triggered ability of the \"partner with\" keyword still triggers in a Commander game. If your other commander has somehow ended up in your library, you can find it. You can also target another player who might have that card in their library."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "If an effect has a player flip a coin and refers to winning or losing a flip, only the player who flipped the coin wins or loses the flip. If that player loses the flip, nobody wins the flip."
         }
       ],
       "subtypes": [
@@ -1592,6 +1792,20 @@
       "id": "df9479f1c12a25d5ab77a365d8aecb07f5ea8b63",
       "imageName": "okaun, eye of chaos2",
       "layout": "flip",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{R}",
       "multiverseid": 445974,
       "name": "Okaun, Eye of Chaos",
@@ -1655,6 +1869,10 @@
         {
           "date": "2018-06-08",
           "text": "The triggered ability of the \"partner with\" keyword still triggers in a Commander game. If your other commander has somehow ended up in your library, you can find it. You can also target another player who might have that card in their library."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "If an effect has a player flip a coin and refers to winning or losing a flip, only the player who flipped the coin wins or loses the flip. If that player loses the flip, nobody wins the flip."
         }
       ],
       "subtypes": [
@@ -1695,6 +1913,20 @@
       "id": "368505c7026a52a75de30628c95ebb463de5b7c3",
       "imageName": "virtus the veiled1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{B}",
       "multiverseid": 445975,
       "name": "Virtus the Veiled",
@@ -1794,6 +2026,20 @@
       "id": "53bb97b10282908e9e2934aa583f6c401c62cbeb",
       "imageName": "virtus the veiled2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{B}",
       "multiverseid": 445975,
       "name": "Virtus the Veiled",
@@ -1893,6 +2139,20 @@
       "id": "0fd0e79798a39e9934c8ff31cfbb7b18718d7d59",
       "imageName": "gorm the great1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{G}",
       "multiverseid": 445976,
       "name": "Gorm the Great",
@@ -1992,6 +2252,20 @@
       "id": "9db5eb7e872b70a95accbbfe9b41c7b41508cc73",
       "imageName": "gorm the great2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{G}",
       "multiverseid": 445976,
       "name": "Gorm the Great",
@@ -2091,6 +2365,20 @@
       "id": "c556d431d3a73bcc547c18168365fa401494dbe9",
       "imageName": "khorvath brightflame1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{5}{R}",
       "multiverseid": 445977,
       "name": "Khorvath Brightflame",
@@ -2181,6 +2469,20 @@
       "id": "d79d502fcba265d86addb349a3bf5ab77dadecdb",
       "imageName": "khorvath brightflame2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{5}{R}",
       "multiverseid": 445977,
       "name": "Khorvath Brightflame",
@@ -2271,6 +2573,20 @@
       "id": "5eb7454fea235d55a6686df56c6f0b263e709949",
       "imageName": "sylvia brightspear1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{W}",
       "multiverseid": 445978,
       "name": "Sylvia Brightspear",
@@ -2362,6 +2678,20 @@
       "id": "eb0470fe7dab43c033ded5887e723bf5b892bf1b",
       "imageName": "sylvia brightspear2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{W}",
       "multiverseid": 445978,
       "name": "Sylvia Brightspear",
@@ -2453,6 +2783,20 @@
       "id": "ce2a8e7acc5fd948be08cc889e1ca11d213c6455",
       "imageName": "pir, imaginative rascal1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{G}",
       "multiverseid": 445979,
       "name": "Pir, Imaginative Rascal",
@@ -2555,6 +2899,20 @@
       "id": "dc1f101328a7f1578f2169eb716b4c8f9ff92de1",
       "imageName": "pir, imaginative rascal2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{G}",
       "multiverseid": 445979,
       "name": "Pir, Imaginative Rascal",
@@ -2657,6 +3015,20 @@
       "id": "520e941f03670d243957795927c61f441b73fba1",
       "imageName": "toothy, imaginary friend1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{U}",
       "multiverseid": 445980,
       "name": "Toothy, Imaginary Friend",
@@ -2759,6 +3131,20 @@
       "id": "182d028927db16057c909f9dd4bdd892f1aadd1c",
       "imageName": "toothy, imaginary friend2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{U}",
       "multiverseid": 445980,
       "name": "Toothy, Imaginary Friend",
@@ -2861,6 +3247,20 @@
       "id": "8c2a95ae058998ae357e41adfdc5d2b9f85baf47",
       "imageName": "blaring recruiter1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{W}",
       "multiverseid": 445981,
       "name": "Blaring Recruiter",
@@ -2925,6 +3325,20 @@
       "id": "1d248d78e281e3d71ca5a661497e184d596a8238",
       "imageName": "blaring recruiter2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{W}",
       "multiverseid": 445981,
       "name": "Blaring Recruiter",
@@ -2989,6 +3403,20 @@
       "id": "487ac4d08b3bef1d440af909bf220ab62706bb45",
       "imageName": "blaring captain1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{B}",
       "multiverseid": 445982,
       "name": "Blaring Captain",
@@ -3053,6 +3481,20 @@
       "id": "9d60ad8cd57817c4fc05cf903b210c47187eb886",
       "imageName": "blaring captain2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{B}",
       "multiverseid": 445982,
       "name": "Blaring Captain",
@@ -3117,6 +3559,20 @@
       "id": "c5a2694c481cc64aa5d5e680f218324f56b30a0f",
       "imageName": "chakram retriever1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{U}",
       "multiverseid": 445983,
       "name": "Chakram Retriever",
@@ -3189,6 +3645,20 @@
       "id": "a65f39706deb5639e8baac2d23325dce26c34860",
       "imageName": "chakram retriever2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{U}",
       "multiverseid": 445983,
       "name": "Chakram Retriever",
@@ -3261,6 +3731,20 @@
       "id": "fb61d22275f7740bd0cd2507b6849114e1075524",
       "imageName": "chakram slinger1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{R}",
       "multiverseid": 445984,
       "name": "Chakram Slinger",
@@ -3325,6 +3809,20 @@
       "id": "12f936af4d05b92898f19f7a6b3a756a1a1c6dda",
       "imageName": "chakram slinger2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{R}",
       "multiverseid": 445984,
       "name": "Chakram Slinger",
@@ -3389,6 +3887,20 @@
       "id": "f0d377c0f73a85b5ee94963ae4e80580b001273a",
       "imageName": "soulblade corrupter1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{B}",
       "multiverseid": 445985,
       "name": "Soulblade Corrupter",
@@ -3465,6 +3977,20 @@
       "id": "353b47b0fd1b40b6d7563cbc7ff97a2121659bac",
       "imageName": "soulblade corrupter2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{B}",
       "multiverseid": 445985,
       "name": "Soulblade Corrupter",
@@ -3541,6 +4067,20 @@
       "id": "277ccaa7526c8131b8cfd232a8eb6f885f890b6f",
       "imageName": "soulblade renewer1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{G}",
       "multiverseid": 445986,
       "name": "Soulblade Renewer",
@@ -3621,6 +4161,20 @@
       "id": "52a1b10f6a352152f719730fd2834064f5579359",
       "imageName": "soulblade renewer2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{G}",
       "multiverseid": 445986,
       "name": "Soulblade Renewer",
@@ -3701,6 +4255,20 @@
       "id": "665706e7dbc174d10fbd82599dda7fb448d00f91",
       "imageName": "impetuous protege1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{R}",
       "multiverseid": 445987,
       "name": "Impetuous Protege",
@@ -3773,6 +4341,20 @@
       "id": "d1281a1a2a4c200a66df0dd9ae1cf2de43243768",
       "imageName": "impetuous protege2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{R}",
       "multiverseid": 445987,
       "name": "Impetuous Protege",
@@ -3846,6 +4428,20 @@
       "id": "88d43130a1a07b43fea1de5774e62366186c23ba",
       "imageName": "proud mentor1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{W}",
       "multiverseid": 445988,
       "name": "Proud Mentor",
@@ -3911,6 +4507,20 @@
       "id": "5b64cbe975fd0b7b2b4570fbb52a9f7b854fc2a5",
       "imageName": "proud mentor2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{W}",
       "multiverseid": 445988,
       "name": "Proud Mentor",
@@ -3975,6 +4585,20 @@
       "id": "c8a400c29425870c7e8f92cb48029f22ab08a9fb",
       "imageName": "ley weaver1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{G}",
       "multiverseid": 445989,
       "name": "Ley Weaver",
@@ -4039,6 +4663,20 @@
       "id": "4b83de4ef0e32e12e063eabf1b86f7b1bc28f2fa",
       "imageName": "ley weaver2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{G}",
       "multiverseid": 445989,
       "name": "Ley Weaver",
@@ -4103,6 +4741,20 @@
       "id": "f0d1b679232d04efb32420cb8352a3f77cdbd7d6",
       "imageName": "lore weaver1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{U}",
       "multiverseid": 445990,
       "name": "Lore Weaver",
@@ -4167,6 +4819,20 @@
       "id": "2e44ecacdee9fdd5f0d10301f982bc3d3c04e335",
       "imageName": "lore weaver2",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{U}",
       "multiverseid": 445990,
       "name": "Lore Weaver",
@@ -4232,6 +4898,20 @@
       "id": "bde5149f6499e79404420ea98c4b361b2762b822",
       "imageName": "arena rector",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{W}",
       "multiverseid": 445991,
       "name": "Arena Rector",
@@ -4285,6 +4965,20 @@
       "id": "42f53f9c04d01a23bf53b201d0efc21d2002a081",
       "imageName": "aurora champion",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{W}",
       "multiverseid": 445992,
       "name": "Aurora Champion",
@@ -4331,6 +5025,20 @@
       "id": "8b3a2581db811baf947358ea7de8c78ecfbe6f27",
       "imageName": "brightling",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{1}{W}{W}",
       "multiverseid": 445993,
       "name": "Brightling",
@@ -4387,6 +5095,20 @@
       "id": "4cb4e397f1c22b604374484b946973be66ba7b5c",
       "imageName": "bring down",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{W}",
       "multiverseid": 445994,
       "name": "Bring Down",
@@ -4445,6 +5167,20 @@
       "id": "3a0de7898e11c945342c2824ea5a276f356bd6db",
       "imageName": "dwarven lightsmith",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{5}{W}",
       "multiverseid": 445995,
       "name": "Dwarven Lightsmith",
@@ -4514,6 +5250,20 @@
       "id": "d6368e582752f7340c2cf005d59c699a03bdeb53",
       "imageName": "jubilant mascot",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{W}",
       "multiverseid": 445996,
       "name": "Jubilant Mascot",
@@ -4582,6 +5332,20 @@
       "id": "7652af8368841ee21c0fce6892d3ac13b3a8954a",
       "imageName": "play of the game",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{6}{W}{W}",
       "multiverseid": 445997,
       "name": "Play of the Game",
@@ -4641,6 +5405,20 @@
       "id": "608e21d71c7aaa8a952a645dc823a4324f19299e",
       "imageName": "regna's sanction",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{W}",
       "multiverseid": 445998,
       "name": "Regna's Sanction",
@@ -4708,6 +5486,20 @@
       "id": "3056f84e77c2357ad08ab3c74be9bfab4284b842",
       "imageName": "skystreamer",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{W}",
       "multiverseid": 445999,
       "name": "Skystreamer",
@@ -4771,6 +5563,20 @@
       "id": "55b756f7a4916f3db3f94c19c088eb183b13acf8",
       "imageName": "together forever",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{W}{W}",
       "multiverseid": 446000,
       "name": "Together Forever",
@@ -4837,6 +5643,20 @@
       "id": "9aa8972ebfc642ffe0244d4f2ecece30308c4de9",
       "imageName": "arcane artisan",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{U}",
       "multiverseid": 446001,
       "name": "Arcane Artisan",
@@ -4910,6 +5730,20 @@
       "id": "15684e96199c7cf8d2cc7f74366c136aeb66cffa",
       "imageName": "fumble",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{1}{U}",
       "multiverseid": 446002,
       "name": "Fumble",
@@ -4965,6 +5799,20 @@
       "id": "c0c4786a00d3555d30c617d6e3fbc211eb05108e",
       "imageName": "game plan",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{5}{U}",
       "multiverseid": 446003,
       "name": "Game Plan",
@@ -5024,6 +5872,20 @@
       "id": "093be37010f16e4904ab2d0f58a8f044878505da",
       "imageName": "huddle up",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{U}",
       "multiverseid": 446004,
       "name": "Huddle Up",
@@ -5086,6 +5948,20 @@
       "id": "6503d4756d6019f6f3e1192c639d2be07e9652d6",
       "imageName": "nimbus champion",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{5}{U}",
       "multiverseid": 446005,
       "name": "Nimbus Champion",
@@ -5139,6 +6015,20 @@
       "id": "cdab635d0c7a51009483dc807c4cbcda6fabc6de",
       "imageName": "out of bounds",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{U}",
       "multiverseid": 446006,
       "name": "Out of Bounds",
@@ -5198,6 +6088,20 @@
       "id": "4b17219301e88bf4694cd536a970a393fa024d94",
       "imageName": "saltwater stalwart",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{U}",
       "multiverseid": 446007,
       "name": "Saltwater Stalwart",
@@ -5245,6 +6149,20 @@
       "id": "1043b095cc1ae6eec2e9dc55852e91f3e2361a6f",
       "imageName": "soaring show-off",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{U}",
       "multiverseid": 446008,
       "name": "Soaring Show-Off",
@@ -5292,6 +6210,20 @@
       "id": "d7e9c16e6a0d2e686a4d2bbe973485c18cc67c17",
       "imageName": "spellseeker",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{U}",
       "multiverseid": 446009,
       "name": "Spellseeker",
@@ -5345,6 +6277,20 @@
       "id": "bbef99a345f2e1f751dc58a02e41460529ddc30e",
       "imageName": "spellweaver duo",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{6}{U}",
       "multiverseid": 446010,
       "name": "Spellweaver Duo",
@@ -5410,6 +6356,20 @@
       "id": "87f45659c8d53890d9549178b3f5581411bcd41a",
       "imageName": "zndrsplt's judgment",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{U}",
       "multiverseid": 446011,
       "name": "Zndrsplt's Judgment",
@@ -5496,6 +6456,20 @@
       "id": "341f720fc325f16f55bd215d7fd8ab7673f70161",
       "imageName": "archfiend of despair",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{6}{B}{B}",
       "multiverseid": 446012,
       "name": "Archfiend of Despair",
@@ -5556,6 +6530,20 @@
       "id": "c02543f34ea5e526e553d2e49e325249e7c7c1ee",
       "imageName": "bloodborn scoundrels",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{5}{B}",
       "multiverseid": 446013,
       "name": "Bloodborn Scoundrels",
@@ -5621,6 +6609,20 @@
       "id": "fe50adcac15b90044ceb25af79fcee6c2080ea9e",
       "imageName": "fan favorite",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{B}",
       "multiverseid": 446014,
       "name": "Fan Favorite",
@@ -5686,6 +6688,20 @@
       "id": "efffb356d6c24ee16741103f2e8564a3248dd019",
       "imageName": "gang up",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{X}{B}",
       "multiverseid": 446015,
       "name": "Gang Up",
@@ -5744,6 +6760,20 @@
       "id": "0b1f676abe428715c8c1fc763998387c1fb2769e",
       "imageName": "inner demon",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{B}{B}",
       "multiverseid": 446016,
       "name": "Inner Demon",
@@ -5794,6 +6824,20 @@
       "id": "e1c80d717be97544c2e960c9b733a5185dc66b05",
       "imageName": "mindblade render",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{1}{B}",
       "multiverseid": 446017,
       "name": "Mindblade Render",
@@ -5851,6 +6895,20 @@
       "id": "1e79fff8359164fbcfa6bc07df96af905e95cf8c",
       "imageName": "sickle dancer",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{B}",
       "multiverseid": 446018,
       "name": "Sickle Dancer",
@@ -5904,6 +6962,20 @@
       "id": "96332c8968257e307b33f8a6af2e51b2f52812fa",
       "imageName": "stunning reversal",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{B}",
       "multiverseid": 446019,
       "name": "Stunning Reversal",
@@ -5983,6 +7055,20 @@
       "id": "43dfae9d8b2f639571c5e3b049c4f958582f5f48",
       "imageName": "thrasher brute",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{B}",
       "multiverseid": 446020,
       "name": "Thrasher Brute",
@@ -6030,6 +7116,20 @@
       "id": "ff836d5e254333c5480626a3e0d233cb576992f2",
       "imageName": "thrilling encore",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{B}",
       "multiverseid": 446021,
       "name": "Thrilling Encore",
@@ -6085,6 +7185,20 @@
       "id": "5c574eeedef94b2c08c0dc4bfa8177315351c417",
       "imageName": "virtus's maneuver",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{B}",
       "multiverseid": 446022,
       "name": "Virtus's Maneuver",
@@ -6152,6 +7266,20 @@
       "id": "205745297cfeacb90ab7f52e10fb9a3cdd303def",
       "imageName": "azra bladeseeker",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{R}",
       "multiverseid": 446023,
       "name": "Azra Bladeseeker",
@@ -6205,6 +7333,20 @@
       "id": "b8cc95cfd5e32770bb9d4c2028dd1c777304fab8",
       "imageName": "bonus round",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{1}{R}{R}",
       "multiverseid": 446024,
       "name": "Bonus Round",
@@ -6280,6 +7422,20 @@
       "id": "685abbae3a2d25ce927a9b5d18187546cb0c49d6",
       "imageName": "bull-rush bruiser",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{R}",
       "multiverseid": 446025,
       "name": "Bull-Rush Bruiser",
@@ -6333,6 +7489,20 @@
       "id": "ca8305e4a93725922b5ab7998e3087622709a231",
       "imageName": "cheering fanatic",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{1}{R}",
       "multiverseid": 446026,
       "name": "Cheering Fanatic",
@@ -6388,6 +7558,20 @@
       "id": "2303adde94a16ff0052112830c772d7eae768fa8",
       "imageName": "khorvath's fury",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{R}",
       "multiverseid": 446027,
       "name": "Khorvath's Fury",
@@ -6454,6 +7638,20 @@
       "id": "bee85cb07af13f8387e78aaf111e378f51c26013",
       "imageName": "lava-field overlord",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{7}{R}{R}",
       "multiverseid": 446028,
       "name": "Lava-Field Overlord",
@@ -6518,6 +7716,20 @@
       "id": "2c2787d69ac5a4e6ac4ec1f73ad6a86c3500f41c",
       "imageName": "magma hellion",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{6}{R}",
       "multiverseid": 446029,
       "name": "Magma Hellion",
@@ -6585,6 +7797,20 @@
       "id": "319a409637445d62be3e526bfe3924dd138ab227",
       "imageName": "najeela, the blade-blossom",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{R}",
       "multiverseid": 446030,
       "name": "Najeela, the Blade-Blossom",
@@ -6653,6 +7879,20 @@
       "id": "cbb545158ccd79eb2ecdc10a9ebd94db2b8f32ce",
       "imageName": "stadium vendors",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{R}",
       "multiverseid": 446031,
       "name": "Stadium Vendors",
@@ -6698,6 +7938,20 @@
       "id": "2332633223aa3ab1610df32dbb8ee68e50e23d52",
       "imageName": "stolen strategy",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{R}",
       "multiverseid": 446032,
       "name": "Stolen Strategy",
@@ -6753,6 +8007,20 @@
       "id": "3a14a87bfe01c8dad9fc29454540e2b5e70a2ca2",
       "imageName": "bramble sovereign",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{G}{G}",
       "multiverseid": 446033,
       "name": "Bramble Sovereign",
@@ -6825,6 +8093,20 @@
       "id": "c471a460fd692355aa13b7952ac393fe68012af5",
       "imageName": "charging binox",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{7}{G}",
       "multiverseid": 446034,
       "name": "Charging Binox",
@@ -6889,6 +8171,20 @@
       "id": "aebfb9631d47e63da3f0533e422acd9755a954fd",
       "imageName": "combo attack",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{G}",
       "multiverseid": 446035,
       "name": "Combo Attack",
@@ -6935,6 +8231,20 @@
       "id": "7a48f71ce85c9bc28bbed22f26a3b379481252a2",
       "imageName": "the crowd goes wild",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{X}{G}",
       "multiverseid": 446036,
       "name": "The Crowd Goes Wild",
@@ -7022,6 +8332,20 @@
       "id": "517e3e283d17cad3494bbdee7961f5095a73cf6a",
       "imageName": "decorated champion",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{1}{G}",
       "multiverseid": 446037,
       "name": "Decorated Champion",
@@ -7068,6 +8392,20 @@
       "id": "e758bbc47212f988edf1ed836709646a693c6c94",
       "imageName": "generous patron",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{G}",
       "multiverseid": 446038,
       "name": "Generous Patron",
@@ -7144,6 +8482,20 @@
       "id": "d3625843f77cac50511e58d234125859709181b3",
       "imageName": "grothama, all-devouring",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{G}{G}",
       "multiverseid": 446039,
       "name": "Grothama, All-Devouring",
@@ -7211,6 +8563,20 @@
       "id": "993bbda9e09d0a190ccbd1f7e8b2fd7247498bab",
       "imageName": "jungle wayfinder",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{2}{G}",
       "multiverseid": 446040,
       "name": "Jungle Wayfinder",
@@ -7257,6 +8623,20 @@
       "id": "1e60a98080aeb7761b61c941a6dc531be72a1047",
       "imageName": "pir's whim",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}{G}",
       "multiverseid": 446041,
       "name": "Pir's Whim",
@@ -7329,6 +8709,20 @@
       "id": "8c61438653c0c06d318a8305521527cb9c463774",
       "imageName": "archon of valor's reach",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}{G}{W}",
       "multiverseid": 446042,
       "name": "Archon of Valor's Reach",
@@ -7387,6 +8781,20 @@
       "id": "7bc534aa03f7858c10f2d43fa28820f239516fa5",
       "imageName": "azra oddsmaker",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{1}{B}{R}",
       "multiverseid": 446043,
       "name": "Azra Oddsmaker",
@@ -7436,6 +8844,20 @@
       "id": "2e937f1b85a83f938c91c8e781110d94bdcdff09",
       "imageName": "last one standing",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{1}{B}{R}",
       "multiverseid": 446044,
       "name": "Last One Standing",
@@ -7489,6 +8911,20 @@
       "id": "8fca9ee9f17765fec4de2936fb0979feafe114d4",
       "imageName": "rushblade commander",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{B}{R}",
       "multiverseid": 446045,
       "name": "Rushblade Commander",
@@ -7537,6 +8973,20 @@
       "id": "0cac903e74ded357664c14faf01757d18b426ea9",
       "imageName": "vampire charmseeker",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{6}{U}{B}",
       "multiverseid": 446046,
       "name": "Vampire Charmseeker",
@@ -7596,6 +9046,20 @@
       "id": "864a633e814e4693bfac7c8802e4ff5b3500944d",
       "imageName": "sentinel tower",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{4}",
       "multiverseid": 446047,
       "name": "Sentinel Tower",
@@ -7649,6 +9113,20 @@
       "id": "f8013c1feb598a4519cc92dc46329893ed456b2a",
       "imageName": "victory chimes",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "manaCost": "{3}",
       "multiverseid": 446048,
       "name": "Victory Chimes",
@@ -7698,6 +9176,20 @@
       "id": "9ea360736a83cfb50ecdc4b4612ebe82332960e5",
       "imageName": "bountiful promenade",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "multiverseid": 446049,
       "name": "Bountiful Promenade",
       "number": "81",
@@ -7742,6 +9234,20 @@
       "id": "cb89aae26e9c3e733ac4f3bfd4c817d0ef1f9cee",
       "imageName": "luxury suite",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "multiverseid": 446050,
       "name": "Luxury Suite",
       "number": "82",
@@ -7786,6 +9292,20 @@
       "id": "ae1be03a6747a8e93a79d53c39e146c6dcc99f0c",
       "imageName": "morphic pool",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "multiverseid": 446051,
       "name": "Morphic Pool",
       "number": "83",
@@ -7830,6 +9350,20 @@
       "id": "4fec3e10888208c0aabded43e56ecc3705f9dc56",
       "imageName": "sea of clouds",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "multiverseid": 446052,
       "name": "Sea of Clouds",
       "number": "84",
@@ -7874,6 +9408,20 @@
       "id": "505d898bc10b16359c5049a5f7726ec3a22165ee",
       "imageName": "spire garden",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
       "multiverseid": 446053,
       "name": "Spire Garden",
       "number": "85",
@@ -8960,7 +10508,8 @@
       "printings": [
         "C15",
         "C17",
-        "BBD"
+        "BBD",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -9094,6 +10643,10 @@
       "imageName": "raptor companion",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
         {
           "format": "Commander",
           "legality": "Legal"
@@ -9496,6 +11049,10 @@
       "imageName": "sparring mummy",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
         {
           "format": "Commander",
           "legality": "Legal"
@@ -10353,6 +11910,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -10362,6 +11923,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -10575,6 +12140,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -10617,7 +12186,8 @@
         "CN2",
         "AER",
         "RIX",
-        "BBD"
+        "BBD",
+        "SS1"
       ],
       "rarity": "Common",
       "rulings": [
@@ -10751,7 +12321,8 @@
         "THS",
         "DDO",
         "CN2",
-        "BBD"
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -11332,21 +12903,26 @@
       "originalType": "Sorcery",
       "printings": [
         "M13",
-        "BBD"
+        "BBD",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
-          "date": "2012-07-01",
-          "text": "If one of the target creatures is an illegal target when Switcheroo resolves, the exchange won't happen. If both creatures are illegal targets, Switcheroo won't resolve."
+          "date": "2018-07-13",
+          "text": "If one of the target creatures is an illegal target when Switcheroo resolves, the exchange won't happen."
         },
         {
-          "date": "2012-07-01",
+          "date": "2018-07-13",
           "text": "You don't have to control either target."
         },
         {
-          "date": "2012-07-01",
+          "date": "2018-07-13",
           "text": "If the same player controls both creatures when Switcheroo resolves, nothing happens."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "Gaining control of a creature doesn't cause you to gain control of any Auras or Equipment attached to it."
         }
       ],
       "text": "Exchange control of two target creatures.",
@@ -11472,7 +13048,8 @@
       "printings": [
         "GTC",
         "A25",
-        "BBD"
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Put target nonland permanent on top of its owner's library.",
@@ -11916,6 +13493,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -11945,7 +13526,8 @@
       "power": "1",
       "printings": [
         "AKH",
-        "BBD"
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -12371,6 +13953,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -12748,6 +14334,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -12811,6 +14401,10 @@
       "imageName": "prakhata club security",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
         {
           "format": "Commander",
           "legality": "Legal"
@@ -14711,6 +16305,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -14852,6 +16450,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -14894,7 +16496,8 @@
         "M14",
         "DDN",
         "AER",
-        "BBD"
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Shock deals 2 damage to any target.",
@@ -15032,7 +16635,8 @@
         "CN2",
         "IMA",
         "A25",
-        "BBD"
+        "BBD",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -15513,6 +17117,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -15606,7 +17214,8 @@
       "printings": [
         "ROE",
         "DDP",
-        "BBD"
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -17522,7 +19131,8 @@
       "printings": [
         "DTK",
         "C16",
-        "BBD"
+        "BBD",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -17648,7 +19258,7 @@
       "subtypes": [
         "Shapeshifter"
       ],
-      "text": "You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield, except it gains \"{U}{B}, {T}: Destroy target creature with the same name as this creature.\"",
+      "text": "You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield, except it has \"{U}{B}, {T}: Destroy target creature with the same name as this creature.\"",
       "toughness": "0",
       "type": "Creature — Shapeshifter",
       "types": [
@@ -18292,6 +19902,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -18416,6 +20030,10 @@
       "imageName": "eager construct",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
         {
           "format": "Commander",
           "legality": "Legal"
@@ -18665,6 +20283,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -18674,6 +20296,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -18932,6 +20558,10 @@
       "imageName": "night market guard",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
         {
           "format": "Commander",
           "legality": "Legal"
@@ -19410,6 +21040,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -19540,7 +21174,10 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19577,6 +21214,10 @@
       "imageName": "island",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
         {
           "format": "Commander",
           "legality": "Legal"
@@ -19708,7 +21349,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19745,6 +21389,10 @@
       "imageName": "swamp",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
         {
           "format": "Commander",
           "legality": "Legal"
@@ -19879,7 +21527,9 @@
         "UST",
         "RIX",
         "DOM",
-        "BBD"
+        "BBD",
+        "CM2",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -19916,6 +21566,10 @@
       "imageName": "mountain",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
         {
           "format": "Commander",
           "legality": "Legal"
@@ -20053,7 +21707,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -20090,6 +21747,10 @@
       "imageName": "forest",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
         {
           "format": "Commander",
           "legality": "Legal"
@@ -20224,7 +21885,10 @@
         "RIX",
         "DDU",
         "DOM",
-        "BBD"
+        "BBD",
+        "CM2",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -20263,6 +21927,21 @@
       "id": "6059be0d3a6e27e5fad2cc9d51b32d6abdd07257",
       "imageName": "will kenrith4",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "loyalty": 4,
       "manaCost": "{4}{U}{U}",
       "multiverseid": 446223,
       "name": "Will Kenrith",
@@ -20410,6 +22089,21 @@
       "id": "0d85c6da32f2ae294a2763cc9f3c69866e8a56cc",
       "imageName": "rowan kenrith1",
       "layout": "normal",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "loyalty": 4,
       "manaCost": "{4}{R}{R}",
       "multiverseid": 446224,
       "name": "Rowan Kenrith",

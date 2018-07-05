@@ -1340,6 +1340,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -1348,7 +1352,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Urza Block",
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -2097,10 +2105,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {

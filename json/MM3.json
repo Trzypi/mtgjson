@@ -3261,10 +3261,6 @@
         {
           "format": "Vintage",
           "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
-          "legality": "Legal"
         }
       ],
       "manaCost": "{U}",
@@ -3467,10 +3463,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {
@@ -3947,11 +3939,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -3968,10 +3960,6 @@
         },
         {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -6338,15 +6326,11 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -6355,6 +6339,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -6873,10 +6861,6 @@
         },
         {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -11760,10 +11744,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -12127,10 +12107,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -12439,10 +12415,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -12605,10 +12577,6 @@
       "legalities": [
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
           "legality": "Legal"
         },
         {
@@ -15390,10 +15358,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
           "legality": "Legal"
         },
         {

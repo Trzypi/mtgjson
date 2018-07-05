@@ -3695,10 +3695,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Modern",
           "legality": "Legal"
         },
@@ -4987,6 +4983,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -4995,15 +4995,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Modern",
           "legality": "Legal"
         },
         {
-          "format": "Time Spiral Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -5894,10 +5890,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
           "legality": "Legal"
         },
         {

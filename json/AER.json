@@ -5112,7 +5112,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -5120,23 +5120,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Lorwyn-Shadowmoor Block",
           "legality": "Legal"
         },
         {
@@ -12618,11 +12602,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Kaladesh Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -12634,15 +12618,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Tempest Block",
           "legality": "Legal"
         },
         {
@@ -21584,11 +21560,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Kaladesh Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {

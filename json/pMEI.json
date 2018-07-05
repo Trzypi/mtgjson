@@ -8352,15 +8352,11 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -8373,10 +8369,6 @@
         },
         {
           "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {
@@ -12525,6 +12517,10 @@
         },
         {
           "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {

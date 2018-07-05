@@ -7347,10 +7347,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -8277,6 +8273,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -8285,7 +8285,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Onslaught Block",
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -8793,6 +8797,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -8805,7 +8813,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Onslaught Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {

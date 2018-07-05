@@ -2519,6 +2519,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -2527,7 +2531,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Urza Block",
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -5604,19 +5612,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Khans of Tarkir Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {
@@ -7073,6 +7073,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -7085,7 +7089,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Urza Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {

@@ -1413,6 +1413,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -1720,10 +1724,6 @@
       "legalities": [
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ice Age Block",
           "legality": "Legal"
         },
         {
@@ -9066,19 +9066,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
           "legality": "Legal"
         },
         {
@@ -10180,15 +10172,23 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
+          "format": "Legacy",
           "legality": "Legal"
         },
         {
-          "format": "Legacy",
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -11706,11 +11706,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -11718,11 +11718,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Mirrodin Block",
+          "format": "Modern",
           "legality": "Legal"
         },
         {
-          "format": "Modern",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -11821,6 +11821,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -11829,11 +11833,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Mirrodin Block",
+          "format": "Modern",
           "legality": "Legal"
         },
         {
-          "format": "Modern",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -13425,10 +13429,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {

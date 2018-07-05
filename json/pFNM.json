@@ -538,11 +538,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Kaladesh Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -554,15 +554,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Tempest Block",
           "legality": "Legal"
         },
         {
@@ -744,19 +736,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
           "legality": "Legal"
         },
         {
@@ -1104,6 +1088,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -1213,10 +1201,6 @@
       "legalities": [
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ice Age Block",
           "legality": "Legal"
         },
         {
@@ -1643,10 +1627,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
           "legality": "Legal"
         },
         {
@@ -5805,15 +5785,15 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -6131,15 +6111,11 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -6152,10 +6128,6 @@
         },
         {
           "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {
@@ -6354,19 +6326,15 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -6861,6 +6829,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -6869,7 +6841,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Onslaught Block",
+          "format": "Modern",
           "legality": "Legal"
         },
         {
@@ -11531,10 +11503,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -14307,6 +14275,10 @@
         },
         {
           "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
