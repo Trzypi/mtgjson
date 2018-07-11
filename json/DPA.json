@@ -1441,7 +1441,8 @@
         "ORI",
         "OGW",
         "CN2",
-        "AER"
+        "AER",
+        "RIX"
       ],
       "rarity": "Common",
       "rulings": [
@@ -8377,6 +8378,10 @@
           "legality": "Legal"
         },
         {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -8404,7 +8409,8 @@
         "M14",
         "M15",
         "KTK",
-        "DTK"
+        "DTK",
+        "RIX"
       ],
       "rarity": "Common",
       "text": "Destroy target artifact or enchantment.",
@@ -8486,6 +8492,10 @@
           "legality": "Legal"
         },
         {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -8499,7 +8509,8 @@
       "printings": [
         "M10",
         "DPA",
-        "M11"
+        "M11",
+        "DOM"
       ],
       "rarity": "Uncommon",
       "text": "Return target permanent card from your graveyard to your hand. (A permanent card is an artifact, creature, enchantment, land, or planeswalker card.)",
@@ -9481,6 +9492,10 @@
           "legality": "Legal"
         },
         {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -9501,21 +9516,18 @@
         "PD3",
         "TPR",
         "C15",
-        "CMA"
+        "CMA",
+        "DOM"
       ],
       "rarity": "Rare",
       "rulings": [
         {
-          "date": "2004-10-04",
-          "text": "Verdant Force's controller gets the tokens. That is the controller at the beginning of upkeep."
-        },
-        {
-          "date": "2005-08-01",
-          "text": "Once created, the tokens are independent of Verdant Force. If Verdant Force changes controllers, the new controller will put tokens onto the battlefield, but existing tokens will stay where they are."
-        },
-        {
           "date": "2006-05-01",
           "text": "In Two-Headed Giant, triggers only once per upkeep, not once for each player."
+        },
+        {
+          "date": "2018-04-27",
+          "text": "Verdant Force's ability triggers at the beginning of each upkeep, not just each of your upkeeps."
         }
       ],
       "subtypes": [
@@ -10778,7 +10790,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -11059,7 +11073,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -11340,7 +11356,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -11621,7 +11639,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -11906,7 +11926,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -12191,7 +12213,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -12476,7 +12500,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -12761,7 +12787,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -13048,7 +13076,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -13335,7 +13365,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -13622,7 +13654,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -13909,7 +13943,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -14193,7 +14229,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -14477,7 +14515,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -14761,7 +14801,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -15045,7 +15087,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [

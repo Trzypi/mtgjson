@@ -1430,6 +1430,10 @@
           "legality": "Legal"
         },
         {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -1460,7 +1464,8 @@
         "M10",
         "SOM",
         "KTK",
-        "TPR"
+        "TPR",
+        "RIX"
       ],
       "rarity": "Common",
       "rulings": [
@@ -2502,6 +2507,10 @@
           "legality": "Legal"
         },
         {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -2525,29 +2534,14 @@
         "9ED",
         "10E",
         "ME4",
-        "DDH"
+        "DDH",
+        "DOM"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
-          "date": "2004-10-04",
-          "text": "Tapping a card with an effect like this will never pay the cost of an ability. For example, tapping a land with this card will not put mana into a player's pool."
-        },
-        {
-          "date": "2004-10-04",
-          "text": "Icy Manipulator can't be used to stop someone from using an ability of the permanent you plan to tap. It can be used to make a player use the ability now or to not use it."
-        },
-        {
-          "date": "2004-10-04",
-          "text": "The ability can target a tapped card, but tapping a tapped card does nothing useful. And it will not trigger \"if the card becomes tapped\" effects."
-        },
-        {
-          "date": "2004-10-04",
-          "text": "If you want to stop someone from attacking with a creature by using this card, you must do so before attackers are declared. You can't wait until after attackers are declared and then try to use it to make a creature stop attacking. Note that your opponent can't start declaring attackers without letting you use the Icy Manipulator."
-        },
-        {
-          "date": "2004-10-04",
-          "text": "Tapping an attacking creature which did not tap to attack does not remove the creature from the attack or cause the creature to stop dealing damage."
+          "date": "2018-04-27",
+          "text": "Once a player announces that they're casting a spell or activating an ability, no player may take other actions until the spell or ability has been paid for. Notably, other players can't try to tap that player's permanents to stop them from paying {T} or to stop them from producing enough mana."
         }
       ],
       "text": "{1}, {T}: Tap target artifact, creature, or land.",
@@ -3005,7 +2999,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3163,7 +3159,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3321,7 +3319,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3481,7 +3481,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3641,7 +3643,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3801,7 +3805,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3958,7 +3964,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4115,7 +4123,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4272,7 +4282,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [

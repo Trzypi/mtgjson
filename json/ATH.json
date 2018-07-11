@@ -1538,6 +1538,10 @@
           "legality": "Legal"
         },
         {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -1551,7 +1555,8 @@
       "printings": [
         "ALL",
         "ATH",
-        "ME4"
+        "ME4",
+        "DOM"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -3580,7 +3585,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3780,7 +3787,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3978,7 +3987,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4176,7 +4187,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -5465,7 +5478,8 @@
         "EMA",
         "W17",
         "CMA",
-        "IMA"
+        "IMA",
+        "DOM"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -6575,6 +6589,10 @@
           "legality": "Legal"
         },
         {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -6611,7 +6629,8 @@
         "C14",
         "DD3_EVG",
         "EMA",
-        "CMA"
+        "CMA",
+        "DOM"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -8007,7 +8026,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8204,7 +8225,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8399,7 +8422,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8594,7 +8619,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "subtypes": [

@@ -191,7 +191,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -387,7 +389,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -587,7 +591,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -789,7 +795,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -988,7 +996,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -1453,7 +1463,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -1649,7 +1661,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -1849,7 +1863,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -2051,7 +2067,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -2250,7 +2268,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -3321,7 +3341,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -3517,7 +3539,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -3717,7 +3741,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -3919,7 +3945,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -4118,7 +4146,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -4721,7 +4751,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -4917,7 +4949,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -5117,7 +5151,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -5319,7 +5355,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -5518,7 +5556,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -5671,6 +5711,10 @@
           "legality": "Legal"
         },
         {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -5684,18 +5728,19 @@
         "WTH",
         "TSB",
         "EMA",
-        "DDR"
+        "DDR",
+        "DOM"
       ],
       "rarity": "Special",
       "releaseDate": "2001-12-03",
       "rulings": [
         {
-          "date": "2016-06-08",
-          "text": "When you cast Gaea's Blessing, you can't choose it as one of its own targets. This is because you choose the targets when casting this spell, and spells are not put into your graveyard until after they resolve."
+          "date": "2018-04-27",
+          "text": "If Gaea's Blessing has no legal target cards in a graveyard, either because its targets became illegal or because you didn't choose any, the target player shuffles their library."
         },
         {
-          "date": "2016-06-08",
-          "text": "You must target a player as you cast Gaea's Blessing. You may target zero, one, two, or three cards in that player's graveyard."
+          "date": "2018-04-27",
+          "text": "If an effect puts multiple cards from your library into your graveyard at once, put all of those cards there before Gaea's Blessing shuffles your graveyard into your library."
         }
       ],
       "source": "Arena League prize",
@@ -5885,7 +5930,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -6084,7 +6131,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -6688,7 +6737,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -6884,7 +6935,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -7084,7 +7137,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -7286,7 +7341,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -7485,7 +7542,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -7942,7 +8001,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -8138,7 +8199,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -8338,7 +8401,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -8540,7 +8605,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -8739,7 +8806,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -9468,7 +9537,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -9664,7 +9735,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -9864,7 +9937,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -10066,7 +10141,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -10265,7 +10342,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -10748,7 +10827,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -10944,7 +11025,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -11144,7 +11227,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -11346,7 +11431,9 @@
         "HOU",
         "C17",
         "XLN",
-        "DDT"
+        "DDT",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -11545,7 +11632,9 @@
         "E01",
         "HOU",
         "C17",
-        "XLN"
+        "XLN",
+        "RIX",
+        "DOM"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
