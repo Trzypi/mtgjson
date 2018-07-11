@@ -1,7 +1,6 @@
 {
   "name": "Core Set 2019",
   "code": "M19",
-  "magicCardsInfoCode": "m19",
   "releaseDate": "2018-07-13",
   "border": "black",
   "type": "core",
@@ -4597,19 +4596,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -4621,27 +4612,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -24670,19 +24645,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -24875,15 +24842,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -24892,10 +24855,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
           "legality": "Legal"
         },
         {
@@ -24991,15 +24950,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -25008,10 +24963,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
           "legality": "Legal"
         },
         {
@@ -25106,15 +25057,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -25123,10 +25070,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
           "legality": "Legal"
         },
         {
@@ -25464,6 +25407,7 @@
         "M19"
       ],
       "rarity": "Uncommon",
+      "starter": true,
       "text": "Rupture Spire enters the battlefield tapped.\nWhen Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.\n{T}: Add one mana of any color.",
       "type": "Land",
       "types": [
@@ -25535,19 +25479,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
           "legality": "Legal"
         },
         {
@@ -25556,10 +25492,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
           "legality": "Legal"
         },
         {
@@ -25980,19 +25912,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
           "legality": "Legal"
         },
         {
@@ -26001,10 +25925,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
           "legality": "Legal"
         },
         {
@@ -34622,11 +34542,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {

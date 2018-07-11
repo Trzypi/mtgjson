@@ -2,7 +2,6 @@
   "SET": {
     "name": "Core Set 2019",
     "code": "M19",
-    "magicCardsInfoCode": "m19",
     "releaseDate": "2018-07-13",
     "border": "black",
     "type": "core",
@@ -22,5 +21,12 @@
       "ko": "Core Set 2019"
     }
   },
-  "SET_CORRECTIONS": []
+  "SET_CORRECTIONS": [{
+    "match": {
+      "number": ["255"]
+    },
+    "replace": {
+      "starter": true
+    }
+  }]
 }
