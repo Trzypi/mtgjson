@@ -71,7 +71,8 @@
       "printings": [
         "pPRE",
         "TMP",
-        "BRB"
+        "BRB",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "1997-10-04",
@@ -179,7 +180,8 @@
         "STH",
         "7ED",
         "TPR",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "1998-02-21",
@@ -260,7 +262,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "EXO"
+        "EXO",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "1998-06-06",
@@ -335,7 +338,8 @@
       "printings": [
         "pPRE",
         "USG",
-        "VMA"
+        "VMA",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "1998-09-26",
@@ -424,7 +428,8 @@
         "ULG",
         "7ED",
         "8ED",
-        "9ED"
+        "9ED",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "1999-02-06",
@@ -485,7 +490,8 @@
       "printings": [
         "pPRE",
         "PTK",
-        "ME3"
+        "ME3",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "1999-04-29",
@@ -576,7 +582,8 @@
       "printings": [
         "pPRE",
         "UDS",
-        "CMD"
+        "CMD",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "1999-05-29",
@@ -643,7 +650,8 @@
       "printings": [
         "pPRE",
         "PTK",
-        "ME3"
+        "ME3",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "1999-04-29",
@@ -728,7 +736,8 @@
       "power": "1",
       "printings": [
         "pPRE",
-        "MMQ"
+        "MMQ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "1999-09-25",
@@ -803,7 +812,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "NMS"
+        "NMS",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2000-01-29",
@@ -890,7 +900,8 @@
       "printings": [
         "pPRE",
         "PCY",
-        "8ED"
+        "8ED",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2000-05-27",
@@ -904,7 +915,7 @@
       "subtypes": [
         "Avatar"
       ],
-      "text": "If you have 3 or less life, Avatar of Hope costs {6} less to cast.\nFlying\nAvatar of Hope can block any number of creatures.",
+      "text": "If you have 3 or less life, this spell costs {6} less to cast.\nFlying\nAvatar of Hope can block any number of creatures.",
       "toughness": "9",
       "type": "Creature — Avatar",
       "types": [
@@ -973,7 +984,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "INV"
+        "INV",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2000-09-23",
@@ -1051,7 +1063,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "PLS"
+        "PLS",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2001-01-27",
@@ -1122,14 +1135,15 @@
           "legality": "Legal"
         }
       ],
-      "manaCost": "{4}{G}{U}{B}",
+      "manaCost": "{4}{B}{G}{U}",
       "mciNumber": "14",
       "name": "Fungal Shambler",
       "number": "14",
       "power": "6",
       "printings": [
         "pPRE",
-        "APC"
+        "APC",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2001-05-26",
@@ -1204,7 +1218,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "ODY"
+        "ODY",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2001-09-22",
@@ -1231,6 +1246,10 @@
       "flavor": "Chainer's dark gift to a darker soul.",
       "foreignNames": [
         {
+          "language": "Chinese Simplified",
+          "name": "拉夸塔的斗士"
+        },
+        {
           "language": "French",
           "name": "Champion de Laquatus"
         },
@@ -1241,6 +1260,10 @@
         {
           "language": "Italian",
           "name": "Campione di Laquatus"
+        },
+        {
+          "language": "Japanese",
+          "name": "ラクァタスのチャンピオン"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -1280,10 +1303,18 @@
       "printings": [
         "pPRE",
         "TOR",
-        "VMA"
+        "VMA",
+        "A25",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2002-01-26",
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "As Laquatus's Champion's second ability resolves, the player who gains 6 life is the player who was the target of the first ability (or, if that ability is still on the stack, the player who is its target)."
+        }
+      ],
       "source": "Torment Prerelease participation bonus.",
       "subtypes": [
         "Nightmare",
@@ -1356,7 +1387,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "JUD"
+        "JUD",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2002-05-18",
@@ -1430,7 +1462,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "ONS"
+        "ONS",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2002-09-28",
@@ -1504,7 +1537,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "LGN"
+        "LGN",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2003-01-25",
@@ -1599,7 +1633,8 @@
       "printings": [
         "pPRE",
         "SCG",
-        "TSB"
+        "TSB",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2003-05-17",
@@ -1680,7 +1715,8 @@
       "number": "21",
       "printings": [
         "pPRE",
-        "MRD"
+        "MRD",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2003-09-20",
@@ -1767,7 +1803,8 @@
       "number": "22",
       "printings": [
         "pPRE",
-        "DST"
+        "DST",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2004-01-24",
@@ -1848,7 +1885,8 @@
       "number": "23",
       "printings": [
         "pPRE",
-        "5DN"
+        "5DN",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2004-05-22",
@@ -1954,7 +1992,8 @@
         "ARC",
         "MMA",
         "C17",
-        "IMA"
+        "IMA",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2004-09-18",
@@ -2047,7 +2086,8 @@
         "BOK",
         "PC2",
         "V13",
-        "PCA"
+        "PCA",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2005-01-22",
@@ -2143,7 +2183,8 @@
       "power": "*",
       "printings": [
         "pPRE",
-        "SOK"
+        "SOK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2005-05-21",
@@ -2253,7 +2294,8 @@
       "printings": [
         "pPRE",
         "RAV",
-        "DDJ"
+        "DDJ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2005-09-24",
@@ -2353,7 +2395,8 @@
       "printings": [
         "pPRE",
         "GPT",
-        "DDJ"
+        "DDJ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2006-01-21",
@@ -2457,7 +2500,8 @@
       "printings": [
         "pPRE",
         "DIS",
-        "ARC"
+        "ARC",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2006-04-22",
@@ -2549,7 +2593,8 @@
         "pPRE",
         "CSP",
         "EVG",
-        "DD3_EVG"
+        "DD3_EVG",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2006-07-08",
@@ -2576,7 +2621,7 @@
         "Elf",
         "Warrior"
       ],
-      "text": "You may exile two green cards from your hand rather than pay Allosaurus Rider's mana cost.\nAllosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.",
+      "text": "You may exile two green cards from your hand rather than pay this spell's mana cost.\nAllosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.",
       "toughness": "1+*",
       "type": "Creature — Elf Warrior",
       "types": [
@@ -2651,7 +2696,8 @@
       "printings": [
         "pPRE",
         "TSP",
-        "MMA"
+        "MMA",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2006-09-23",
@@ -2702,7 +2748,7 @@
         }
       ],
       "source": "Time Spiral Prerelease participation bonus.",
-      "text": "Suspend 3—{0} (Rather than cast this card from your hand, pay {0} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)\n{T}, Sacrifice Lotus Bloom: Add three mana of any one color to your mana pool.",
+      "text": "Suspend 3—{0} (Rather than cast this card from your hand, pay {0} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)\n{T}, Sacrifice Lotus Bloom: Add three mana of any one color.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -2780,7 +2826,7 @@
           "legality": "Legal"
         }
       ],
-      "manaCost": "{3}{W}{B}{R}",
+      "manaCost": "{3}{R}{W}{B}",
       "mciNumber": "32",
       "name": "Oros, the Avenger",
       "number": "32",
@@ -2789,7 +2835,8 @@
         "pPRE",
         "PLC",
         "CMD",
-        "CMA"
+        "CMA",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2007-01-20",
@@ -2882,7 +2929,8 @@
       "power": "*",
       "printings": [
         "pPRE",
-        "FUT"
+        "FUT",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2007-04-21",
@@ -2982,7 +3030,8 @@
         "pPRE",
         "LRW",
         "C14",
-        "CMA"
+        "CMA",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2007-09-29",
@@ -3086,7 +3135,8 @@
         "pPRE",
         "MOR",
         "M14",
-        "C17"
+        "C17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2008-01-18",
@@ -3190,7 +3240,8 @@
       "printings": [
         "pPRE",
         "SHM",
-        "MMA"
+        "MMA",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2008-04-19",
@@ -3213,7 +3264,7 @@
         "Spirit",
         "Avatar"
       ],
-      "text": "Flying, haste\nWhen you cast Demigod of Revenge, return all cards named Demigod of Revenge from your graveyard to the battlefield.",
+      "text": "When you cast this spell, return all cards named Demigod of Revenge from your graveyard to the battlefield.\nFlying, haste",
       "toughness": "4",
       "type": "Creature — Spirit Avatar",
       "types": [
@@ -3298,7 +3349,8 @@
       "power": "*",
       "printings": [
         "pPRE",
-        "EVE"
+        "EVE",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2008-07-12",
@@ -3393,7 +3445,8 @@
         "pPRE",
         "pLPA",
         "ALA",
-        "DDH"
+        "DDH",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2008-10-03",
@@ -3414,7 +3467,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "+1: Target permanent doesn't untap during its controller's next untap step.\n−2: Ajani Vengeant deals 3 damage to target creature or player and you gain 3 life.\n−7: Destroy all lands target player controls.",
+      "text": "+1: Target permanent doesn't untap during its controller's next untap step.\n−2: Ajani Vengeant deals 3 damage to any target and you gain 3 life.\n−7: Destroy all lands target player controls.",
       "type": "Legendary Planeswalker — Ajani",
       "types": [
         "Planeswalker"
@@ -3501,7 +3554,8 @@
         "CON",
         "CMD",
         "CMA",
-        "IMA"
+        "IMA",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2009-01-31",
@@ -3512,7 +3566,7 @@
         },
         {
           "date": "2017-11-17",
-          "text": "After you discard your hand and the number of creatures each opponent must sacrifice has been determined, each opponent in turn order, starting with the player whose turn it is if that player is your opponent, chooses which creatures he or she will sacrifice, then all the chosen creatures are all sacrificed at the same time."
+          "text": "After you discard your hand and the number of creatures each opponent must sacrifice has been determined, each opponent in turn order, starting with the player whose turn it is if that player is your opponent, chooses which creatures they will sacrifice, then all the chosen creatures are all sacrificed at the same time."
         }
       ],
       "source": "Conflux Prerelease participation bonus",
@@ -3607,7 +3661,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "ARB"
+        "ARB",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2009-04-25",
@@ -3714,7 +3769,8 @@
         "pMEI",
         "pPRE",
         "M10",
-        "M13"
+        "M13",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2009-07-11",
@@ -3832,7 +3888,8 @@
         "C14",
         "CMA",
         "E01",
-        "IMA"
+        "IMA",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2009-09-26",
@@ -3940,7 +3997,8 @@
         "MM2",
         "C15",
         "CMA",
-        "C17"
+        "C17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2010-01-30",
@@ -3963,7 +4021,7 @@
         }
       ],
       "source": "Worldwake Prerelease event participation bonus",
-      "text": "Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)\nChoose target creature or player, then choose another target creature or player for each time Comet Storm was kicked. Comet Storm deals X damage to each of them.",
+      "text": "Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)\nChoose any target, then choose another target for each time this spell was kicked. Comet Storm deals X damage to each of them.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -4039,22 +4097,19 @@
       "printings": [
         "pPRE",
         "ROE",
-        "MM2"
+        "MM2",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2010-04-17",
       "rulings": [
         {
           "date": "2010-06-15",
-          "text": "Annihilator abilities trigger and resolve during the declare attackers step. The defending player chooses and sacrifices the required number of permanents before he or she declares blockers. Any creatures sacrificed this way won't be able to block."
+          "text": "Annihilator abilities trigger and resolve during the declare attackers step. The defending player chooses and sacrifices the required number of permanents before they declare blockers. Any creatures sacrificed this way won't be able to block."
         },
         {
           "date": "2010-06-15",
           "text": "If a creature with annihilator is attacking a planeswalker, and the defending player chooses to sacrifice that planeswalker, the attacking creature continues to attack. It may be blocked. If it isn't blocked, it simply won't deal combat damage to anything."
-        },
-        {
-          "date": "2010-06-15",
-          "text": "In a Two-Headed Giant game, the controller of an attacking creature with annihilator chooses which of the defending players is affected by the ability. Only that player sacrifices permanents. The choice is made as the ability resolves; once a player is chosen, it's too late for anyone to respond."
         },
         {
           "date": "2010-06-15",
@@ -4080,7 +4135,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "Emrakul, the Aeons Torn can't be countered.\nWhen you cast Emrakul, take an extra turn after this one.\nFlying, protection from colored spells, annihilator 6\nWhen Emrakul is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.",
+      "text": "This spell can't be countered.\nWhen you cast this spell, take an extra turn after this one.\nFlying, protection from colored spells, annihilator 6\nWhen Emrakul, the Aeons Torn is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.",
       "toughness": "15",
       "type": "Legendary Creature — Eldrazi",
       "types": [
@@ -4168,7 +4223,9 @@
         "DDL",
         "C14",
         "C15",
-        "E01"
+        "E01",
+        "CM2",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2010-07-10",
@@ -4276,7 +4333,9 @@
         "pPRE",
         "SOM",
         "C14",
-        "MPS"
+        "MPS",
+        "CM2",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2010-09-25",
@@ -4381,7 +4440,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "MBS"
+        "MBS",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2011-01-30",
@@ -4493,7 +4553,8 @@
       "printings": [
         "pPRE",
         "MBS",
-        "V16"
+        "V16",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2011-01-30",
@@ -4598,7 +4659,8 @@
       "printings": [
         "pPRE",
         "NPH",
-        "IMA"
+        "IMA",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2011-05-07",
@@ -4617,7 +4679,7 @@
         },
         {
           "date": "2017-11-17",
-          "text": "In a Two-Headed Giant game, the last ability will trigger twice at the beginning of the opposing team's upkeep, once for each player on that team. Each player sacrifices only a creature he or she controls."
+          "text": "In a Two-Headed Giant game, the last ability will trigger twice at the beginning of the opposing team's upkeep, once for each player on that team. Each player sacrifices only a creature they control."
         }
       ],
       "source": "New Phyrexia Prerelease event participation bonus",
@@ -4710,7 +4772,8 @@
       "printings": [
         "pPRE",
         "M12",
-        "C17"
+        "C17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2011-07-09",
@@ -4824,7 +4887,8 @@
       "power": "1",
       "printings": [
         "pPRE",
-        "ISD"
+        "ISD",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2011-09-24",
@@ -4929,7 +4993,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "ISD"
+        "ISD",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2011-09-24",
@@ -5038,7 +5103,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "DKA"
+        "DKA",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2012-01-28",
@@ -5146,7 +5212,8 @@
       "power": "9",
       "printings": [
         "pPRE",
-        "DKA"
+        "DKA",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2012-01-28",
@@ -5238,7 +5305,8 @@
       "printings": [
         "pPRE",
         "AVR",
-        "C14"
+        "C14",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2012-04-28",
@@ -5331,7 +5399,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "M13"
+        "M13",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2012-07-07",
@@ -5441,7 +5510,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "RTR"
+        "RTR",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2012-09-29",
@@ -5577,7 +5647,8 @@
       "printings": [
         "pPRE",
         "RTR",
-        "IMA"
+        "IMA",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2012-09-29",
@@ -5688,7 +5759,8 @@
       "power": "5",
       "printings": [
         "pPRE",
-        "RTR"
+        "RTR",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2012-09-29",
@@ -5810,7 +5882,9 @@
         "pPRE",
         "RTR",
         "C16",
-        "IMA"
+        "IMA",
+        "CM2",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2012-09-29",
@@ -5914,7 +5988,8 @@
       "number": "59",
       "printings": [
         "pPRE",
-        "RTR"
+        "RTR",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2012-09-29",
@@ -5929,7 +6004,7 @@
         }
       ],
       "source": "Return to Ravnica Selesnya Prerelease participation bonus",
-      "text": "{T}: Add {C} to your mana pool.\n{3}{G}{W}, {T}, Tap two untapped creatures you control, Sacrifice Grove of the Guardian: Create an 8/8 green and white Elemental creature token with vigilance.",
+      "text": "{T}: Add {C}.\n{3}{G}{W}, {T}, Tap two untapped creatures you control, Sacrifice Grove of the Guardian: Create an 8/8 green and white Elemental creature token with vigilance.",
       "type": "Land",
       "types": [
         "Land"
@@ -6021,14 +6096,15 @@
       "printings": [
         "pPRE",
         "GTC",
-        "C16"
+        "C16",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2013-01-26",
       "rulings": [
         {
           "date": "2013-01-24",
-          "text": "If any opponent has no land cards in his or her library, all the cards from that library will be revealed and put into his or her graveyard."
+          "text": "If any opponent has no land cards in their library, all the cards from that library will be revealed and put into their graveyard."
         },
         {
           "date": "2013-01-24",
@@ -6039,7 +6115,7 @@
       "subtypes": [
         "Horror"
       ],
-      "text": "Consuming Aberration's power and toughness are each equal to the number of cards in your opponents' graveyards.\nWhenever you cast a spell, each opponent reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard.",
+      "text": "Consuming Aberration's power and toughness are each equal to the number of cards in your opponents' graveyards.\nWhenever you cast a spell, each opponent reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.",
       "toughness": "*",
       "type": "Creature — Horror",
       "types": [
@@ -6132,7 +6208,9 @@
       "printings": [
         "pPRE",
         "GTC",
-        "C16"
+        "C16",
+        "CM2",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2013-01-26",
@@ -6271,7 +6349,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "GTC"
+        "GTC",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2013-01-26",
@@ -6286,7 +6365,7 @@
         "Elemental",
         "Soldier"
       ],
-      "text": "When Foundry Champion enters the battlefield, it deals damage to target creature or player equal to the number of creatures you control.\n{R}: Foundry Champion gets +1/+0 until end of turn.\n{W}: Foundry Champion gets +0/+1 until end of turn.",
+      "text": "When Foundry Champion enters the battlefield, it deals damage to any target equal to the number of creatures you control.\n{R}: Foundry Champion gets +1/+0 until end of turn.\n{W}: Foundry Champion gets +0/+1 until end of turn.",
       "toughness": "4",
       "type": "Creature — Elemental Soldier",
       "types": [
@@ -6379,7 +6458,8 @@
       "printings": [
         "pPRE",
         "GTC",
-        "C16"
+        "C16",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2013-01-26",
@@ -6490,7 +6570,8 @@
       "printings": [
         "pPRE",
         "GTC",
-        "C15"
+        "C15",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2013-01-26",
@@ -6594,7 +6675,8 @@
       "number": "65",
       "printings": [
         "pPRE",
-        "DGM"
+        "DGM",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2013-04-27",
@@ -6617,7 +6699,7 @@
         }
       ],
       "source": "Dragon's Maze Prerelease participation bonus",
-      "text": "Maze's End enters the battlefield tapped.\n{T}: Add {C} to your mana pool.\n{3}, {T}, Return Maze's End to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle your library. If you control ten or more Gates with different names, you win the game.",
+      "text": "Maze's End enters the battlefield tapped.\n{T}: Add {C}.\n{3}, {T}, Return Maze's End to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle your library. If you control ten or more Gates with different names, you win the game.",
       "type": "Land",
       "types": [
         "Land"
@@ -6805,8 +6887,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Prerelease Events",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "2013-04-27",
@@ -6902,7 +6990,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "M14"
+        "M14",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2013-07-13",
@@ -7011,7 +7100,8 @@
       "printings": [
         "pPRE",
         "THS",
-        "C15"
+        "C15",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2013-09-21",
@@ -7140,7 +7230,8 @@
       "power": "6",
       "printings": [
         "pPRE",
-        "THS"
+        "THS",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2013-09-21",
@@ -7268,7 +7359,8 @@
       "power": "6",
       "printings": [
         "pPRE",
-        "THS"
+        "THS",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2013-09-21",
@@ -7384,14 +7476,15 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "THS"
+        "THS",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2013-09-21",
       "rulings": [
         {
           "date": "2013-09-15",
-          "text": "When the last ability resolves, the active player will choose three lands he or she controls, then each other player in turn order will do the same. Then all of those lands are sacrificed at the same time."
+          "text": "When the last ability resolves, the active player will choose three lands they control, then each other player in turn order will do the same. Then all of those lands are sacrificed at the same time."
         },
         {
           "date": "2013-09-15",
@@ -7501,7 +7594,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "THS"
+        "THS",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2013-09-21",
@@ -7623,7 +7717,8 @@
       "printings": [
         "pPRE",
         "BNG",
-        "C15"
+        "C15",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-02-01",
@@ -7731,7 +7826,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "BNG"
+        "BNG",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-02-01",
@@ -7862,7 +7958,8 @@
         "pPRE",
         "BNG",
         "C15",
-        "CMA"
+        "CMA",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-02-01",
@@ -7961,7 +8058,8 @@
       "power": "5",
       "printings": [
         "pPRE",
-        "BNG"
+        "BNG",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-02-01",
@@ -8069,7 +8167,8 @@
       "power": "6",
       "printings": [
         "pPRE",
-        "BNG"
+        "BNG",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-02-01",
@@ -8194,7 +8293,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "JOU"
+        "JOU",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-04-26",
@@ -8308,7 +8408,8 @@
       "printings": [
         "pPRE",
         "JOU",
-        "DDO"
+        "DDO",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-04-26",
@@ -8414,7 +8515,8 @@
       "printings": [
         "pPRE",
         "JOU",
-        "C15"
+        "C15",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-04-26",
@@ -8425,7 +8527,7 @@
         },
         {
           "date": "2014-04-26",
-          "text": "An Aura spell without bestow that has an illegal target when it tries to resolve will be countered and put into its owner's graveyard. It won't enter the battlefield and constellation abilities won't trigger. An Aura spell with bestow won't be countered this way. It will revert to being an enchantment creature and resolve, entering the battlefield and triggering constellation abilities."
+          "text": "An Aura spell without bestow that has an illegal target when it tries to resolve won't resolve and put into its owner's graveyard. It won't enter the battlefield and constellation abilities won't trigger. An Aura spell with bestow won't be countered this way. It will revert to being an enchantment creature and resolve, entering the battlefield and triggering constellation abilities."
         },
         {
           "date": "2014-04-26",
@@ -8528,7 +8630,8 @@
       "power": "5",
       "printings": [
         "pPRE",
-        "JOU"
+        "JOU",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-04-26",
@@ -8542,7 +8645,7 @@
       "subtypes": [
         "Dragon"
       ],
-      "text": "Flying\nWhen Spawn of Thraxes enters the battlefield, it deals damage to target creature or player equal to the number of Mountains you control.",
+      "text": "Flying\nWhen Spawn of Thraxes enters the battlefield, it deals damage to any target equal to the number of Mountains you control.",
       "toughness": "5",
       "type": "Creature — Dragon",
       "types": [
@@ -8634,7 +8737,8 @@
       "printings": [
         "pPRE",
         "JOU",
-        "IMA"
+        "IMA",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-04-26",
@@ -8739,7 +8843,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "M15"
+        "M15",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-07-12",
@@ -8844,7 +8949,8 @@
       "power": "0",
       "printings": [
         "pPRE",
-        "M15"
+        "M15",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-07-12",
@@ -8879,7 +8985,7 @@
         },
         {
           "date": "2014-07-18",
-          "text": "If Mercurial Pretender somehow enters the battlefield at the same time as another creature, Mercurial Pretender can't become a copy of that creature. You may only choose a creature that's already on the battlefield."
+          "text": "If Mercurial Pretender somehow enters the battlefield at the same time as another creature, Mercurial Pretender can't become a copy of that creature. You may choose only a creature that's already on the battlefield."
         },
         {
           "date": "2014-07-18",
@@ -8979,14 +9085,15 @@
         "pPRE",
         "M15",
         "DDR",
-        "IMA"
+        "IMA",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-07-12",
       "rulings": [
         {
           "date": "2017-11-17",
-          "text": "The opponent chooses whether he or she sacrifices a creature, pays 3 life, or allows you to draw a card. That player can't make an impossible choice, such as sacrificing a creature while he or she controls no creatures."
+          "text": "The opponent chooses whether they sacrifice a creature, pays 3 life, or allows you to draw a card. That player can't make an impossible choice, such as sacrificing a creature while they control no creatures."
         },
         {
           "date": "2017-11-17",
@@ -9083,7 +9190,8 @@
       "power": "5",
       "printings": [
         "pPRE",
-        "M15"
+        "M15",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-07-12",
@@ -9178,7 +9286,8 @@
       "power": "7",
       "printings": [
         "pPRE",
-        "M15"
+        "M15",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-07-12",
@@ -9193,7 +9302,7 @@
         "Plant",
         "Elemental"
       ],
-      "text": "When Phytotitan dies, return it to the battlefield tapped under its owner's control at the beginning of his or her next upkeep.",
+      "text": "When Phytotitan dies, return it to the battlefield tapped under its owner's control at the beginning of their next upkeep.",
       "toughness": "2",
       "type": "Creature — Plant Elemental",
       "types": [
@@ -9286,7 +9395,8 @@
       "number": "88",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -9385,7 +9495,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -9512,7 +9623,8 @@
         "pMEI",
         "pPRE",
         "KTK",
-        "C16"
+        "C16",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -9617,7 +9729,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -9727,7 +9840,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -9737,11 +9851,11 @@
           "text": "The activated ability can be activated only if Bloodsoaked Champion is in your graveyard. Notably, if it attacks and then dies later in the turn, you can use its ability to return it to the battlefield, as its attack satisfies its own activation instruction."
         },
         {
-          "date": "2017-09-29",
+          "date": "2018-01-19",
           "text": "Raid abilities care only that you attacked with a creature. It doesn't matter how many creatures you attacked with, or which opponent or planeswalker controlled by an opponent those creatures attacked."
         },
         {
-          "date": "2017-09-29",
+          "date": "2018-01-19",
           "text": "Raid abilities evaluate the entire turn to see if you attacked with a creature. That creature doesn't have to still be on the battlefield. Similarly, the player or planeswalker it attacked doesn't have to still be in the game or on the battlefield, respectively."
         }
       ],
@@ -9844,7 +9958,8 @@
       "power": "5",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -9954,14 +10069,15 @@
         "pPRE",
         "KTK",
         "C16",
-        "C17"
+        "C17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
       "rulings": [
         {
           "date": "2014-09-20",
-          "text": "If a player controls two or more creatures tied for the greatest power among creatures he or she controls, that player chooses one of them to sacrifice."
+          "text": "If a player controls two or more creatures tied for the greatest power among creatures they control, that player chooses one of them to sacrifice."
         },
         {
           "date": "2014-09-20",
@@ -9973,11 +10089,11 @@
         },
         {
           "date": "2014-09-20",
-          "text": "In a multiplayer game, each opponent, starting with the active player and proceeding in turn order, chooses which creature he or she will sacrifice and then all creatures are sacrificed at the same time. Each successive player will know what the players before him or her chose to sacrifice."
+          "text": "In a multiplayer game, each opponent, starting with the active player and proceeding in turn order, chooses which creature they will sacrifice and then all creatures are sacrificed at the same time. Each successive player will know what the players before them chose to sacrifice."
         }
       ],
       "source": "Khans of Tarkir Mardu Prerelease participation bonus",
-      "text": "Crackling Doom deals 2 damage to each opponent. Each opponent sacrifices a creature with the greatest power among creatures he or she controls.",
+      "text": "Crackling Doom deals 2 damage to each opponent. Each opponent sacrifices a creature with the greatest power among creatures that player controls.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -10065,7 +10181,8 @@
       "number": "95",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -10084,7 +10201,7 @@
         }
       ],
       "source": "Khans of Tarkir Temur Prerelease participation bonus",
-      "text": "Crater's Claws deals X damage to target creature or player.\nFerocious — Crater's Claws deals X plus 2 damage to that creature or player instead if you control a creature with power 4 or greater.",
+      "text": "Crater's Claws deals X damage to any target.\nFerocious — Crater's Claws deals X plus 2 damage to that permanent or player instead if you control a creature with power 4 or greater.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -10174,18 +10291,19 @@
       "number": "96",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
       "rulings": [
         {
           "date": "2014-09-20",
-          "text": "Deflecting Palm doesn't target any creature or player. You choose a source of damage as Deflecting Palm resolves."
+          "text": "Deflecting Palm doesn't target any permanent or player. You choose a source of damage as Deflecting Palm resolves."
         },
         {
           "date": "2014-09-20",
-          "text": "If multiple prevention and/or replacement effects are trying to apply to the same damage, the player who would be dealt damage chooses the order in which to apply them. Notably, if noncombat damage would be dealt to you by a source controlled by an opponent, you choose the order in which to apply Deflecting Palm and the planeswalker redirection effect. If you apply Deflecting Palm first, the damage will be prevented (and damage will be dealt to the source's controller) and the planeswalker redirection effect won't apply."
+          "text": "If multiple prevention and/or replacement effects are trying to apply to the same damage, the player who would be dealt damage chooses the order in which to apply them."
         }
       ],
       "source": "Khans of Tarkir Jeskai Prerelease participation bonus",
@@ -10277,7 +10395,8 @@
       "number": "97",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -10394,7 +10513,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -10512,7 +10632,9 @@
       "printings": [
         "pPRE",
         "KTK",
-        "C16"
+        "C16",
+        "CM2",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -10616,7 +10738,8 @@
       "number": "100",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -10718,7 +10841,8 @@
       "printings": [
         "pPRE",
         "KTK",
-        "FRF_UGIN"
+        "FRF_UGIN",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -10856,7 +10980,9 @@
       "printings": [
         "pPRE",
         "KTK",
-        "C16"
+        "C16",
+        "CM2",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -10960,7 +11086,8 @@
       "power": "1",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -11073,7 +11200,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -11182,7 +11310,8 @@
       "number": "105",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -11304,7 +11433,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -11417,7 +11547,8 @@
       "printings": [
         "pPRE",
         "KTK",
-        "FRF_UGIN"
+        "FRF_UGIN",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -11565,7 +11696,8 @@
       "number": "108",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -11663,7 +11795,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -11795,7 +11928,8 @@
       "number": "110",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -11899,7 +12033,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -12040,7 +12175,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -12165,7 +12301,8 @@
       "printings": [
         "pPRE",
         "KTK",
-        "CP2"
+        "CP2",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -12291,7 +12428,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -12403,7 +12541,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -12454,7 +12593,7 @@
         "Human",
         "Shaman"
       ],
-      "text": "{T}: Add {G}, {U}, or {R} to your mana pool.\nMorph {2} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Rattleclaw Mystic is turned face up, add {G}{U}{R} to your mana pool.",
+      "text": "{T}: Add {G}, {U}, or {R}.\nMorph {2} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Rattleclaw Mystic is turned face up, add {G}{U}{R}.",
       "toughness": "1",
       "type": "Creature — Human Shaman",
       "types": [
@@ -12550,7 +12689,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -12653,7 +12793,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -12771,7 +12912,8 @@
       "printings": [
         "pPRE",
         "KTK",
-        "CP3"
+        "CP3",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -12870,13 +13012,14 @@
           "legality": "Legal"
         }
       ],
-      "manaCost": "{B}{G}{U}",
+      "manaCost": "{U}{B}{G}",
       "mciNumber": "119",
       "name": "Sultai Ascendancy",
       "number": "119",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "source": "Khans of Tarkir",
@@ -12974,7 +13117,8 @@
       "power": "6",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -12992,7 +13136,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "Flash\nSurrak Dragonclaw can't be countered.\nCreature spells you control can't be countered.\nOther creatures you control have trample.",
+      "text": "Flash\nThis spell can't be countered.\nCreature spells you control can't be countered.\nOther creatures you control have trample.",
       "toughness": "6",
       "type": "Legendary Creature — Human Warrior",
       "types": [
@@ -13085,7 +13229,8 @@
       "number": "121",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -13180,7 +13325,8 @@
       "printings": [
         "pPRE",
         "DDN",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -13319,7 +13465,8 @@
       "number": "123",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -13417,7 +13564,8 @@
       "number": "124",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -13521,7 +13669,8 @@
         "pPRE",
         "pMGD",
         "KTK",
-        "C16"
+        "C16",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -13619,7 +13768,8 @@
       "number": "126",
       "printings": [
         "pPRE",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -13642,7 +13792,7 @@
         }
       ],
       "source": "Khans of Tarkir Sultai Prerelease participation bonus",
-      "text": "Target opponent exiles the top X cards of his or her library. You may cast any number of nonland cards with converted mana cost X or less from among them without paying their mana costs.",
+      "text": "Target opponent exiles the top X cards of their library. You may cast any number of nonland cards with converted mana cost X or less from among them without paying their mana costs.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -13736,7 +13886,8 @@
       "printings": [
         "pPRE",
         "DDN",
-        "KTK"
+        "KTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-20",
@@ -13860,7 +14011,8 @@
       "printings": [
         "pPRE",
         "FRF",
-        "C16"
+        "C16",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -13972,14 +14124,15 @@
       "number": "129",
       "printings": [
         "pPRE",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
       "rulings": [
         {
           "date": "2014-11-24",
-          "text": "The creature is the source of the new damage. If you control that creature as it deals damage, you may choose to redirect that damage from an opponent to a planeswalker he or she controls."
+          "text": "The creature is the source of the new damage."
         },
         {
           "date": "2014-11-24",
@@ -14087,7 +14240,8 @@
         "pMEI",
         "pPRE",
         "FRF",
-        "E01"
+        "E01",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -14098,14 +14252,14 @@
         },
         {
           "date": "2014-11-24",
-          "text": "The opponent may choose to spare one or no creatures. If the player doesn't choose any creatures, he or she will sacrifice all creatures he or she controls."
+          "text": "The opponent may choose to spare one or no creatures. If the player doesn't choose any creatures, they will sacrifice all creatures they control."
         }
       ],
       "source": "Fate Reforged Sultai Prerelease participation bonus",
       "subtypes": [
         "Demon"
       ],
-      "text": "Flying\nAt the beginning of each opponent's end step, that player chooses up to two creatures he or she controls, then sacrifices the rest.",
+      "text": "Flying\nAt the beginning of each opponent's end step, that player chooses up to two creatures they control, then sacrifices the rest.",
       "toughness": "4",
       "type": "Creature — Demon",
       "types": [
@@ -14199,7 +14353,8 @@
       "printings": [
         "pPRE",
         "FRF",
-        "C17"
+        "C17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -14303,7 +14458,8 @@
       "printings": [
         "pPRE",
         "FRF",
-        "C16"
+        "C16",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -14427,7 +14583,8 @@
       "power": "0",
       "printings": [
         "pPRE",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -14545,7 +14702,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -14667,7 +14825,8 @@
         "pPRE",
         "FRF",
         "CP3",
-        "C17"
+        "C17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -14783,7 +14942,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -14932,7 +15092,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -15049,7 +15210,8 @@
       "printings": [
         "pPRE",
         "FRF_UGIN",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -15064,7 +15226,7 @@
         },
         {
           "date": "2014-11-24",
-          "text": "A card's owner is public information at all times. If the two cards you exile are owned by different players (perhaps because you gained control of a Jeskai Infiltrator owned by your opponent), which card is which is no longer hidden from your opponent. That player will know which face-down creature he or she owns."
+          "text": "A card's owner is public information at all times. If the two cards you exile are owned by different players (perhaps because you gained control of a Jeskai Infiltrator owned by your opponent), which card is which is no longer hidden from your opponent. That player will know which face-down creature they own."
         },
         {
           "date": "2014-11-24",
@@ -15221,7 +15383,8 @@
       "printings": [
         "pPRE",
         "FRF",
-        "C17"
+        "C17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "rulings": [
@@ -15339,7 +15502,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "rulings": [
@@ -15455,7 +15619,8 @@
       "printings": [
         "pPRE",
         "FRF_UGIN",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -15607,7 +15772,8 @@
       "printings": [
         "pPRE",
         "FRF",
-        "C17"
+        "C17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -15722,7 +15888,8 @@
       "number": "143",
       "printings": [
         "pPRE",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -15818,7 +15985,8 @@
         "pMEI",
         "pPRE",
         "FRF",
-        "DDS"
+        "DDS",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -15937,7 +16105,8 @@
       "printings": [
         "pPRE",
         "pLPA",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -16047,7 +16216,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -16148,7 +16318,8 @@
         "pMEI",
         "pPRE",
         "FRF",
-        "C16"
+        "C16",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -16250,7 +16421,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -16374,14 +16546,15 @@
       "printings": [
         "pPRE",
         "FRF",
-        "C17"
+        "C17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
       "rulings": [
         {
           "date": "2014-11-24",
-          "text": "The creatures affected by Silumgar's triggered ability are determined relative to the Dragon that attacked. For example, if Silumgar attacked one opponent and two other Dragons attacked another opponent, creatures controlled by the first opponent would get -1/-1 until end of turn and creatures controlled by the second opponent would get -2/-2 until end of turn. In a Two-Headed Giant game, each creature controlled by either member of the defending team will get -1/-1."
+          "text": "The creatures affected by Silumgar's triggered ability are determined relative to the Dragon that attacked. For example, if Silumgar attacked one opponent and two other Dragons attacked another opponent, creatures controlled by the first opponent would get -1/-1 until end of turn and creatures controlled by the second opponent would get -2/-2 until end of turn."
         }
       ],
       "source": "Fate Reforged Sultai Prerelease participation bonus",
@@ -16483,7 +16656,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -16494,7 +16668,7 @@
         },
         {
           "date": "2014-11-24",
-          "text": "After you activate Soulfire Grand Master's last ability, if the next instant or sorcery spell you cast from your hand is countered, it won't be put into your hand and the effect won't be applied to the next spell you cast."
+          "text": "After you activate Soulfire Grand Master's last ability, if the next instant or sorcery spell you cast from your hand doesn't resolve, it won't be put into your hand and the effect won't be applied to the next spell you cast."
         },
         {
           "date": "2014-11-24",
@@ -16596,7 +16770,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -16725,7 +16900,8 @@
       "printings": [
         "pPRE",
         "pMGD",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -16847,7 +17023,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -16981,14 +17158,15 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
       "rulings": [
         {
           "date": "2014-11-24",
-          "text": "\"Defending player\" refers to the player Torrent Elemental is attacking or the controller of the planeswalker Torrent Elemental is attacking. In multiplayer formats that allow attacking multiple players, creatures controlled by other players won't be tapped, even if you control other creatures attacking those players or planeswalkers those players control. In a Two-Headed Giant game, choose one member of the opposing team as the triggered ability resolves."
+          "text": "\"Defending player\" refers to the player Torrent Elemental is attacking or the controller of the planeswalker Torrent Elemental is attacking. In multiplayer formats that allow attacking multiple players, creatures controlled by other players won't be tapped, even if you control other creatures attacking those players or planeswalkers those players control."
         }
       ],
       "source": "Fate Reforged Sultai Prerelease participation bonus",
@@ -17087,7 +17265,8 @@
       "power": "1",
       "printings": [
         "pPRE",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -17204,7 +17383,8 @@
       "printings": [
         "pPRE",
         "FRF_UGIN",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -17358,7 +17538,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "FRF"
+        "FRF",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-17",
@@ -17471,7 +17652,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -17584,7 +17766,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -17687,7 +17870,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -17796,7 +17980,8 @@
       "number": "161",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -17827,7 +18012,7 @@
         },
         {
           "date": "2015-02-25",
-          "text": "If all targets for the chosen modes become illegal before the Command resolves, the spell will be countered and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets."
+          "text": "If all targets for the chosen modes become illegal before the Command resolves, the spell won't resolve and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets."
         }
       ],
       "source": "Dragons of Tarkir Atarka Prerelease participation bonus",
@@ -17921,7 +18106,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -18024,7 +18210,8 @@
       "number": "163",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -18039,7 +18226,7 @@
         },
         {
           "date": "2015-02-25",
-          "text": "If a spell with rebound that you cast from your hand is countered for any reason (either because of another spell or ability or because all its targets are illegal as it tries to resolve), that spell won't resolve and none of its effects will happen, including rebound. The spell will be put into its owner's graveyard and you won't get to cast it again on your next turn."
+          "text": "If a spell with rebound that you cast from your hand doesn't resolve for any reason (either because another spell or ability counters it or because all its targets are illegal as it tries to resolve), none of its effects will happen, including rebound. The spell will be put into its owner's graveyard and you won't get to cast it again on your next turn."
         },
         {
           "date": "2015-02-25",
@@ -18063,11 +18250,11 @@
         },
         {
           "date": "2015-02-25",
-          "text": "If you cast a card from exile this way, it will go to its owner's graveyard when it resolves or is countered. It won't go back to exile."
+          "text": "If you cast a card from exile this way, it will go to its owner's graveyard when it resolves, fails to resolve, or is countered. It won't go back to exile."
         }
       ],
       "source": "Dragons of Tarkir Ojutai Prerelease participation bonus",
-      "text": "Exile target creature an opponent controls. That player reveals cards from the top of his or her library until a creature card is revealed. The player puts that card onto the battlefield, then shuffles the rest into his or her library.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+      "text": "Exile target creature an opponent controls. That player reveals cards from the top of their library until a creature card is revealed. The player puts that card onto the battlefield, then shuffles the rest into their library.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
       "type": "Instant",
       "types": [
         "Instant"
@@ -18157,7 +18344,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -18266,7 +18454,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -18370,7 +18559,8 @@
       "power": "0",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -18400,7 +18590,7 @@
       "subtypes": [
         "Elemental"
       ],
-      "text": "{R}, {T}, Sacrifice Crater Elemental: Crater Elemental deals 4 damage to target creature.\nFormidable — {2}{R}: Crater Elemental has base power 8 until end of turn. Activate this ability only if creatures you control have total power 8 or greater.",
+      "text": "{R}, {T}, Sacrifice Crater Elemental: It deals 4 damage to target creature.\nFormidable — {2}{R}: Crater Elemental has base power 8 until end of turn. Activate this ability only if creatures you control have total power 8 or greater.",
       "toughness": "6",
       "type": "Creature — Elemental",
       "types": [
@@ -18491,7 +18681,8 @@
       "printings": [
         "pPRE",
         "DTK",
-        "C17"
+        "C17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -18588,7 +18779,8 @@
         "pLPA",
         "DTK",
         "E01",
-        "C17"
+        "C17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -18697,7 +18889,8 @@
       "printings": [
         "pPRE",
         "DTK",
-        "C16"
+        "C16",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -18816,7 +19009,8 @@
       "power": "8",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -18827,7 +19021,7 @@
         },
         {
           "date": "2015-02-25",
-          "text": "If some of the targets are illegal targets as the ability tries to resolve, the original division of damage still applies but no damage is dealt to the illegal targets. If all targets are illegal, the ability is countered."
+          "text": "If some of the targets are illegal targets as the ability tries to resolve, the original division of damage still applies but no damage is dealt to the illegal targets. If all targets are illegal, the ability doesn't resolve."
         }
       ],
       "source": "Dragons of Tarkir Atarka Prerelease participation bonus",
@@ -18931,7 +19125,8 @@
       "power": "5",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -18943,7 +19138,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "Dragonlord Dromoka can't be countered.\nFlying, lifelink\nYour opponents can't cast spells during your turn.",
+      "text": "This spell can't be countered.\nFlying, lifelink\nYour opponents can't cast spells during your turn.",
       "toughness": "7",
       "type": "Legendary Creature — Elder Dragon",
       "types": [
@@ -19035,7 +19230,8 @@
       "power": "6",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -19046,7 +19242,7 @@
         },
         {
           "date": "2015-02-25",
-          "text": "If an opponent casts a creature spell with delve and exiles all cards from his or her graveyard with the same name to help pay its cost, Dragonlord Kolaghan's ability won't trigger."
+          "text": "If an opponent casts a creature spell with delve and exiles all cards from their graveyard with the same name to help pay its cost, Dragonlord Kolaghan's ability won't trigger."
         }
       ],
       "source": "Dragons of Tarkir Kolaghan Prerelease participation bonus",
@@ -19057,7 +19253,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "Flying, haste\nOther creatures you control have haste.\nWhenever an opponent casts a creature or planeswalker spell with the same name as a card in his or her graveyard, that player loses 10 life.",
+      "text": "Flying, haste\nOther creatures you control have haste.\nWhenever an opponent casts a creature or planeswalker spell with the same name as a card in their graveyard, that player loses 10 life.",
       "toughness": "5",
       "type": "Legendary Creature — Elder Dragon",
       "types": [
@@ -19149,7 +19345,8 @@
       "power": "5",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -19254,7 +19451,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -19371,7 +19569,8 @@
       "number": "175",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -19402,7 +19601,7 @@
         },
         {
           "date": "2015-02-25",
-          "text": "If all targets for the chosen modes become illegal before the Command resolves, the spell will be countered and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets."
+          "text": "If all targets for the chosen modes become illegal before the Command resolves, the spell won't resolve and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets."
         }
       ],
       "source": "Dragons of Tarkir Dromoka Prerelease participation bonus",
@@ -19496,7 +19695,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -19612,7 +19812,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -19716,7 +19917,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -19830,7 +20032,8 @@
       "printings": [
         "pPRE",
         "DTK",
-        "E01"
+        "E01",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -19946,7 +20149,9 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "A25",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -20080,7 +20285,8 @@
       "number": "181",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -20103,11 +20309,11 @@
         },
         {
           "date": "2015-02-25",
-          "text": "If all targets for the chosen modes become illegal before the Command resolves, the spell will be countered and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets."
+          "text": "If all targets for the chosen modes become illegal before the Command resolves, the spell won't resolve and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets."
         }
       ],
       "source": "Dragons of Tarkir Kolaghan Prerelease participation bonus",
-      "text": "Choose two —\n• Return target creature card from your graveyard to your hand.\n• Target player discards a card.\n• Destroy target artifact.\n• Kolaghan's Command deals 2 damage to target creature or player.",
+      "text": "Choose two —\n• Return target creature card from your graveyard to your hand.\n• Target player discards a card.\n• Destroy target artifact.\n• Kolaghan's Command deals 2 damage to any target.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -20196,7 +20402,8 @@
       "power": "*",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -20323,7 +20530,8 @@
       "number": "183",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -20430,7 +20638,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -20444,7 +20653,7 @@
       "subtypes": [
         "Dragon"
       ],
-      "text": "Flying\nWhenever Necromaster Dragon deals combat damage to a player, you may pay {2}. If you do, create a 2/2 black Zombie creature token and each opponent puts the top two cards of his or her library into his or her graveyard.",
+      "text": "Flying\nWhenever Necromaster Dragon deals combat damage to a player, you may pay {2}. If you do, create a 2/2 black Zombie creature token and each opponent puts the top two cards of their library into their graveyard.",
       "toughness": "4",
       "type": "Creature — Dragon",
       "types": [
@@ -20536,7 +20745,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -20559,7 +20769,7 @@
         },
         {
           "date": "2015-02-25",
-          "text": "If all targets for the chosen modes become illegal before the Command resolves, the spell will be countered and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets."
+          "text": "If all targets for the chosen modes become illegal before the Command resolves, the spell won't resolve and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets."
         }
       ],
       "source": "Dragons of Tarkir Ojutai Prerelease participation bonus",
@@ -20652,7 +20862,8 @@
       "power": "5",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -20773,7 +20984,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -20871,7 +21083,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -20996,7 +21209,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -21120,7 +21334,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -21239,7 +21454,8 @@
       "printings": [
         "pPRE",
         "DTK",
-        "C17"
+        "C17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -21262,7 +21478,7 @@
         },
         {
           "date": "2015-02-25",
-          "text": "If all targets for the chosen modes become illegal before the Command resolves, the spell will be countered and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets."
+          "text": "If all targets for the chosen modes become illegal before the Command resolves, the spell won't resolve and none of its effects will happen. If at least one target is still legal, the spell will resolve but will have no effect on any illegal targets."
         }
       ],
       "source": "Dragons of Tarkir Silumgar Prerelease participation bonus",
@@ -21355,7 +21571,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -21470,7 +21687,8 @@
       "printings": [
         "pPRE",
         "DTK",
-        "C17"
+        "C17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -21569,7 +21787,8 @@
       "power": "5",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -21687,7 +21906,8 @@
       "printings": [
         "pPRE",
         "pMGD",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -21792,14 +22012,15 @@
         "pPRE",
         "DTK",
         "C16",
-        "DDS"
+        "DDS",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
       "rulings": [
         {
           "date": "2015-02-25",
-          "text": "If the target instant or sorcery card becomes an illegal target before Volcanic Vision resolves, the spell will be countered and none of its effects will happen. No damage will be dealt and Volcanic Vision won't be exiled."
+          "text": "If the target instant or sorcery card becomes an illegal target before Volcanic Vision resolves, the spell won't resolve and none of its effects will happen. No damage will be dealt and Volcanic Vision won't be exiled."
         },
         {
           "date": "2015-02-25",
@@ -21896,7 +22117,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "DTK"
+        "DTK",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-21",
@@ -22020,7 +22242,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -22150,7 +22373,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -22183,7 +22407,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "Flying\nAs Alhammarret, High Arbiter enters the battlefield, each opponent reveals his or her hand. You choose the name of a nonland card revealed this way.\nYour opponents can't cast spells with the chosen name (as long as this creature is on the battlefield).",
+      "text": "Flying\nAs Alhammarret, High Arbiter enters the battlefield, each opponent reveals their hand. You choose the name of a nonland card revealed this way.\nYour opponents can't cast spells with the chosen name (as long as this creature is on the battlefield).",
       "toughness": "5",
       "type": "Legendary Creature — Sphinx",
       "types": [
@@ -22269,7 +22493,8 @@
       "number": "200",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -22284,7 +22509,7 @@
         },
         {
           "date": "2015-06-22",
-          "text": "If the creature becomes an illegal target by the time Chandra's Ignition tries to resolve (perhaps because another player controls it or it's left the battlefield), Chandra's Ignition will be countered and none of its effects will happen. No damage will be dealt."
+          "text": "If the creature becomes an illegal target by the time Chandra's Ignition tries to resolve (perhaps because another player controls it or it's left the battlefield), Chandra's Ignition won't resolve and none of its effects will happen. No damage will be dealt."
         }
       ],
       "source": "Magic Origins Chandra Prerelease participation bonus",
@@ -22378,7 +22603,8 @@
       "printings": [
         "pPRE",
         "ORI",
-        "V17"
+        "V17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -22444,7 +22670,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "Whenever you cast a red spell, untap Chandra, Fire of Kaladesh.\n{T}: Chandra, Fire of Kaladesh deals 1 damage to target player. If Chandra has dealt 3 or more damage this turn, exile her, then return her to the battlefield transformed under her owner's control.",
+      "text": "Whenever you cast a red spell, untap Chandra, Fire of Kaladesh.\n{T}: Chandra, Fire of Kaladesh deals 1 damage to target player or planeswalker. If Chandra has dealt 3 or more damage this turn, exile her, then return her to the battlefield transformed under her owner's control.",
       "toughness": "2",
       "type": "Legendary Creature — Human Shaman",
       "types": [
@@ -22529,7 +22755,8 @@
       "number": "202",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -22540,7 +22767,7 @@
         }
       ],
       "source": "Magic Origins Liliana Prerelease participation bonus",
-      "text": "Search your library for a card and put that card into your hand. Then shuffle your library.\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, add {B}{B}{B} to your mana pool.",
+      "text": "Search your library for a card and put that card into your hand. Then shuffle your library.\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, add {B}{B}{B}.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -22627,7 +22854,8 @@
       "printings": [
         "pPRE",
         "ORI",
-        "DDR"
+        "DDR",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -22723,7 +22951,9 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "ORI"
+        "ORI",
+        "DDU",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -22827,7 +23057,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -22849,7 +23080,7 @@
       "subtypes": [
         "Hellion"
       ],
-      "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)\nIf another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.",
+      "text": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nIf another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.",
       "toughness": "5",
       "type": "Creature — Hellion",
       "types": [
@@ -22935,7 +23166,8 @@
       "number": "206",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -23035,7 +23267,8 @@
       "number": "207",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -23050,7 +23283,7 @@
         }
       ],
       "source": "Magic Origins Chandra Prerelease participation bonus",
-      "text": "Exquisite Firecraft deals 4 damage to target creature or player.\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, Exquisite Firecraft can't be countered by spells or abilities.",
+      "text": "Exquisite Firecraft deals 4 damage to any target.\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, this spell can't be countered.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -23136,7 +23369,8 @@
       "printings": [
         "pPRE",
         "M11",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -23162,7 +23396,7 @@
       "subtypes": [
         "Elemental"
       ],
-      "text": "Gaea's Revenge can't be countered.\nHaste\nGaea's Revenge can't be the target of nongreen spells or abilities from nongreen sources.",
+      "text": "This spell can't be countered.\nHaste\nGaea's Revenge can't be the target of nongreen spells or abilities from nongreen sources.",
       "toughness": "5",
       "type": "Creature — Elemental",
       "types": [
@@ -23247,7 +23481,8 @@
       "number": "209",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -23347,7 +23582,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -23455,7 +23691,8 @@
         "pJGP",
         "ONS",
         "VMA",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -23556,7 +23793,8 @@
       "power": "1",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -23659,7 +23897,8 @@
         "pPRE",
         "ORI",
         "C17",
-        "DDT"
+        "DDT",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -23755,7 +23994,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -23880,7 +24120,8 @@
       "printings": [
         "pPRE",
         "CP3",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -23903,7 +24144,7 @@
         "Human",
         "Druid"
       ],
-      "text": "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nAs long as Honored Hierarch is renowned, it has vigilance and \"{T}: Add one mana of any color to your mana pool.\"",
+      "text": "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nAs long as Honored Hierarch is renowned, it has vigilance and \"{T}: Add one mana of any color.\"",
       "toughness": "1",
       "type": "Creature — Human Druid",
       "types": [
@@ -23995,7 +24236,8 @@
       "printings": [
         "pPRE",
         "ORI",
-        "V17"
+        "V17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "rulings": [
@@ -24152,7 +24394,8 @@
         "pPRE",
         "ALA",
         "DDG",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -24259,7 +24502,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -24367,7 +24611,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -24481,7 +24726,8 @@
       "printings": [
         "pPRE",
         "ORI",
-        "V17"
+        "V17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -24631,7 +24877,9 @@
         "pPRE",
         "pMGD",
         "ORI",
-        "C16"
+        "C16",
+        "CM2",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -24726,7 +24974,8 @@
       "printings": [
         "pPRE",
         "ORI",
-        "V17"
+        "V17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -24875,7 +25124,8 @@
       "printings": [
         "pPRE",
         "ORI",
-        "C16"
+        "C16",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -24977,7 +25227,8 @@
       "printings": [
         "pPRE",
         "pLPA",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -25102,7 +25353,8 @@
       "number": "225",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -25203,7 +25455,8 @@
       "printings": [
         "pPRE",
         "ORI",
-        "V17"
+        "V17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -25351,7 +25604,8 @@
       "power": "6",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -25460,7 +25714,9 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "ORI"
+        "ORI",
+        "DDU",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -25472,7 +25728,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "When Pia and Kiran Nalaar enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.\n{2}{R}, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 damage to target creature or player.",
+      "text": "When Pia and Kiran Nalaar enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.\n{2}{R}, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 damage to any target.",
       "toughness": "2",
       "type": "Legendary Creature — Human Artificer",
       "types": [
@@ -25560,7 +25816,8 @@
       "printings": [
         "pPRE",
         "ORI",
-        "DDR"
+        "DDR",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -25656,7 +25913,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -25765,7 +26023,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -25875,7 +26134,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -25978,7 +26238,8 @@
       "number": "233",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -26013,7 +26274,7 @@
         }
       ],
       "source": "Magic Origins Jace Prerelease participation bonus",
-      "text": "Target opponent reveals the top seven cards of his or her library. You may cast an instant or sorcery card from among them without paying its mana cost. Then that player puts the rest into his or her graveyard.\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, you may cast up to two revealed instant and/or sorcery cards instead of one.",
+      "text": "Target opponent reveals the top seven cards of their library. You may cast an instant or sorcery card from among them without paying its mana cost. Then that player puts the rest into their graveyard.\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, you may cast up to two revealed instant and/or sorcery cards instead of one.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -26097,7 +26358,8 @@
       "number": "234",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -26197,7 +26459,8 @@
       "number": "235",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -26212,7 +26475,7 @@
         }
       ],
       "source": "Magic Origins Gideon Prerelease participation bonus",
-      "text": "For each player, you choose from among the permanents that player controls an artifact, a creature, an enchantment, and a planeswalker. Then each player sacrifices all other nonland permanents he or she controls.",
+      "text": "For each player, you choose from among the permanents that player controls an artifact, a creature, an enchantment, and a planeswalker. Then each player sacrifices all other nonland permanents they control.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -26298,7 +26561,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -26407,7 +26671,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "ORI"
+        "ORI",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-11",
@@ -26520,14 +26785,15 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
       "rulings": [
         {
           "date": "2015-08-25",
-          "text": "If, during its controller's declare attackers step, Akoum Firebird is tapped or is affected by a spell or ability that says it can't attack, then it doesn't attack. If there's a cost associated with having it attack, its controller isn't forced to pay that cost. If he or she doesn't, Akoum Firebird doesn't have to attack."
+          "text": "If, during its controller's declare attackers step, Akoum Firebird is tapped or is affected by a spell or ability that says it can't attack, then it doesn't attack. If there's a cost associated with having it attack, its controller isn't forced to pay that cost. If they don't, Akoum Firebird doesn't have to attack."
         },
         {
           "date": "2015-08-25",
@@ -26644,7 +26910,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -26666,7 +26933,7 @@
       "subtypes": [
         "Dragon"
       ],
-      "text": "Flying\nLandfall — Whenever a land enters the battlefield under your control, Akoum Hellkite deals 1 damage to target creature or player. If that land is a Mountain, Akoum Hellkite deals 2 damage to that creature or player instead.",
+      "text": "Flying\nLandfall — Whenever a land enters the battlefield under your control, Akoum Hellkite deals 1 damage to any target. If that land is a Mountain, Akoum Hellkite deals 2 damage to that permanent or player instead.",
       "toughness": "4",
       "type": "Creature — Dragon",
       "types": [
@@ -26750,7 +27017,8 @@
       "number": "240",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -26870,7 +27138,8 @@
       "number": "241",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -26885,7 +27154,7 @@
         }
       ],
       "source": "Battle for Zendikar Prerelease participation bonus",
-      "text": "{T}: Add {C} to your mana pool.\n{T}: Add one mana of any color to your mana pool. Spend this mana only to cast an Ally spell.\n{1}, {T}, Sacrifice Ally Encampment: Return target Ally you control to its owner's hand.",
+      "text": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast an Ally spell.\n{1}, {T}, Sacrifice Ally Encampment: Return target Ally you control to its owner's hand.",
       "type": "Land",
       "types": [
         "Land"
@@ -26977,7 +27246,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -27085,7 +27355,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -27119,7 +27390,7 @@
       "subtypes": [
         "Eldrazi"
       ],
-      "text": "Devoid (This card has no color.)\n{2}{R}, Sacrifice another colorless creature: Barrage Tyrant deals damage equal to the sacrificed creature's power to target creature or player.",
+      "text": "Devoid (This card has no color.)\n{2}{R}, Sacrifice another colorless creature: Barrage Tyrant deals damage equal to the sacrificed creature's power to any target.",
       "toughness": "3",
       "type": "Creature — Eldrazi",
       "types": [
@@ -27210,7 +27481,8 @@
       "power": "1",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -27230,7 +27502,7 @@
         "Shaman",
         "Ally"
       ],
-      "text": "Haste\n{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell.",
+      "text": "Haste\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell.",
       "toughness": "1",
       "type": "Creature — Elf Shaman Ally",
       "types": [
@@ -27315,7 +27587,8 @@
       "printings": [
         "pPRE",
         "pLPA",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -27334,7 +27607,7 @@
         },
         {
           "date": "2015-08-25",
-          "text": "Face-down cards in exile are grouped using two criteria: what caused them to be exiled face down and when they were exiled face down. If you want to put a face-down card in exile into its owner's graveyard, you must first choose one of these groups and then choose a card from within that group at random. For example, say an artifact causes your opponent to exile his or her hand of three cards face down. Then on a later turn, that artifact causes your opponent to exile another two cards face down. If you use Wasteland Strangler to put one of those cards into his or her graveyard, you would pick the first or second pile and put a card chosen at random from that pile into the graveyard."
+          "text": "Face-down cards in exile are grouped using two criteria: what caused them to be exiled face down and when they were exiled face down. If you want to put a face-down card in exile into its owner's graveyard, you must first choose one of these groups and then choose a card from within that group at random. For example, say an artifact causes your opponent to exile their hand of three cards face down. Then on a later turn, that artifact causes your opponent to exile another two cards face down. If you use Wasteland Strangler to put one of those cards into their graveyard, you would pick the first or second pile and put a card chosen at random from that pile into the graveyard."
         },
         {
           "date": "2015-08-25",
@@ -27350,7 +27623,7 @@
         },
         {
           "date": "2015-08-25",
-          "text": "Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell will be countered and none of its effects will happen. You won't get any Eldrazi Scions."
+          "text": "Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions."
         }
       ],
       "source": "Battle for Zendikar Prerelease participation bonus",
@@ -27358,7 +27631,7 @@
         "Eldrazi",
         "Processor"
       ],
-      "text": "When you cast Blight Herder, you may put two cards your opponents own from exile into their owners' graveyards. If you do, create three 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
+      "text": "When you cast this spell, you may put two cards your opponents own from exile into their owners' graveyards. If you do, create three 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this creature: Add {C}.\"",
       "toughness": "5",
       "type": "Creature — Eldrazi Processor",
       "types": [
@@ -27449,7 +27722,8 @@
       "number": "246",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -27460,7 +27734,7 @@
         },
         {
           "date": "2015-08-25",
-          "text": "If you cast a card \"without paying its mana cost,\" you can't pay any alternative costs, such as awaken costs. You can, however, pay additional costs, such as kicker costs. If the card has any mandatory additional costs, you must pay those to cast the card."
+          "text": "If you cast a card \"without paying its mana cost,\" you can't choose to cast it for any alternative costs, such as awaken costs. You can, however, pay additional costs, such as kicker costs. If the card has any mandatory additional costs, you must pay those to cast the card."
         },
         {
           "date": "2015-08-25",
@@ -27583,7 +27857,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -27622,7 +27897,7 @@
         },
         {
           "date": "2015-08-25",
-          "text": "Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell will be countered and none of its effects will happen. You won't get any Eldrazi Scions."
+          "text": "Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions."
         }
       ],
       "source": "Battle for Zendikar Prerelease participation bonus",
@@ -27630,7 +27905,7 @@
         "Eldrazi",
         "Drone"
       ],
-      "text": "Devoid (This card has no color.)\nWhen Brood Butcher enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this creature: Add {C} to your mana pool.\"\n{B}{G}, Sacrifice a creature: Target creature gets -2/-2 until end of turn.",
+      "text": "Devoid (This card has no color.)\nWhen Brood Butcher enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this creature: Add {C}.\"\n{B}{G}, Sacrifice a creature: Target creature gets -2/-2 until end of turn.",
       "toughness": "3",
       "type": "Creature — Eldrazi Drone",
       "types": [
@@ -27717,7 +27992,8 @@
       "number": "248",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -27839,7 +28115,8 @@
       "printings": [
         "pPRE",
         "BFZ",
-        "EXP"
+        "EXP",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -27862,7 +28139,7 @@
         "Forest",
         "Plains"
       ],
-      "text": "({T}: Add {G} or {W} to your mana pool.)\nCanopy Vista enters the battlefield tapped unless you control two or more basic lands.",
+      "text": "({T}: Add {G} or {W}.)\nCanopy Vista enters the battlefield tapped unless you control two or more basic lands.",
       "type": "Land — Forest Plains",
       "types": [
         "Land"
@@ -27949,7 +28226,8 @@
       "printings": [
         "pPRE",
         "BFZ",
-        "EXP"
+        "EXP",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -27972,7 +28250,7 @@
         "Mountain",
         "Forest"
       ],
-      "text": "({T}: Add {R} or {G} to your mana pool.)\nCinder Glade enters the battlefield tapped unless you control two or more basic lands.",
+      "text": "({T}: Add {R} or {G}.)\nCinder Glade enters the battlefield tapped unless you control two or more basic lands.",
       "type": "Land — Mountain Forest",
       "types": [
         "Land"
@@ -28055,7 +28333,8 @@
       "power": "5",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -28101,7 +28380,7 @@
       "subtypes": [
         "Eldrazi"
       ],
-      "text": "When you cast Conduit of Ruin, you may search your library for a colorless creature card with converted mana cost 7 or greater, reveal it, then shuffle your library and put that card on top of it.\nThe first creature spell you cast each turn costs {2} less to cast.",
+      "text": "When you cast this spell, you may search your library for a colorless creature card with converted mana cost 7 or greater, reveal it, then shuffle your library and put that card on top of it.\nThe first creature spell you cast each turn costs {2} less to cast.",
       "toughness": "5",
       "type": "Creature — Eldrazi",
       "types": [
@@ -28193,7 +28472,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -28300,7 +28580,8 @@
       "power": "10",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -28308,7 +28589,7 @@
       "subtypes": [
         "Eldrazi"
       ],
-      "text": "When you cast Desolation Twin, create a 10/10 colorless Eldrazi creature token.",
+      "text": "When you cast this spell, create a 10/10 colorless Eldrazi creature token.",
       "toughness": "10",
       "type": "Creature — Eldrazi",
       "types": [
@@ -28404,7 +28685,8 @@
       "printings": [
         "pPRE",
         "WWK",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -28504,7 +28786,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -28614,7 +28897,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -28661,14 +28945,14 @@
         },
         {
           "date": "2015-08-25",
-          "text": "Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell will be countered and none of its effects will happen. You won't get any Eldrazi Scions."
+          "text": "Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions."
         }
       ],
       "source": "Battle for Zendikar Prerelease participation bonus",
       "subtypes": [
         "Eldrazi"
       ],
-      "text": "Devoid (This card has no color.)\nWhen Drowner of Hope enters the battlefield, create two 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this creature: Add {C} to your mana pool.\"\nSacrifice an Eldrazi Scion: Tap target creature.",
+      "text": "Devoid (This card has no color.)\nWhen Drowner of Hope enters the battlefield, create two 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this creature: Add {C}.\"\nSacrifice an Eldrazi Scion: Tap target creature.",
       "toughness": "5",
       "type": "Creature — Eldrazi",
       "types": [
@@ -28757,7 +29041,8 @@
       "power": "5",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -28889,7 +29174,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -29004,7 +29290,8 @@
       "power": "0",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -29102,7 +29389,8 @@
       "number": "260",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -29224,7 +29512,8 @@
       "power": "1",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -29255,7 +29544,7 @@
         },
         {
           "date": "2015-08-25",
-          "text": "If the player has no cards in his or her library when the ingest ability resolves, nothing happens. That player won't lose the game (until he or she has to draw a card from an empty library)."
+          "text": "If the player has no cards in their library when the ingest ability resolves, nothing happens. That player won't lose the game (until they have to draw a card from an empty library)."
         }
       ],
       "source": "Battle for Zendikar Prerelease participation bonus",
@@ -29263,7 +29552,7 @@
         "Eldrazi",
         "Drone"
       ],
-      "text": "Devoid (This card has no color.)\nDeathtouch\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)\n{3}{U}{B}: Draw a card. Each opponent exiles the top card of his or her library.",
+      "text": "Devoid (This card has no color.)\nDeathtouch\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)\n{3}{U}{B}: Draw a card. Each opponent exiles the top card of their library.",
       "toughness": "1",
       "type": "Creature — Eldrazi Drone",
       "types": [
@@ -29359,7 +29648,8 @@
       "printings": [
         "pPRE",
         "ZEN",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -29464,7 +29754,8 @@
       "number": "263",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -29507,11 +29798,11 @@
         },
         {
           "date": "2015-08-25",
-          "text": "Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell will be countered and none of its effects will happen. You won't get any Eldrazi Scions."
+          "text": "Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions."
         }
       ],
       "source": "Battle for Zendikar Prerelease participation bonus",
-      "text": "Devoid (This card has no color.)\nAt the beginning of your upkeep, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this creature: Add {C} to your mana pool.\"\n{1}{G}, Sacrifice From Beyond: Search your library for an Eldrazi card, reveal it, put it into your hand, then shuffle your library.",
+      "text": "Devoid (This card has no color.)\nAt the beginning of your upkeep, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this creature: Add {C}.\"\n{1}{G}, Sacrifice From Beyond: Search your library for an Eldrazi card, reveal it, put it into your hand, then shuffle your library.",
       "type": "Enchantment",
       "types": [
         "Enchantment"
@@ -29600,7 +29891,8 @@
       "number": "264",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -29718,7 +30010,8 @@
       "power": "5",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -29729,7 +30022,7 @@
         },
         {
           "date": "2015-08-25",
-          "text": "If the target card becomes illegal before the last ability resolves, it will be countered. You can't exile Greenwarden of Murasa in that case, even if you want to."
+          "text": "If the target card becomes illegal before the last ability resolves, it won't resolve. You can't exile Greenwarden of Murasa in that case, even if you want to."
         }
       ],
       "source": "Battle for Zendikar Prerelease participation bonus",
@@ -29820,7 +30113,8 @@
       "number": "266",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -29914,7 +30208,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -30034,7 +30329,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -30148,7 +30444,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -30260,7 +30557,8 @@
       "number": "270",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -30375,7 +30673,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -30485,7 +30784,8 @@
       "number": "272",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -30508,7 +30808,7 @@
         }
       ],
       "source": "Battle for Zendikar Prerelease participation bonus",
-      "text": "Lumbering Falls enters the battlefield tapped.\n{T}: Add {G} or {U} to your mana pool.\n{2}{G}{U}: Lumbering Falls becomes a 3/3 green and blue Elemental creature with hexproof until end of turn. It's still a land.",
+      "text": "Lumbering Falls enters the battlefield tapped.\n{T}: Add {G} or {U}.\n{2}{G}{U}: Lumbering Falls becomes a 3/3 green and blue Elemental creature with hexproof until end of turn. It's still a land.",
       "type": "Land",
       "types": [
         "Land"
@@ -30599,7 +30899,8 @@
       "number": "273",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -30695,7 +30996,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -30807,7 +31109,8 @@
       "number": "275",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -30904,7 +31207,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -31017,7 +31321,8 @@
       "printings": [
         "pPRE",
         "BFZ",
-        "DDR"
+        "DDR",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -31119,7 +31424,8 @@
       "printings": [
         "pPRE",
         "DDP",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -31137,7 +31443,7 @@
       "subtypes": [
         "Eldrazi"
       ],
-      "text": "When you cast Oblivion Sower, target opponent exiles the top four cards of his or her library, then you may put any number of land cards that player owns from exile onto the battlefield under your control.",
+      "text": "When you cast this spell, target opponent exiles the top four cards of their library, then you may put any number of land cards that player owns from exile onto the battlefield under your control.",
       "toughness": "8",
       "type": "Creature — Eldrazi",
       "types": [
@@ -31229,7 +31535,8 @@
       "power": "5",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -31262,7 +31569,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "Landfall — Whenever a land enters the battlefield under your control, create a 5/5 red and green Elemental creature token.\nWhenever Omnath, Locus of Rage or another Elemental you control dies, Omnath deals 3 damage to target creature or player.",
+      "text": "Landfall — Whenever a land enters the battlefield under your control, create a 5/5 red and green Elemental creature token.\nWhenever Omnath, Locus of Rage or another Elemental you control dies, Omnath deals 3 damage to any target.",
       "toughness": "5",
       "type": "Legendary Creature — Elemental",
       "types": [
@@ -31355,7 +31662,8 @@
         "pPRE",
         "BFZ",
         "DDR",
-        "E01"
+        "E01",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -31468,7 +31776,8 @@
       "printings": [
         "pPRE",
         "BFZ",
-        "C17"
+        "C17",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -31583,14 +31892,15 @@
       "number": "282",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
       "rulings": [
         {
           "date": "2015-08-25",
-          "text": "Exiling Part the Waterveil is part of its effect. If Part the Waterveil is countered, including if it was cast for its awaken cost and the land you control became an illegal target, it will be put into its owner's graveyard."
+          "text": "Exiling Part the Waterveil is part of its effect. If Part the Waterveil doesn't resolve, including if it was cast for its awaken cost and the land you control became an illegal target, it will be put into its owner's graveyard."
         },
         {
           "date": "2015-08-25",
@@ -31606,7 +31916,7 @@
         },
         {
           "date": "2015-08-25",
-          "text": "If the non-awaken part of the spell doesn't require a target and you cast the spell for its awaken cost, then the spell will be countered if the target land you control becomes illegal before the spell resolves (such as due to being destroyed in response to the spell being cast)."
+          "text": "If the non-awaken part of the spell doesn't require a target and you cast the spell for its awaken cost, then the spell won't resolve if the target land you control becomes illegal before the spell resolves (such as due to being destroyed in response to the spell being cast)."
         },
         {
           "date": "2015-08-25",
@@ -31706,7 +32016,8 @@
       "number": "283",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -31729,7 +32040,7 @@
         },
         {
           "date": "2015-08-25",
-          "text": "If the non-awaken part of the spell doesn't require a target and you cast the spell for its awaken cost, then the spell will be countered if the target land you control becomes illegal before the spell resolves (such as due to being destroyed in response to the spell being cast)."
+          "text": "If the non-awaken part of the spell doesn't require a target and you cast the spell for its awaken cost, then the spell won't resolve if the target land you control becomes illegal before the spell resolves (such as due to being destroyed in response to the spell being cast)."
         },
         {
           "date": "2015-08-25",
@@ -31828,7 +32139,8 @@
       "printings": [
         "pPRE",
         "BFZ",
-        "EXP"
+        "EXP",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -31851,7 +32163,7 @@
         "Plains",
         "Island"
       ],
-      "text": "({T}: Add {W} or {U} to your mana pool.)\nPrairie Stream enters the battlefield tapped unless you control two or more basic lands.",
+      "text": "({T}: Add {W} or {U}.)\nPrairie Stream enters the battlefield tapped unless you control two or more basic lands.",
       "type": "Land — Plains Island",
       "types": [
         "Land"
@@ -31943,7 +32255,8 @@
       "number": "285",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -32058,7 +32371,8 @@
       "number": "286",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -32183,7 +32497,8 @@
       "printings": [
         "pPRE",
         "pMGD",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -32299,7 +32614,8 @@
       "printings": [
         "pMEI",
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -32318,7 +32634,7 @@
         },
         {
           "date": "2015-08-25",
-          "text": "If the non-awaken part of the spell doesn't require a target and you cast the spell for its awaken cost, then the spell will be countered if the target land you control becomes illegal before the spell resolves (such as due to being destroyed in response to the spell being cast)."
+          "text": "If the non-awaken part of the spell doesn't require a target and you cast the spell for its awaken cost, then the spell won't resolve if the target land you control becomes illegal before the spell resolves (such as due to being destroyed in response to the spell being cast)."
         },
         {
           "date": "2015-08-25",
@@ -32411,12 +32727,13 @@
       "number": "289",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
       "source": "Battle for Zendikar Prerelease participation bonus",
-      "text": "{T}: Add {C} to your mana pool.\nWhenever you cast a colorless spell with converted mana cost 7 or greater, you may sacrifice Sanctum of Ugin. If you do, search your library for a colorless creature card, reveal it, put it into your hand, then shuffle your library.",
+      "text": "{T}: Add {C}.\nWhenever you cast a colorless spell with converted mana cost 7 or greater, you may sacrifice Sanctum of Ugin. If you do, search your library for a colorless creature card, reveal it, put it into your hand, then shuffle your library.",
       "type": "Land",
       "types": [
         "Land"
@@ -32504,7 +32821,8 @@
       "number": "290",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -32523,7 +32841,7 @@
         },
         {
           "date": "2015-08-25",
-          "text": "If the non-awaken part of the spell doesn't require a target and you cast the spell for its awaken cost, then the spell will be countered if the target land you control becomes illegal before the spell resolves (such as due to being destroyed in response to the spell being cast)."
+          "text": "If the non-awaken part of the spell doesn't require a target and you cast the spell for its awaken cost, then the spell won't resolve if the target land you control becomes illegal before the spell resolves (such as due to being destroyed in response to the spell being cast)."
         },
         {
           "date": "2015-08-25",
@@ -32620,7 +32938,8 @@
       "number": "291",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -32744,7 +33063,8 @@
       "number": "292",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -32771,7 +33091,7 @@
         }
       ],
       "source": "Battle for Zendikar Prerelease participation bonus",
-      "text": "Shambling Vent enters the battlefield tapped.\n{T}: Add {W} or {B} to your mana pool.\n{1}{W}{B}: Shambling Vent becomes a 2/3 white and black Elemental creature with lifelink until end of turn. It's still a land.",
+      "text": "Shambling Vent enters the battlefield tapped.\n{T}: Add {W} or {B}.\n{1}{W}{B}: Shambling Vent becomes a 2/3 white and black Elemental creature with lifelink until end of turn. It's still a land.",
       "type": "Land",
       "types": [
         "Land"
@@ -32853,12 +33173,13 @@
       "number": "293",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
       "source": "Battle for Zendikar Prerelease participation bonus",
-      "text": "{T}: Add {C} to your mana pool.\n{T}: Add {C}{C} to your mana pool. Spend this mana only to cast colorless spells. Activate this ability only if you control seven or more lands.",
+      "text": "{T}: Add {C}.\n{T}: Add {C}{C}. Spend this mana only to cast colorless spells. Activate this ability only if you control seven or more lands.",
       "type": "Land",
       "types": [
         "Land"
@@ -32946,7 +33267,8 @@
       "power": "5",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -32957,7 +33279,7 @@
         },
         {
           "date": "2015-08-25",
-          "text": "If that player has one card in his or her library when Sire of Stagnation's triggered ability resolves, that card will be exiled. If his or her library has zero cards, no cards are exiled. In both cases, you'll still draw two cards. That player won't lose the game (until he or she attempts to draw a card from an empty library)."
+          "text": "If that player has one card in their library when Sire of Stagnation's triggered ability resolves, that card will be exiled. If their library has zero cards, no cards are exiled. In both cases, you'll still draw two cards. That player won't lose the game (until they attempt to draw a card from an empty library)."
         },
         {
           "date": "2015-08-25",
@@ -32984,7 +33306,7 @@
       "subtypes": [
         "Eldrazi"
       ],
-      "text": "Devoid (This card has no color.)\nWhenever a land enters the battlefield under an opponent's control, that player exiles the top two cards of his or her library and you draw two cards.",
+      "text": "Devoid (This card has no color.)\nWhenever a land enters the battlefield under an opponent's control, that player exiles the top two cards of their library and you draw two cards.",
       "toughness": "7",
       "type": "Creature — Eldrazi",
       "types": [
@@ -33072,7 +33394,8 @@
       "printings": [
         "pPRE",
         "BFZ",
-        "EXP"
+        "EXP",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -33095,7 +33418,7 @@
         "Swamp",
         "Mountain"
       ],
-      "text": "({T}: Add {B} or {R} to your mana pool.)\nSmoldering Marsh enters the battlefield tapped unless you control two or more basic lands.",
+      "text": "({T}: Add {B} or {R}.)\nSmoldering Marsh enters the battlefield tapped unless you control two or more basic lands.",
       "type": "Land — Swamp Mountain",
       "types": [
         "Land"
@@ -33181,7 +33504,8 @@
       "power": "4",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -33311,7 +33635,8 @@
       "printings": [
         "pPRE",
         "BFZ",
-        "EXP"
+        "EXP",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -33334,7 +33659,7 @@
         "Island",
         "Swamp"
       ],
-      "text": "({T}: Add {U} or {B} to your mana pool.)\nSunken Hollow enters the battlefield tapped unless you control two or more basic lands.",
+      "text": "({T}: Add {U} or {B}.)\nSunken Hollow enters the battlefield tapped unless you control two or more basic lands.",
       "type": "Land — Island Swamp",
       "types": [
         "Land"
@@ -33423,7 +33748,8 @@
       "number": "298",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -33522,7 +33848,8 @@
       "power": "10",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -33537,7 +33864,7 @@
         },
         {
           "date": "2015-08-25",
-          "text": "If the player has less than twenty cards in his or her library, exile all of them. That player won't lose the game until he or she has to draw a card from an empty library."
+          "text": "If the player has less than twenty cards in their library, exile all of them. That player won't lose the game until they have to draw a card from an empty library."
         }
       ],
       "source": "Battle for Zendikar Prerelease participation bonus",
@@ -33547,7 +33874,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "When you cast Ulamog, the Ceaseless Hunger, exile two target permanents.\nIndestructible\nWhenever Ulamog attacks, defending player exiles the top twenty cards of his or her library.",
+      "text": "When you cast this spell, exile two target permanents.\nIndestructible\nWhenever Ulamog, the Ceaseless Hunger attacks, defending player exiles the top twenty cards of their library.",
       "toughness": "10",
       "type": "Legendary Creature — Eldrazi",
       "types": [
@@ -33637,7 +33964,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -33760,7 +34088,8 @@
       "printings": [
         "pPRE",
         "DDP",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -33873,7 +34202,8 @@
       "power": "11",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -33990,7 +34320,8 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -34029,7 +34360,7 @@
         },
         {
           "date": "2015-08-25",
-          "text": "Face-down cards in exile are grouped using two criteria: what caused them to be exiled face down and when they were exiled face down. If you want to put a face-down card in exile into its owner's graveyard, you must first choose one of these groups and then choose a card from within that group at random. For example, say an artifact causes your opponent to exile his or her hand of three cards face down. Then on a later turn, that artifact causes your opponent to exile another two cards face down. If you use Wasteland Strangler to put one of those cards into his or her graveyard, you would pick the first or second pile and put a card chosen at random from that pile into the graveyard."
+          "text": "Face-down cards in exile are grouped using two criteria: what caused them to be exiled face down and when they were exiled face down. If you want to put a face-down card in exile into its owner's graveyard, you must first choose one of these groups and then choose a card from within that group at random. For example, say an artifact causes your opponent to exile their hand of three cards face down. Then on a later turn, that artifact causes your opponent to exile another two cards face down. If you use Wasteland Strangler to put one of those cards into their graveyard, you would pick the first or second pile and put a card chosen at random from that pile into the graveyard."
         }
       ],
       "source": "Battle for Zendikar Prerelease participation bonus",
@@ -34128,7 +34459,8 @@
       "power": "2",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
@@ -34249,41 +34581,43 @@
       "power": "3",
       "printings": [
         "pPRE",
-        "BFZ"
+        "BFZ",
+        "A25",
+        "Prerelease Events"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-26",
       "rulings": [
         {
-          "date": "2015-08-25",
-          "text": "The ability triggers whenever you cast an instant or sorcery spell that targets only Zada and no other object or player."
+          "date": "2018-03-16",
+          "text": "Zada's ability triggers whenever you cast an instant or sorcery spell that targets only Zada and no other object or player."
         },
         {
-          "date": "2015-08-25",
+          "date": "2018-03-16",
           "text": "If you cast an instant or sorcery spell that has multiple targets, but it's targeting only Zada with all of them, Zada's ability will trigger. The copies will similarly each be targeting only one of your other creatures. You can't change any of the copy's targets to other creatures."
         },
         {
-          "date": "2015-08-25",
+          "date": "2018-03-16",
           "text": "Any creature you control that couldn't be targeted by the original spell (due to shroud, protection abilities, targeting restrictions, or any other reason) is just ignored by Zada's ability."
         },
         {
-          "date": "2015-08-25",
+          "date": "2018-03-16",
           "text": "You control all the copies. You choose the order the copies are put onto the stack. The original spell will be on the stack beneath those copies and will resolve last."
         },
         {
-          "date": "2015-08-25",
+          "date": "2018-03-16",
           "text": "The copies that the ability creates are created on the stack, so they're not cast. Abilities that trigger when a player casts a spell (like Zada's ability itself) won't trigger."
         },
         {
-          "date": "2015-08-25",
+          "date": "2018-03-16",
           "text": "If the spell that's copied is modal (that is, it says \"Choose one —\" or the like), the copies will have the same mode. You can't choose a different one."
         },
         {
-          "date": "2015-08-25",
+          "date": "2018-03-16",
           "text": "If the spell that's copied has an X whose value was determined as it was cast (like Rolling Thunder does), the copies have the same value of X."
         },
         {
-          "date": "2015-08-25",
+          "date": "2018-03-16",
           "text": "The controller of a copy can't choose to pay any alternative or additional costs for the copy. However, effects based on any alternative or additional costs that were paid for the original spell are copied as though those same costs were paid for the copy."
         }
       ],

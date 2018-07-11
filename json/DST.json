@@ -11479,7 +11479,8 @@
       "originalText": "Whenever a nontoken creature comes into play, if Genesis Chamber is untapped, that creature's controller puts a 1/1 Myr artifact creature token into play.",
       "originalType": "Artifact",
       "printings": [
-        "DST"
+        "DST",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "text": "Whenever a nontoken creature enters the battlefield, if Genesis Chamber is untapped, that creature's controller creates a 1/1 colorless Myr artifact creature token.",
@@ -11764,7 +11765,8 @@
         "ME4",
         "M15",
         "EMA",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -12240,7 +12242,8 @@
       "originalText": "All permanents are artifacts in addition to their other types.\nAll cards that aren't in play, spells, and permanents are colorless.\nPlayers may spend mana as though it were mana of any color.",
       "originalType": "Artifact",
       "printings": [
-        "DST"
+        "DST",
+        "BBD"
       ],
       "rarity": "Rare",
       "rulings": [

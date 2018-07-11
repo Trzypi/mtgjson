@@ -91,7 +91,8 @@
       "printings": [
         "THS",
         "CP1",
-        "E01"
+        "E01",
+        "Magic 2015 Clash Pack"
       ],
       "rarity": "Special",
       "rulings": [
@@ -113,7 +114,7 @@
         },
         {
           "date": "2013-09-15",
-          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it will be countered and none of its effects will happen. You won't scry."
+          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it won't resolve and none of its effects will happen. You won't scry."
         }
       ],
       "source": "Magic 2015",
@@ -209,7 +210,8 @@
       "number": "2",
       "printings": [
         "BNG",
-        "CP1"
+        "CP1",
+        "Magic 2015 Clash Pack"
       ],
       "rarity": "Special",
       "rulings": [
@@ -227,7 +229,7 @@
         },
         {
           "date": "2013-09-15",
-          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it will be countered and none of its effects will happen. You won't scry."
+          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it won't resolve and none of its effects will happen. You won't scry."
         }
       ],
       "source": "Magic 2015",
@@ -320,7 +322,8 @@
       "number": "3",
       "printings": [
         "JOU",
-        "CP1"
+        "CP1",
+        "Magic 2015 Clash Pack"
       ],
       "rarity": "Special",
       "source": "Magic 2015",
@@ -413,7 +416,8 @@
       "power": "7",
       "printings": [
         "JOU",
-        "CP1"
+        "CP1",
+        "Magic 2015 Clash Pack"
       ],
       "rarity": "Special",
       "rulings": [
@@ -531,7 +535,8 @@
       "power": "2",
       "printings": [
         "THS",
-        "CP1"
+        "CP1",
+        "Magic 2015 Clash Pack"
       ],
       "rarity": "Special",
       "rulings": [
@@ -647,7 +652,8 @@
       "number": "6",
       "printings": [
         "THS",
-        "CP1"
+        "CP1",
+        "Magic 2015 Clash Pack"
       ],
       "rarity": "Special",
       "rulings": [
@@ -665,11 +671,11 @@
         },
         {
           "date": "2013-09-15",
-          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it will be countered and none of its effects will happen. You won't scry."
+          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it won't resolve and none of its effects will happen. You won't scry."
         }
       ],
       "source": "Magic 2015",
-      "text": "Temple of Mystery enters the battlefield tapped.\nWhen Temple of Mystery enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {G} or {U} to your mana pool.",
+      "text": "Temple of Mystery enters the battlefield tapped.\nWhen Temple of Mystery enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {G} or {U}.",
       "type": "Land",
       "types": [
         "Land"

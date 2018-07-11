@@ -3356,7 +3356,8 @@
       "originalType": "Instant",
       "printings": [
         "DIS",
-        "MMA"
+        "MMA",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "text": "Counter target spell with converted mana cost 2.",
@@ -3447,7 +3448,8 @@
       "originalType": "Creature — Djinn",
       "power": "5",
       "printings": [
-        "DIS"
+        "DIS",
+        "BBD"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -4728,6 +4730,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -4740,11 +4746,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -4762,16 +4764,17 @@
       "printings": [
         "DIS",
         "ORI",
-        "SOI"
+        "SOI",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2016-04-08",
+          "date": "2018-07-13",
           "text": "If you have no other cards in hand, you'll have to discard one of the creature cards you return to your hand."
         },
         {
-          "date": "2016-04-08",
+          "date": "2018-07-13",
           "text": "You may cast Macabre Waltz targeting one or zero creature cards. You'll still discard a card, even if you target no creature cards."
         }
       ],
@@ -7832,7 +7835,8 @@
       "originalText": "Whenever an opponent taps a land for mana, tap all lands that player controls.\nIf a creature an opponent controls attacks, all creatures that opponent controls attack if able.",
       "originalType": "Enchantment",
       "printings": [
-        "DIS"
+        "DIS",
+        "BBD"
       ],
       "rarity": "Rare",
       "rulings": [

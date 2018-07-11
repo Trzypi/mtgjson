@@ -4979,7 +4979,8 @@
       "originalType": "Creature — Giant",
       "power": "4",
       "printings": [
-        "THS"
+        "THS",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -6082,6 +6083,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -6094,7 +6099,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Theros Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -6111,7 +6116,8 @@
       "originalType": "Creature — Sphinx",
       "power": "4",
       "printings": [
-        "THS"
+        "THS",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -6859,6 +6865,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -6868,6 +6878,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -6886,7 +6900,9 @@
       "printings": [
         "THS",
         "DDO",
-        "CN2"
+        "CN2",
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -15397,7 +15413,8 @@
       "printings": [
         "THS",
         "M15",
-        "XLN"
+        "XLN",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Lightning Strike deals 3 damage to any target.",
@@ -27828,7 +27845,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28119,7 +28139,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28410,7 +28433,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28701,7 +28727,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28992,7 +29021,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29283,7 +29315,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29574,7 +29609,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29865,7 +29903,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30159,7 +30200,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30453,7 +30496,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30747,7 +30792,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31041,7 +31088,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31338,7 +31387,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31635,7 +31687,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31932,7 +31987,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32229,7 +32287,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32523,7 +32584,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32817,7 +32881,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33111,7 +33178,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33405,7 +33475,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [

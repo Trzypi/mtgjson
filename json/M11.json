@@ -316,6 +316,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -325,6 +329,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -345,25 +353,30 @@
         "DDH",
         "C13",
         "M15",
-        "IMA"
+        "IMA",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
-          "date": "2017-11-17",
-          "text": "The ability of Ajani's Pridemate triggers just once for each life-gaining event, whether it's 1 life from Auriok Champion or 6 life from Tavern Swindler."
+          "date": "2018-07-13",
+          "text": "The ability of Ajani's Pridemate triggers just once for each life-gaining event, whether it's 1 life from Ajani's Welcome or 3 life from Revitalize."
         },
         {
-          "date": "2017-11-17",
+          "date": "2018-07-13",
           "text": "If Ajani's Pridemate is dealt lethal damage at the same time that you gain life, it won't receive a counter from its ability in time to save it."
         },
         {
-          "date": "2017-11-17",
+          "date": "2018-07-13",
           "text": "Each creature with lifelink dealing combat damage causes a separate life-gaining event. For example, if two creatures you control with lifelink deal combat damage at the same time, Ajani's Pridemate's ability will trigger twice. However, if a single creature you control with lifelink deals combat damage to multiple creatures, players, and/or planeswalkers at the same time (perhaps because it has trample or was blocked by more than one creature), the ability will trigger only once."
         },
         {
-          "date": "2017-11-17",
-          "text": "In a Two-Headed Giant game, life gained by your teammate won't cause the ability to trigger, even though it causes your team's life total to increase."
+          "date": "2018-07-13",
+          "text": "If you gain an amount of life \"for each\" of something, that life is gained as one event and the ability of Ajani's Pridemate triggers only once."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "In a Two-Headed Giant game, life gained by your teammate won't cause the ability to trigger, even though it caused your team's life total to increase."
         }
       ],
       "subtypes": [
@@ -2060,15 +2073,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
           "legality": "Legal"
         },
         {
@@ -2099,7 +2108,8 @@
         "M11",
         "M15",
         "BFZ",
-        "KLD"
+        "KLD",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -2397,11 +2407,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -2441,12 +2447,13 @@
         "MM2",
         "ORI",
         "OGW",
-        "AKH"
+        "AKH",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2017-04-18",
+          "date": "2018-07-13",
           "text": "Giving a creature flying after it's already been blocked won't change or undo that block. If you want to affect what can block the creature, you must cast Mighty Leap during the declare attackers step at the latest."
         }
       ],
@@ -2563,7 +2570,8 @@
         "DTK",
         "TPR",
         "EMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -3539,7 +3547,8 @@
         "M10",
         "M11",
         "M14",
-        "M15"
+        "M15",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -5249,19 +5258,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -5273,27 +5274,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -5321,7 +5306,8 @@
         "KTK",
         "PCA",
         "AKH",
-        "XLN"
+        "XLN",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Counter target spell.",
@@ -7536,7 +7522,8 @@
         "OGW",
         "CN2",
         "AER",
-        "RIX"
+        "RIX",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -8046,6 +8033,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -8055,6 +8046,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -8073,17 +8068,14 @@
         "M10",
         "M11",
         "M13",
-        "C15"
+        "C15",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
-          "date": "2009-10-01",
-          "text": "The second part of Sleep's effect affects all creatures the targeted player controls as Sleep resolves, not just the ones that Sleep actually caused to become tapped."
-        },
-        {
-          "date": "2009-10-01",
-          "text": "Sleep tracks both the player and the creatures. If one of the creatures controlled by the targeted player as Sleep resolves changes controllers, the creature will untap as normal during its new controller's next untap step."
+          "date": "2018-07-13",
+          "text": "The second part of Sleep's ability affects all creatures the targeted player controls as Sleep resolves, not only the ones that Sleep actually caused to become tapped."
         }
       ],
       "text": "Tap all creatures target player controls. Those creatures don't untap during that player's next untap step.",
@@ -8964,7 +8956,8 @@
         "M11",
         "PC2",
         "CNS",
-        "PCA"
+        "PCA",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Destroy target tapped creature.",
@@ -9681,6 +9674,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -9690,6 +9687,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -9714,7 +9715,8 @@
         "M15",
         "CN2",
         "IMA",
-        "E02"
+        "E02",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -10621,7 +10623,8 @@
         "DTK",
         "EMA",
         "XLN",
-        "IMA"
+        "IMA",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
@@ -10795,7 +10798,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -10811,15 +10814,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Tempest Block",
           "legality": "Legal"
         },
         {
@@ -10855,7 +10850,8 @@
         "M15",
         "TPR",
         "EMA",
-        "AKH"
+        "AKH",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -11588,15 +11584,11 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -11605,10 +11597,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
           "legality": "Legal"
         },
         {
@@ -11646,7 +11634,8 @@
         "DTK",
         "ORI",
         "W16",
-        "KLD"
+        "KLD",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Target player discards two cards.",
@@ -12137,6 +12126,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -12146,6 +12139,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -12163,41 +12160,30 @@
       "power": "5",
       "printings": [
         "M11",
-        "M13"
+        "M13",
+        "M19"
       ],
       "rarity": "Rare",
       "rulings": [
         {
-          "date": "2010-08-15",
-          "text": "Phylactery Lich's first ability doesn't target the artifact. You can choose an artifact that has shroud, for example."
+          "date": "2018-07-13",
+          "text": "Phylactery Lich's first ability doesn't target the artifact. No player may take actions between the time you choose an artifact and the time you put a phylactery counter on it."
         },
         {
-          "date": "2010-08-15",
+          "date": "2018-07-13",
           "text": "If you control no artifacts as Phylactery Lich enters the battlefield, its first ability won't do anything. As soon as it enters the battlefield, its last ability will trigger (unless you control some other permanent with a phylactery counter on it) and you'll have to sacrifice it."
         },
         {
-          "date": "2010-08-15",
+          "date": "2018-07-13",
           "text": "If Phylactery Lich and an artifact are entering the battlefield under your control at the same time, you can't put a phylactery counter on that artifact. You must choose an artifact you control that's already on the battlefield."
         },
         {
-          "date": "2010-08-15",
+          "date": "2018-07-13",
           "text": "Phylactery Lich's last ability is a \"state trigger.\" Once a state trigger triggers, it won't trigger again as long as the ability is on the stack. If the ability is countered and the trigger condition is still true, it will immediately trigger again."
         },
         {
-          "date": "2010-08-15",
-          "text": "Phylactery Lich's last ability checks whether you control any permanents with phylactery counters on them, not whether you control any artifacts with phylactery counters on them. If an artifact with a phylactery counter on it somehow ceases to be an artifact, Phylactery Lich doesn't care."
-        },
-        {
-          "date": "2010-08-15",
-          "text": "Phylactery Lich's last ability checks your permanents for any phylactery counters, not just the specific one that it caused you to put on an artifact. For example, say you put a phylactery counter on a Demon's Horn as Phylactery Lich enters the battlefield. Then you put a phylactery counter on a Crystal Ball as another Phylactery Lich enters the battlefield. Then Crystal Ball is destroyed. Since you still control the Demon's Horn, the last ability of neither Phylactery Lich triggers."
-        },
-        {
-          "date": "2010-08-15",
-          "text": "The game continually checks whether you control a permanent with a phylactery counter on it. The moment you don't, Phylactery Lich's last ability triggers. The ability doesn't check again, so you'll have to sacrifice Phylactery Lich when it resolves even if you wind up controlling a permanent with a phylactery counter on it by then."
-        },
-        {
-          "date": "2013-07-01",
-          "text": "Lethal damage, damage from a source with deathtouch, and effects that say \"destroy\" won't cause a creature with indestructible to be put into the graveyard. However, a creature with indestructible can be put into the graveyard for a number of reasons. The most likely reasons Phylactery Lich would be put into a graveyard are if it's sacrificed (perhaps due to its last ability), or if its toughness is 0 or less."
+          "date": "2018-07-13",
+          "text": "Phylactery Lich's last ability checks your permanents for any phylactery counters, not just the specific one that it caused you to put on an artifact. For example, if you control two Phylactery Liches and two different artifacts with phylactery counters, neither Phylactery Lich will be sacrificed if one of those artifacts leaves the battlefield."
         }
       ],
       "subtypes": [
@@ -12385,6 +12371,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -12394,6 +12384,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -12415,7 +12409,8 @@
         "M12",
         "DDJ",
         "DDK",
-        "MM2"
+        "MM2",
+        "M19"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -12604,6 +12599,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -12616,7 +12615,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Shadows over Innistrad Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -12641,25 +12640,22 @@
         "DD3_GVL",
         "C15",
         "EMN",
-        "CMA"
+        "CMA",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
-          "date": "2009-10-01",
+          "date": "2018-07-13",
           "text": "Rise from the Grave doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype."
         },
         {
-          "date": "2009-10-01",
-          "text": "If the targeted creature is normally colorless, it will simply become black. It won't be both black and colorless."
+          "date": "2018-07-13",
+          "text": "If the creature is normally colorless, it will simply become black. It can't be both black and colorless."
         },
         {
-          "date": "2009-10-01",
-          "text": "A later effect that changes the affected creature's colors will overwrite that part of Rise from the Grave effect; the creature will be just the new color. The same is true about an effect that changes the affected creature's types or subtypes."
-        },
-        {
-          "date": "2009-10-01",
-          "text": "A \"creature card\" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards."
+          "date": "2018-07-13",
+          "text": "A later effect that changes the affected creature's colors will overwrite that part of Rise from the Grave's effect; the creature will be only the new color. The same is true about an effect that changes the affected creature's types or subtypes."
         }
       ],
       "text": "Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.",
@@ -13391,11 +13387,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Khans of Tarkir Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -13407,7 +13403,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -13432,21 +13428,18 @@
         "DDN",
         "KTK",
         "ORI",
-        "A25"
+        "A25",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2009-10-01",
+          "date": "2018-07-13",
           "text": "Act of Treason can target any creature, even one that's untapped or one you already control."
         },
         {
-          "date": "2010-08-15",
+          "date": "2018-07-13",
           "text": "Gaining control of a creature doesn't cause you to gain control of any Auras or Equipment attached to it."
-        },
-        {
-          "date": "2013-07-01",
-          "text": "If you control a legendary creature and gain control of another legendary creature with the same name, you'll choose one to remain on the battlefield and put the other into its owner's graveyard."
         }
       ],
       "text": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)",
@@ -16365,6 +16358,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -16377,7 +16374,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Urza Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -16408,7 +16405,8 @@
         "M11",
         "M12",
         "M14",
-        "M15"
+        "M15",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Lava Axe deals 5 damage to target player or planeswalker.",
@@ -17534,7 +17532,8 @@
       "originalType": "Instant",
       "printings": [
         "M11",
-        "M14"
+        "M14",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -19906,7 +19905,8 @@
         "DD3_EVG",
         "DD3_GVL",
         "E02",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Target creature gets +3/+3 until end of turn.",
@@ -19977,7 +19977,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -20030,7 +20030,9 @@
         "M11",
         "M12",
         "M14",
-        "AKH"
+        "AKH",
+        "GS1",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -20566,7 +20568,8 @@
         "DD3_EVG",
         "EMA",
         "CMA",
-        "DOM"
+        "DOM",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -20794,7 +20797,8 @@
         "KTK",
         "DTK",
         "RIX",
-        "DDU"
+        "DDU",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Destroy target artifact or enchantment.",
@@ -21229,7 +21233,8 @@
         "BFZ",
         "CN2",
         "RIX",
-        "A25"
+        "A25",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Destroy target creature with flying.",
@@ -22180,6 +22185,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -22189,6 +22198,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -22205,7 +22218,8 @@
       "originalType": "Creature — Plant Wall",
       "power": "0",
       "printings": [
-        "M11"
+        "M11",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -23008,6 +23022,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -23017,6 +23035,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -23034,7 +23056,8 @@
       "power": "3",
       "printings": [
         "M11",
-        "M15"
+        "M15",
+        "M19"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -23261,7 +23284,8 @@
         "ME4",
         "M15",
         "EMA",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -23919,7 +23943,8 @@
       "originalType": "Artifact Creature — Golem",
       "power": "4",
       "printings": [
-        "M11"
+        "M11",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -25683,7 +25708,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25974,7 +26002,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26265,7 +26296,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26556,7 +26590,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26847,7 +26884,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27138,7 +27178,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27429,7 +27472,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27720,7 +27766,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28014,7 +28063,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28308,7 +28359,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28602,7 +28655,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28896,7 +28951,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29193,7 +29250,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29490,7 +29550,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29787,7 +29850,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30084,7 +30150,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30378,7 +30447,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30672,7 +30744,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30966,7 +31041,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31260,7 +31338,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [

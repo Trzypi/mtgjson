@@ -4301,7 +4301,8 @@
       "originalType": "Instant",
       "printings": [
         "DIS",
-        "MMA"
+        "MMA",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "text": "Counter target spell with converted mana cost 2.",
@@ -9546,7 +9547,8 @@
       "printings": [
         "pJGP",
         "RAV",
-        "MMA"
+        "MMA",
+        "BBD"
       ],
       "rarity": "Rare",
       "rulings": [

@@ -1727,7 +1727,8 @@
       "power": "2",
       "printings": [
         "DKA",
-        "M15"
+        "M15",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -3385,11 +3386,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Innistrad Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -3398,6 +3399,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -3414,17 +3419,14 @@
       "originalType": "Instant",
       "printings": [
         "DKA",
-        "ORI"
+        "ORI",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2011-01-22",
-          "text": "If the creature spell is an illegal target (because it's left the stack, for example) when Bone to Ash tries to resolve, Bone to Ash won't resolve and none of its effects will happen. You won't draw a card."
-        },
-        {
-          "date": "2011-01-22",
-          "text": "A creature spell that can't be countered by spells and abilities is a legal target for Bone to Ash. The creature spell won't be countered when Bone to Ash resolves, but you'll still draw a card."
+          "date": "2018-07-13",
+          "text": "A creature spell that can't be countered is a legal target for Bone to Ash. The creature spell won't be countered when Bone to Ash resolves, but you'll still draw a card."
         }
       ],
       "text": "Counter target creature spell.\nDraw a card.",
@@ -4120,7 +4122,8 @@
         "BNG",
         "M15",
         "CN2",
-        "DOM"
+        "DOM",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Draw two cards.",
@@ -10060,7 +10063,8 @@
       "originalText": "Target creature fights another target creature. (Each deals damage equal to its power to the other.)",
       "originalType": "Sorcery",
       "printings": [
-        "DKA"
+        "DKA",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [

@@ -1746,7 +1746,8 @@
         "DTK",
         "TPR",
         "EMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -2420,7 +2421,8 @@
         "C16",
         "C17",
         "IMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -4825,7 +4827,8 @@
         "USG",
         "PC2",
         "EMA",
-        "PCA"
+        "PCA",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -6439,7 +6442,8 @@
         "DTK",
         "EMA",
         "XLN",
-        "IMA"
+        "IMA",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
@@ -6609,7 +6613,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -6625,15 +6629,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Tempest Block",
           "legality": "Legal"
         },
         {
@@ -6669,7 +6665,8 @@
         "M15",
         "TPR",
         "EMA",
-        "AKH"
+        "AKH",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -8933,7 +8930,8 @@
         "M15",
         "W16",
         "EMA",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -9144,7 +9142,8 @@
         "PD2",
         "VMA",
         "EMA",
-        "MPS_AKH"
+        "MPS_AKH",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -9352,6 +9351,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -9361,6 +9364,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -9379,7 +9386,8 @@
       "printings": [
         "M14",
         "EMA",
-        "IMA"
+        "IMA",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -13017,7 +13025,8 @@
         "DD3_EVG",
         "EMA",
         "CMA",
-        "DOM"
+        "DOM",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -16667,7 +16676,8 @@
         "ME4",
         "M15",
         "EMA",
-        "DOM"
+        "DOM",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [

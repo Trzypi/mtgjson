@@ -843,6 +843,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -894,7 +898,8 @@
         "M15",
         "ORI",
         "W16",
-        "W17"
+        "W17",
+        "M19"
       ],
       "rarity": "Rare",
       "subtypes": [

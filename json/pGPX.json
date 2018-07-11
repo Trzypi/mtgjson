@@ -82,7 +82,8 @@
         "pGPX",
         "CNS",
         "VMA",
-        "IMA"
+        "IMA",
+        "Grand Prix"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -178,7 +179,8 @@
         "TSB",
         "pGPX",
         "MM3",
-        "DDS"
+        "DDS",
+        "Grand Prix"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
@@ -255,7 +257,8 @@
         "MRD",
         "pGPX",
         "EMA",
-        "MPS"
+        "MPS",
+        "Grand Prix"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -270,7 +273,7 @@
         }
       ],
       "source": "Grand Prix Tournament participation bonus.",
-      "text": "Imprint — When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand.\n{T}: Add one mana of any of the exiled card's colors to your mana pool.",
+      "text": "Imprint — When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand.\n{T}: Add one mana of any of the exiled card's colors.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -341,7 +344,8 @@
       "printings": [
         "BOK",
         "pGPX",
-        "V16"
+        "V16",
+        "Grand Prix"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -459,14 +463,15 @@
         "pGPX",
         "ARB",
         "MMA",
-        "MPS_AKH"
+        "MPS_AKH",
+        "Grand Prix"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
       "rulings": [
         {
           "date": "2009-05-01",
-          "text": "Maelstrom Pulse has only one target. If that permanent is an illegal target as Maelstrom Pulse tries to resolve, it will be countered and none of its effects will happen. Nothing will be destroyed."
+          "text": "Maelstrom Pulse has only one target. If that permanent is an illegal target as Maelstrom Pulse tries to resolve, it won't resolve and none of its effects will happen. Nothing will be destroyed."
         },
         {
           "date": "2009-05-01",
@@ -565,7 +570,8 @@
       "printings": [
         "pGPX",
         "ZEN",
-        "MM3"
+        "MM3",
+        "Grand Prix"
       ],
       "rarity": "Special",
       "releaseDate": "2012",
@@ -574,7 +580,7 @@
         "Goblin",
         "Scout"
       ],
-      "text": "Haste\nWhenever Goblin Guide attacks, defending player reveals the top card of his or her library. If it's a land card, that player puts it into his or her hand.",
+      "text": "Haste\nWhenever Goblin Guide attacks, defending player reveals the top card of their library. If it's a land card, that player puts it into their hand.",
       "toughness": "2",
       "type": "Creature — Goblin Scout",
       "types": [
@@ -658,7 +664,8 @@
       "printings": [
         "pGPX",
         "ZEN",
-        "IMA"
+        "IMA",
+        "Grand Prix"
       ],
       "rarity": "Special",
       "releaseDate": "2012",
@@ -680,7 +687,7 @@
       "subtypes": [
         "Snake"
       ],
-      "text": "Landfall — Whenever a land enters the battlefield under your control, you may add one mana of any color to your mana pool.",
+      "text": "Landfall — Whenever a land enters the battlefield under your control, you may add one mana of any color.",
       "toughness": "1",
       "type": "Creature — Snake",
       "types": [
@@ -766,7 +773,8 @@
         "M11",
         "M12",
         "MM2",
-        "IMA"
+        "IMA",
+        "Grand Prix"
       ],
       "rarity": "Special",
       "releaseDate": "2013",
@@ -857,7 +865,8 @@
       "printings": [
         "pGPX",
         "ROE",
-        "MM2"
+        "MM2",
+        "Grand Prix"
       ],
       "rarity": "Special",
       "releaseDate": "2013",
@@ -887,7 +896,7 @@
       "subtypes": [
         "Eldrazi"
       ],
-      "text": "Each player sacrifices all colored permanents he or she controls.",
+      "text": "Each player sacrifices all colored permanents they control.",
       "type": "Tribal Sorcery — Eldrazi",
       "types": [
         "Tribal",
@@ -966,7 +975,8 @@
       "number": "10",
       "printings": [
         "pGPX",
-        "NPH"
+        "NPH",
+        "Grand Prix"
       ],
       "rarity": "Special",
       "releaseDate": "2014",
@@ -1071,7 +1081,8 @@
       "printings": [
         "pGPX",
         "AVR",
-        "MM3"
+        "MM3",
+        "Grand Prix"
       ],
       "rarity": "Special",
       "releaseDate": "2015",
@@ -1174,7 +1185,8 @@
       "power": "1",
       "printings": [
         "pGPX",
-        "WWK"
+        "WWK",
+        "Grand Prix"
       ],
       "rarity": "Special",
       "releaseDate": "2016",

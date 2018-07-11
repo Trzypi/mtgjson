@@ -176,7 +176,7 @@ function getMultiverseidsForSet(setCode, cb)
 
             var coreSets = validSets.filter(function(SET) { return SET.type==="core"; });
             var nonCoreSets = validSets.filter(function(SET) { return SET.type!=="core"; });
-            async.eachSeriea(
+            async.eachSeries(
                 coreSets.concat(nonCoreSets).map(function(SET) { return SET.code; }),
                 loadSetCards,
                 this);

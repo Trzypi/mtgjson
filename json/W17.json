@@ -822,11 +822,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -878,7 +878,8 @@
         "ME4",
         "DD3_JVC",
         "W17",
-        "XLN"
+        "XLN",
+        "M19"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -2639,6 +2640,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -2690,7 +2695,8 @@
         "M15",
         "ORI",
         "W16",
-        "W17"
+        "W17",
+        "M19"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -3025,6 +3031,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -3055,7 +3065,8 @@
       "printings": [
         "M10",
         "W16",
-        "W17"
+        "W17",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -3134,6 +3145,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -3143,10 +3158,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
           "legality": "Legal"
         },
         {
@@ -3167,12 +3178,13 @@
       "originalType": "Sorcery",
       "printings": [
         "SOI",
-        "W17"
+        "W17",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2016-04-08",
+          "date": "2018-07-13",
           "text": "If either creature is an illegal target as Rabid Bite tries to resolve, the creature you control won't deal damage."
         }
       ],

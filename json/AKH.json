@@ -2549,11 +2549,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -2593,12 +2589,13 @@
         "MM2",
         "ORI",
         "OGW",
-        "AKH"
+        "AKH",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2017-04-18",
+          "date": "2018-07-13",
           "text": "Giving a creature flying after it's already been blocked won't change or undo that block. If you want to affect what can block the creature, you must cast Mighty Leap during the declare attackers step at the latest."
         }
       ],
@@ -3735,7 +3732,8 @@
       "originalType": "Creature — Zombie",
       "power": "3",
       "printings": [
-        "AKH"
+        "AKH",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -5567,19 +5565,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -5591,27 +5581,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -5639,7 +5613,8 @@
         "KTK",
         "PCA",
         "AKH",
-        "XLN"
+        "XLN",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Counter target spell.",
@@ -6553,7 +6528,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -6590,7 +6565,8 @@
         "M13",
         "M14",
         "AKH",
-        "DDT"
+        "DDT",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -10844,7 +10820,9 @@
       "originalType": "Creature — Human",
       "power": "1",
       "printings": [
-        "AKH"
+        "AKH",
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -11487,7 +11465,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -11503,15 +11481,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Tempest Block",
           "legality": "Legal"
         },
         {
@@ -11547,7 +11517,8 @@
         "M15",
         "TPR",
         "EMA",
-        "AKH"
+        "AKH",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -12607,7 +12578,8 @@
       "originalText": "Target player draws two cards and loses 2 life.",
       "originalType": "Sorcery",
       "printings": [
-        "AKH"
+        "AKH",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Target player draws two cards and loses 2 life.",
@@ -15817,7 +15789,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -15849,7 +15821,8 @@
       "originalText": "Electrify deals 4 damage to target creature.",
       "originalType": "Instant",
       "printings": [
-        "AKH"
+        "AKH",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Electrify deals 4 damage to target creature.",
@@ -17972,7 +17945,8 @@
       "originalType": "Creature — Human Wizard",
       "power": "2",
       "printings": [
-        "AKH"
+        "AKH",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -18526,15 +18500,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -18543,10 +18513,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
           "legality": "Legal"
         },
         {
@@ -18571,13 +18537,14 @@
         "SOI",
         "CN2",
         "AKH",
-        "IMA"
+        "IMA",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2017-11-17",
-          "text": "Because discarding a card is an additional cost, you can't cast Tormenting Voice if you have no other cards in hand."
+          "date": "2018-07-13",
+          "text": "You must discard exactly one card to cast Tormenting Voice; you can't cast it without discarding a card, and you can't discard additional cards."
         }
       ],
       "text": "As an additional cost to cast this spell, discard a card.\nDraw two cards.",
@@ -20341,7 +20308,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -20394,7 +20361,9 @@
         "M11",
         "M12",
         "M14",
-        "AKH"
+        "AKH",
+        "GS1",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -20479,7 +20448,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -20511,7 +20480,8 @@
       "originalText": "Enchant land\nWhen Gift of Paradise enters the battlefield, you gain 3 life.\nEnchanted land has \"{T}: Add two mana of any one color to your mana pool.\"",
       "originalType": "Enchantment — Aura",
       "printings": [
-        "AKH"
+        "AKH",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -24214,7 +24184,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -24247,16 +24217,17 @@
       "originalType": "Creature — Drake",
       "power": "*",
       "printings": [
-        "AKH"
+        "AKH",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
-          "date": "2017-04-18",
-          "text": "A split card only counts once for Enigma Drake's ability, even if it's both an instant and a sorcery."
+          "date": "2018-07-13",
+          "text": "A split card (such as those featured in the Amonkhet block) only counts once for Enigma Drake's ability, even if it's both an instant and a sorcery."
         },
         {
-          "date": "2017-04-18",
+          "date": "2018-07-13",
           "text": "The ability that defines Enigma Drake's power works in all zones."
         }
       ],
@@ -32897,7 +32868,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33188,7 +33162,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33482,7 +33459,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33779,7 +33758,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34073,7 +34055,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34364,7 +34349,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34655,7 +34643,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34946,7 +34937,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35237,7 +35231,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35528,7 +35525,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35819,7 +35819,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -36113,7 +36116,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -36407,7 +36412,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -36701,7 +36708,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -36998,7 +37007,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -37295,7 +37307,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -37592,7 +37607,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -37886,7 +37904,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -38180,7 +38201,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -38474,7 +38498,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -39039,19 +39066,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
           "legality": "Legal"
         },
         {
@@ -39060,10 +39079,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
           "legality": "Legal"
         },
         {
@@ -39087,7 +39102,8 @@
         "AKH",
         "C17",
         "XLN",
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Stone Quarry enters the battlefield tapped.\n{T}: Add {R} or {W}.",
@@ -39498,7 +39514,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -39531,16 +39547,17 @@
       "originalType": "Creature — Zombie Jackal",
       "power": "1",
       "printings": [
-        "AKH"
+        "AKH",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2017-04-18",
+          "date": "2018-07-13",
           "text": "If your life total is brought to 0 or less at the same time that Tattered Mummy is dealt lethal damage, you lose the game before its triggered ability goes on the stack."
         },
         {
-          "date": "2017-04-18",
+          "date": "2018-07-13",
           "text": "In a Two-Headed Giant game, the triggered ability of Tattered Mummy causes the opposing team to lose 4 life."
         }
       ],
@@ -39620,15 +39637,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -39637,10 +39650,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
           "legality": "Legal"
         },
         {
@@ -39661,7 +39670,8 @@
       "printings": [
         "SOI",
         "AKH",
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Foul Orchard enters the battlefield tapped.\n{T}: Add {B} or {G}.",
@@ -39735,19 +39745,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -39778,7 +39780,8 @@
         "AKH",
         "HOU",
         "C17",
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Cinder Barrens enters the battlefield tapped.\n{T}: Add {B} or {R}.",
@@ -39852,15 +39855,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -39869,10 +39868,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
           "legality": "Legal"
         },
         {
@@ -39894,7 +39889,8 @@
         "SOI",
         "AKH",
         "C17",
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Forsaken Sanctuary enters the battlefield tapped.\n{T}: Add {W} or {B}.",
@@ -39968,15 +39964,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -39985,10 +39977,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
           "legality": "Legal"
         },
         {
@@ -40009,7 +39997,8 @@
       "printings": [
         "SOI",
         "AKH",
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Highland Lake enters the battlefield tapped.\n{T}: Add {U} or {R}.",
@@ -40116,7 +40105,9 @@
       "printings": [
         "OGW",
         "AKH",
-        "DOM"
+        "DOM",
+        "GS1",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Meandering River enters the battlefield tapped.\n{T}: Add {W} or {U}.",
@@ -40190,19 +40181,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
           "legality": "Legal"
         },
         {
@@ -40231,7 +40214,8 @@
       "printings": [
         "OGW",
         "AER",
-        "AKH"
+        "AKH",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Submerged Boneyard enters the battlefield tapped.\n{T}: Add {U} or {B}.",
@@ -40338,7 +40322,9 @@
       "printings": [
         "OGW",
         "AKH",
-        "DOM"
+        "DOM",
+        "GS1",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Timber Gorge enters the battlefield tapped.\n{T}: Add {R} or {G}.",
@@ -40412,19 +40398,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
           "legality": "Legal"
         },
         {
@@ -40454,7 +40432,8 @@
         "OGW",
         "AER",
         "AKH",
-        "C17"
+        "C17",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Tranquil Expanse enters the battlefield tapped.\n{T}: Add {G} or {W}.",
@@ -40528,19 +40507,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
           "legality": "Legal"
         },
         {
@@ -40549,10 +40520,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
           "legality": "Legal"
         },
         {
@@ -40576,7 +40543,8 @@
         "AKH",
         "HOU",
         "XLN",
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Woodland Stream enters the battlefield tapped.\n{T}: Add {G} or {U}.",

@@ -91,7 +91,8 @@
         "CMD",
         "MMA",
         "MM2",
-        "IMA"
+        "IMA",
+        "Champs and States"
       ],
       "rarity": "Special",
       "releaseDate": "2006-03-18",
@@ -106,11 +107,11 @@
         },
         {
           "date": "2017-11-17",
-          "text": "If all chosen targets are illegal as Electrolyze tries to resolve, it will be countered and none of its effects will happen. No damage will be dealt and you won't draw a card."
+          "text": "If all chosen targets are illegal as Electrolyze tries to resolve, it won't resolve and none of its effects will happen. No damage will be dealt and you won't draw a card."
         }
       ],
       "source": "CHAMPS Tournament participation bonus.",
-      "text": "Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.\nDraw a card.",
+      "text": "Electrolyze deals 2 damage divided as you choose among one or two targets.\nDraw a card.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -197,10 +198,22 @@
         "DRB",
         "DDJ",
         "MM2",
-        "C17"
+        "C17",
+        "A25",
+        "Champs and States"
       ],
       "rarity": "Special",
       "releaseDate": "2006-03-18",
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "If a spell or ability causes you to draw multiple cards, Niv-Mizzet's ability triggers that many times."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "If dealing 1 damage to a permanent or player causes you to draw a card, perhaps because Niv-Mizzet is enchanted by Curiosity, you'll continue this loop until the loop is interrupted, perhaps by a player losing the game."
+        }
+      ],
       "source": "CHAMPS Prize for 4th place or better (team).",
       "subtypes": [
         "Dragon",
@@ -209,7 +222,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "Flying\nWhenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.\n{T}: Draw a card.",
+      "text": "Flying\nWhenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to any target.\n{T}: Draw a card.",
       "toughness": "4",
       "type": "Legendary Creature — Dragon Wizard",
       "types": [
@@ -294,7 +307,8 @@
       "printings": [
         "pCMP",
         "DIS",
-        "ARC"
+        "ARC",
+        "Champs and States"
       ],
       "rarity": "Special",
       "releaseDate": "2006-06-24",
@@ -392,7 +406,8 @@
       "number": "4",
       "printings": [
         "pCMP",
-        "DIS"
+        "DIS",
+        "Champs and States"
       ],
       "rarity": "Special",
       "releaseDate": "2006-06-24",
@@ -477,7 +492,8 @@
       "printings": [
         "pCMP",
         "TSP",
-        "C13"
+        "C13",
+        "Champs and States"
       ],
       "rarity": "Special",
       "releaseDate": "2006-10-21",
@@ -491,7 +507,7 @@
       "subtypes": [
         "Urza’s"
       ],
-      "text": "{T}: Add {C} to your mana pool.\n{7}, {T}: Create a 2/2 colorless Assembly-Worker artifact creature token.",
+      "text": "{T}: Add {C}.\n{7}, {T}: Create a 2/2 colorless Assembly-Worker artifact creature token.",
       "type": "Land — Urza’s",
       "types": [
         "Land"
@@ -581,7 +597,8 @@
       "printings": [
         "pCMP",
         "TSP",
-        "M13"
+        "M13",
+        "Champs and States"
       ],
       "rarity": "Special",
       "releaseDate": "2006-10-21",
@@ -603,7 +620,7 @@
       "subtypes": [
         "Angel"
       ],
-      "text": "You can't cast Serra Avenger during your first, second, or third turns of the game.\nFlying\nVigilance (Attacking doesn't cause this creature to tap.)",
+      "text": "You can't cast this spell during your first, second, or third turns of the game.\nFlying\nVigilance (Attacking doesn't cause this creature to tap.)",
       "toughness": "3",
       "type": "Creature — Angel",
       "types": [
@@ -685,7 +702,8 @@
       "power": "2",
       "printings": [
         "pCMP",
-        "PLC"
+        "PLC",
+        "Champs and States"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -782,7 +800,8 @@
       "power": "6",
       "printings": [
         "pCMP",
-        "PLC"
+        "PLC",
+        "Champs and States"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -892,7 +911,8 @@
         "C14",
         "DD3_EVG",
         "EMA",
-        "CMA"
+        "CMA",
+        "Champs and States"
       ],
       "rarity": "Special",
       "releaseDate": "2007-10-27",
@@ -984,7 +1004,7 @@
           "legality": "Legal"
         }
       ],
-      "manaCost": "{B}{G}{W}",
+      "manaCost": "{W}{B}{G}",
       "mciNumber": "10",
       "name": "Doran, the Siege Tower",
       "number": "10",
@@ -992,7 +1012,8 @@
       "printings": [
         "pCMP",
         "LRW",
-        "V11"
+        "V11",
+        "Champs and States"
       ],
       "rarity": "Special",
       "releaseDate": "2007-10-27",
@@ -1104,7 +1125,8 @@
       "power": "2",
       "printings": [
         "pCMP",
-        "MOR"
+        "MOR",
+        "Champs and States"
       ],
       "rarity": "Special",
       "releaseDate": "2008-03-29",
@@ -1214,7 +1236,8 @@
       "printings": [
         "pCMP",
         "MOR",
-        "M14"
+        "M14",
+        "Champs and States"
       ],
       "rarity": "Special",
       "releaseDate": "2008-03-29",
@@ -1225,7 +1248,7 @@
         },
         {
           "date": "2008-08-01",
-          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature."
+          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature."
         },
         {
           "date": "2013-07-01",
@@ -1233,7 +1256,7 @@
         }
       ],
       "source": "CHAMPS Prize for Top 4.",
-      "text": "{T}: Add {C} to your mana pool.\n{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It's still a land.",
+      "text": "{T}: Add {C}.\n{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It's still a land.",
       "type": "Land",
       "types": [
         "Land"

@@ -2338,7 +2338,8 @@
         "DTK",
         "TPR",
         "EMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -3465,7 +3466,8 @@
         "M10",
         "M11",
         "M14",
-        "M15"
+        "M15",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -4365,11 +4367,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -4421,7 +4423,8 @@
         "ME4",
         "DD3_JVC",
         "W17",
-        "XLN"
+        "XLN",
+        "M19"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -4601,19 +4604,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -4625,27 +4620,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -4673,7 +4652,8 @@
         "KTK",
         "PCA",
         "AKH",
-        "XLN"
+        "XLN",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Counter target spell.",
@@ -5226,7 +5206,8 @@
         "BNG",
         "M15",
         "CN2",
-        "DOM"
+        "DOM",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Draw two cards.",
@@ -5291,6 +5272,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -5300,6 +5285,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -5317,25 +5306,26 @@
       "power": "4",
       "printings": [
         "M10",
-        "M12"
+        "M12",
+        "M19"
       ],
       "rarity": "Rare",
       "rulings": [
         {
-          "date": "2009-10-01",
-          "text": "You play the revealed card as part of the resolution of Djinn of Wishes's ability. Timing restrictions based on the card's type (such as creature or sorcery) are ignored. Other play restrictions are not (such as \"Cast [this card] only during combat\")."
+          "date": "2018-07-13",
+          "text": "If you wish to play the exiled card, you must play it while the last ability of Djinn of Wishes is resolving. You can't play it later in the turn. A spell cast this way may be cast at a time you normally wouldn't be able to cast a spell of that type, but other restrictions (such as \"Cast this spell only during combat\") are enforced."
         },
         {
-          "date": "2009-10-01",
-          "text": "If the revealed card is a spell, you may cast it only if you can choose legal targets for it. If you cast it, it's put on the stack, then Djinn of Wishes's ability finishes resolving. The spell will then resolve as normal, after players get a chance to cast spells and activate abilities."
-        },
-        {
-          "date": "2009-10-01",
+          "date": "2018-07-13",
           "text": "If the revealed card is a land, you can play it only if it's your turn and you haven't yet played a land this turn."
         },
         {
-          "date": "2009-10-01",
-          "text": "If you play a card \"without paying its mana cost,\" you can't pay any alternative costs. You can pay additional costs, such as conspire costs and kicker costs."
+          "date": "2018-07-13",
+          "text": "If you cast a spell \"without paying its mana cost,\" you can't choose to cast it for any alternative costs. You can, however, pay additional costs, such as kicker costs. If the card has any mandatory additional costs, such as that of Tormenting Voice, those must be paid to cast the card."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "If a spell has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost."
         }
       ],
       "subtypes": [
@@ -5405,7 +5395,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -5442,7 +5432,8 @@
         "M13",
         "M14",
         "AKH",
-        "DDT"
+        "DDT",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -6923,7 +6914,8 @@
         "OGW",
         "CN2",
         "AER",
-        "RIX"
+        "RIX",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -7030,7 +7022,8 @@
         "10E",
         "M10",
         "DPA",
-        "M14"
+        "M14",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -7520,6 +7513,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -7529,6 +7526,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -7547,17 +7548,14 @@
         "M10",
         "M11",
         "M13",
-        "C15"
+        "C15",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
-          "date": "2009-10-01",
-          "text": "The second part of Sleep's effect affects all creatures the targeted player controls as Sleep resolves, not just the ones that Sleep actually caused to become tapped."
-        },
-        {
-          "date": "2009-10-01",
-          "text": "Sleep tracks both the player and the creatures. If one of the creatures controlled by the targeted player as Sleep resolves changes controllers, the creature will untap as normal during its new controller's next untap step."
+          "date": "2018-07-13",
+          "text": "The second part of Sleep's ability affects all creatures the targeted player controls as Sleep resolves, not only the ones that Sleep actually caused to become tapped."
         }
       ],
       "text": "Tap all creatures target player controls. Those creatures don't untap during that player's next untap step.",
@@ -7623,6 +7621,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -7635,7 +7637,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ravnica Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -7659,7 +7661,8 @@
         "RAV",
         "10E",
         "M10",
-        "DPA"
+        "DPA",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -8957,7 +8960,8 @@
         "M11",
         "PC2",
         "CNS",
-        "PCA"
+        "PCA",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Destroy target tapped creature.",
@@ -9350,6 +9354,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -9359,6 +9367,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -9383,7 +9395,8 @@
         "M15",
         "CN2",
         "IMA",
-        "E02"
+        "E02",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -10231,7 +10244,8 @@
         "DTK",
         "EMA",
         "XLN",
-        "IMA"
+        "IMA",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
@@ -10297,7 +10311,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -10313,15 +10327,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Tempest Block",
           "legality": "Legal"
         },
         {
@@ -10357,7 +10363,8 @@
         "M15",
         "TPR",
         "EMA",
-        "AKH"
+        "AKH",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -11155,15 +11162,11 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -11172,10 +11175,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
           "legality": "Legal"
         },
         {
@@ -11213,7 +11212,8 @@
         "DTK",
         "ORI",
         "W16",
-        "KLD"
+        "KLD",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Target player discards two cards.",
@@ -11620,6 +11620,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -11632,7 +11636,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Shadows over Innistrad Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -11657,25 +11661,22 @@
         "DD3_GVL",
         "C15",
         "EMN",
-        "CMA"
+        "CMA",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
-          "date": "2009-10-01",
+          "date": "2018-07-13",
           "text": "Rise from the Grave doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype."
         },
         {
-          "date": "2009-10-01",
-          "text": "If the targeted creature is normally colorless, it will simply become black. It won't be both black and colorless."
+          "date": "2018-07-13",
+          "text": "If the creature is normally colorless, it will simply become black. It can't be both black and colorless."
         },
         {
-          "date": "2009-10-01",
-          "text": "A later effect that changes the affected creature's colors will overwrite that part of Rise from the Grave effect; the creature will be just the new color. The same is true about an effect that changes the affected creature's types or subtypes."
-        },
-        {
-          "date": "2009-10-01",
-          "text": "A \"creature card\" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards."
+          "date": "2018-07-13",
+          "text": "A later effect that changes the affected creature's colors will overwrite that part of Rise from the Grave's effect; the creature will be only the new color. The same is true about an effect that changes the affected creature's types or subtypes."
         }
       ],
       "text": "Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.",
@@ -13215,11 +13216,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Khans of Tarkir Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -13231,7 +13232,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -13256,21 +13257,18 @@
         "DDN",
         "KTK",
         "ORI",
-        "A25"
+        "A25",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
-          "date": "2009-10-01",
+          "date": "2018-07-13",
           "text": "Act of Treason can target any creature, even one that's untapped or one you already control."
         },
         {
-          "date": "2010-08-15",
+          "date": "2018-07-13",
           "text": "Gaining control of a creature doesn't cause you to gain control of any Auras or Equipment attached to it."
-        },
-        {
-          "date": "2013-07-01",
-          "text": "If you control a legendary creature and gain control of another legendary creature with the same name, you'll choose one to remain on the battlefield and put the other into its owner's graveyard."
         }
       ],
       "text": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)",
@@ -15518,6 +15516,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -15530,7 +15532,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Urza Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -15561,7 +15563,8 @@
         "M11",
         "M12",
         "M14",
-        "M15"
+        "M15",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Lava Axe deals 5 damage to target player or planeswalker.",
@@ -16705,6 +16708,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -16756,7 +16763,8 @@
         "M15",
         "ORI",
         "W16",
-        "W17"
+        "W17",
+        "M19"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -17165,6 +17173,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -17174,6 +17186,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -17196,7 +17212,9 @@
         "KTK",
         "CN2",
         "IMA",
-        "A25"
+        "A25",
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -18409,6 +18427,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -18418,6 +18440,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -18435,7 +18461,8 @@
       "printings": [
         "M10",
         "M13",
-        "M15"
+        "M15",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -19079,7 +19106,8 @@
         "ORI",
         "C15",
         "DDR",
-        "CMA"
+        "CMA",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -19736,7 +19764,8 @@
         "DD3_EVG",
         "DD3_GVL",
         "E02",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Target creature gets +3/+3 until end of turn.",
@@ -19802,7 +19831,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -19855,7 +19884,9 @@
         "M11",
         "M12",
         "M14",
-        "AKH"
+        "AKH",
+        "GS1",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -20297,7 +20328,8 @@
         "DD3_EVG",
         "EMA",
         "CMA",
-        "DOM"
+        "DOM",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -20937,7 +20969,8 @@
         "KTK",
         "DTK",
         "RIX",
-        "DDU"
+        "DDU",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Destroy target artifact or enchantment.",
@@ -21104,6 +21137,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -21134,7 +21171,8 @@
       "printings": [
         "M10",
         "W16",
-        "W17"
+        "W17",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -24801,7 +24839,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25092,7 +25133,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25383,7 +25427,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25674,7 +25721,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25965,7 +26015,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26256,7 +26309,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26547,7 +26603,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26838,7 +26897,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27132,7 +27194,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27426,7 +27490,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27720,7 +27786,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28014,7 +28082,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28311,7 +28381,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28608,7 +28681,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28905,7 +28981,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29202,7 +29281,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29496,7 +29578,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29790,7 +29875,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30084,7 +30172,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30378,7 +30469,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [

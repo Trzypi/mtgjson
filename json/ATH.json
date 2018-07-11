@@ -6,7 +6,6 @@
   "releaseDate": "1998-11-01",
   "border": "white",
   "type": "box",
-  "mkm_name": "Anthologies",
   "mkm_id": 75,
   "cards": [
     {
@@ -80,7 +79,8 @@
         "C14",
         "EMA",
         "C16",
-        "C17"
+        "C17",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -185,7 +185,8 @@
         "7ED",
         "8ED",
         "9ED",
-        "10E"
+        "10E",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -263,7 +264,8 @@
         "5ED",
         "ATH",
         "6ED",
-        "ME4"
+        "ME4",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -331,6 +333,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -339,11 +345,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Mirage Block",
+          "format": "Modern",
           "legality": "Legal"
         },
         {
-          "format": "Modern",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -363,7 +369,9 @@
         "ATH",
         "6ED",
         "S99",
-        "M12"
+        "M12",
+        "Anthologies",
+        "M19"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -430,10 +438,11 @@
         "V09",
         "ME4",
         "VMA",
-        "EXP"
+        "EXP",
+        "Anthologies"
       ],
       "rarity": "Special",
-      "text": "{T}: Add {C} to your mana pool.\n{T}, Sacrifice Strip Mine: Destroy target land.",
+      "text": "{T}: Add {C}.\n{T}, Sacrifice Strip Mine: Destroy target land.",
       "type": "Land",
       "types": [
         "Land"
@@ -482,7 +491,8 @@
       "printings": [
         "LEG",
         "ATH",
-        "ME3"
+        "ME3",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -585,7 +595,8 @@
         "MED",
         "M10",
         "M11",
-        "ME4"
+        "ME4",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -685,7 +696,8 @@
         "pMPR",
         "9ED",
         "10E",
-        "M10"
+        "M10",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -766,7 +778,8 @@
         "ICE",
         "5ED",
         "ATH",
-        "ME2"
+        "ME2",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -791,6 +804,10 @@
       ],
       "flavor": "\"Ihsan, the weak. Ihsan, the fallen. Ihsan, the betrayer. He has brought shame to the Serra Paladins where none existed before. May his suffering equal his betrayal.\"\n—Baris, Serra inquisitor",
       "foreignNames": [
+        {
+          "language": "Chinese Simplified",
+          "name": "伊桑的阴魂"
+        },
         {
           "language": "French",
           "name": "L'ombre d'Ihssân"
@@ -841,7 +858,9 @@
       "printings": [
         "HML",
         "ATH",
-        "ME2"
+        "ME2",
+        "A25",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -944,7 +963,8 @@
         "ATH",
         "9ED",
         "M11",
-        "CN2"
+        "CN2",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1034,7 +1054,8 @@
         "ICE",
         "ATH",
         "DKM",
-        "MED"
+        "MED",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -1108,7 +1129,8 @@
       "printings": [
         "USG",
         "ATH",
-        "HOP"
+        "HOP",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1186,7 +1208,8 @@
       "printings": [
         "VIS",
         "ATH",
-        "6ED"
+        "6ED",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1287,7 +1310,8 @@
       "printings": [
         "ICE",
         "ATH",
-        "TSB"
+        "TSB",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -1370,7 +1394,8 @@
         "ATH",
         "ME2",
         "DDL",
-        "EMA"
+        "EMA",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1380,14 +1405,14 @@
         },
         {
           "date": "2016-06-08",
-          "text": "You divide the damage as you cast Pyrokinesis, not as it resolves. If any of the targets become illegal, damage is dealt to the other targets as originally assigned. If all targets are illegal, Pyrokinesis is countered."
+          "text": "You divide the damage as you cast Pyrokinesis, not as it resolves. If any of the targets become illegal, damage is dealt to the other targets as originally assigned. If all targets are illegal, Pyrokinesis doesn't resolve."
         },
         {
           "date": "2016-06-08",
           "text": "If another effect causes Pyrokinesis to cost more, you must pay that additional cost even if you pay its alternative cost."
         }
       ],
-      "text": "You may exile a red card from your hand rather than pay Pyrokinesis's mana cost.\nPyrokinesis deals 4 damage divided as you choose among any number of target creatures.",
+      "text": "You may exile a red card from your hand rather than pay this spell's mana cost.\nPyrokinesis deals 4 damage divided as you choose among any number of target creatures.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -1478,7 +1503,8 @@
         "4ED",
         "ATH",
         "BRB",
-        "TSB"
+        "TSB",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -1497,6 +1523,14 @@
       "flavor": "\"A fine example of the rewards of artifice: a thoroughly obedient steed with wings of Soldevi steel.\"\n—Arcum Dagsson, Soldevi machinist",
       "foreignNames": [
         {
+          "language": "Chinese Simplified",
+          "name": "艾斯鹰滑翔翼"
+        },
+        {
+          "language": "Chinese Traditional",
+          "name": "艾斯鷹滑翔翼"
+        },
+        {
           "language": "French",
           "name": "Planeur d'aeszir"
         },
@@ -1509,8 +1543,20 @@
           "name": "Aliante Aesthir"
         },
         {
+          "language": "Japanese",
+          "name": "エイスサーの滑空機"
+        },
+        {
+          "language": "Korean",
+          "name": "애스시르 활강자"
+        },
+        {
           "language": "Portuguese (Brazil)",
           "name": "Planador de Aesthir"
+        },
+        {
+          "language": "Russian",
+          "name": "Парящий Эстир"
         },
         {
           "language": "Spanish",
@@ -1556,15 +1602,17 @@
         "ALL",
         "ATH",
         "ME4",
-        "DOM"
+        "DOM",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
-        "Bird"
+        "Bird",
+        "Construct"
       ],
       "text": "Flying\nAesthir Glider can't block.",
       "toughness": "1",
-      "type": "Artifact Creature — Bird",
+      "type": "Artifact Creature — Bird Construct",
       "types": [
         "Artifact",
         "Creature"
@@ -1640,7 +1688,8 @@
         "C14",
         "DD3_GVL",
         "C15",
-        "CMA"
+        "CMA",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1649,7 +1698,7 @@
           "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
         }
       ],
-      "text": "Polluted Mire enters the battlefield tapped.\n{T}: Add {B} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+      "text": "Polluted Mire enters the battlefield tapped.\n{T}: Add {B}.\nCycling {2} ({2}, Discard this card: Draw a card.)",
       "type": "Land",
       "types": [
         "Land"
@@ -1721,7 +1770,9 @@
         "BTD",
         "C13",
         "C14",
-        "C15"
+        "C15",
+        "CM2",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1730,7 +1781,7 @@
           "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
         }
       ],
-      "text": "Smoldering Crater enters the battlefield tapped.\n{T}: Add {R} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+      "text": "Smoldering Crater enters the battlefield tapped.\n{T}: Add {R}.\nCycling {2} ({2}, Discard this card: Draw a card.)",
       "type": "Land",
       "types": [
         "Land"
@@ -1778,7 +1829,8 @@
         "ARN",
         "CHR",
         "ATH",
-        "MED"
+        "MED",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1803,7 +1855,7 @@
         "Human",
         "Wizard"
       ],
-      "text": "{T}: Cuombajj Witches deals 1 damage to target creature or player and 1 damage to target creature or player of an opponent's choice.",
+      "text": "{T}: Cuombajj Witches deals 1 damage to any target and 1 damage to any target of an opponent's choice.",
       "toughness": "3",
       "type": "Creature — Human Wizard",
       "types": [
@@ -1867,7 +1919,8 @@
       "printings": [
         "HML",
         "ATH",
-        "6ED"
+        "6ED",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -1926,7 +1979,8 @@
         "MED",
         "V13",
         "VMA",
-        "EMA"
+        "EMA",
+        "Anthologies"
       ],
       "rarity": "Special",
       "text": "Target player discards two cards at random.",
@@ -2033,7 +2087,8 @@
         "MRD",
         "10E",
         "DPA",
-        "ME4"
+        "ME4",
+        "Anthologies"
       ],
       "rarity": "Special",
       "text": "Destroy target nonartifact, nonblack creature. It can't be regenerated.",
@@ -2133,7 +2188,8 @@
         "M10",
         "DPA",
         "M11",
-        "DD3_DVD"
+        "DD3_DVD",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -2248,7 +2304,8 @@
         "M12",
         "C13",
         "DD3_JVC",
-        "IMA"
+        "IMA",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -2269,7 +2326,7 @@
           "text": "You can target more than X creatures. However, if the number of legal targets at the time Fireball resolves is greater than X, none of them will be dealt any damage."
         }
       ],
-      "text": "Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.\nFireball costs {1} more to cast for each target beyond the first.",
+      "text": "This spell costs {1} more to cast for each target beyond the first.\nFireball deals X damage divided evenly, rounded down, among any number of targets.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -2336,7 +2393,8 @@
         "5ED",
         "ATH",
         "6ED",
-        "7ED"
+        "7ED",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -2428,7 +2486,8 @@
         "ATH",
         "MED",
         "M12",
-        "DDT"
+        "DDT",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -2445,7 +2504,7 @@
           "text": "The Goblin you sacrifice to cast Goblin Grenade doesn't have to be a creature. For example, you could sacrifice Boggart Shenanigans (a tribal enchantment with the subtype Goblin)."
         }
       ],
-      "text": "As an additional cost to cast Goblin Grenade, sacrifice a Goblin.\nGoblin Grenade deals 5 damage to target creature or player.",
+      "text": "As an additional cost to cast this spell, sacrifice a Goblin.\nGoblin Grenade deals 5 damage to any target.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -2512,7 +2571,8 @@
         "ATH",
         "6ED",
         "S99",
-        "S00"
+        "S00",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -2589,7 +2649,8 @@
         "7ED",
         "EVG",
         "VMA",
-        "DD3_EVG"
+        "DD3_EVG",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -2673,7 +2734,8 @@
       "power": "1",
       "printings": [
         "MIR",
-        "ATH"
+        "ATH",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -2746,7 +2808,8 @@
       "power": "1",
       "printings": [
         "WTH",
-        "ATH"
+        "ATH",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -2859,10 +2922,12 @@
         "M11",
         "PD2",
         "MM2",
-        "E01"
+        "E01",
+        "A25",
+        "Anthologies"
       ],
       "rarity": "Special",
-      "text": "Lightning Bolt deals 3 damage to target creature or player.",
+      "text": "Lightning Bolt deals 3 damage to any target.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -2956,7 +3021,8 @@
         "PD2",
         "DD3_EVG",
         "TPR",
-        "EMA"
+        "EMA",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -2968,7 +3034,7 @@
       "subtypes": [
         "Goblin"
       ],
-      "text": "Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.",
+      "text": "Sacrifice Mogg Fanatic: It deals 1 damage to any target.",
       "toughness": "1",
       "type": "Creature — Goblin",
       "types": [
@@ -3064,29 +3130,31 @@
         "PD2",
         "M13",
         "TPR",
-        "MM3"
+        "MM3",
+        "A25",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
         {
-          "date": "2017-03-14",
-          "text": "Mogg Flunkies can be declared as an attacker only if another creature is declared as an attacker at the same time. Similarly, Mogg Flunkies can be declared as a blocker only if another creature is declared as a blocker at the same time."
+          "date": "2018-03-16",
+          "text": "If you control more than one Mogg Flunkies, they can attack or block together, even if no other creatures attack or block."
         },
         {
-          "date": "2017-03-14",
-          "text": "Two or more Mogg Flunkies can attack or block together."
+          "date": "2018-03-16",
+          "text": "Although Mogg Flunkies can't attack alone, other attacking creatures don't have to attack the same player or planeswalker. For example, Mogg Flunkies could attack an opponent and another creature could attack a planeswalker that opponent controls. Similarly, other blocking creatures don't have to block the same creature that Mogg Flunkies blocks."
         },
         {
-          "date": "2017-03-14",
-          "text": "Although Mogg Flunkies can't attack alone, other attacking creature(s) don't have to attack the same player or planeswalker. For example, Mogg Flunkies could attack an opponent and another creature could attack a planeswalker that opponent controls."
+          "date": "2018-03-16",
+          "text": "Once Mogg Flunkies has attacked or blocked, it will remain in combat even if you no longer control another attacking or blocking creature."
         },
         {
-          "date": "2017-03-14",
+          "date": "2018-03-16",
           "text": "If an effect says that Mogg Flunkies attacks or blocks if able and you control another creature able to attack or block, you must attack or block with Mogg Flunkies and that creature."
         },
         {
-          "date": "2017-03-14",
-          "text": "In a Two-Headed Giant game (or in another format using the shared team turns option), Mogg Flunkies can attack or block with a creature controlled by your teammate, even if no other creatures you control are attacking or blocking. In any other multiplayer variant, it ignores each other player's blocking creatures."
+          "date": "2018-03-16",
+          "text": "In a Two-Headed Giant game, Mogg Flunkies can attack or block with a creature controlled by your teammate, even if no other creatures you control are attacking or blocking."
         }
       ],
       "subtypes": [
@@ -3159,7 +3227,8 @@
       "power": "1",
       "printings": [
         "TMP",
-        "ATH"
+        "ATH",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -3264,7 +3333,8 @@
         "7ED",
         "8ED",
         "HOP",
-        "FRF"
+        "FRF",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -3278,14 +3348,10 @@
         },
         {
           "date": "2014-11-24",
-          "text": "You can't deal damage to both a player and a planeswalker that player controls using Pyrotechnics. You also can't deal damage to more than one planeswalker controlled by the same player. If you choose to redirect the damage being dealt to a player to a planeswalker, you must redirect all the damage to a single planeswalker."
-        },
-        {
-          "date": "2014-11-24",
           "text": "If an effect creates a copy of Pyrotechnics, the number of targets and division of damage can't be changed. The effect that creates the copy may allow you to change the targets, however."
         }
       ],
-      "text": "Pyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.",
+      "text": "Pyrotechnics deals 4 damage divided as you choose among any number of targets.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -3385,7 +3451,8 @@
         "10E",
         "EVG",
         "M10",
-        "DD3_EVG"
+        "DD3_EVG",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -3586,8 +3653,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Anthologies",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3788,8 +3862,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Anthologies",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -3988,8 +4069,13 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "Anthologies",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4188,8 +4274,13 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "Anthologies",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -4283,10 +4374,11 @@
         "6ED",
         "7ED",
         "9ED",
-        "10E"
+        "10E",
+        "Anthologies"
       ],
       "rarity": "Special",
-      "text": "{T}: Add {C} to your mana pool.\n{T}: Add {G} or {W} to your mana pool. Brushland deals 1 damage to you.",
+      "text": "{T}: Add {C}.\n{T}: Add {G} or {W}. Brushland deals 1 damage to you.",
       "type": "Land",
       "types": [
         "Land"
@@ -4373,7 +4465,8 @@
         "EXO",
         "ATH",
         "10E",
-        "TPR"
+        "TPR",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -4401,6 +4494,10 @@
       ],
       "foreignNames": [
         {
+          "language": "Chinese Simplified",
+          "name": "毁天灭地"
+        },
+        {
           "language": "French",
           "name": "Armaguedon"
         },
@@ -4411,6 +4508,10 @@
         {
           "language": "Italian",
           "name": "Armageddon"
+        },
+        {
+          "language": "Japanese",
+          "name": "ハルマゲドン"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -4461,7 +4562,9 @@
         "ME4",
         "VMA",
         "V14",
-        "MPS_AKH"
+        "MPS_AKH",
+        "A25",
+        "Anthologies"
       ],
       "rarity": "Special",
       "text": "Destroy all lands.",
@@ -4551,7 +4654,8 @@
         "MIR",
         "ATH",
         "TSB",
-        "C14"
+        "C14",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -4638,7 +4742,9 @@
         "LEG",
         "ATH",
         "pFNM",
-        "TSB"
+        "TSB",
+        "A25",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -4650,7 +4756,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "{T}: Add {G} to your mana pool.\n{T}: Target 1/1 creature gets +1/+2 until end of turn.",
+      "text": "{T}: Add {G}.\n{T}: Target 1/1 creature gets +1/+2 until end of turn.",
       "type": "Legendary Land",
       "types": [
         "Land"
@@ -4719,7 +4825,9 @@
         "ATH",
         "6ED",
         "7ED",
-        "C14"
+        "C14",
+        "CM2",
+        "Anthologies"
       ],
       "rarity": "Special",
       "text": "{2}, {T}: Draw a card, then discard a card.",
@@ -4790,7 +4898,8 @@
       "power": "2",
       "printings": [
         "TMP",
-        "ATH"
+        "ATH",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -4869,7 +4978,8 @@
         "ATH",
         "BTD",
         "JUD",
-        "VMA"
+        "VMA",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -4990,7 +5100,8 @@
         "BRB",
         "7ED",
         "DKM",
-        "10E"
+        "10E",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -5063,7 +5174,8 @@
       "printings": [
         "HML",
         "ATH",
-        "MED"
+        "MED",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -5180,7 +5292,8 @@
         "C15",
         "CN2",
         "PCA",
-        "CMA"
+        "CMA",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -5258,7 +5371,8 @@
         "ICE",
         "5ED",
         "ATH",
-        "ME2"
+        "ME2",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -5349,7 +5463,8 @@
       "printings": [
         "USG",
         "ATH",
-        "9ED"
+        "9ED",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -5479,13 +5594,14 @@
         "W17",
         "CMA",
         "IMA",
-        "DOM"
+        "DOM",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
         "Angel"
       ],
-      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nVigilance (Attacking doesn't cause this creature to tap.)",
+      "text": "Flying, vigilance",
       "toughness": "4",
       "type": "Creature — Angel",
       "types": [
@@ -5576,16 +5692,19 @@
         "EMA",
         "C16",
         "C17",
-        "IMA"
+        "IMA",
+        "A25",
+        "BBD",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
         {
-          "date": "2017-11-17",
-          "text": "The amount of life gained is equal to the power of the target creature as it last existed on the battlefield."
+          "date": "2018-03-16",
+          "text": "The amount of life gained is equal to the power of the targeted creature as it last existed on the battlefield."
         },
         {
-          "date": "2017-11-17",
+          "date": "2018-03-16",
           "text": "If the creature's power is negative, its controller doesn't lose or gain life."
         }
       ],
@@ -5688,7 +5807,8 @@
         "M10",
         "M11",
         "ME4",
-        "DDG"
+        "DDG",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -5761,7 +5881,8 @@
       "printings": [
         "EXO",
         "ATH",
-        "TPR"
+        "TPR",
+        "Anthologies"
       ],
       "rarity": "Special",
       "text": "Buyback—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)\nCreate a 1/1 white Pegasus creature token with flying.",
@@ -5836,7 +5957,9 @@
         "BRB",
         "C13",
         "C14",
-        "C15"
+        "C15",
+        "CM2",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -5845,7 +5968,7 @@
           "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
         }
       ],
-      "text": "Drifting Meadow enters the battlefield tapped.\n{T}: Add {W} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+      "text": "Drifting Meadow enters the battlefield tapped.\n{T}: Add {W}.\nCycling {2} ({2}, Discard this card: Draw a card.)",
       "type": "Land",
       "types": [
         "Land"
@@ -5921,7 +6044,8 @@
         "C14",
         "DD3_GVL",
         "C15",
-        "CMA"
+        "CMA",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -5930,7 +6054,7 @@
           "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
         }
       ],
-      "text": "Slippery Karst enters the battlefield tapped.\n{T}: Add {G} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+      "text": "Slippery Karst enters the battlefield tapped.\n{T}: Add {G}.\nCycling {2} ({2}, Discard this card: Draw a card.)",
       "type": "Land",
       "types": [
         "Land"
@@ -6009,7 +6133,8 @@
         "pFNM",
         "TSB",
         "DDD",
-        "DD3_GVL"
+        "DD3_GVL",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -6104,7 +6229,9 @@
         "7ED",
         "8ED",
         "10E",
-        "TPR"
+        "TPR",
+        "BBD",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -6181,7 +6308,8 @@
         "DRK",
         "4ED",
         "ATH",
-        "MED"
+        "MED",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -6305,7 +6433,11 @@
         "RTR",
         "M14",
         "DD3_EVG",
-        "DD3_GVL"
+        "DD3_GVL",
+        "E02",
+        "A25",
+        "BBD",
+        "Anthologies"
       ],
       "rarity": "Special",
       "text": "Target creature gets +3/+3 until end of turn.",
@@ -6371,7 +6503,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -6422,7 +6554,10 @@
         "M11",
         "M12",
         "M14",
-        "AKH"
+        "AKH",
+        "GS1",
+        "Anthologies",
+        "M19"
       ],
       "rarity": "Special",
       "rulings": [
@@ -6503,7 +6638,8 @@
         "ALL",
         "ATH",
         "6ED",
-        "7ED"
+        "7ED",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -6553,7 +6689,7 @@
         },
         {
           "language": "Korean",
-          "name": "라노와의 엘프"
+          "name": "라노워 엘프"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -6630,14 +6766,16 @@
         "DD3_EVG",
         "EMA",
         "CMA",
-        "DOM"
+        "DOM",
+        "Anthologies",
+        "M19"
       ],
       "rarity": "Special",
       "subtypes": [
         "Elf",
         "Druid"
       ],
-      "text": "{T}: Add {G} to your mana pool.",
+      "text": "{T}: Add {G}.",
       "toughness": "1",
       "type": "Creature — Elf Druid",
       "types": [
@@ -6705,7 +6843,8 @@
         "5ED",
         "ATH",
         "7ED",
-        "ME4"
+        "ME4",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -6782,7 +6921,8 @@
         "ATH",
         "BTD",
         "DKM",
-        "ME2"
+        "ME2",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -6862,7 +7002,8 @@
         "6ED",
         "BRB",
         "S00",
-        "TPR"
+        "TPR",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -6957,7 +7098,8 @@
       "printings": [
         "WTH",
         "ATH",
-        "10E"
+        "10E",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -7007,7 +7149,8 @@
       "printings": [
         "FEM",
         "ATH",
-        "ME2"
+        "ME2",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -7015,7 +7158,7 @@
         "Cleric",
         "Soldier"
       ],
-      "text": "{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.",
+      "text": "{1}{W}: Prevent the next 1 damage that would be dealt to any target this turn.",
       "toughness": "2",
       "type": "Creature — Human Cleric Soldier",
       "types": [
@@ -7142,7 +7285,9 @@
         "ME3",
         "TPR",
         "CN2",
-        "IMA"
+        "IMA",
+        "A25",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -7217,7 +7362,8 @@
       "power": "1",
       "printings": [
         "VIS",
-        "ATH"
+        "ATH",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -7310,14 +7456,15 @@
         "pGTW",
         "TSB",
         "ME2",
-        "DDO"
+        "DDO",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
         "Human",
         "Soldier"
       ],
-      "text": "Icatian Javelineers enters the battlefield with a javelin counter on it.\n{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.",
+      "text": "Icatian Javelineers enters the battlefield with a javelin counter on it.\n{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to any target.",
       "toughness": "1",
       "type": "Creature — Human Soldier",
       "types": [
@@ -7412,7 +7559,8 @@
         "M11",
         "DDF",
         "DDN",
-        "IMA"
+        "IMA",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -7531,7 +7679,10 @@
         "DD3_DVD",
         "DTK",
         "TPR",
-        "EMA"
+        "EMA",
+        "A25",
+        "BBD",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -7634,14 +7785,15 @@
         "7ED",
         "8ED",
         "9ED",
-        "10E"
+        "10E",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
         "Human",
         "Cleric"
       ],
-      "text": "{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.",
+      "text": "{T}: Prevent the next 1 damage that would be dealt to any target this turn.",
       "toughness": "1",
       "type": "Creature — Human Cleric",
       "types": [
@@ -7730,7 +7882,8 @@
         "ATH",
         "6ED",
         "9ED",
-        "10E"
+        "10E",
+        "Anthologies"
       ],
       "rarity": "Special",
       "rulings": [
@@ -7829,7 +7982,8 @@
         "10E",
         "TPR",
         "MM3",
-        "E01"
+        "E01",
+        "Anthologies"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -8027,8 +8181,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Anthologies",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8226,8 +8387,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Anthologies",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8423,8 +8591,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Anthologies",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8620,8 +8794,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Anthologies",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [

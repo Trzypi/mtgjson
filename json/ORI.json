@@ -2452,6 +2452,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -2464,7 +2468,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -2481,13 +2485,18 @@
       "originalType": "Enchantment — Aura",
       "printings": [
         "RTR",
-        "ORI"
+        "ORI",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
-          "date": "2015-06-22",
-          "text": "You must target a creature to cast Knightly Valor. If that creature is an illegal target when Knightly Valor tries to resolve, it won't resolve and won't enter the battlefield. You won't get the Knight token."
+          "date": "2018-07-13",
+          "text": "You need a creature for Knightly Valor to target as you cast it. There's no way to have it enter the battlefield attached to the Knight token it'll create."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "If the creature this Aura would enchant is an illegal target by the time Knightly Valor tries to resolve, the Aura spell doesn't resolve. It won't enter the battlefield, so its ability won't trigger."
         }
       ],
       "subtypes": [
@@ -3097,11 +3106,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -3141,12 +3146,13 @@
         "MM2",
         "ORI",
         "OGW",
-        "AKH"
+        "AKH",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2017-04-18",
+          "date": "2018-07-13",
           "text": "Giving a creature flying after it's already been blocked won't change or undo that block. If you want to affect what can block the creature, you must cast Mighty Leap during the declare attackers step at the latest."
         }
       ],
@@ -5489,11 +5495,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Innistrad Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -5502,6 +5508,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -5518,17 +5528,14 @@
       "originalType": "Instant",
       "printings": [
         "DKA",
-        "ORI"
+        "ORI",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2011-01-22",
-          "text": "If the creature spell is an illegal target (because it's left the stack, for example) when Bone to Ash tries to resolve, Bone to Ash won't resolve and none of its effects will happen. You won't draw a card."
-        },
-        {
-          "date": "2011-01-22",
-          "text": "A creature spell that can't be countered by spells and abilities is a legal target for Bone to Ash. The creature spell won't be countered when Bone to Ash resolves, but you'll still draw a card."
+          "date": "2018-07-13",
+          "text": "A creature spell that can't be countered is a legal target for Bone to Ash. The creature spell won't be countered when Bone to Ash resolves, but you'll still draw a card."
         }
       ],
       "text": "Counter target creature spell.\nDraw a card.",
@@ -5847,7 +5854,8 @@
         "DDM",
         "ORI",
         "DDT",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -6277,6 +6285,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -6285,15 +6297,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Modern",
           "legality": "Legal"
         },
         {
-          "format": "Scars of Mirrodin Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -6313,7 +6321,8 @@
         "SOM",
         "M14",
         "ORI",
-        "W16"
+        "W16",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Return target nonland permanent to its owner's hand.",
@@ -7760,7 +7769,8 @@
         "OGW",
         "CN2",
         "AER",
-        "RIX"
+        "RIX",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -9723,7 +9733,8 @@
       "power": "2",
       "printings": [
         "M13",
-        "ORI"
+        "ORI",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -11185,7 +11196,8 @@
       "originalType": "Creature — Elf Assassin",
       "power": "2",
       "printings": [
-        "ORI"
+        "ORI",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -11927,6 +11939,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -11936,6 +11952,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -11951,13 +11971,18 @@
       "originalText": "Enchant creatureEnchanted creature gets +2/+0 and has \"When this creature dies, draw a card.\"",
       "originalType": "Enchantment — Aura",
       "printings": [
-        "ORI"
+        "ORI",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2015-06-22",
+          "date": "2018-07-13",
           "text": "The player who controlled the creature when it died is the one who will draw a card."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "If Infernal Scarring and the enchanted creature are destroyed at the same time, the player will draw a card."
         }
       ],
       "subtypes": [
@@ -12638,6 +12663,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -12650,11 +12679,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -12672,16 +12697,17 @@
       "printings": [
         "DIS",
         "ORI",
-        "SOI"
+        "SOI",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2016-04-08",
+          "date": "2018-07-13",
           "text": "If you have no other cards in hand, you'll have to discard one of the creature cards you return to your hand."
         },
         {
-          "date": "2016-04-08",
+          "date": "2018-07-13",
           "text": "You may cast Macabre Waltz targeting one or zero creature cards. You'll still discard a card, even if you target no creature cards."
         }
       ],
@@ -14000,7 +14026,8 @@
       "originalType": "Creature — Zombie",
       "power": "2",
       "printings": [
-        "ORI"
+        "ORI",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -15120,11 +15147,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Khans of Tarkir Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -15136,7 +15163,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -15161,21 +15188,18 @@
         "DDN",
         "KTK",
         "ORI",
-        "A25"
+        "A25",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2009-10-01",
+          "date": "2018-07-13",
           "text": "Act of Treason can target any creature, even one that's untapped or one you already control."
         },
         {
-          "date": "2010-08-15",
+          "date": "2018-07-13",
           "text": "Gaining control of a creature doesn't cause you to gain control of any Auras or Equipment attached to it."
-        },
-        {
-          "date": "2013-07-01",
-          "text": "If you control a legendary creature and gain control of another legendary creature with the same name, you'll choose one to remain on the battlefield and put the other into its owner's graveyard."
         }
       ],
       "text": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)",
@@ -15585,6 +15609,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -15594,6 +15622,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -15611,7 +15643,8 @@
       "power": "3",
       "printings": [
         "ORI",
-        "DDT"
+        "DDT",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -16831,7 +16864,8 @@
       "power": "3",
       "printings": [
         "ORI",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -20522,7 +20556,8 @@
         "ORI",
         "C15",
         "DDR",
-        "CMA"
+        "CMA",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -23590,6 +23625,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -23599,6 +23638,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -23617,7 +23660,8 @@
         "M12",
         "M13",
         "M15",
-        "ORI"
+        "ORI",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Target creature gets +4/+4 until end of turn.",
@@ -26383,7 +26427,8 @@
       "power": "4",
       "printings": [
         "JOU",
-        "ORI"
+        "ORI",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -29473,7 +29518,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29764,7 +29812,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30055,7 +30106,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30346,7 +30400,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30637,7 +30694,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30928,7 +30988,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31219,7 +31282,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31510,7 +31576,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31804,7 +31873,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32098,7 +32169,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32392,7 +32465,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32686,7 +32761,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32983,7 +33060,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33280,7 +33360,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33577,7 +33660,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33874,7 +33960,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34168,7 +34257,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34462,7 +34554,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34756,7 +34851,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35050,7 +35148,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -36082,15 +36183,11 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -36099,10 +36196,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
           "legality": "Legal"
         },
         {
@@ -36140,7 +36233,8 @@
         "DTK",
         "ORI",
         "W16",
-        "KLD"
+        "KLD",
+        "M19"
       ],
       "rarity": "Common",
       "starter": true,
@@ -36623,6 +36717,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -36674,7 +36772,8 @@
         "M15",
         "ORI",
         "W16",
-        "W17"
+        "W17",
+        "M19"
       ],
       "rarity": "Rare",
       "starter": true,
@@ -36799,7 +36898,8 @@
         "BFZ",
         "CN2",
         "RIX",
-        "A25"
+        "A25",
+        "M19"
       ],
       "rarity": "Common",
       "starter": true,

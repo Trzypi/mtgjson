@@ -2346,7 +2346,8 @@
       "originalType": "Creature — Pegasus",
       "power": "2",
       "printings": [
-        "BNG"
+        "BNG",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -4472,7 +4473,8 @@
         "BNG",
         "M15",
         "CN2",
-        "DOM"
+        "DOM",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Draw two cards.",
@@ -5797,7 +5799,8 @@
       "originalText": "Enchant creature\nEnchanted creature has \"{T}: Scry 1, then draw a card.\" (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)",
       "originalType": "Enchantment — Aura",
       "printings": [
-        "BNG"
+        "BNG",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -13034,7 +13037,8 @@
       "originalType": "Creature — Satyr",
       "power": "2",
       "printings": [
-        "BNG"
+        "BNG",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -15295,7 +15299,8 @@
       "originalText": "Enchant creature\nWhen Karametra's Favor enters the battlefield, draw a card.\nEnchanted creature has \"{T}: Add one mana of any color to your mana pool.\"",
       "originalType": "Enchantment — Aura",
       "printings": [
-        "BNG"
+        "BNG",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [

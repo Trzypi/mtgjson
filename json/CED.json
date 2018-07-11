@@ -66,11 +66,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Ixalan Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -118,7 +118,9 @@
         "ME4",
         "DD3_JVC",
         "W17",
-        "XLN"
+        "XLN",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -167,7 +169,8 @@
         "2ED",
         "CED",
         "CEI",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -237,7 +240,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -247,7 +251,7 @@
         },
         {
           "date": "2008-08-01",
-          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature."
+          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature."
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -331,7 +335,8 @@
         "MED",
         "PD3",
         "VMA",
-        "EMA"
+        "EMA",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -427,7 +432,8 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED"
+        "MED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -502,7 +508,8 @@
         "5ED",
         "6ED",
         "MED",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -533,6 +540,10 @@
       ],
       "foreignNames": [
         {
+          "language": "Chinese Simplified",
+          "name": "毁天灭地"
+        },
+        {
           "language": "French",
           "name": "Armaguedon"
         },
@@ -543,6 +554,10 @@
         {
           "language": "Italian",
           "name": "Armageddon"
+        },
+        {
+          "language": "Japanese",
+          "name": "ハルマゲドン"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -592,7 +607,9 @@
         "ME4",
         "VMA",
         "V14",
-        "MPS_AKH"
+        "MPS_AKH",
+        "A25",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -661,7 +678,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "5ED"
+        "5ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -763,7 +781,8 @@
         "TSB",
         "DDD",
         "C14",
-        "DD3_GVL"
+        "DD3_GVL",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -822,7 +841,8 @@
         "3ED",
         "ME2",
         "ME4",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -849,7 +869,7 @@
         "Swamp",
         "Mountain"
       ],
-      "text": "({T}: Add {B} or {R} to your mana pool.)",
+      "text": "({T}: Add {B} or {R}.)",
       "type": "Land — Swamp Mountain",
       "types": [
         "Land"
@@ -926,7 +946,8 @@
         "V09",
         "ME4",
         "VMA",
-        "EMA"
+        "EMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -944,7 +965,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Each player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.",
+      "text": "Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -1009,7 +1030,9 @@
         "ME4",
         "C13",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -1019,7 +1042,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Basalt Monolith doesn't untap during your untap step.\n{T}: Add {C}{C}{C} to your mana pool.\n{3}: Untap Basalt Monolith.",
+      "text": "Basalt Monolith doesn't untap during your untap step.\n{T}: Add {C}{C}{C}.\n{3}: Untap Basalt Monolith.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -1074,7 +1097,8 @@
         "3ED",
         "ME3",
         "ME4",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -1093,7 +1117,7 @@
         "Swamp",
         "Forest"
       ],
-      "text": "({T}: Add {B} or {G} to your mana pool.)",
+      "text": "({T}: Add {B} or {G}.)",
       "type": "Land — Swamp Forest",
       "types": [
         "Land"
@@ -1161,7 +1185,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "MED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -1242,7 +1267,8 @@
         "MED",
         "V09",
         "VMA",
-        "CN2"
+        "CN2",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -1252,7 +1278,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Cast Berserk only before the combat damage step.\nTarget creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn.",
+      "text": "Cast this spell only before the combat damage step.\nTarget creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -1352,14 +1378,15 @@
         "M10",
         "M11",
         "M12",
-        "CN2"
+        "CN2",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
       "subtypes": [
         "Bird"
       ],
-      "text": "Flying\n{T}: Add one mana of any color to your mana pool.",
+      "text": "Flying\n{T}: Add one mana of any color.",
       "toughness": "1",
       "type": "Creature — Bird",
       "types": [
@@ -1453,7 +1480,8 @@
         "MED",
         "M10",
         "M11",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -1497,12 +1525,13 @@
         "2ED",
         "CED",
         "CEI",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "{T}, Sacrifice Black Lotus: Add three mana of any one color to your mana pool.",
+      "text": "{T}, Sacrifice Black Lotus: Add three mana of any one color.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -1563,7 +1592,8 @@
         "4ED",
         "ME3",
         "V10",
-        "MPS"
+        "MPS",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -1573,11 +1603,11 @@
         },
         {
           "date": "2009-10-01",
-          "text": "If the chosen player has four or fewer cards in his or her hand as Black Vise's ability resolves, the ability just won't do anything that turn."
+          "text": "If the chosen player has four or fewer cards in their hand as Black Vise's ability resolves, the ability just won't do anything that turn."
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "As Black Vise enters the battlefield, choose an opponent.\nAt the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in his or her hand minus 4.",
+      "text": "As Black Vise enters the battlefield, choose an opponent.\nAt the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -1641,7 +1671,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -1689,7 +1720,8 @@
         "2ED",
         "CED",
         "CEI",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -1704,7 +1736,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Cast Blaze of Glory only during combat before blockers are declared.\nTarget creature defending player controls can block any number of creatures this turn. It blocks each attacking creature this turn if able.",
+      "text": "Cast this spell only during combat before blockers are declared.\nTarget creature defending player controls can block any number of creatures this turn. It blocks each attacking creature this turn if able.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -1793,7 +1825,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "M14"
+        "M14",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -1817,6 +1850,10 @@
       ],
       "foreignNames": [
         {
+          "language": "Chinese Simplified",
+          "name": "蓝元素冲击波"
+        },
+        {
           "language": "French",
           "name": "Salve élémentaire bleue"
         },
@@ -1827,6 +1864,10 @@
         {
           "language": "Italian",
           "name": "Scarica Elementale Blu"
+        },
+        {
+          "language": "Japanese",
+          "name": "青霊破"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -1866,7 +1907,10 @@
         "3ED",
         "pMEI",
         "4ED",
-        "ME4"
+        "ME4",
+        "A25",
+        "SS1",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -1940,7 +1984,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -2044,7 +2089,8 @@
         "8ED",
         "9ED",
         "10E",
-        "M10"
+        "M10",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -2108,7 +2154,8 @@
         "CED",
         "CEI",
         "3ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -2178,7 +2225,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "6ED"
+        "6ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -2225,11 +2273,12 @@
         "LEB",
         "2ED",
         "CED",
-        "CEI"
+        "CEI",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Cast Camouflage only during your declare attackers step.\nThis turn, instead of declaring blockers, each defending player chooses any number of creatures he or she controls and divides them into a number of piles equal to the number of attacking creatures for whom that player is the defending player. Creatures he or she controls that can block additional creatures may likewise be put into additional piles. Assign each pile to a different one of those attacking creatures at random. Each creature in a pile that can block the creature that pile is assigned to does so. (Piles can be empty.)",
+      "text": "Cast this spell only during your declare attackers step.\nThis turn, instead of declaring blockers, each defending player chooses any number of creatures they control and divides them into a number of piles equal to the number of attacking creatures for whom that player is the defending player. Creatures those players control that can block additional creatures may likewise be put into additional piles. Assign each pile to a different one of those attacking creatures at random. Each creature in a pile that can block the creature that pile is assigned to does so. (Piles can be empty.)",
       "type": "Instant",
       "types": [
         "Instant"
@@ -2296,7 +2345,8 @@
         "4ED",
         "5ED",
         "6ED",
-        "7ED"
+        "7ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -2358,11 +2408,12 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "{2}, {T}: Add one mana of any color to your mana pool.",
+      "text": "{2}, {T}: Add one mana of any color.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -2379,6 +2430,10 @@
       ],
       "foreignNames": [
         {
+          "language": "Chinese Simplified",
+          "name": "魔力通道"
+        },
+        {
           "language": "French",
           "name": "Transfert"
         },
@@ -2389,6 +2444,10 @@
         {
           "language": "Italian",
           "name": "Incanalare Energia"
+        },
+        {
+          "language": "Japanese",
+          "name": "チャネル"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -2430,7 +2489,8 @@
         "V09",
         "ME4",
         "VMA",
-        "IMA"
+        "IMA",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -2440,7 +2500,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {C} to your mana pool.",
+      "text": "Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {C}.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -2474,7 +2534,8 @@
         "LEB",
         "2ED",
         "CED",
-        "CEI"
+        "CEI",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -2501,7 +2562,7 @@
         },
         {
           "date": "2004-10-04",
-          "text": "You can't interfere in any physical way with the casting of this card."
+          "text": "You can't interfere in any physical way with activating this ability."
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -2569,7 +2630,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -2677,7 +2739,8 @@
         "6ED",
         "7ED",
         "8ED",
-        "9ED"
+        "9ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -2773,7 +2836,8 @@
         "TMP",
         "6ED",
         "7ED",
-        "8ED"
+        "8ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -2869,7 +2933,8 @@
         "TMP",
         "6ED",
         "7ED",
-        "8ED"
+        "8ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -2981,7 +3046,8 @@
         "pFNM",
         "7ED",
         "8ED",
-        "9ED"
+        "9ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -3077,7 +3143,8 @@
         "TMP",
         "6ED",
         "7ED",
-        "8ED"
+        "8ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -3155,7 +3222,8 @@
         "ITP",
         "5ED",
         "BTD",
-        "MED"
+        "MED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -3286,7 +3354,8 @@
         "M11",
         "DDI",
         "M13",
-        "M14"
+        "M14",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -3312,7 +3381,7 @@
         },
         {
           "date": "2012-07-01",
-          "text": "If Clone somehow enters the battlefield at the same time as another creature, Clone can't become a copy of that creature. You may only choose a creature that's already on the battlefield."
+          "text": "If Clone somehow enters the battlefield at the same time as another creature, Clone can't become a copy of that creature. You may choose only a creature that's already on the battlefield."
         },
         {
           "date": "2012-07-01",
@@ -3415,7 +3484,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "TSB"
+        "TSB",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -3512,7 +3582,8 @@
         "2ED",
         "CED",
         "CEI",
-        "TSB"
+        "TSB",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -3591,7 +3662,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -3650,7 +3722,8 @@
         "2ED",
         "CED",
         "CEI",
-        "3ED"
+        "3ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -3734,7 +3807,8 @@
         "DDM",
         "VMA",
         "EMA",
-        "CMA"
+        "CMA",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -3812,7 +3886,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -3861,7 +3936,8 @@
         "2ED",
         "CED",
         "CEI",
-        "MED"
+        "MED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -3921,7 +3997,8 @@
         "CED",
         "CEI",
         "3ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -4045,7 +4122,10 @@
         "DD3_JVC",
         "TPR",
         "EMA",
-        "MPS_AKH"
+        "MPS_AKH",
+        "A25",
+        "SS1",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -4140,7 +4220,8 @@
         "8ED",
         "9ED",
         "10E",
-        "M10"
+        "M10",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -4211,7 +4292,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -4291,7 +4373,8 @@
         "6ED",
         "pSUS",
         "MED",
-        "DDF"
+        "DDF",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -4361,7 +4444,8 @@
         "5ED",
         "6ED",
         "7ED",
-        "8ED"
+        "8ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -4432,7 +4516,8 @@
         "4ED",
         "RQS",
         "ITP",
-        "5ED"
+        "5ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -4474,7 +4559,8 @@
         "2ED",
         "CED",
         "CEI",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -4509,6 +4595,10 @@
         "Black"
       ],
       "foreignNames": [
+        {
+          "language": "Chinese Simplified",
+          "name": "黑暗祭礼"
+        },
         {
           "language": "French",
           "name": "Messe noire"
@@ -4603,11 +4693,13 @@
         "VMA",
         "DD3_DVD",
         "TPR",
-        "MPS_AKH"
+        "MPS_AKH",
+        "A25",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Add {B}{B}{B} to your mana pool.",
+      "text": "Add {B}{B}{B}.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -4662,7 +4754,8 @@
         "2ED",
         "CED",
         "CEI",
-        "3ED"
+        "3ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -4738,7 +4831,8 @@
         "4ED",
         "ICE",
         "5ED",
-        "MED"
+        "MED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -4808,7 +4902,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -4876,7 +4971,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -4935,12 +5031,13 @@
         "2ED",
         "CED",
         "CEI",
-        "3ED"
+        "3ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Remove Demonic Attorney from your deck before playing if you're not playing for ante.\nEach player antes the top card of his or her library.",
+      "text": "Remove Demonic Attorney from your deck before playing if you're not playing for ante.\nEach player antes the top card of their library.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -4998,7 +5095,8 @@
         "CED",
         "CEI",
         "3ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -5067,7 +5165,8 @@
         "DDC",
         "ME4",
         "VMA",
-        "DD3_DVD"
+        "DD3_DVD",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -5151,7 +5250,8 @@
         "5ED",
         "6ED",
         "7ED",
-        "8ED"
+        "8ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -5280,7 +5380,9 @@
         "ME3",
         "TPR",
         "CN2",
-        "IMA"
+        "IMA",
+        "A25",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -5378,7 +5480,8 @@
         "RQS",
         "ITP",
         "5ED",
-        "TSB"
+        "TSB",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -5392,7 +5495,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Disintegrate deals X damage to target creature or player. That creature can't be regenerated this turn. If the creature would die this turn, exile it instead.",
+      "text": "Disintegrate deals X damage to any target. If it's a creature, it can't be regenerated this turn, and if it would die this turn, exile it instead.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -5471,7 +5574,8 @@
         "6ED",
         "7ED",
         "8ED",
-        "9ED"
+        "9ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -5574,7 +5678,8 @@
         "ARC",
         "DDG",
         "CMD",
-        "CMA"
+        "CMA",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -5664,7 +5769,8 @@
         "MIR",
         "5ED",
         "pFNM",
-        "BTD"
+        "BTD",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -5678,7 +5784,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Spend only black mana on X.\nDrain Life deals X damage to target creature or player. You gain life equal to the damage dealt, but not more life than the player's life total before Drain Life dealt damage or the creature's toughness.",
+      "text": "Spend only black mana on X.\nDrain Life deals X damage to any target. You gain life equal to the damage dealt, but not more life than the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -5744,13 +5850,14 @@
         "3ED",
         "4ED",
         "5ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
         {
           "date": "2004-10-04",
-          "text": "This card forces the target player to draw mana from lands if they are untapped, but that player can choose how to draw the mana if a land he or she controls has multiple mana abilities, or mana abilities with choices."
+          "text": "This card forces the target player to draw mana from lands if they are untapped, but that player can choose how to draw the mana if a land they control has multiple mana abilities, or mana abilities with choices."
         },
         {
           "date": "2004-10-04",
@@ -5766,7 +5873,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Target player activates a mana ability of each land he or she controls. Then put all mana from that player's mana pool into yours.",
+      "text": "Target player activates a mana ability of each land they control. Then that player loses all unspent mana and you add the mana lost this way.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -5863,7 +5970,8 @@
         "M10",
         "DDD",
         "DPA",
-        "DD3_GVL"
+        "DD3_GVL",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -5940,7 +6048,8 @@
         "2ED",
         "CED",
         "CEI",
-        "8ED"
+        "8ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -6014,7 +6123,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "5ED"
+        "5ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -6123,7 +6233,9 @@
         "S99",
         "10E",
         "DPA",
-        "IMA"
+        "IMA",
+        "BBD",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -6185,7 +6297,8 @@
         "2ED",
         "CED",
         "CEI",
-        "3ED"
+        "3ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -6288,7 +6401,9 @@
         "CMD",
         "C15",
         "CMA",
-        "C17"
+        "C17",
+        "CM2",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -6369,7 +6484,8 @@
         "ITP",
         "5ED",
         "6ED",
-        "7ED"
+        "7ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -6469,13 +6585,14 @@
         "4ED",
         "5ED",
         "ME3",
-        "NPH"
+        "NPH",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
           "date": "2009-10-01",
-          "text": "The enchanted land loses its existing land types and any abilities printed on it. It now has the land type Swamp and has the ability \"{T}: Add {B} to your mana pool.\" Evil Presence doesn't change the enchanted land's name or whether it's legendary, basic, or snow."
+          "text": "The enchanted land loses its existing land types and any abilities printed on it. It now has the land type Swamp and has the ability \"{T}: Add {B}.\" Evil Presence doesn't change the enchanted land's name or whether it's legendary, basic, or snow."
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -6522,7 +6639,8 @@
         "LEB",
         "2ED",
         "CED",
-        "CEI"
+        "CEI",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -6532,7 +6650,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Cast False Orders only during the declare blockers step.\nRemove target creature defending player controls from combat. Creatures it was blocking that had become blocked by only that creature this combat become unblocked. You may have it block an attacking creature of your choice.",
+      "text": "Cast this spell only during the declare blockers step.\nRemove target creature defending player controls from combat. Creatures it was blocking that had become blocked by only that creature this combat become unblocked. You may have it block an attacking creature of your choice.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -6587,7 +6705,8 @@
         "2ED",
         "CED",
         "CEI",
-        "3ED"
+        "3ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -6652,7 +6771,8 @@
         "CEI",
         "3ED",
         "ME4",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -6762,7 +6882,8 @@
         "7ED",
         "8ED",
         "9ED",
-        "10E"
+        "10E",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -6836,7 +6957,8 @@
         "4ED",
         "RQS",
         "ITP",
-        "5ED"
+        "5ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -6946,7 +7068,9 @@
         "S99",
         "7ED",
         "M13",
-        "DOM"
+        "DOM",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -7060,7 +7184,8 @@
         "M12",
         "C13",
         "DD3_JVC",
-        "IMA"
+        "IMA",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -7082,7 +7207,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.\nFireball costs {1} more to cast for each target beyond the first.",
+      "text": "This spell costs {1} more to cast for each target beyond the first.\nFireball deals X damage divided evenly, rounded down, among any number of targets.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -7182,7 +7307,8 @@
         "9ED",
         "10E",
         "M10",
-        "M12"
+        "M12",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -7284,7 +7410,8 @@
         "POR",
         "6ED",
         "8ED",
-        "9ED"
+        "9ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -7379,7 +7506,8 @@
         "7ED",
         "8ED",
         "9ED",
-        "M12"
+        "M12",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -7491,7 +7619,8 @@
         "M12",
         "M13",
         "M14",
-        "EMA"
+        "EMA",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -7581,14 +7710,15 @@
         "BTD",
         "pREL",
         "9ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
       "subtypes": [
         "Elemental"
       ],
-      "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)\nAt the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.",
+      "text": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nAt the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.",
       "toughness": "8",
       "type": "Creature — Elemental",
       "types": [
@@ -7624,7 +7754,8 @@
         "2ED",
         "CED",
         "CEI",
-        "MED"
+        "MED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -7824,8 +7955,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -8023,8 +8161,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -8222,8 +8367,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -8288,7 +8440,8 @@
         "CED",
         "CEI",
         "3ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -8422,7 +8575,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "5ED"
+        "5ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -8502,7 +8656,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "8ED"
+        "8ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -8603,7 +8758,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "TSB"
+        "TSB",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -8613,7 +8769,7 @@
         },
         {
           "date": "2006-09-25",
-          "text": "The activated ability doesn't affect whether the land is basic or not. It overwrites any other land types. Being a Forest gives the affected land the ability \"{T}: Add {G} to your mana pool.\""
+          "text": "The activated ability doesn't affect whether the land is basic or not. It overwrites any other land types. Being a Forest gives the affected land the ability \"{T}: Add {G}.\""
         },
         {
           "date": "2006-10-15",
@@ -8663,7 +8819,8 @@
         "2ED",
         "CED",
         "CEI",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -8674,7 +8831,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Red creatures get +1/+1.\nWhenever a Mountain is tapped for mana, its controller adds {R} to his or her mana pool (in addition to the mana the land produces).",
+      "text": "Red creatures get +1/+1.\nWhenever a Mountain is tapped for mana, its controller adds an additional {R}.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -8789,7 +8946,11 @@
         "RTR",
         "M14",
         "DD3_EVG",
-        "DD3_GVL"
+        "DD3_GVL",
+        "E02",
+        "A25",
+        "BBD",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -8856,7 +9017,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -8905,7 +9066,10 @@
         "M11",
         "M12",
         "M14",
-        "AKH"
+        "AKH",
+        "GS1",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -8982,7 +9146,8 @@
         "ITP",
         "5ED",
         "6ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -9052,7 +9217,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -9164,7 +9330,8 @@
         "ATH",
         "9ED",
         "M11",
-        "CN2"
+        "CN2",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -9276,7 +9443,8 @@
         "7ED",
         "8ED",
         "9ED",
-        "10E"
+        "10E",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -9348,7 +9516,8 @@
         "CED",
         "CEI",
         "3ED",
-        "MED"
+        "MED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -9423,7 +9592,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -9494,7 +9664,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -9601,7 +9772,8 @@
         "7ED",
         "8ED",
         "9ED",
-        "10E"
+        "10E",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -9663,11 +9835,12 @@
         "2ED",
         "CED",
         "CEI",
-        "3ED"
+        "3ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Prevent the next X damage that would be dealt to target creature or player this turn. Until end of turn, you may pay {1} any time you could cast an instant. If you do, prevent the next 1 damage that would be dealt to that creature or player this turn.",
+      "text": "Prevent the next X damage that would be dealt to any target this turn. Until end of turn, you may pay {1} any time you could cast an instant. If you do, prevent the next 1 damage that would be dealt to that permanent or player this turn.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -9755,11 +9928,12 @@
         "8ED",
         "DDC",
         "ME4",
-        "DD3_DVD"
+        "DD3_DVD",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Choose one —\n• Target player gains 3 life.\n• Prevent the next 3 damage that would be dealt to target creature or player this turn.",
+      "text": "Choose one —\n• Target player gains 3 life.\n• Prevent the next 3 damage that would be dealt to any target this turn.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -9818,7 +9992,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "5ED"
+        "5ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -9939,7 +10114,8 @@
         "8ED",
         "9ED",
         "10E",
-        "DPA"
+        "DPA",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -10010,7 +10186,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -10108,7 +10285,8 @@
         "9ED",
         "10E",
         "M10",
-        "M11"
+        "M11",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -10188,7 +10366,8 @@
         "5ED",
         "6ED",
         "7ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -10279,7 +10458,8 @@
         "10E",
         "M10",
         "CMD",
-        "C16"
+        "C16",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -10369,7 +10549,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "ME3"
+        "ME3",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -10474,7 +10655,8 @@
         "BRB",
         "7ED",
         "DKM",
-        "10E"
+        "10E",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -10575,7 +10757,8 @@
         "pMPR",
         "9ED",
         "10E",
-        "M10"
+        "M10",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -10630,7 +10813,8 @@
         "2ED",
         "CED",
         "CEI",
-        "MED"
+        "MED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -10667,6 +10851,10 @@
         {
           "language": "Japanese",
           "name": "氷の干渉器"
+        },
+        {
+          "language": "Korean",
+          "name": "얼어붙은 조종기계"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -10727,7 +10915,8 @@
         "10E",
         "ME4",
         "DDH",
-        "DOM"
+        "DOM",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -10772,7 +10961,8 @@
         "2ED",
         "CED",
         "CEI",
-        "ME3"
+        "ME3",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -10788,10 +10978,6 @@
         {
           "date": "2004-10-04",
           "text": "Only the controller of the face down creature can look at it."
-        },
-        {
-          "date": "2008-04-01",
-          "text": "A \"creature card\" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards."
         },
         {
           "date": "2009-10-01",
@@ -10897,7 +11083,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -11006,7 +11193,8 @@
         "CED",
         "CEI",
         "8ED",
-        "M15"
+        "M15",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -11079,7 +11267,8 @@
         "5ED",
         "6ED",
         "7ED",
-        "8ED"
+        "8ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -11152,7 +11341,8 @@
         "RQS",
         "ITP",
         "5ED",
-        "ME2"
+        "ME2",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -11227,7 +11417,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "5ED"
+        "5ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -11300,7 +11491,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -11504,8 +11696,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -11700,8 +11899,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -11896,8 +12102,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -11972,7 +12185,8 @@
         "5ED",
         "6ED",
         "7ED",
-        "8ED"
+        "8ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -12037,7 +12251,8 @@
         "4ED",
         "5ED",
         "6ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -12115,7 +12330,8 @@
         "2ED",
         "CED",
         "CEI",
-        "9ED"
+        "9ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -12133,7 +12349,7 @@
         },
         {
           "date": "2008-08-01",
-          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature."
+          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature."
         },
         {
           "date": "2013-09-20",
@@ -12232,7 +12448,8 @@
         "8ED",
         "10E",
         "M13",
-        "ORI"
+        "ORI",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -12337,7 +12554,9 @@
         "ME4",
         "M15",
         "EMA",
-        "DOM"
+        "DOM",
+        "BBD",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -12433,7 +12652,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "M10"
+        "M10",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -12513,7 +12733,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "8ED"
+        "8ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -12523,7 +12744,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "At the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps he or she controls.",
+      "text": "At the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps they control.",
       "type": "Enchantment",
       "types": [
         "Enchantment"
@@ -12590,7 +12811,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "MED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -12664,7 +12886,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -12678,7 +12901,7 @@
         },
         {
           "date": "2008-08-01",
-          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature."
+          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature."
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -12738,7 +12961,8 @@
         "CED",
         "CEI",
         "3ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -12764,7 +12988,7 @@
       "subtypes": [
         "Aura"
       ],
-      "text": "Enchant land\nWhen enchanted land becomes tapped, destroy it. That land's controller attaches Kudzu to a land of his or her choice.",
+      "text": "Enchant land\nWhen enchanted land becomes tapped, destroy it. That land's controller attaches Kudzu to a land of their choice.",
       "type": "Enchantment — Aura",
       "types": [
         "Enchantment"
@@ -12819,7 +13043,8 @@
         "2ED",
         "CED",
         "CEI",
-        "3ED"
+        "3ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -12910,7 +13135,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "9ED"
+        "9ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -12985,7 +13211,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -13068,7 +13295,8 @@
         "2ED",
         "CED",
         "CEI",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -13177,7 +13405,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -13245,7 +13474,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -13314,7 +13544,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "5ED"
+        "5ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -13422,11 +13653,13 @@
         "M11",
         "PD2",
         "MM2",
-        "E01"
+        "E01",
+        "A25",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Lightning Bolt deals 3 damage to target creature or player.",
+      "text": "Lightning Bolt deals 3 damage to any target.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -13491,7 +13724,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "5ED"
+        "5ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -13575,13 +13809,14 @@
         "4ED",
         "5ED",
         "6ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
         {
           "date": "2008-08-01",
-          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature."
+          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature."
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -13637,7 +13872,8 @@
         "CED",
         "CEI",
         "3ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -13689,7 +13925,7 @@
         },
         {
           "language": "Korean",
-          "name": "라노와의 엘프"
+          "name": "라노워 엘프"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -13764,7 +14000,9 @@
         "DD3_EVG",
         "EMA",
         "CMA",
-        "DOM"
+        "DOM",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -13772,7 +14010,7 @@
         "Elf",
         "Druid"
       ],
-      "text": "{T}: Add {G} to your mana pool.",
+      "text": "{T}: Add {G}.",
       "toughness": "1",
       "type": "Creature — Elf Druid",
       "types": [
@@ -13864,7 +14102,8 @@
         "6ED",
         "pSUS",
         "7ED",
-        "TSB"
+        "TSB",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -13962,7 +14201,8 @@
         "10E",
         "DDC",
         "DD3_DVD",
-        "IMA"
+        "IMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -14090,7 +14330,8 @@
         "CHK",
         "10E",
         "M12",
-        "IMA"
+        "IMA",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -14172,7 +14413,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "5ED"
+        "5ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -14314,7 +14556,8 @@
         "ME4",
         "M15",
         "ORI",
-        "IMA"
+        "IMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -14388,7 +14631,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "MED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -14426,7 +14670,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.",
+      "text": "Whenever a player taps a land for mana, that player adds one mana of any type that land produced.",
       "type": "Enchantment",
       "types": [
         "Enchantment"
@@ -14492,7 +14736,8 @@
         "3ED",
         "4ED",
         "6ED",
-        "7ED"
+        "7ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -14510,7 +14755,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Tap all lands target player controls and empty his or her mana pool.",
+      "text": "Tap all lands target player controls and that player loses all unspent mana.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -14572,11 +14817,12 @@
         "5ED",
         "ME4",
         "VMA",
-        "MPS"
+        "MPS",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Mana Vault doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault.\nAt the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you.\n{T}: Add {C}{C}{C} to your mana pool.",
+      "text": "Mana Vault doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault.\nAt the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you.\n{T}: Add {C}{C}{C}.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -14665,7 +14911,8 @@
         "6ED",
         "10E",
         "M10",
-        "M12"
+        "M12",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -14753,7 +15000,8 @@
         "5ED",
         "6ED",
         "7ED",
-        "MPS"
+        "MPS",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -14856,7 +15104,8 @@
         "S99",
         "S00",
         "7ED",
-        "M13"
+        "M13",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -14933,7 +15182,8 @@
         "RQS",
         "ITP",
         "5ED",
-        "MED"
+        "MED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -15025,7 +15275,8 @@
         "3ED",
         "4ED",
         "ME3",
-        "MPS_AKH"
+        "MPS_AKH",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -15100,7 +15351,8 @@
         "ITP",
         "5ED",
         "S99",
-        "S00"
+        "S00",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -15299,8 +15551,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -15501,8 +15760,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -15703,8 +15969,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -15751,12 +16024,13 @@
         "2ED",
         "CED",
         "CEI",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "{T}: Add {G} to your mana pool.",
+      "text": "{T}: Add {G}.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -15794,12 +16068,13 @@
         "2ED",
         "CED",
         "CEI",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "{T}: Add {B} to your mana pool.",
+      "text": "{T}: Add {B}.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -15837,12 +16112,13 @@
         "2ED",
         "CED",
         "CEI",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "{T}: Add {W} to your mana pool.",
+      "text": "{T}: Add {W}.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -15880,12 +16156,13 @@
         "2ED",
         "CED",
         "CEI",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "{T}: Add {R} to your mana pool.",
+      "text": "{T}: Add {R}.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -15923,12 +16200,13 @@
         "2ED",
         "CED",
         "CEI",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "{T}: Add {U} to your mana pool.",
+      "text": "{T}: Add {U}.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -15968,7 +16246,8 @@
         "LEB",
         "2ED",
         "CED",
-        "CEI"
+        "CEI",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -15979,7 +16258,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle his or her library.",
+      "text": "Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle their library.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -16046,7 +16325,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "MED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -16140,7 +16420,8 @@
         "2ED",
         "CED",
         "CEI",
-        "3ED"
+        "3ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -16242,7 +16523,8 @@
         "C14",
         "EMA",
         "C16",
-        "C17"
+        "C17",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -16358,7 +16640,8 @@
         "M15",
         "ORI",
         "W16",
-        "W17"
+        "W17",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -16452,7 +16735,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "7ED"
+        "7ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -16524,7 +16808,8 @@
         "4ED",
         "6ED",
         "S00",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -16626,13 +16911,14 @@
         "7ED",
         "8ED",
         "9ED",
-        "10E"
+        "10E",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
           "date": "2004-10-04",
-          "text": "You do not take the 3 points of damage if the ability is countered because the target is illegal."
+          "text": "You do not take the 3 points of damage if the ability doesn't resolve because the target is illegal."
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -16640,7 +16926,7 @@
         "Orc",
         "Warrior"
       ],
-      "text": "{T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.",
+      "text": "{T}: Orcish Artillery deals 2 damage to any target and 3 damage to you.",
       "toughness": "3",
       "type": "Creature — Orc Warrior",
       "types": [
@@ -16720,7 +17006,8 @@
         "6ED",
         "S00",
         "7ED",
-        "EMA"
+        "EMA",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -16791,7 +17078,8 @@
         "4ED",
         "5ED",
         "MED",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -16820,7 +17108,7 @@
       "subtypes": [
         "Aura"
       ],
-      "text": "Enchant creature\nWhen Paralyze enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.\nAt the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If he or she does, untap the creature.",
+      "text": "Enchant creature\nWhen Paralyze enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.\nAt the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If the player does, untap the creature.",
       "type": "Enchantment — Aura",
       "types": [
         "Enchantment"
@@ -16889,7 +17177,8 @@
         "4ED",
         "RQS",
         "ITP",
-        "5ED"
+        "5ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -16963,7 +17252,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -16985,7 +17275,7 @@
         "Avatar",
         "Incarnation"
       ],
-      "text": "{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Only Personal Incarnation's owner may activate this ability.\nWhen Personal Incarnation dies, its owner loses half his or her life, rounded up.",
+      "text": "{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Only Personal Incarnation's owner may activate this ability.\nWhen Personal Incarnation dies, its owner loses half their life, rounded up.",
       "toughness": "6",
       "type": "Creature — Avatar Incarnation",
       "types": [
@@ -17058,7 +17348,8 @@
         "5ED",
         "USG",
         "6ED",
-        "BRB"
+        "BRB",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -17144,7 +17435,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -17224,7 +17516,8 @@
         "5ED",
         "6ED",
         "INV",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -17316,7 +17609,8 @@
         "5ED",
         "MED",
         "EMA",
-        "IMA"
+        "IMA",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -17411,7 +17705,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "TSB"
+        "TSB",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -17419,7 +17714,7 @@
         "Human",
         "Pirate"
       ],
-      "text": "Pirate Ship can't attack unless defending player controls an Island.\n{T}: Pirate Ship deals 1 damage to target creature or player.\nWhen you control no Islands, sacrifice Pirate Ship.",
+      "text": "Pirate Ship can't attack unless defending player controls an Island.\n{T}: Pirate Ship deals 1 damage to any target.\nWhen you control no Islands, sacrifice Pirate Ship.",
       "toughness": "3",
       "type": "Creature — Human Pirate",
       "types": [
@@ -17487,7 +17782,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "5ED"
+        "5ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -17682,8 +17978,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -17879,8 +18181,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -18076,8 +18384,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -18141,7 +18455,8 @@
         "3ED",
         "ME3",
         "ME4",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -18160,7 +18475,7 @@
         "Mountain",
         "Plains"
       ],
-      "text": "({T}: Add {R} or {W} to your mana pool.)",
+      "text": "({T}: Add {R} or {W}.)",
       "type": "Land — Mountain Plains",
       "types": [
         "Land"
@@ -18224,7 +18539,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -18321,7 +18637,8 @@
         "USG",
         "6ED",
         "BTD",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -18339,7 +18656,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands with mana abilities he or she controls and empties his or her mana pool.",
+      "text": "Counter target spell unless its controller pays {X}. If that player doesn't, they tap all lands with mana abilities they control and lose all unspent mana.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -18403,7 +18720,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -18413,7 +18731,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "At the beginning of each player's upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands he or she controlled at the beginning of this turn.",
+      "text": "At the beginning of each player's upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands they controlled at the beginning of this turn.",
       "type": "Enchantment",
       "types": [
         "Enchantment"
@@ -18508,7 +18826,8 @@
         "7ED",
         "TSB",
         "ME4",
-        "EMA"
+        "EMA",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -18516,7 +18835,7 @@
         "Human",
         "Wizard"
       ],
-      "text": "{T}: Prodigal Sorcerer deals 1 damage to target creature or player.",
+      "text": "{T}: Prodigal Sorcerer deals 1 damage to any target.",
       "toughness": "1",
       "type": "Creature — Human Wizard",
       "types": [
@@ -18601,11 +18920,12 @@
         "CED",
         "CEI",
         "pMPR",
-        "TSB"
+        "TSB",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Psionic Blast deals 4 damage to target creature or player and 2 damage to you.",
+      "text": "Psionic Blast deals 4 damage to any target and 2 damage to you.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -18672,7 +18992,8 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED"
+        "MED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -18749,7 +19070,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -18793,7 +19115,8 @@
         "LEB",
         "2ED",
         "CED",
-        "CEI"
+        "CEI",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -18808,7 +19131,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Whenever one or more creatures you control attack, each defending player divides all creatures without flying he or she controls into a \"left\" pile and a \"right\" pile. Then, for each attacking creature you control, choose \"left\" or \"right.\" That creature can't be blocked this combat except by creatures with flying and creatures in a pile with the chosen label.",
+      "text": "Whenever one or more creatures you control attack, each defending player divides all creatures without flying they control into a \"left\" pile and a \"right\" pile. Then, for each attacking creature you control, choose \"left\" or \"right.\" That creature can't be blocked this combat except by creatures with flying and creatures in a pile with the chosen label.",
       "type": "Enchantment",
       "types": [
         "Enchantment"
@@ -18912,7 +19235,8 @@
         "8ED",
         "9ED",
         "CN2",
-        "W17"
+        "W17",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -18923,10 +19247,6 @@
         {
           "date": "2004-10-04",
           "text": "The creature being brought back is chosen on announcement and not on resolution of the spell because it is targeted."
-        },
-        {
-          "date": "2008-04-01",
-          "text": "A \"creature card\" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards."
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -18947,6 +19267,10 @@
       ],
       "foreignNames": [
         {
+          "language": "Chinese Simplified",
+          "name": "红元素冲击波"
+        },
+        {
           "language": "French",
           "name": "Salve élémentaire rouge"
         },
@@ -18957,6 +19281,10 @@
         {
           "language": "Italian",
           "name": "Scarica Elementale Rossa"
+        },
+        {
+          "language": "Japanese",
+          "name": "赤霊破"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -18995,7 +19323,9 @@
         "CEI",
         "3ED",
         "4ED",
-        "ME4"
+        "ME4",
+        "A25",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -19063,7 +19393,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -19170,7 +19501,8 @@
         "7ED",
         "8ED",
         "9ED",
-        "10E"
+        "10E",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -19193,6 +19525,10 @@
         "Green"
       ],
       "foreignNames": [
+        {
+          "language": "Chinese Simplified",
+          "name": "再生新芽"
+        },
         {
           "language": "French",
           "name": "Réapparition"
@@ -19240,7 +19576,9 @@
         "pJGP",
         "ME4",
         "DDL",
-        "VMA"
+        "VMA",
+        "A25",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -19329,7 +19667,8 @@
         "CEI",
         "3ED",
         "pFNM",
-        "TSB"
+        "TSB",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -19418,7 +19757,8 @@
         "5ED",
         "6ED",
         "7ED",
-        "9ED"
+        "9ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -19517,7 +19857,8 @@
         "9ED",
         "10E",
         "M10",
-        "DDL"
+        "DDL",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -19585,7 +19926,8 @@
         "CED",
         "CEI",
         "3ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -19651,7 +19993,8 @@
         "CED",
         "CEI",
         "3ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -19771,11 +20114,12 @@
         "9ED",
         "10E",
         "M10",
-        "M14"
+        "M14",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.",
+      "text": "{3}, {T}: Rod of Ruin deals 1 damage to any target.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -19868,7 +20212,8 @@
         "10E",
         "M10",
         "M11",
-        "M12"
+        "M12",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -19878,7 +20223,7 @@
         },
         {
           "date": "2004-10-04",
-          "text": "If the creature is no longer tapped when the Assassin's ability resolves, then the ability is countered."
+          "text": "If the creature is no longer tapped when the Assassin's ability resolves, then the ability doesn't resolve."
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -19942,7 +20287,8 @@
         "2ED",
         "CED",
         "CEI",
-        "3ED"
+        "3ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -19960,7 +20306,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "As an additional cost to cast Sacrifice, sacrifice a creature.\nAdd an amount of {B} to your mana pool equal to the sacrificed creature's converted mana cost.",
+      "text": "As an additional cost to cast this spell, sacrifice a creature.\nAdd an amount of {B} equal to the sacrificed creature's converted mana cost.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -20054,7 +20400,8 @@
         "7ED",
         "8ED",
         "9ED",
-        "10E"
+        "10E",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -20062,7 +20409,7 @@
         "Human",
         "Cleric"
       ],
-      "text": "{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.",
+      "text": "{T}: Prevent the next 1 damage that would be dealt to any target this turn.",
       "toughness": "1",
       "type": "Creature — Human Cleric",
       "types": [
@@ -20118,7 +20465,8 @@
         "3ED",
         "ME2",
         "ME4",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -20137,7 +20485,7 @@
         "Forest",
         "Plains"
       ],
-      "text": "({T}: Add {G} or {W} to your mana pool.)",
+      "text": "({T}: Add {G} or {W}.)",
       "type": "Land — Forest Plains",
       "types": [
         "Land"
@@ -20222,7 +20570,9 @@
         "4ED",
         "8ED",
         "9ED",
-        "ME4"
+        "ME4",
+        "A25",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -20328,7 +20678,8 @@
         "7ED",
         "8ED",
         "9ED",
-        "10E"
+        "10E",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -20401,7 +20752,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -20470,7 +20822,8 @@
         "3ED",
         "ME3",
         "ME4",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -20489,7 +20842,7 @@
         "Plains",
         "Swamp"
       ],
-      "text": "({T}: Add {W} or {B} to your mana pool.)",
+      "text": "({T}: Add {W} or {B}.)",
       "type": "Land — Plains Swamp",
       "types": [
         "Land"
@@ -20561,7 +20914,8 @@
         "5ED",
         "BRB",
         "MED",
-        "ME3"
+        "ME3",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -20637,7 +20991,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -20704,7 +21059,8 @@
         "CED",
         "CEI",
         "3ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -20824,7 +21180,8 @@
         "M15",
         "ORI",
         "W16",
-        "W17"
+        "W17",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -20968,14 +21325,15 @@
         "W17",
         "CMA",
         "IMA",
-        "DOM"
+        "DOM",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
       "subtypes": [
         "Angel"
       ],
-      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nVigilance (Attacking doesn't cause this creature to tap.)",
+      "text": "Flying, vigilance",
       "toughness": "4",
       "type": "Creature — Angel",
       "types": [
@@ -21045,7 +21403,8 @@
         "4ED",
         "5ED",
         "6ED",
-        "7ED"
+        "7ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -21164,7 +21523,8 @@
         "SOM",
         "KTK",
         "TPR",
-        "RIX"
+        "RIX",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -21237,6 +21597,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -21284,7 +21648,9 @@
         "M15",
         "ORI",
         "W16",
-        "W17"
+        "W17",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -21356,7 +21722,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -21427,7 +21794,8 @@
         "CEI",
         "pJGP",
         "ME4",
-        "EMA"
+        "EMA",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -21495,7 +21863,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -21517,7 +21886,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Cast Siren's Call only during an opponent's turn, before attackers are declared.\nCreatures the active player controls attack this turn if able.\nAt the beginning of the next end step, destroy all non-Wall creatures that player controls that didn't attack this turn. Ignore this effect for each creature the player didn't control continuously since the beginning of the turn.",
+      "text": "Cast this spell only during an opponent's turn, before attackers are declared.\nCreatures the active player controls attack this turn if able.\nAt the beginning of the next end step, destroy all non-Wall creatures that player controls that didn't attack this turn. Ignore this effect for each creature the player didn't control continuously since the beginning of the turn.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -21587,7 +21956,8 @@
         "3ED",
         "4ED",
         "ICE",
-        "5ED"
+        "5ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -21699,7 +22069,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -21786,11 +22157,13 @@
         "MPS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "{T}: Add {C}{C} to your mana pool.",
+      "text": "{T}: Add {C}{C}.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -21852,7 +22225,8 @@
         "5ED",
         "6ED",
         "S00",
-        "7ED"
+        "7ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -21959,7 +22333,8 @@
         "TMP",
         "6ED",
         "M14",
-        "TPR"
+        "TPR",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -22039,7 +22414,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -22124,7 +22500,8 @@
         "4ED",
         "5ED",
         "7ED",
-        "8ED"
+        "8ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -22223,7 +22600,8 @@
         "5ED",
         "MED",
         "M10",
-        "DDI"
+        "DDI",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -22373,7 +22751,8 @@
         "7ED",
         "8ED",
         "CHK",
-        "9ED"
+        "9ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -22462,7 +22841,8 @@
         "6ED",
         "7ED",
         "8ED",
-        "9ED"
+        "9ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -22524,7 +22904,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -22718,8 +23099,13 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -22918,8 +23304,13 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -23118,8 +23509,13 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "Collector's Edition",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -23216,16 +23612,19 @@
         "EMA",
         "C16",
         "C17",
-        "IMA"
+        "IMA",
+        "A25",
+        "BBD",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
-          "date": "2017-11-17",
-          "text": "The amount of life gained is equal to the power of the target creature as it last existed on the battlefield."
+          "date": "2018-03-16",
+          "text": "The amount of life gained is equal to the power of the targeted creature as it last existed on the battlefield."
         },
         {
-          "date": "2017-11-17",
+          "date": "2018-03-16",
           "text": "If the creature's power is negative, its controller doesn't lose or gain life."
         }
       ],
@@ -23285,7 +23684,8 @@
         "3ED",
         "ME2",
         "ME4",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -23304,7 +23704,7 @@
         "Mountain",
         "Forest"
       ],
-      "text": "({T}: Add {R} or {G} to your mana pool.)",
+      "text": "({T}: Add {R} or {G}.)",
       "type": "Land — Mountain Forest",
       "types": [
         "Land"
@@ -23406,7 +23806,8 @@
         "MRD",
         "10E",
         "DPA",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -23491,7 +23892,8 @@
         "4ED",
         "5ED",
         "6ED",
-        "10E"
+        "10E",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -23564,7 +23966,8 @@
         "4ED",
         "5ED",
         "6ED",
-        "MED"
+        "MED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -23646,7 +24049,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -23716,7 +24120,8 @@
         "5ED",
         "6ED",
         "7ED",
-        "8ED"
+        "8ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -23786,7 +24191,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -23848,7 +24254,8 @@
         "CED",
         "CEI",
         "ME4",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -23908,7 +24315,8 @@
         "2ED",
         "CED",
         "CEI",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -23960,7 +24368,8 @@
         "2ED",
         "CED",
         "CEI",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -23971,7 +24380,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Each player shuffles his or her hand and graveyard into his or her library, then draws seven cards. (Then put Timetwister into its owner's graveyard.)",
+      "text": "Each player shuffles their hand and graveyard into their library, then draws seven cards. (Then put Timetwister into its owner's graveyard.)",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -24055,7 +24464,8 @@
         "BRB",
         "INV",
         "7ED",
-        "TPR"
+        "TPR",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -24114,7 +24524,8 @@
         "3ED",
         "ME3",
         "ME4",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -24133,7 +24544,7 @@
         "Forest",
         "Island"
       ],
-      "text": "({T}: Add {G} or {U} to your mana pool.)",
+      "text": "({T}: Add {G} or {U}.)",
       "type": "Land — Forest Island",
       "types": [
         "Land"
@@ -24199,7 +24610,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -24258,7 +24670,8 @@
         "3ED",
         "ME2",
         "ME4",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -24277,7 +24690,7 @@
         "Plains",
         "Island"
       ],
-      "text": "({T}: Add {W} or {U} to your mana pool.)",
+      "text": "({T}: Add {W} or {U}.)",
       "type": "Land — Plains Island",
       "types": [
         "Land"
@@ -24341,7 +24754,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -24417,7 +24831,8 @@
         "ITP",
         "5ED",
         "7ED",
-        "8ED"
+        "8ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -24474,7 +24889,8 @@
         "2ED",
         "CED",
         "CEI",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -24538,7 +24954,8 @@
         "3ED",
         "ME2",
         "ME4",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -24557,7 +24974,7 @@
         "Island",
         "Swamp"
       ],
-      "text": "({T}: Add {U} or {B} to your mana pool.)",
+      "text": "({T}: Add {U} or {B}.)",
       "type": "Land — Island Swamp",
       "types": [
         "Land"
@@ -24652,7 +25069,8 @@
         "M10",
         "DPA",
         "M11",
-        "DD3_DVD"
+        "DD3_DVD",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -24773,7 +25191,9 @@
         "M11",
         "M12",
         "M13",
-        "HOU"
+        "HOU",
+        "E02",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -24866,7 +25286,8 @@
         "4ED",
         "ATH",
         "BRB",
-        "TSB"
+        "TSB",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -24961,7 +25382,8 @@
         "6ED",
         "7ED",
         "8ED",
-        "9ED"
+        "9ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -25027,7 +25449,8 @@
         "CED",
         "CEI",
         "3ED",
-        "MED"
+        "MED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -25144,7 +25567,8 @@
         "CED",
         "CEI",
         "3ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -25231,7 +25655,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -25295,7 +25720,8 @@
         "3ED",
         "ME3",
         "ME4",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -25314,7 +25740,7 @@
         "Island",
         "Mountain"
       ],
-      "text": "({T}: Add {U} or {R} to your mana pool.)",
+      "text": "({T}: Add {U} or {R}.)",
       "type": "Land — Island Mountain",
       "types": [
         "Land"
@@ -25405,7 +25831,8 @@
         "6ED",
         "7ED",
         "8ED",
-        "10E"
+        "10E",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -25502,7 +25929,8 @@
         "7ED",
         "M10",
         "DDD",
-        "DD3_GVL"
+        "DD3_GVL",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -25578,7 +26006,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "5ED"
+        "5ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -25684,7 +26113,8 @@
         "10E",
         "M10",
         "M13",
-        "M15"
+        "M15",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -25758,7 +26188,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -25838,7 +26269,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "8ED"
+        "8ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -25943,7 +26375,8 @@
         "7ED",
         "8ED",
         "10E",
-        "M14"
+        "M14",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -26017,7 +26450,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -26113,7 +26547,8 @@
         "3ED",
         "4ED",
         "10E",
-        "DPA"
+        "DPA",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -26187,7 +26622,8 @@
         "3ED",
         "4ED",
         "5ED",
-        "MED"
+        "MED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -26264,7 +26700,8 @@
         "RQS",
         "ITP",
         "5ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -26340,7 +26777,8 @@
         "RQS",
         "ITP",
         "5ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -26415,7 +26853,8 @@
         "3ED",
         "4ED",
         "S99",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -26508,7 +26947,8 @@
         "5ED",
         "BRB",
         "M10",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -26596,7 +27036,8 @@
         "CEI",
         "3ED",
         "4ED",
-        "9ED"
+        "9ED",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -26661,12 +27102,13 @@
         "3ED",
         "pJGP",
         "ME4",
-        "VMA"
+        "VMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Each player discards his or her hand, then draws seven cards.",
+      "text": "Each player discards their hand, then draws seven cards.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -26764,7 +27206,8 @@
         "M10",
         "M11",
         "ME4",
-        "DDG"
+        "DDG",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -26837,7 +27280,8 @@
         "CED",
         "CEI",
         "3ED",
-        "4ED"
+        "4ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -26917,7 +27361,8 @@
         "5ED",
         "6ED",
         "BTD",
-        "7ED"
+        "7ED",
+        "Collector's Edition"
       ],
       "rarity": "Common",
       "rulings": [
@@ -26930,7 +27375,7 @@
       "subtypes": [
         "Aura"
       ],
-      "text": "Enchant land\nWhenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool (in addition to the mana the land produces).",
+      "text": "Enchant land\nWhenever enchanted land is tapped for mana, its controller adds an additional {G}.",
       "type": "Enchantment — Aura",
       "types": [
         "Enchantment"
@@ -27017,7 +27462,9 @@
         "CEI",
         "3ED",
         "4ED",
-        "9ED"
+        "9ED",
+        "A25",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -27094,7 +27541,8 @@
         "4ED",
         "5ED",
         "MED",
-        "EMA"
+        "EMA",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -27174,7 +27622,8 @@
         "5ED",
         "6ED",
         "7ED",
-        "8ED"
+        "8ED",
+        "Collector's Edition"
       ],
       "rarity": "Uncommon",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -27219,7 +27668,8 @@
         "2ED",
         "CED",
         "CEI",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "reserved": true,
@@ -27234,15 +27684,15 @@
         },
         {
           "date": "2011-01-01",
-          "text": "Word of Command can't be used to force a player to play a card that isn't in his or her hand."
+          "text": "Word of Command can't be used to force a player to play a card that isn't in their hand."
         },
         {
           "date": "2011-01-01",
-          "text": "You control the player while this spell is resolving, which means you get to see anything he or she can see. If that player is required to search his or her library as part of playing the card or as part of its resolution if it's cast as a spell, then you can see the cards in that player's library as well."
+          "text": "You control the player while this spell is resolving, which means you get to see anything they can see. If that player is required to search their library as part of playing the card or as part of its resolution if it's cast as a spell, then you can see the cards in that player's library as well."
         },
         {
           "date": "2011-01-01",
-          "text": "Your opponent can't counter the Word of Command after letting you look at his or her hand, but they can attempt to counter the spell you force them to cast."
+          "text": "Your opponent can't counter the Word of Command after letting you look at their hand, but they can attempt to counter the spell you force them to cast."
         },
         {
           "date": "2011-01-01",
@@ -27274,7 +27724,7 @@
         }
       ],
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
-      "text": "Look at target opponent's hand and choose a card from it. You control that player until Word of Command finishes resolving. The player plays that card if able. While doing so, the player can activate mana abilities only if they're from lands he or she controls and only if mana they produce is spent to activate other mana abilities of lands he or she controls and/or play that card. If the chosen card is cast as a spell, you control the player while that spell is resolving.",
+      "text": "Look at target opponent's hand and choose a card from it. You control that player until Word of Command finishes resolving. The player plays that card if able. While doing so, the player can activate mana abilities only if they're from lands that player controls and only if mana they produce is spent to activate other mana abilities of lands the player controls and/or to play that card. If the chosen card is cast as a spell, you control the player while that spell is resolving.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -27371,7 +27821,8 @@
         "C13",
         "V14",
         "EMA",
-        "MPS_AKH"
+        "MPS_AKH",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",
@@ -27444,7 +27895,8 @@
         "4ED",
         "5ED",
         "6ED",
-        "ME4"
+        "ME4",
+        "Collector's Edition"
       ],
       "rarity": "Rare",
       "source": "SQUARE EDGES AND GOLD-BORDERED BACKSIDE, NOT TOURNAMENT LEGAL",

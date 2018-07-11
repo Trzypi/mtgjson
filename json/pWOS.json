@@ -127,7 +127,8 @@
         "W17",
         "CMA",
         "IMA",
-        "DOM"
+        "DOM",
+        "Wizards of the Coast Online Store"
       ],
       "rarity": "Special",
       "releaseDate": "1999-09-04",
@@ -135,7 +136,7 @@
       "subtypes": [
         "Angel"
       ],
-      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nVigilance (Attacking doesn't cause this creature to tap.)",
+      "text": "Flying, vigilance",
       "toughness": "4",
       "type": "Creature — Angel",
       "types": [

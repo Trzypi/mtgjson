@@ -1569,6 +1569,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -1581,7 +1585,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -1598,13 +1602,18 @@
       "originalType": "Enchantment — Aura",
       "printings": [
         "RTR",
-        "ORI"
+        "ORI",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2015-06-22",
-          "text": "You must target a creature to cast Knightly Valor. If that creature is an illegal target when Knightly Valor tries to resolve, it won't resolve and won't enter the battlefield. You won't get the Knight token."
+          "date": "2018-07-13",
+          "text": "You need a creature for Knightly Valor to target as you cast it. There's no way to have it enter the battlefield attached to the Knight token it'll create."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "If the creature this Aura would enchant is an illegal target by the time Knightly Valor tries to resolve, the Aura spell doesn't resolve. It won't enter the battlefield, so its ability won't trigger."
         }
       ],
       "subtypes": [
@@ -3684,19 +3693,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -3708,27 +3709,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -3756,7 +3741,8 @@
         "KTK",
         "PCA",
         "AKH",
-        "XLN"
+        "XLN",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Counter target spell.",
@@ -6875,7 +6861,8 @@
       "originalText": "Destroy target creature. Its controller discards a card.",
       "originalType": "Sorcery",
       "printings": [
-        "RTR"
+        "RTR",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -7222,7 +7209,8 @@
       "originalType": "Creature — Imp",
       "power": "1",
       "printings": [
-        "RTR"
+        "RTR",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -8390,15 +8378,11 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -8407,10 +8391,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
           "legality": "Legal"
         },
         {
@@ -8448,7 +8428,8 @@
         "DTK",
         "ORI",
         "W16",
-        "KLD"
+        "KLD",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Target player discards two cards.",
@@ -9243,7 +9224,8 @@
       "originalType": "Creature — Horror",
       "power": "4",
       "printings": [
-        "RTR"
+        "RTR",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -9464,7 +9446,8 @@
       "printings": [
         "RTR",
         "DDM",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -11703,6 +11686,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -11715,7 +11702,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -11736,13 +11723,18 @@
         "C13",
         "CN2",
         "E01",
-        "IMA"
+        "IMA",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
-          "date": "2017-11-17",
-          "text": "Guttersnipe's ability resolves before the spell that caused it to trigger."
+          "date": "2018-07-13",
+          "text": "Guttersnipe's triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "In a Two-Headed Giant game, Guttersnipe's ability causes the opposing team to lose 4 life."
         }
       ],
       "subtypes": [
@@ -14925,7 +14917,8 @@
         "DD3_EVG",
         "DD3_GVL",
         "E02",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Target creature gets +3/+3 until end of turn.",
@@ -17116,7 +17109,8 @@
       "originalType": "Instant",
       "printings": [
         "RTR",
-        "MM3"
+        "MM3",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Target creature gets +4/-4 until end of turn.",
@@ -17576,7 +17570,8 @@
       "power": "3",
       "printings": [
         "RTR",
-        "MM3"
+        "MM3",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -29970,7 +29965,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30262,7 +30260,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30554,7 +30555,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30846,7 +30850,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31138,7 +31145,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31430,7 +31440,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31722,7 +31735,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32014,7 +32030,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32306,7 +32325,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32598,7 +32620,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32893,7 +32918,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33188,7 +33215,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33483,7 +33512,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33778,7 +33809,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34073,7 +34106,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34371,7 +34406,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34669,7 +34707,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34967,7 +35008,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35265,7 +35309,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35563,7 +35610,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35858,7 +35908,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -36153,7 +36206,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -36448,7 +36504,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -36743,7 +36802,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -37038,7 +37100,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [

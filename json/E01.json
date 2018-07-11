@@ -379,7 +379,8 @@
         "DDQ",
         "CN2",
         "E01",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -549,7 +550,8 @@
       "power": "2",
       "printings": [
         "OGW",
-        "E01"
+        "E01",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -1428,11 +1430,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Innistrad Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -1441,6 +1443,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -1460,21 +1466,22 @@
         "ISD",
         "C14",
         "C16",
-        "E01"
+        "E01",
+        "M19"
       ],
       "rarity": "Rare",
       "rulings": [
         {
-          "date": "2011-09-22",
-          "text": "You only check the power of the other creature when it enters the battlefield. --If it's 2 or less, the ability will trigger. Once the ability triggers, raising that creature's power above 2 won't affect that ability. --Similarly, reducing the creature's power to 2 or less after it enters the battlefield won't cause the ability to trigger."
+          "date": "2018-07-13",
+          "text": "Mentor of the Meek's ability checks the power of the other creature only as it enters the battlefield. If that creature's power is 2 or less, the ability will trigger. Once the ability triggers, raising that creature's power above 2 won't affect that ability. Similarly, reducing the creature's power to 2 or less after it enters the battlefield won't cause the ability to trigger."
         },
         {
-          "date": "2011-09-22",
-          "text": "Apply power bonuses from counters the creature enters the battlefield with and continuous effects like Mayor of Avabruck's when checking to see if Mentor of the Meek's ability will trigger."
+          "date": "2018-07-13",
+          "text": "Apply power bonuses from counters the creature enters the battlefield with and continuous effects such as that of Valiant Knight before checking to see if Mentor of the Meek's ability will trigger."
         },
         {
-          "date": "2011-09-22",
-          "text": "You choose whether or not to pay {1} when the triggered ability resolves."
+          "date": "2018-07-13",
+          "text": "While resolving the triggered ability of Mentor of the Meek, you can't pay {1} multiple times to draw more than one card."
         }
       ],
       "subtypes": [
@@ -1962,7 +1969,8 @@
       "originalType": "Sorcery",
       "printings": [
         "OGW",
-        "E01"
+        "E01",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -2492,7 +2500,8 @@
         "ZEN",
         "CNS",
         "SOI",
-        "E01"
+        "E01",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -3317,7 +3326,8 @@
         "ROE",
         "MM3",
         "E01",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -4030,6 +4040,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -4042,7 +4056,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -4063,13 +4077,18 @@
         "C13",
         "CN2",
         "E01",
-        "IMA"
+        "IMA",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
-          "date": "2017-11-17",
-          "text": "Guttersnipe's ability resolves before the spell that caused it to trigger."
+          "date": "2018-07-13",
+          "text": "Guttersnipe's triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "In a Two-Headed Giant game, Guttersnipe's ability causes the opposing team to lose 4 life."
         }
       ],
       "subtypes": [
@@ -4874,7 +4893,8 @@
         "ARC",
         "CMD",
         "DDR",
-        "E01"
+        "E01",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -7082,7 +7102,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7244,7 +7267,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7409,7 +7435,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7577,7 +7605,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7742,7 +7773,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -7904,7 +7938,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8066,7 +8103,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8231,7 +8271,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8399,7 +8441,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -8564,7 +8609,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [

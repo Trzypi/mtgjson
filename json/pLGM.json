@@ -110,7 +110,10 @@
         "DD3_JVC",
         "TPR",
         "EMA",
-        "MPS_AKH"
+        "MPS_AKH",
+        "A25",
+        "SS1",
+        "Legend Membership"
       ],
       "rarity": "Special",
       "releaseDate": "1995",
@@ -215,7 +218,8 @@
         "DD2",
         "DPA",
         "M12",
-        "DD3_JVC"
+        "DD3_JVC",
+        "Legend Membership"
       ],
       "rarity": "Special",
       "releaseDate": "1995",
@@ -226,7 +230,7 @@
         }
       ],
       "source": "DCI Legend Membership bonus.",
-      "text": "Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.",
+      "text": "Incinerate deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn.",
       "type": "Instant",
       "types": [
         "Instant"

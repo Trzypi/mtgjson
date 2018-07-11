@@ -10819,7 +10819,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -10851,13 +10851,18 @@
       "originalText": "Creatures you control gain trample until end of turn.\nDraw a card.",
       "originalType": "Sorcery",
       "printings": [
-        "HOU"
+        "HOU",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2017-07-14",
+          "date": "2018-07-13",
           "text": "Crash Through affects only creatures you control at the time it resolves. Creatures you begin to control later in the turn won't gain trample."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "You may cast Crash Through even if you control no creatures. If you control no creatures as the spell resolves, you'll just draw a card."
         }
       ],
       "text": "Creatures you control gain trample until end of turn.\nDraw a card.",
@@ -21766,7 +21771,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -21799,7 +21804,8 @@
       "originalType": "Artifact",
       "printings": [
         "M12",
-        "HOU"
+        "HOU",
+        "M19"
       ],
       "rarity": "Common",
       "text": "{T}: Add one mana of any color.",
@@ -24378,7 +24384,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -24668,7 +24677,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -24961,7 +24973,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25257,7 +25271,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25550,7 +25567,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -25840,7 +25860,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26130,7 +26153,10 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26420,7 +26446,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -26710,7 +26739,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27003,7 +27035,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27296,7 +27330,9 @@
         "XLN",
         "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27592,7 +27628,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -27888,7 +27927,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28181,7 +28223,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -28474,7 +28519,10 @@
         "UST",
         "RIX",
         "DDU",
-        "DOM"
+        "DOM",
+        "BBD",
+        "GS1",
+        "M19"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29037,19 +29085,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
           "legality": "Legal"
         },
         {
@@ -29058,10 +29098,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
           "legality": "Legal"
         },
         {
@@ -29085,7 +29121,8 @@
         "AKH",
         "HOU",
         "XLN",
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Woodland Stream enters the battlefield tapped.\n{T}: Add {G} or {U}.",
@@ -29635,19 +29672,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
           "legality": "Legal"
         },
         {
@@ -29678,7 +29707,8 @@
         "AKH",
         "HOU",
         "C17",
-        "RIX"
+        "RIX",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Cinder Barrens enters the battlefield tapped.\n{T}: Add {B} or {R}.",

@@ -552,6 +552,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -560,15 +564,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Modern",
           "legality": "Legal"
         },
         {
-          "format": "Scars of Mirrodin Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -588,7 +588,8 @@
         "SOM",
         "M14",
         "ORI",
-        "W16"
+        "W16",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Return target nonland permanent to its owner's hand.",
@@ -781,15 +782,11 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Kaladesh Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -798,10 +795,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
           "legality": "Legal"
         },
         {
@@ -839,7 +832,8 @@
         "DTK",
         "ORI",
         "W16",
-        "KLD"
+        "KLD",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Target player discards two cards.",
@@ -1208,11 +1202,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
-          "format": "Innistrad Block",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -1221,6 +1215,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -1239,7 +1237,8 @@
         "ISD",
         "M13",
         "M15",
-        "W16"
+        "W16",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -1346,7 +1345,8 @@
         "M15",
         "W16",
         "EMA",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -1547,6 +1547,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -1598,7 +1602,8 @@
         "M15",
         "ORI",
         "W16",
-        "W17"
+        "W17",
+        "M19"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -1799,6 +1804,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -1829,7 +1838,8 @@
       "printings": [
         "M10",
         "W16",
-        "W17"
+        "W17",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [

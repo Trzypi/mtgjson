@@ -86,7 +86,8 @@
       "power": "4",
       "printings": [
         "ROE",
-        "pWCQ"
+        "pWCQ",
+        "World Magic Cup Qualifiers"
       ],
       "rarity": "Special",
       "releaseDate": "2013",
@@ -205,7 +206,8 @@
       "printings": [
         "ISD",
         "pWCQ",
-        "DDQ"
+        "DDQ",
+        "World Magic Cup Qualifiers"
       ],
       "rarity": "Special",
       "releaseDate": "2014",
@@ -318,22 +320,20 @@
       "power": "2",
       "printings": [
         "DKA",
-        "pWCQ"
+        "pWCQ",
+        "A25",
+        "World Magic Cup Qualifiers"
       ],
       "rarity": "Special",
       "releaseDate": "2015",
       "rulings": [
         {
-          "date": "2011-01-22",
-          "text": "The ability affects each spell that's not a creature spell, including your own."
+          "date": "2018-03-16",
+          "text": "Thalia's ability affects each spell that's not a creature spell, including your own."
         },
         {
-          "date": "2011-01-22",
-          "text": "The ability affects the total cost of each noncreature spell, but it doesn't change that spell's mana cost or converted mana cost."
-        },
-        {
-          "date": "2011-01-22",
-          "text": "When determining a spell's total cost, effects that increase the cost are applied before effects that reduce the cost."
+          "date": "2018-03-16",
+          "text": "To determine the total cost of a spell, start with the mana cost or alternative cost you're paying, add any cost increases, then apply any cost reductions. The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was."
         }
       ],
       "source": "World Magic Cup Qualifiers Participation bonus",
@@ -431,7 +431,8 @@
       "printings": [
         "ISD",
         "pWCQ",
-        "MM3"
+        "MM3",
+        "World Magic Cup Qualifiers"
       ],
       "rarity": "Special",
       "rulings": [
@@ -459,7 +460,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "+1: Each player discards a card.\n−2: Target player sacrifices a creature.\n−6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of his or her choice.",
+      "text": "+1: Each player discards a card.\n−2: Target player sacrifices a creature.\n−6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.",
       "type": "Legendary Planeswalker — Liliana",
       "types": [
         "Planeswalker"
@@ -545,7 +546,8 @@
       "printings": [
         "ISD",
         "pWCQ",
-        "MM3"
+        "MM3",
+        "World Magic Cup Qualifiers"
       ],
       "rarity": "Special",
       "rulings": [

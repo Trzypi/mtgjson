@@ -993,6 +993,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -1002,6 +1006,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -1025,7 +1033,8 @@
         "8ED",
         "9ED",
         "10E",
-        "M14"
+        "M14",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -2215,7 +2224,8 @@
         "ATQ",
         "4ED",
         "MRD",
-        "ME4"
+        "ME4",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [

@@ -192,8 +192,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -390,8 +396,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -592,8 +605,13 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -796,8 +814,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -997,8 +1022,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -1134,7 +1166,9 @@
         "ME3",
         "TPR",
         "CN2",
-        "IMA"
+        "IMA",
+        "A25",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "1996-08-02",
@@ -1253,7 +1287,8 @@
         "M12",
         "C13",
         "DD3_JVC",
-        "IMA"
+        "IMA",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "1996-08-02",
@@ -1276,7 +1311,7 @@
         }
       ],
       "source": "Arena League second prize",
-      "text": "Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.\nFireball costs {1} more to cast for each target beyond the first.",
+      "text": "This spell costs {1} more to cast for each target beyond the first.\nFireball deals X damage divided evenly, rounded down, among any number of targets.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -1464,8 +1499,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -1662,8 +1703,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -1864,8 +1912,13 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -2068,8 +2121,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -2269,8 +2329,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -2346,7 +2413,8 @@
       "power": "2",
       "printings": [
         "pARL",
-        "USG"
+        "USG",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "1999-06-03",
@@ -2422,7 +2490,8 @@
       "printings": [
         "pARL",
         "USG",
-        "BTD"
+        "BTD",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "1999-06-07",
@@ -2534,7 +2603,8 @@
         "8ED",
         "9ED",
         "M13",
-        "MM3"
+        "MM3",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "1999-06-07",
@@ -2549,7 +2619,7 @@
         },
         {
           "date": "2017-03-14",
-          "text": "If the spell is an illegal target when Rewind tries to resolve, perhaps because it was countered by another spell or ability, Rewind will be countered and none of its effects will happen. You won't untap any lands."
+          "text": "If the spell is an illegal target when Rewind tries to resolve, perhaps because it was countered by another spell or ability, Rewind won't resolve and none of its effects will happen. You won't untap any lands."
         },
         {
           "date": "2017-03-14",
@@ -2618,7 +2688,8 @@
         "pARL",
         "USG",
         "V10",
-        "VMA"
+        "VMA",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "1999-06-07",
@@ -2630,7 +2701,7 @@
         },
         {
           "date": "2008-08-01",
-          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature."
+          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature."
         }
       ],
       "source": "English Urza's Destiny boosters in place of uncommon cards",
@@ -2750,12 +2821,14 @@
         "DTK",
         "EMA",
         "XLN",
-        "IMA"
+        "IMA",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Special",
       "releaseDate": "1999-06-07",
       "source": "English Urza's Destiny boosters in place of uncommon cards",
-      "text": "Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.",
+      "text": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -2822,7 +2895,8 @@
       "printings": [
         "pARL",
         "VIS",
-        "6ED"
+        "6ED",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2000-03-30",
@@ -2897,7 +2971,8 @@
       "printings": [
         "pARL",
         "TMP",
-        "6ED"
+        "6ED",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2000-06-01",
@@ -2919,6 +2994,10 @@
       ],
       "foreignNames": [
         {
+          "language": "Chinese Simplified",
+          "name": "掠夺"
+        },
+        {
           "language": "French",
           "name": "Pillage"
         },
@@ -2929,6 +3008,10 @@
         {
           "language": "Italian",
           "name": "Saccheggio"
+        },
+        {
+          "language": "Japanese",
+          "name": "略奪"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -2971,7 +3054,9 @@
         "7ED",
         "DKM",
         "ME2",
-        "PD2"
+        "PD2",
+        "A25",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2000-08-03",
@@ -3051,7 +3136,8 @@
         "pARL",
         "MIR",
         "6ED",
-        "EMA"
+        "EMA",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2000-09-28",
@@ -3149,7 +3235,8 @@
         "pARL",
         "MIR",
         "6ED",
-        "TSB"
+        "TSB",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2000-11-30",
@@ -3342,8 +3429,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -3540,8 +3633,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -3742,8 +3842,13 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -3946,8 +4051,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -4147,8 +4259,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -4266,7 +4385,8 @@
         "MRD",
         "9ED",
         "10E",
-        "KLD"
+        "KLD",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2001-02-05",
@@ -4348,7 +4468,8 @@
         "C13",
         "C14",
         "TPR",
-        "CN2"
+        "CN2",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2001-04-02",
@@ -4461,7 +4582,8 @@
         "DKA",
         "PC2",
         "PCA",
-        "AKH"
+        "AKH",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2001-06-04",
@@ -4484,7 +4606,7 @@
         }
       ],
       "source": "Arena League prize",
-      "text": "As an additional cost to cast Fling, sacrifice a creature.\nFling deals damage equal to the sacrificed creature's power to target creature or player.",
+      "text": "As an additional cost to cast this spell, sacrifice a creature.\nFling deals damage equal to the sacrificed creature's power to any target.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -4550,7 +4672,8 @@
       "printings": [
         "pARL",
         "WTH",
-        "VMA"
+        "VMA",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2001-07-30",
@@ -4752,8 +4875,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -4950,8 +5079,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -5152,8 +5288,13 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -5356,8 +5497,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -5557,8 +5705,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -5586,6 +5741,10 @@
       "flavor": "Greven il-Vec lifted Vhati off his feet. \"The fall will give you time to think on your failure.\"",
       "foreignNames": [
         {
+          "language": "Chinese Simplified",
+          "name": "恶魔的勒令"
+        },
+        {
           "language": "French",
           "name": "Edit diabolique"
         },
@@ -5596,6 +5755,10 @@
         {
           "language": "Italian",
           "name": "Editto Diabolico"
+        },
+        {
+          "language": "Japanese",
+          "name": "悪魔の布告"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -5636,7 +5799,9 @@
         "TMP",
         "BTD",
         "TPR",
-        "MPS_AKH"
+        "MPS_AKH",
+        "A25",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2001-10-01",
@@ -5662,6 +5827,10 @@
           "name": "盖亚的祝福"
         },
         {
+          "language": "Chinese Traditional",
+          "name": "蓋亞的祝福"
+        },
+        {
           "language": "French",
           "name": "Bénédiction selon Gaia"
         },
@@ -5678,8 +5847,12 @@
           "name": "ガイアの祝福"
         },
         {
+          "language": "Korean",
+          "name": "가이아의 축복"
+        },
+        {
           "language": "Portuguese (Brazil)",
-          "name": "Bênção de Géia"
+          "name": "Bênção de Gaia"
         },
         {
           "language": "Russian",
@@ -5729,7 +5902,8 @@
         "TSB",
         "EMA",
         "DDR",
-        "DOM"
+        "DOM",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2001-12-03",
@@ -5744,7 +5918,7 @@
         }
       ],
       "source": "Arena League prize",
-      "text": "Target player shuffles up to three target cards from his or her graveyard into his or her library.\nDraw a card.\nWhen Gaea's Blessing is put into your graveyard from your library, shuffle your graveyard into your library.",
+      "text": "Target player shuffles up to three target cards from their graveyard into their library.\nDraw a card.\nWhen Gaea's Blessing is put into your graveyard from your library, shuffle your graveyard into your library.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -5931,8 +6105,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -6132,8 +6313,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -6225,7 +6413,9 @@
         "VMA",
         "DD3_JVC",
         "DDO",
-        "EMA"
+        "EMA",
+        "A25",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2002-02-04",
@@ -6337,7 +6527,8 @@
         "BRB",
         "HOP",
         "KTK",
-        "FRF_UGIN"
+        "FRF_UGIN",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2002-04-08",
@@ -6348,11 +6539,11 @@
         },
         {
           "date": "2014-09-20",
-          "text": "If some of the creatures are illegal targets as Arc Lightning tries to resolve, the original division of damage still applies but no damage is dealt to the illegal targets. If all targets are illegal, Arc Lightning is countered."
+          "text": "If some of the creatures are illegal targets as Arc Lightning tries to resolve, the original division of damage still applies but no damage is dealt to the illegal targets. If all targets are illegal, Arc Lightning doesn't resolve."
         }
       ],
       "source": "Arena League prize",
-      "text": "Arc Lightning deals 3 damage divided as you choose among one, two, or three target creatures and/or players.",
+      "text": "Arc Lightning deals 3 damage divided as you choose among one, two, or three targets.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -6440,7 +6631,8 @@
         "pARL",
         "TMP",
         "TSB",
-        "TPR"
+        "TPR",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2002-06-03",
@@ -6545,7 +6737,8 @@
         "DDN",
         "TPR",
         "MM2",
-        "IMA"
+        "IMA",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2002-08-05",
@@ -6738,8 +6931,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -6936,8 +7135,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -7138,8 +7344,13 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -7342,8 +7553,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -7543,8 +7761,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -7620,7 +7845,8 @@
       "printings": [
         "pARL",
         "LGN",
-        "ARC"
+        "ARC",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2003-02-03",
@@ -7634,7 +7860,7 @@
       "subtypes": [
         "Goblin"
       ],
-      "text": "Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Skirk Marauder is turned face up, it deals 2 damage to target creature or player.",
+      "text": "Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Skirk Marauder is turned face up, it deals 2 damage to any target.",
       "toughness": "1",
       "type": "Creature — Goblin",
       "types": [
@@ -7711,7 +7937,10 @@
         "SCG",
         "CMD",
         "CNS",
-        "VMA"
+        "VMA",
+        "A25",
+        "DDU",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2003-05-26",
@@ -7738,7 +7967,7 @@
         "Elf",
         "Mutant"
       ],
-      "text": "{T}: Add {G}{G}{G} to your mana pool.\nForestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand. Then shuffle your library.)",
+      "text": "{T}: Add {G}{G}{G}.\nForestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand, then shuffle your library.)",
       "toughness": "5",
       "type": "Creature — Elf Mutant",
       "types": [
@@ -7806,7 +8035,8 @@
       "printings": [
         "pARL",
         "MRD",
-        "MMA"
+        "MMA",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2003-10-06",
@@ -8002,8 +8232,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -8200,8 +8436,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -8402,8 +8645,13 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -8606,8 +8854,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -8807,8 +9062,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -8907,12 +9169,14 @@
         "C15",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2004-02-06",
       "source": "Arena League Darksteel season prize",
-      "text": "Indestructible\n{T}: Add one mana of any color to your mana pool.",
+      "text": "Indestructible\n{T}: Add one mana of any color.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -8991,7 +9255,8 @@
         "pFNM",
         "5DN",
         "CN2",
-        "MM3"
+        "MM3",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2004-06-04",
@@ -9073,7 +9338,8 @@
       "printings": [
         "pARL",
         "CHK",
-        "MMA"
+        "MMA",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2004-10-01",
@@ -9092,14 +9358,14 @@
         },
         {
           "date": "2013-06-07",
-          "text": "If all of the spell's targets are illegal when the spell tries to resolve, it will be countered and none of its effects will happen."
+          "text": "If all of the spell's targets are illegal when the spell tries to resolve, it won't resolve and none of its effects will happen."
         }
       ],
       "source": "Arena League Champions of Kamigawa season prize",
       "subtypes": [
         "Arcane"
       ],
-      "text": "Glacial Ray deals 2 damage to target creature or player.\nSplice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+      "text": "Glacial Ray deals 2 damage to any target.\nSplice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
       "type": "Instant — Arcane",
       "types": [
         "Instant"
@@ -9136,12 +9402,13 @@
       "number": "61",
       "printings": [
         "pARL",
-        "UNH"
+        "UNH",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2004-11-20",
       "source": "Arena League Unhinged season prize",
-      "text": "As Circle of Protection: Art comes into play, choose an artist.\n{1}{W}: The next time a source of your choice by the chosen artist would deal damage to you this turn, prevent that damage.\n{1}{W}: Return Circle of Protection: Art to its owner's hand.",
+      "text": "As Circle of Protection: Art enters the battlefield, choose an artist.\n{1}{W}: The next time a source of your choice with art by the chosen artist would deal damage to you this turn, prevent that damage.\n{1}{W}: Return Circle of Protection: Art to its owner's hand.",
       "type": "Enchantment",
       "types": [
         "Enchantment"
@@ -9179,12 +9446,13 @@
       "number": "62",
       "printings": [
         "pARL",
-        "UNH"
+        "UNH",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2004-11-20",
       "source": "Arena League Unhinged season prize",
-      "text": "Name a nonland card, then reveal the top card of your library. If that card is the named card, draw three cards.",
+      "text": "Choose a nonland card name, then reveal the top card of your library. If that card has the chosen name, you draw three cards.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -9222,7 +9490,8 @@
       "number": "63",
       "printings": [
         "pARL",
-        "UNH"
+        "UNH",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2004-11-20",
@@ -9266,7 +9535,8 @@
       "power": "2",
       "printings": [
         "pARL",
-        "UNH"
+        "UNH",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2004-11-20",
@@ -9314,7 +9584,8 @@
       "number": "65",
       "printings": [
         "pARL",
-        "UNH"
+        "UNH",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2004-11-20",
@@ -9345,12 +9616,13 @@
       "number": "66",
       "printings": [
         "pARL",
-        "UGL"
+        "UGL",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2004-11-20",
       "source": "Arena League Unhinged season prize",
-      "text": "{T}, Sacrifice Ashnod's Coupon: Target player gets you target drink.\nErrata: You pay any costs for the drink.",
+      "text": "{T}, Sacrifice Ashnod's Coupon: Target player gets you target drink. You pay any costs for the drink.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -9538,8 +9810,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -9736,8 +10014,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -9938,8 +10223,13 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -10142,8 +10432,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -10343,8 +10640,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -10430,14 +10734,16 @@
       "number": "72",
       "printings": [
         "pARL",
-        "BOK"
+        "BOK",
+        "A25",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2005-02-04",
       "rulings": [
         {
           "date": "2008-08-01",
-          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature."
+          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature."
         }
       ],
       "source": "Arena League Betrayers of Kamigawa season prize",
@@ -10522,7 +10828,8 @@
       "power": "4",
       "printings": [
         "pARL",
-        "SOK"
+        "SOK",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2005-06-03",
@@ -10630,7 +10937,8 @@
         "pARL",
         "RAV",
         "GTC",
-        "MM3"
+        "MM3",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2005-10-07",
@@ -10828,8 +11136,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -11026,8 +11340,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -11228,8 +11549,13 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -11432,8 +11758,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -11633,8 +11966,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Arena League",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "1996-08-02",
@@ -11727,12 +12067,13 @@
       "number": "80",
       "printings": [
         "pARL",
-        "GPT"
+        "GPT",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2006-02-03",
       "source": "Arena League Guildpact season prize",
-      "text": "Target opponent reveals his or her hand. You choose a nonland card from it and exile that card.",
+      "text": "Target opponent reveals their hand. You choose a nonland card from it and exile that card.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -11818,7 +12159,8 @@
         "pARL",
         "GPT",
         "DDJ",
-        "EMA"
+        "EMA",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2006-02-03",
@@ -11923,7 +12265,8 @@
         "C15",
         "CN2",
         "C16",
-        "MM3"
+        "MM3",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2006-05-05",
@@ -12014,12 +12357,13 @@
       "number": "83",
       "printings": [
         "pARL",
-        "CSP"
+        "CSP",
+        "Arena League"
       ],
       "rarity": "Special",
       "releaseDate": "2006-07",
       "source": "Arena League Coldsnap season prize",
-      "text": "Ripple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)\nSurging Flame deals 2 damage to target creature or player.",
+      "text": "Ripple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)\nSurging Flame deals 2 damage to any target.",
       "type": "Instant",
       "types": [
         "Instant"

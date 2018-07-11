@@ -2348,6 +2348,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -2360,7 +2364,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Theros Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -2377,7 +2381,8 @@
       "power": "3",
       "printings": [
         "JOU",
-        "M15"
+        "M15",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -19490,7 +19495,8 @@
       "power": "4",
       "printings": [
         "JOU",
-        "ORI"
+        "ORI",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "subtypes": [

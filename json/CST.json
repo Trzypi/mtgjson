@@ -77,7 +77,8 @@
       "printings": [
         "ALL",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -161,7 +162,8 @@
       "number": "9b",
       "printings": [
         "ALL",
-        "CST"
+        "CST",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -240,7 +242,8 @@
       "printings": [
         "ALL",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -315,11 +318,12 @@
       "printings": [
         "ALL",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Kjeldoran Cunning Theme Deck",
-      "text": "You may exile a white card from your hand rather than pay Scars of the Veteran's mana cost.\nPrevent the next 7 damage that would be dealt to target creature or player this turn. At the beginning of the next end step, put a +0/+1 counter on that creature for each 1 damage prevented this way.",
+      "text": "You may exile a white card from your hand rather than pay this spell's mana cost.\nPrevent the next 7 damage that would be dealt to any target this turn. If it's a creature, put a +0/+1 counter on it for each 1 damage prevented this way at the beginning of the next end step.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -446,7 +450,9 @@
         "ME3",
         "TPR",
         "CN2",
-        "IMA"
+        "IMA",
+        "A25",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -523,7 +529,8 @@
         "ALL",
         "6ED",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Snowscape Theme Deck",
@@ -593,7 +600,8 @@
       "printings": [
         "ALL",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -670,7 +678,8 @@
       "printings": [
         "ICE",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Kjeldoran Cunning Theme Deck",
@@ -745,7 +754,8 @@
       "printings": [
         "ALL",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -830,7 +840,8 @@
       "printings": [
         "ALL",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Snowscape Theme Deck",
@@ -906,7 +917,8 @@
       "printings": [
         "ALL",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -985,7 +997,8 @@
       "number": "44b",
       "printings": [
         "ALL",
-        "CST"
+        "CST",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Beyond the Grave Theme Deck",
@@ -1057,7 +1070,8 @@
       "power": "1",
       "printings": [
         "ALL",
-        "CST"
+        "CST",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Beyond the Grave Theme Deck",
@@ -1155,16 +1169,19 @@
         "EMA",
         "C16",
         "C17",
-        "IMA"
+        "IMA",
+        "A25",
+        "BBD",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
         {
-          "date": "2017-11-17",
-          "text": "The amount of life gained is equal to the power of the target creature as it last existed on the battlefield."
+          "date": "2018-03-16",
+          "text": "The amount of life gained is equal to the power of the targeted creature as it last existed on the battlefield."
         },
         {
-          "date": "2017-11-17",
+          "date": "2018-03-16",
           "text": "If the creature's power is negative, its controller doesn't lose or gain life."
         }
       ],
@@ -1237,7 +1254,8 @@
         "ALL",
         "DKM",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1330,7 +1348,8 @@
         "ICE",
         "5ED",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Kjeldoran Cunning Theme Deck",
@@ -1425,12 +1444,15 @@
         "CNS",
         "VMA",
         "C15",
-        "EMA"
+        "EMA",
+        "A25",
+        "SS1",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
         {
-          "date": "2016-06-08",
+          "date": "2018-03-16",
           "text": "You draw three cards and put two cards back all while Brainstorm is resolving. Nothing can happen between the two, and no player may choose to take actions."
         }
       ],
@@ -1501,7 +1523,8 @@
       "printings": [
         "ICE",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1580,7 +1603,8 @@
         "ALL",
         "DKM",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1606,7 +1630,7 @@
         }
       ],
       "source": "Beyond the Grave Theme Deck",
-      "text": "Death Spark deals 1 damage to target creature or player.\nAt the beginning of your upkeep, if Death Spark is in your graveyard with a creature card directly above it, you may pay {1}. If you do, return Death Spark to your hand.",
+      "text": "Death Spark deals 1 damage to any target.\nAt the beginning of your upkeep, if Death Spark is in your graveyard with a creature card directly above it, you may pay {1}. If you do, return Death Spark to your hand.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -1673,7 +1697,8 @@
       "printings": [
         "ALL",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1753,11 +1778,12 @@
       "printings": [
         "ICE",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Snowscape Theme Deck",
-      "text": "Iceberg enters the battlefield with X ice counters on it.\n{3}: Put an ice counter on Iceberg.\nRemove an ice counter from Iceberg: Add {C} to your mana pool.",
+      "text": "Iceberg enters the battlefield with X ice counters on it.\n{3}: Put an ice counter on Iceberg.\nRemove an ice counter from Iceberg: Add {C}.",
       "type": "Enchantment",
       "types": [
         "Enchantment"
@@ -1823,7 +1849,8 @@
       "power": "1",
       "printings": [
         "ICE",
-        "CST"
+        "CST",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Snowscape Theme Deck",
@@ -1897,11 +1924,12 @@
         "ALL",
         "DKM",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Aurochs Stampede Theme Deck",
-      "text": "You may exile a green card from your hand rather than pay Bounty of the Hunt's mana cost.\nDistribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a +1/+1 counter from that creature at the beginning of the next cleanup step.",
+      "text": "You may exile a green card from your hand rather than pay this spell's mana cost.\nDistribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a +1/+1 counter from that creature at the beginning of the next cleanup step.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -1973,7 +2001,8 @@
         "ALL",
         "MMQ",
         "BTD",
-        "CST"
+        "CST",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Aurochs Stampede Theme Deck",
@@ -2047,7 +2076,8 @@
         "ICE",
         "5ED",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -2057,7 +2087,7 @@
         }
       ],
       "source": "Kjeldoran Cunning Theme Deck",
-      "text": "Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle his or her library.\nDraw a card at the beginning of the next turn's upkeep.",
+      "text": "Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle their library.\nDraw a card at the beginning of the next turn's upkeep.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -2122,7 +2152,8 @@
       "number": "100",
       "printings": [
         "ICE",
-        "CST"
+        "CST",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Snowscape Theme Deck",
@@ -2196,7 +2227,8 @@
       "printings": [
         "ICE",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Kjeldoran Cunning Theme Deck",
@@ -2204,7 +2236,7 @@
         "Human",
         "Wizard"
       ],
-      "text": "{T}: Zuran Spellcaster deals 1 damage to target creature or player.",
+      "text": "{T}: Zuran Spellcaster deals 1 damage to any target.",
       "toughness": "1",
       "type": "Creature — Human Wizard",
       "types": [
@@ -2271,7 +2303,8 @@
       "printings": [
         "ICE",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -2408,7 +2441,8 @@
         "ME2",
         "DDC",
         "DD3_DVD",
-        "TPR"
+        "TPR",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Beyond the Grave Theme Deck",
@@ -2429,6 +2463,10 @@
       ],
       "flavor": "\"Leshrac, my liege, grant me the power I am due.\"\n—Lim-Dûl, the Necromancer",
       "foreignNames": [
+        {
+          "language": "Chinese Simplified",
+          "name": "黑暗祭礼"
+        },
         {
           "language": "French",
           "name": "Messe noire"
@@ -2524,11 +2562,13 @@
         "VMA",
         "DD3_DVD",
         "TPR",
-        "MPS_AKH"
+        "MPS_AKH",
+        "A25",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Beyond the Grave Theme Deck",
-      "text": "Add {B}{B}{B} to your mana pool.",
+      "text": "Add {B}{B}{B}.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -2595,7 +2635,8 @@
       "printings": [
         "ICE",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Snowscape Theme Deck",
@@ -2669,7 +2710,8 @@
       "printings": [
         "ICE",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -2752,7 +2794,8 @@
         "5ED",
         "6ED",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -2836,7 +2879,8 @@
       "power": "2",
       "printings": [
         "ICE",
-        "CST"
+        "CST",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Snowscape Theme Deck",
@@ -2914,7 +2958,8 @@
         "ICE",
         "INV",
         "DKM",
-        "CST"
+        "CST",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -2924,7 +2969,7 @@
         }
       ],
       "source": "Beyond the Grave Theme Deck",
-      "text": "Spend only black and/or red mana on X.\nSoul Burn deals X damage to target creature or player. You gain life equal to the damage dealt, but not more than the amount of {B} spent on X, the player's life total before Soul Burn dealt damage, or the creature's toughness.",
+      "text": "Spend only black and/or red mana on X.\nSoul Burn deals X damage to any target. You gain life equal to the damage dealt, but not more than the amount of {B} spent on X, the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -3024,7 +3069,8 @@
         "DD2",
         "DPA",
         "M12",
-        "DD3_JVC"
+        "DD3_JVC",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -3034,7 +3080,7 @@
         }
       ],
       "source": "Aurochs Stampede Theme Deck",
-      "text": "Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.",
+      "text": "Incinerate deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -3101,7 +3147,8 @@
       "power": "1",
       "printings": [
         "ICE",
-        "CST"
+        "CST",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Beyond the Grave Theme Deck",
@@ -3184,14 +3231,15 @@
         "CST",
         "ME2",
         "DDL",
-        "VMA"
+        "VMA",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Aurochs Stampede Theme Deck",
       "subtypes": [
         "Orc"
       ],
-      "text": "{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.",
+      "text": "{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G}.",
       "toughness": "1",
       "type": "Creature — Orc",
       "types": [
@@ -3260,7 +3308,8 @@
         "ICE",
         "5ED",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -3345,7 +3394,8 @@
       "printings": [
         "ICE",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Aurochs Stampede Theme Deck",
@@ -3353,7 +3403,7 @@
         "Plant",
         "Wall"
       ],
-      "text": "Defender (This creature can't attack.)\nSacrifice Tinder Wall: Add {R}{R} to your mana pool.\n{R}, Sacrifice Tinder Wall: Tinder Wall deals 2 damage to target creature it's blocking.",
+      "text": "Defender (This creature can't attack.)\nSacrifice Tinder Wall: Add {R}{R}.\n{R}, Sacrifice Tinder Wall: It deals 2 damage to target creature it's blocking.",
       "toughness": "3",
       "type": "Creature — Plant Wall",
       "types": [
@@ -3421,7 +3471,8 @@
       "printings": [
         "ICE",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Aurochs Stampede Theme Deck",
@@ -3499,7 +3550,8 @@
         "ICE",
         "DKM",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -3509,7 +3561,7 @@
         },
         {
           "date": "2004-10-04",
-          "text": "If the targeted creature leaves the battlefield (or otherwise becomes an illegal target) before the ability resolves, the ability will be countered. Giant Trap Door Spider will remain on the battlefield."
+          "text": "If the targeted creature leaves the battlefield (or otherwise becomes an illegal target) before the ability resolves, the ability won't resolve. Giant Trap Door Spider will remain on the battlefield."
         }
       ],
       "source": "Aurochs Stampede Theme Deck",
@@ -3585,7 +3637,8 @@
       "printings": [
         "ICE",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Kjeldoran Cunning Theme Deck",
@@ -3650,7 +3703,8 @@
       "number": "310",
       "printings": [
         "ICE",
-        "CST"
+        "CST",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "rulings": [
@@ -3725,11 +3779,12 @@
         "5ED",
         "DKM",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Beyond the Grave Theme Deck",
-      "text": "{1}, {T}, Sacrifice Barbed Sextant: Add one mana of any color to your mana pool. Draw a card at the beginning of the next turn's upkeep.",
+      "text": "{1}, {T}, Sacrifice Barbed Sextant: Add one mana of any color. Draw a card at the beginning of the next turn's upkeep.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -3791,11 +3846,12 @@
         "5ED",
         "6ED",
         "CST",
-        "ME2"
+        "ME2",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Beyond the Grave Theme Deck",
-      "text": "{1}, {T}, Sacrifice a creature: Skull Catapult deals 2 damage to target creature or player.",
+      "text": "{1}, {T}, Sacrifice a creature: Skull Catapult deals 2 damage to any target.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -3854,7 +3910,8 @@
       "number": "349",
       "printings": [
         "ICE",
-        "CST"
+        "CST",
+        "Coldsnap Theme Decks"
       ],
       "rarity": "Special",
       "source": "Aurochs Stampede Theme Deck",
@@ -4046,8 +4103,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Coldsnap Theme Decks",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "Kjeldoran Cunning Theme Deck",
@@ -4245,8 +4308,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Coldsnap Theme Decks",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "Kjeldoran Cunning Theme Deck",
@@ -4444,8 +4513,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Coldsnap Theme Decks",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "Kjeldoran Cunning Theme Deck",
@@ -4642,8 +4717,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Coldsnap Theme Decks",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "Kjeldoran Cunning Theme Deck",
@@ -4840,8 +4922,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Coldsnap Theme Decks",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "Kjeldoran Cunning Theme Deck",
@@ -5038,8 +5127,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Coldsnap Theme Decks",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "Kjeldoran Cunning Theme Deck",
@@ -5240,8 +5336,13 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "Coldsnap Theme Decks",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "Beyond the Grave Theme Deck",
@@ -5442,8 +5543,13 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "Coldsnap Theme Decks",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "Beyond the Grave Theme Deck",
@@ -5644,8 +5750,13 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "Coldsnap Theme Decks",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "Beyond the Grave Theme Deck",
@@ -5848,8 +5959,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Coldsnap Theme Decks",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "Beyond the Grave Theme Deck",
@@ -6052,8 +6170,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Coldsnap Theme Decks",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "Beyond the Grave Theme Deck",
@@ -6256,8 +6381,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Coldsnap Theme Decks",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "Beyond the Grave Theme Deck",
@@ -6457,8 +6589,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Coldsnap Theme Decks",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "Beyond the Grave Theme Deck",
@@ -6658,8 +6797,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Coldsnap Theme Decks",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "Beyond the Grave Theme Deck",
@@ -6859,8 +7005,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Coldsnap Theme Decks",
+        "M19"
       ],
       "rarity": "Basic Land",
       "source": "Beyond the Grave Theme Deck",

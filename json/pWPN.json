@@ -92,7 +92,8 @@
         "pWPN",
         "ALA",
         "C13",
-        "MM3"
+        "MM3",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
@@ -189,7 +190,8 @@
         "pWPN",
         "ALA",
         "DDH",
-        "MM3"
+        "MM3",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
@@ -285,22 +287,24 @@
         "MMA",
         "MD1",
         "MM3",
-        "CMA"
+        "CMA",
+        "E02",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
       "rulings": [
         {
           "date": "2017-03-14",
-          "text": "If the targeted creature becomes an illegal target by the time Path to Exile would resolve, the entire spell is countered. The creature's controller won't search for a basic land card."
+          "text": "If the targeted creature becomes an illegal target by the time Path to Exile would resolve, the entire spell doesn't resolve. The creature's controller won't search for a basic land card."
         },
         {
           "date": "2017-03-14",
-          "text": "The controller of the exiled creature isn't required to search his or her library for a basic land. If that player doesn't, the player won't shuffle his or her library."
+          "text": "The controller of the exiled creature isn't required to search their library for a basic land. If that player doesn't, the player won't shuffle their library."
         }
       ],
       "source": "WPN Prize",
-      "text": "Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.",
+      "text": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -383,7 +387,8 @@
         "pWPN",
         "CON",
         "PD2",
-        "DDK"
+        "DDK",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -479,7 +484,8 @@
       "printings": [
         "pWPN",
         "ARB",
-        "DDH"
+        "DDH",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -576,7 +582,8 @@
         "pWPN",
         "ARB",
         "DDH",
-        "E01"
+        "E01",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -674,7 +681,8 @@
       "power": "5",
       "printings": [
         "pWPN",
-        "ARB"
+        "ARB",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -783,7 +791,8 @@
       "power": "5",
       "printings": [
         "pWPN",
-        "ARB"
+        "ARB",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -802,7 +811,7 @@
         },
         {
           "date": "2009-05-01",
-          "text": "The cycling ability and the triggered ability are separate. If the triggered ability is countered (with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card."
+          "text": "The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card."
         },
         {
           "date": "2009-05-01",
@@ -899,7 +908,8 @@
         "M10",
         "DPA",
         "M11",
-        "M12"
+        "M12",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -976,6 +986,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -988,7 +1002,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Shadows over Innistrad Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -1010,26 +1024,25 @@
         "DD3_GVL",
         "C15",
         "EMN",
-        "CMA"
+        "CMA",
+        "CM2",
+        "Wizards Play Network",
+        "M19"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
       "rulings": [
         {
-          "date": "2009-10-01",
+          "date": "2018-07-13",
           "text": "Rise from the Grave doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype."
         },
         {
-          "date": "2009-10-01",
-          "text": "If the targeted creature is normally colorless, it will simply become black. It won't be both black and colorless."
+          "date": "2018-07-13",
+          "text": "If the creature is normally colorless, it will simply become black. It can't be both black and colorless."
         },
         {
-          "date": "2009-10-01",
-          "text": "A later effect that changes the affected creature's colors will overwrite that part of Rise from the Grave effect; the creature will be just the new color. The same is true about an effect that changes the affected creature's types or subtypes."
-        },
-        {
-          "date": "2009-10-01",
-          "text": "A \"creature card\" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards."
+          "date": "2018-07-13",
+          "text": "A later effect that changes the affected creature's colors will overwrite that part of Rise from the Grave's effect; the creature will be only the new color. The same is true about an effect that changes the affected creature's types or subtypes."
         }
       ],
       "source": "WPN Prize",
@@ -1116,7 +1129,8 @@
       "printings": [
         "pWPN",
         "ZEN",
-        "MM2"
+        "MM2",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -1223,7 +1237,9 @@
         "DDP",
         "MM3",
         "E01",
-        "C17"
+        "C17",
+        "E02",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -1315,7 +1331,8 @@
       "printings": [
         "pWPN",
         "ZEN",
-        "DDR"
+        "DDR",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -1407,7 +1424,8 @@
       "printings": [
         "pWPN",
         "ZEN",
-        "IMA"
+        "IMA",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -1512,10 +1530,18 @@
       "power": "2",
       "printings": [
         "pWPN",
-        "WWK"
+        "WWK",
+        "A25",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "Kor Firewalker's triggered ability resolves before the red spell that caused it to trigger."
+        }
+      ],
       "source": "WPN Prize",
       "subtypes": [
         "Kor",
@@ -1608,7 +1634,8 @@
       "power": "4",
       "printings": [
         "pWPN",
-        "WWK"
+        "WWK",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -1701,7 +1728,8 @@
       "power": "0",
       "printings": [
         "pWPN",
-        "WWK"
+        "WWK",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -1797,7 +1825,8 @@
       "power": "2",
       "printings": [
         "pWPN",
-        "WWK"
+        "WWK",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -1812,7 +1841,7 @@
         },
         {
           "date": "2010-03-01",
-          "text": "If the targeted player is an illegal target by the time the ability resolves (for example, if that player has left a multiplayer game), the entire ability is countered. You can't pay {B} and you don't gain life."
+          "text": "If the targeted player is an illegal target by the time the ability resolves (for example, if that player has left a multiplayer game), the entire ability doesn't resolve. You can't pay {B} and you don't gain life."
         }
       ],
       "source": "Worldwake Game Day",
@@ -1899,7 +1928,9 @@
         "CMD",
         "C14",
         "CMA",
-        "C17"
+        "C17",
+        "CM2",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -1980,22 +2011,19 @@
       "power": "9",
       "printings": [
         "pWPN",
-        "ROE"
+        "ROE",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
       "rulings": [
         {
           "date": "2010-06-15",
-          "text": "Annihilator abilities trigger and resolve during the declare attackers step. The defending player chooses and sacrifices the required number of permanents before he or she declares blockers. Any creatures sacrificed this way won't be able to block."
+          "text": "Annihilator abilities trigger and resolve during the declare attackers step. The defending player chooses and sacrifices the required number of permanents before they declare blockers. Any creatures sacrificed this way won't be able to block."
         },
         {
           "date": "2010-06-15",
           "text": "If a creature with annihilator is attacking a planeswalker, and the defending player chooses to sacrifice that planeswalker, the attacking creature continues to attack. It may be blocked. If it isn't blocked, it simply won't deal combat damage to anything."
-        },
-        {
-          "date": "2010-06-15",
-          "text": "In a Two-Headed Giant game, the controller of an attacking creature with annihilator chooses which of the defending players is affected by the ability. Only that player sacrifices permanents. The choice is made as the ability resolves; once a player is chosen, it's too late for anyone to respond."
         }
       ],
       "source": "WPN Prize",
@@ -2084,7 +2112,8 @@
       "number": "47",
       "printings": [
         "pWPN",
-        "ROE"
+        "ROE",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -2180,14 +2209,15 @@
       "printings": [
         "pWPN",
         "ROE",
-        "IMA"
+        "IMA",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
       "rulings": [
         {
           "date": "2010-06-15",
-          "text": "If a spell with rebound that you cast from your hand is countered for any reason (due to a spell like Cancel, or because all of its targets are illegal), the spell doesn't resolve and rebound has no effect. The spell is simply put into your graveyard. You won't get to cast it again next turn."
+          "text": "If a spell with rebound that you cast from your hand doesn't resolve for any reason (due being countered by a spell like Cancel, or because all of its targets are illegal), rebound has no effect. The spell is simply put into your graveyard. You won't get to cast it again next turn."
         },
         {
           "date": "2010-06-15",
@@ -2215,11 +2245,11 @@
         },
         {
           "date": "2010-06-15",
-          "text": "If you cast a card from exile this way, it will go to your graveyard when it resolves or is countered. It won't go back to exile."
+          "text": "If you cast a card from exile this way, it will go to your graveyard when it resolves, fails to resolve, or is countered. It won't go back to exile."
         }
       ],
       "source": "Rise of the Eldrazi",
-      "text": "Staggershock deals 2 damage to target creature or player.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+      "text": "Staggershock deals 2 damage to any target.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
       "type": "Instant",
       "types": [
         "Instant"
@@ -2300,7 +2330,8 @@
       "power": "5",
       "printings": [
         "pWPN",
-        "ROE"
+        "ROE",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -2423,7 +2454,8 @@
         "DKA",
         "PC2",
         "PCA",
-        "AKH"
+        "AKH",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2014",
@@ -2446,7 +2478,7 @@
         }
       ],
       "source": "WPN Prize",
-      "text": "As an additional cost to cast Fling, sacrifice a creature.\nFling deals damage equal to the sacrificed creature's power to target creature or player.",
+      "text": "As an additional cost to cast this spell, sacrifice a creature.\nFling deals damage equal to the sacrificed creature's power to any target.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -2532,7 +2564,8 @@
         "DDH",
         "C14",
         "MM3",
-        "CMA"
+        "CMA",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2014",
@@ -2628,7 +2661,8 @@
       "power": "1",
       "printings": [
         "pWPN",
-        "SOM"
+        "SOM",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -2743,7 +2777,8 @@
       "number": "60",
       "printings": [
         "pWPN",
-        "SOM"
+        "SOM",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -2844,7 +2879,8 @@
       "power": "3",
       "printings": [
         "pWPN",
-        "SOM"
+        "SOM",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -2944,7 +2980,8 @@
       "number": "64",
       "printings": [
         "pWPN",
-        "MBS"
+        "MBS",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -3029,7 +3066,8 @@
       "power": "1",
       "printings": [
         "pWPN",
-        "MBS"
+        "MBS",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -3037,7 +3075,7 @@
       "subtypes": [
         "Myr"
       ],
-      "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\n{T}: Add {C} to your mana pool.",
+      "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\n{T}: Add {C}.",
       "toughness": "1",
       "type": "Artifact Creature — Myr",
       "types": [
@@ -3119,7 +3157,8 @@
       "power": "0",
       "printings": [
         "pWPN",
-        "MBS"
+        "MBS",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -3237,7 +3276,8 @@
         "DKA",
         "PC2",
         "PCA",
-        "AKH"
+        "AKH",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -3260,7 +3300,7 @@
         }
       ],
       "source": "WPN Prize",
-      "text": "As an additional cost to cast Fling, sacrifice a creature.\nFling deals damage equal to the sacrificed creature's power to target creature or player.",
+      "text": "As an additional cost to cast this spell, sacrifice a creature.\nFling deals damage equal to the sacrificed creature's power to any target.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -3346,7 +3386,8 @@
         "DDH",
         "C14",
         "MM3",
-        "CMA"
+        "CMA",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -3442,7 +3483,8 @@
       "power": "1",
       "printings": [
         "pWPN",
-        "NPH"
+        "NPH",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -3559,7 +3601,8 @@
       "power": "1",
       "printings": [
         "pWPN",
-        "NPH"
+        "NPH",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -3647,12 +3690,13 @@
       "number": "73",
       "printings": [
         "pWPN",
-        "NPH"
+        "NPH",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
       "source": "WPN Prize",
-      "text": "At the beginning of your upkeep or whenever you cast a red spell, put a charge counter on Shrine of Burning Rage.\n{3}, {T}, Sacrifice Shrine of Burning Rage: Shrine of Burning Rage deals damage equal to the number of charge counters on it to target creature or player.",
+      "text": "At the beginning of your upkeep or whenever you cast a red spell, put a charge counter on Shrine of Burning Rage.\n{3}, {T}, Sacrifice Shrine of Burning Rage: It deals damage equal to the number of charge counters on it to any target.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -3741,7 +3785,8 @@
         "M12",
         "PC2",
         "M13",
-        "PCA"
+        "PCA",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -3846,7 +3891,9 @@
         "M14",
         "DDL",
         "ORI",
-        "PCA"
+        "PCA",
+        "A25",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -3942,7 +3989,8 @@
       "printings": [
         "pWPN",
         "M12",
-        "M15"
+        "M15",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -4043,7 +4091,8 @@
       "printings": [
         "pWPN",
         "DKA",
-        "DDQ"
+        "DDQ",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2012",
@@ -4133,14 +4182,15 @@
       "number": "80",
       "printings": [
         "pWPN",
-        "ISD"
+        "ISD",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
       "rulings": [
         {
           "date": "2011-09-22",
-          "text": "If the enchanted player has only one card in his or her library, he or she puts that card into his or her graveyard."
+          "text": "If the enchanted player has only one card in their library, they put that card into their graveyard."
         }
       ],
       "source": "Gateway Program Prize",
@@ -4148,7 +4198,7 @@
         "Aura",
         "Curse"
       ],
-      "text": "Enchant player\nAt the beginning of enchanted player's upkeep, that player puts the top two cards of his or her library into his or her graveyard.",
+      "text": "Enchant player\nAt the beginning of enchanted player's upkeep, that player puts the top two cards of their library into their graveyard.",
       "type": "Enchantment — Aura Curse",
       "types": [
         "Enchantment"
@@ -4237,7 +4287,8 @@
       "number": "81",
       "printings": [
         "pWPN",
-        "DKA"
+        "DKA",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2012",
@@ -4252,7 +4303,7 @@
         "Aura",
         "Curse"
       ],
-      "text": "Enchant player\nAt the beginning of enchanted player's upkeep, Curse of Thirst deals damage to that player equal to the number of Curses attached to him or her.",
+      "text": "Enchant player\nAt the beginning of enchanted player's upkeep, Curse of Thirst deals damage to that player equal to the number of Curses attached to them.",
       "type": "Enchantment — Aura Curse",
       "types": [
         "Enchantment"
@@ -4342,7 +4393,8 @@
       "power": "4",
       "printings": [
         "pWPN",
-        "DKA"
+        "DKA",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2012",
@@ -4438,7 +4490,8 @@
       "power": "2",
       "printings": [
         "pWPN",
-        "ISD"
+        "ISD",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -4534,7 +4587,8 @@
       "printings": [
         "pWPN",
         "ISD",
-        "DDJ"
+        "DDJ",
+        "Wizards Play Network"
       ],
       "rarity": "Special",
       "releaseDate": "2011",

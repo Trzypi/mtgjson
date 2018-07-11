@@ -2925,7 +2925,8 @@
         "C16",
         "C17",
         "IMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -9068,7 +9069,8 @@
         "PD2",
         "VMA",
         "EMA",
-        "MPS_AKH"
+        "MPS_AKH",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [

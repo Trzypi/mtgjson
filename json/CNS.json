@@ -5590,7 +5590,8 @@
         "DDQ",
         "CN2",
         "E01",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -6462,7 +6463,8 @@
       "power": "2",
       "printings": [
         "ISD",
-        "CNS"
+        "CNS",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -6687,7 +6689,8 @@
         "C16",
         "C17",
         "IMA",
-        "A25"
+        "A25",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -8156,7 +8159,8 @@
         "ZEN",
         "CNS",
         "SOI",
-        "E01"
+        "E01",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -8804,7 +8808,8 @@
         "M11",
         "PC2",
         "CNS",
-        "PCA"
+        "PCA",
+        "BBD"
       ],
       "rarity": "Common",
       "text": "Destroy target tapped creature.",
@@ -8907,6 +8912,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -8919,7 +8928,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Shards of Alara Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -8938,9 +8947,16 @@
       "printings": [
         "CON",
         "ARC",
-        "CNS"
+        "CNS",
+        "M19"
       ],
       "rarity": "Common",
+      "rulings": [
+        {
+          "date": "2018-07-13",
+          "text": "In a Two-Headed Giant game, Infectious Horror's ability causes the opposing team to lose 4 life."
+        }
+      ],
       "subtypes": [
         "Zombie",
         "Horror"
@@ -10574,7 +10590,8 @@
         "FUT",
         "MOR",
         "CNS",
-        "DDS"
+        "DDS",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -11750,6 +11767,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -11759,6 +11780,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -11781,7 +11806,9 @@
         "KTK",
         "CN2",
         "IMA",
-        "A25"
+        "A25",
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -12069,7 +12096,8 @@
       "printings": [
         "ROE",
         "CNS",
-        "MM2"
+        "MM2",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -12147,7 +12175,8 @@
         "POR",
         "TMP",
         "CNS",
-        "M15"
+        "M15",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -13062,6 +13091,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -13074,11 +13107,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Vintage",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Zendikar Block",
+          "format": "Vintage",
           "legality": "Legal"
         }
       ],
@@ -13093,7 +13126,8 @@
       "printings": [
         "ROE",
         "CNS",
-        "MM2"
+        "MM2",
+        "M19"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -13177,7 +13211,8 @@
         "BFZ",
         "CN2",
         "RIX",
-        "A25"
+        "A25",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Destroy target creature with flying.",
@@ -15147,7 +15182,8 @@
       "power": "3",
       "printings": [
         "MBS",
-        "CNS"
+        "CNS",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -15402,7 +15438,8 @@
       "originalType": "Artifact",
       "printings": [
         "RAV",
-        "CNS"
+        "CNS",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [

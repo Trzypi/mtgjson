@@ -2126,7 +2126,8 @@
         "M14",
         "C13",
         "MM3",
-        "C17"
+        "C17",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "text": "Target player draws four cards.",
@@ -4739,6 +4740,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -4751,7 +4756,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Urza Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -4782,7 +4787,8 @@
         "M11",
         "M12",
         "M14",
-        "M15"
+        "M15",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Lava Axe deals 5 damage to target player or planeswalker.",

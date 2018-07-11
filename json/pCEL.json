@@ -39,7 +39,8 @@
       "number": "1",
       "power": "*",
       "printings": [
-        "pCEL"
+        "pCEL",
+        "Celebration"
       ],
       "rarity": "Special",
       "releaseDate": "1996-08-14",
@@ -72,7 +73,8 @@
       "number": "2",
       "power": "0",
       "printings": [
-        "pCEL"
+        "pCEL",
+        "Celebration"
       ],
       "rarity": "Special",
       "releaseDate": "1996",
@@ -104,7 +106,8 @@
       "name": "Proposal",
       "number": "3",
       "printings": [
-        "pCEL"
+        "pCEL",
+        "Celebration"
       ],
       "rarity": "Special",
       "releaseDate": "1993-11",
@@ -133,7 +136,8 @@
       "name": "Splendid Genesis",
       "number": "4",
       "printings": [
-        "pCEL"
+        "pCEL",
+        "Celebration"
       ],
       "rarity": "Special",
       "releaseDate": "1997-09",
@@ -162,7 +166,8 @@
       "name": "Fraternal Exaltation",
       "number": "5",
       "printings": [
-        "pCEL"
+        "pCEL",
+        "Celebration"
       ],
       "rarity": "Special",
       "releaseDate": "1999",
@@ -186,7 +191,8 @@
       "number": "6",
       "power": "2",
       "printings": [
-        "pCEL"
+        "pCEL",
+        "Celebration"
       ],
       "rarity": "Special",
       "releaseDate": "2010-02-20",

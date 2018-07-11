@@ -1453,7 +1453,8 @@
       "originalType": "Sorcery",
       "printings": [
         "PLS",
-        "MPS_AKH"
+        "MPS_AKH",
+        "BBD"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1676,7 +1677,8 @@
         "PD2",
         "VMA",
         "EMA",
-        "MPS_AKH"
+        "MPS_AKH",
+        "BBD"
       ],
       "rarity": "Special",
       "rulings": [
@@ -2166,6 +2168,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -2175,6 +2181,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -2191,21 +2201,26 @@
       "originalType": "Enchantment",
       "printings": [
         "M13",
-        "MPS_AKH"
+        "MPS_AKH",
+        "M19"
       ],
       "rarity": "Special",
       "rulings": [
         {
-          "date": "2012-07-01",
-          "text": "You must follow the normal timing restrictions of each nonland card you cast."
+          "date": "2018-07-13",
+          "text": "You must follow the normal timing permissions and restrictions of each spell you cast."
         },
         {
-          "date": "2012-07-01",
-          "text": "If you cast a card \"without paying its mana cost,\" you can't pay any alternative costs. You can pay additional costs such as kicker costs. If the card has mandatory additional costs, you must pay those."
+          "date": "2018-07-13",
+          "text": "If you cast a spell \"without paying its mana cost,\" you can't choose to cast it for any alternative costs. You can, however, pay additional costs, such as kicker costs. If the card has any mandatory additional costs, such as that of Tormenting Voice, those must be paid to cast the card."
         },
         {
-          "date": "2012-07-01",
-          "text": "If the card has X in its mana cost, you must choose 0 as its value."
+          "date": "2018-07-13",
+          "text": "If a spell has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "Once you cast Omniscience, if it's your turn, you'll have priority immediately after it resolves. You can cast another spell before any player can attempt to remove Omniscience with spells or abilities."
         }
       ],
       "text": "You may cast spells from your hand without paying their mana costs.",

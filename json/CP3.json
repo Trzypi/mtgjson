@@ -87,7 +87,8 @@
       "printings": [
         "pPRE",
         "CP3",
-        "ORI"
+        "ORI",
+        "Magic Origins Clash Pack"
       ],
       "rarity": "Special",
       "rulings": [
@@ -109,7 +110,7 @@
         "Human",
         "Druid"
       ],
-      "text": "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nAs long as Honored Hierarch is renowned, it has vigilance and \"{T}: Add one mana of any color to your mana pool.\"",
+      "text": "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nAs long as Honored Hierarch is renowned, it has vigilance and \"{T}: Add one mana of any color.\"",
       "toughness": "1",
       "type": "Creature — Human Druid",
       "types": [
@@ -201,7 +202,8 @@
       "printings": [
         "KTK",
         "CP3",
-        "IMA"
+        "IMA",
+        "Magic Origins Clash Pack"
       ],
       "rarity": "Special",
       "rulings": [
@@ -317,7 +319,8 @@
       "number": "3",
       "printings": [
         "FRF",
-        "CP3"
+        "CP3",
+        "Magic Origins Clash Pack"
       ],
       "rarity": "Special",
       "source": "Clash Pack Promo (Magic Origins)",
@@ -415,7 +418,8 @@
         "pPRE",
         "FRF",
         "CP3",
-        "C17"
+        "C17",
+        "Magic Origins Clash Pack"
       ],
       "rarity": "Special",
       "rulings": [
@@ -535,7 +539,8 @@
       "printings": [
         "pPRE",
         "KTK",
-        "CP3"
+        "CP3",
+        "Magic Origins Clash Pack"
       ],
       "rarity": "Special",
       "source": "Clash Pack Promo (Magic Origins)",
@@ -632,11 +637,13 @@
         "KTK",
         "CP3",
         "C16",
-        "C17"
+        "C17",
+        "CM2",
+        "Magic Origins Clash Pack"
       ],
       "rarity": "Special",
       "source": "Clash Pack Promo (Magic Origins)",
-      "text": "Sandsteppe Citadel enters the battlefield tapped.\n{T}: Add {W}, {B}, or {G} to your mana pool.",
+      "text": "Sandsteppe Citadel enters the battlefield tapped.\n{T}: Add {W}, {B}, or {G}.",
       "type": "Land",
       "types": [
         "Land"

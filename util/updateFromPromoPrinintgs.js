@@ -44,8 +44,8 @@ tiptoe(
         {
             set.cards.forEach(function(card)
             {
-                card.printings.push(set.name);
-                card.printings = card.printings.concat(cardsByName[card.name].map(function(set) { return set.name; }));
+                card.printings.push(set.code);
+                card.printings = card.printings.concat(cardsByName[card.name].map(function(set) { return set.code; }));
                 shared.finalizePrintings(card);
             });
         });

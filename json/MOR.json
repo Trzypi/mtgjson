@@ -3425,6 +3425,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -3433,15 +3437,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Modern",
           "legality": "Legal"
         },
         {
-          "format": "Scars of Mirrodin Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -3461,7 +3461,8 @@
         "SOM",
         "M14",
         "ORI",
-        "W16"
+        "W16",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Return target nonland permanent to its owner's hand.",
@@ -4787,7 +4788,8 @@
         "OGW",
         "CN2",
         "AER",
-        "RIX"
+        "RIX",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -9648,7 +9650,8 @@
         "FUT",
         "MOR",
         "CNS",
-        "DDS"
+        "DDS",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -13660,7 +13663,8 @@
         "ARC",
         "CMD",
         "DDR",
-        "E01"
+        "E01",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -15210,6 +15214,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -15218,11 +15226,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Lorwyn-Shadowmoor Block",
+          "format": "Modern",
           "legality": "Legal"
         },
         {
-          "format": "Modern",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -15238,13 +15246,14 @@
       "originalText": "Sacrifice any number of lands. Search your library for that many land cards, put them into play tapped, then shuffle your library.",
       "originalType": "Sorcery",
       "printings": [
-        "MOR"
+        "MOR",
+        "M19"
       ],
       "rarity": "Rare",
       "rulings": [
         {
-          "date": "2008-04-01",
-          "text": "You sacrifice the lands as part of the resolution of Scapeshift. It isn't an additional cost."
+          "date": "2018-07-13",
+          "text": "You sacrifice the lands as part of the resolution of Scapeshift. It isn't an additional cost. If Scapeshift is countered, you won't sacrifice any lands."
         }
       ],
       "text": "Sacrifice any number of lands. Search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle your library.",

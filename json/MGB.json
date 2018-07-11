@@ -71,7 +71,8 @@
       "power": "4",
       "printings": [
         "MGB",
-        "VIS"
+        "VIS",
+        "Multiverse Gift Box"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -142,7 +143,8 @@
       "name": "Dark Privilege",
       "printings": [
         "MGB",
-        "VIS"
+        "VIS",
+        "Multiverse Gift Box"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -230,7 +232,8 @@
       "printings": [
         "MGB",
         "VIS",
-        "9ED"
+        "9ED",
+        "Multiverse Gift Box"
       ],
       "rarity": "Special",
       "rulings": [
@@ -309,7 +312,8 @@
       "printings": [
         "MGB",
         "VIS",
-        "6ED"
+        "6ED",
+        "Multiverse Gift Box"
       ],
       "rarity": "Special",
       "rulings": [
@@ -408,7 +412,8 @@
       "printings": [
         "MGB",
         "VIS",
-        "TSB"
+        "TSB",
+        "Multiverse Gift Box"
       ],
       "rarity": "Special",
       "rulings": [
@@ -486,7 +491,8 @@
       "name": "Peace Talks",
       "printings": [
         "MGB",
-        "VIS"
+        "VIS",
+        "Multiverse Gift Box"
       ],
       "rarity": "Special",
       "rulings": [
@@ -572,7 +578,8 @@
       "power": "2",
       "printings": [
         "MGB",
-        "VIS"
+        "VIS",
+        "Multiverse Gift Box"
       ],
       "rarity": "Special",
       "rulings": [
@@ -648,7 +655,8 @@
       "name": "Vampirism",
       "printings": [
         "MGB",
-        "VIS"
+        "VIS",
+        "Multiverse Gift Box"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -737,7 +745,8 @@
         "MGB",
         "VIS",
         "8ED",
-        "9ED"
+        "9ED",
+        "Multiverse Gift Box"
       ],
       "rarity": "Special",
       "rulings": [
@@ -815,7 +824,8 @@
       "name": "Wicked Reward",
       "printings": [
         "MGB",
-        "VIS"
+        "VIS",
+        "Multiverse Gift Box"
       ],
       "rarity": "Special",
       "rulings": [
@@ -828,7 +838,7 @@
           "text": "Players can only respond once this spell has been cast and all its costs have been paid. No one can try to destroy the creature you sacrificed to prevent you from casting this spell."
         }
       ],
-      "text": "As an additional cost to cast Wicked Reward, sacrifice a creature.\nTarget creature gets +4/+2 until end of turn.",
+      "text": "As an additional cost to cast this spell, sacrifice a creature.\nTarget creature gets +4/+2 until end of turn.",
       "type": "Instant",
       "types": [
         "Instant"

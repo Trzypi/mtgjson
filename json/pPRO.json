@@ -75,7 +75,8 @@
         "SCG",
         "pPRO",
         "C13",
-        "VMA"
+        "VMA",
+        "Pro Tour"
       ],
       "rarity": "Special",
       "releaseDate": "2006",
@@ -102,7 +103,7 @@
         "Dragon",
         "Spirit"
       ],
-      "text": "Flying\n{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.\nPlainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)",
+      "text": "Flying\n{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.\nPlainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle your library.)",
       "toughness": "5",
       "type": "Creature — Dragon Spirit",
       "types": [
@@ -181,12 +182,13 @@
         "pPRO",
         "CM1",
         "CNS",
-        "C17"
+        "C17",
+        "Pro Tour"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
       "source": "Pro Tour Tournament participation bonus.",
-      "text": "Creatures you control get +1/+1.\nWhenever you tap a land for mana, add one mana to your mana pool of any type that land produced.",
+      "text": "Creatures you control get +1/+1.\nWhenever you tap a land for mana, add one mana of any type that land produced.",
       "type": "Enchantment",
       "types": [
         "Enchantment"
@@ -260,7 +262,8 @@
       "printings": [
         "INV",
         "pPRO",
-        "DDE"
+        "DDE",
+        "Pro Tour"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -369,7 +372,9 @@
         "CMD",
         "PD3",
         "CN2",
-        "MPS_AKH"
+        "MPS_AKH",
+        "CM2",
+        "Pro Tour"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -383,7 +388,7 @@
       "subtypes": [
         "Avatar"
       ],
-      "text": "If there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.\nFear (This creature can't be blocked except by artifact creatures and/or black creatures.)\n{T}: Destroy target creature. It can't be regenerated.",
+      "text": "If there are ten or more creature cards total in all graveyards, this spell costs {6} less to cast.\nFear (This creature can't be blocked except by artifact creatures and/or black creatures.)\n{T}: Destroy target creature. It can't be regenerated.",
       "toughness": "5",
       "type": "Creature — Avatar",
       "types": [
@@ -471,7 +476,8 @@
         "pPRO",
         "LRW",
         "M10",
-        "M11"
+        "M11",
+        "Pro Tour"
       ],
       "rarity": "Special",
       "releaseDate": "2011",

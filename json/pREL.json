@@ -84,7 +84,8 @@
         "ARN",
         "pREL",
         "8ED",
-        "9ED"
+        "9ED",
+        "Release Events"
       ],
       "rarity": "Special",
       "releaseDate": "2003-07-26",
@@ -151,7 +152,8 @@
       "number": "2",
       "printings": [
         "pREL",
-        "UNH"
+        "UNH",
+        "Release Events"
       ],
       "rarity": "Special",
       "releaseDate": "2004-11-20",
@@ -237,7 +239,8 @@
       "power": "2",
       "printings": [
         "pREL",
-        "BOK"
+        "BOK",
+        "Release Events"
       ],
       "rarity": "Special",
       "releaseDate": "2005-02-04",
@@ -328,7 +331,8 @@
       "power": "4",
       "printings": [
         "pREL",
-        "BOK"
+        "BOK",
+        "Release Events"
       ],
       "rarity": "Special",
       "releaseDate": "2005-02-04",
@@ -417,7 +421,8 @@
       "power": "2",
       "printings": [
         "pREL",
-        "SOK"
+        "SOK",
+        "Release Events"
       ],
       "rarity": "Special",
       "releaseDate": "2005-06-03",
@@ -425,7 +430,7 @@
       "subtypes": [
         "Spirit"
       ],
-      "text": "{2}{R}, {T}: Ghost-Lit Raider deals 2 damage to target creature.\nChannel — {3}{R}, Discard Ghost-Lit Raider: Ghost-Lit Raider deals 4 damage to target creature.",
+      "text": "{2}{R}, {T}: Ghost-Lit Raider deals 2 damage to target creature.\nChannel — {3}{R}, Discard Ghost-Lit Raider: It deals 4 damage to target creature.",
       "toughness": "1",
       "type": "Creature — Spirit",
       "types": [
@@ -513,7 +518,8 @@
         "BTD",
         "pREL",
         "9ED",
-        "ME4"
+        "ME4",
+        "Release Events"
       ],
       "rarity": "Special",
       "releaseDate": "2005-07-29",
@@ -521,7 +527,7 @@
       "subtypes": [
         "Elemental"
       ],
-      "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)\nAt the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.",
+      "text": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nAt the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.",
       "toughness": "8",
       "type": "Creature — Elemental",
       "types": [
@@ -585,6 +591,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -633,7 +643,9 @@
         "M15",
         "ORI",
         "W16",
-        "W17"
+        "W17",
+        "Release Events",
+        "M19"
       ],
       "rarity": "Special",
       "releaseDate": "2005-09-24",
@@ -726,7 +738,8 @@
       "printings": [
         "pREL",
         "RAV",
-        "MM2"
+        "MM2",
+        "Release Events"
       ],
       "rarity": "Special",
       "releaseDate": "2005-10-07",
@@ -819,7 +832,8 @@
       "power": "2",
       "printings": [
         "pREL",
-        "GPT"
+        "GPT",
+        "Release Events"
       ],
       "rarity": "Special",
       "releaseDate": "2006-02-03",
@@ -828,7 +842,7 @@
         "Human",
         "Shaman"
       ],
-      "text": "({R/G} can be paid with either {R} or {G}.)\n{3}{R}, Sacrifice a land: Gruul Guildmage deals 2 damage to target player.\n{3}{G}: Target creature gets +2/+2 until end of turn.",
+      "text": "({R/G} can be paid with either {R} or {G}.)\n{3}{R}, Sacrifice a land: Gruul Guildmage deals 2 damage to target player or planeswalker.\n{3}{G}: Target creature gets +2/+2 until end of turn.",
       "toughness": "2",
       "type": "Creature — Human Shaman",
       "types": [
@@ -913,7 +927,8 @@
       "printings": [
         "pREL",
         "DIS",
-        "CMD"
+        "CMD",
+        "Release Events"
       ],
       "rarity": "Special",
       "releaseDate": "2006-05-05",
@@ -1011,7 +1026,8 @@
       "printings": [
         "pREL",
         "TSP",
-        "MMA"
+        "MMA",
+        "Release Events"
       ],
       "rarity": "Special",
       "releaseDate": "2006-10-06",
@@ -1042,7 +1058,7 @@
         }
       ],
       "source": "Time Spiral Release Event participation bonus.",
-      "text": "Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\nSudden Shock deals 2 damage to target creature or player.",
+      "text": "Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\nSudden Shock deals 2 damage to any target.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -1125,7 +1141,8 @@
       "power": "2",
       "printings": [
         "pREL",
-        "PLC"
+        "PLC",
+        "Release Events"
       ],
       "rarity": "Special",
       "releaseDate": "2007-02-02",
@@ -1223,7 +1240,8 @@
       "power": "1",
       "printings": [
         "pREL",
-        "FUT"
+        "FUT",
+        "Release Events"
       ],
       "rarity": "Special",
       "releaseDate": "2007-05-04",
@@ -1329,7 +1347,8 @@
         "DDH",
         "C14",
         "C15",
-        "CMA"
+        "CMA",
+        "Release Events"
       ],
       "rarity": "Special",
       "releaseDate": "2007-10-12",

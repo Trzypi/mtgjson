@@ -97,7 +97,8 @@
         "pFNM",
         "ZEN",
         "DPA",
-        "DDM"
+        "DDM",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2000-02-01",
@@ -209,7 +210,8 @@
         "MRD",
         "10E",
         "DPA",
-        "ME4"
+        "ME4",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2000-03-01",
@@ -282,7 +284,8 @@
         "VIS",
         "6ED",
         "pFNM",
-        "7ED"
+        "7ED",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2000-04-01",
@@ -392,12 +395,13 @@
         "pFNM",
         "M13",
         "M14",
-        "E01"
+        "E01",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2000-05-01",
       "source": "Friday Night Magic prize",
-      "text": "Volcanic Geyser deals X damage to target creature or player.",
+      "text": "Volcanic Geyser deals X damage to any target.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -464,7 +468,8 @@
         "ICE",
         "5ED",
         "6ED",
-        "pFNM"
+        "pFNM",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2000-06-01",
@@ -581,12 +586,15 @@
         "M12",
         "M14",
         "DDN",
-        "AER"
+        "AER",
+        "BBD",
+        "Friday Night Magic",
+        "M19"
       ],
       "rarity": "Special",
       "releaseDate": "2000-07-01",
       "source": "Friday Night Magic prize",
-      "text": "Shock deals 2 damage to target creature or player.",
+      "text": "Shock deals 2 damage to any target.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -660,7 +668,8 @@
         "pFNM",
         "7ED",
         "8ED",
-        "TPR"
+        "TPR",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2000-12-01",
@@ -786,7 +795,11 @@
         "RTR",
         "M14",
         "DD3_EVG",
-        "DD3_GVL"
+        "DD3_GVL",
+        "E02",
+        "A25",
+        "BBD",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2000-08-01",
@@ -886,7 +899,8 @@
         "7ED",
         "TSB",
         "ME4",
-        "EMA"
+        "EMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2000-09-01",
@@ -895,7 +909,7 @@
         "Human",
         "Wizard"
       ],
-      "text": "{T}: Prodigal Sorcerer deals 1 damage to target creature or player.",
+      "text": "{T}: Prodigal Sorcerer deals 1 damage to any target.",
       "toughness": "1",
       "type": "Creature — Human Wizard",
       "types": [
@@ -1021,7 +1035,8 @@
         "7ED",
         "8ED",
         "CHK",
-        "9ED"
+        "9ED",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2000-10-01",
@@ -1068,7 +1083,7 @@
         },
         {
           "language": "Korean",
-          "name": "라노와의 엘프"
+          "name": "라노워 엘프"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -1144,7 +1159,9 @@
         "DD3_EVG",
         "EMA",
         "CMA",
-        "DOM"
+        "DOM",
+        "Friday Night Magic",
+        "M19"
       ],
       "rarity": "Special",
       "releaseDate": "2000-11-01",
@@ -1153,7 +1170,7 @@
         "Elf",
         "Druid"
       ],
-      "text": "{T}: Add {G} to your mana pool.",
+      "text": "{T}: Add {G}.",
       "toughness": "1",
       "type": "Creature — Elf Druid",
       "types": [
@@ -1244,17 +1261,20 @@
         "EMA",
         "C16",
         "C17",
-        "IMA"
+        "IMA",
+        "A25",
+        "BBD",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2001-06-01",
       "rulings": [
         {
-          "date": "2017-11-17",
-          "text": "The amount of life gained is equal to the power of the target creature as it last existed on the battlefield."
+          "date": "2018-03-16",
+          "text": "The amount of life gained is equal to the power of the targeted creature as it last existed on the battlefield."
         },
         {
-          "date": "2017-11-17",
+          "date": "2018-03-16",
           "text": "If the creature's power is negative, its controller doesn't lose or gain life."
         }
       ],
@@ -1332,7 +1352,8 @@
         "pFNM",
         "DD2",
         "VMA",
-        "DD3_JVC"
+        "DD3_JVC",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2001-07-01",
@@ -1365,6 +1386,10 @@
       "flavor": "\"Cry havoc and let slip the dogs of war.\"\n—William Shakespeare, Julius Caesar",
       "foreignNames": [
         {
+          "language": "Chinese Simplified",
+          "name": "小狐狼"
+        },
+        {
           "language": "French",
           "name": "Bébé chacal"
         },
@@ -1375,6 +1400,10 @@
         {
           "language": "Italian",
           "name": "Cucciolo di Sciacallo"
+        },
+        {
+          "language": "Japanese",
+          "name": "ジャッカルの仔"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -1414,7 +1443,9 @@
       "printings": [
         "TMP",
         "pFNM",
-        "PD2"
+        "PD2",
+        "A25",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2001-08-01",
@@ -1489,7 +1520,8 @@
       "power": "1",
       "printings": [
         "VIS",
-        "pFNM"
+        "pFNM",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2001-09-01",
@@ -1572,7 +1604,8 @@
         "EXO",
         "pFNM",
         "VMA",
-        "TPR"
+        "TPR",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2001-10-01",
@@ -1648,7 +1681,9 @@
         "pFNM",
         "BTD",
         "V13",
-        "DDN"
+        "DDN",
+        "BBD",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2001-11-01",
@@ -1735,12 +1770,13 @@
         "DD2",
         "PD2",
         "VMA",
-        "DD3_JVC"
+        "DD3_JVC",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2001-12-01",
       "source": "Friday Night Magic prize",
-      "text": "You may sacrifice two Mountains rather than pay Fireblast's mana cost.\nFireblast deals 4 damage to target creature or player.",
+      "text": "You may sacrifice two Mountains rather than pay this spell's mana cost.\nFireblast deals 4 damage to any target.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -1829,7 +1865,8 @@
         "pSUS",
         "pFNM",
         "TSB",
-        "TPR"
+        "TPR",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2002-01-01",
@@ -1906,7 +1943,8 @@
         "USG",
         "pFNM",
         "DDD",
-        "DD3_GVL"
+        "DD3_GVL",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2002-02-01",
@@ -2010,7 +2048,8 @@
         "pFNM",
         "ISD",
         "DDJ",
-        "M15"
+        "M15",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2002-03-01",
@@ -2119,7 +2158,8 @@
         "MED",
         "M10",
         "M11",
-        "ME4"
+        "ME4",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2002-04-01",
@@ -2210,7 +2250,8 @@
         "C15",
         "C16",
         "PCA",
-        "CMA"
+        "CMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2002-05-01",
@@ -2292,7 +2333,8 @@
         "TMP",
         "pFNM",
         "DD2",
-        "DD3_JVC"
+        "DD3_JVC",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2002-06-01",
@@ -2301,7 +2343,7 @@
         "Human",
         "Wizard"
       ],
-      "text": "{T}: Fireslinger deals 1 damage to target creature or player and 1 damage to you.",
+      "text": "{T}: Fireslinger deals 1 damage to any target and 1 damage to you.",
       "toughness": "1",
       "type": "Creature — Human Wizard",
       "types": [
@@ -2375,7 +2417,8 @@
         "MIR",
         "5ED",
         "pFNM",
-        "BTD"
+        "BTD",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2002-07-01",
@@ -2390,7 +2433,7 @@
         }
       ],
       "source": "Friday Night Magic prize",
-      "text": "Spend only black mana on X.\nDrain Life deals X damage to target creature or player. You gain life equal to the damage dealt, but not more life than the player's life total before Drain Life dealt damage or the creature's toughness.",
+      "text": "Spend only black mana on X.\nDrain Life deals X damage to any target. You gain life equal to the damage dealt, but not more life than the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -2476,7 +2519,8 @@
         "WTH",
         "pFNM",
         "10E",
-        "C15"
+        "C15",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2002-08-01",
@@ -2553,7 +2597,8 @@
         "EXO",
         "pFNM",
         "TPR",
-        "MPS_AKH"
+        "MPS_AKH",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2002-09-01",
@@ -2647,7 +2692,8 @@
         "pFNM",
         "TSB",
         "CMD",
-        "TPR"
+        "TPR",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2002-10-01",
@@ -2750,7 +2796,8 @@
         "PD2",
         "DD3_EVG",
         "TPR",
-        "EMA"
+        "EMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2002-11-01",
@@ -2764,7 +2811,7 @@
       "subtypes": [
         "Goblin"
       ],
-      "text": "Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.",
+      "text": "Sacrifice Mogg Fanatic: It deals 1 damage to any target.",
       "toughness": "1",
       "type": "Creature — Goblin",
       "types": [
@@ -2864,7 +2911,8 @@
         "M10",
         "M11",
         "ME4",
-        "DDG"
+        "DDG",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2002-12-01",
@@ -3000,7 +3048,9 @@
         "ME3",
         "TPR",
         "CN2",
-        "IMA"
+        "IMA",
+        "A25",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2003-07-01",
@@ -3106,7 +3156,9 @@
         "DD2",
         "C14",
         "DD3_JVC",
-        "TPR"
+        "TPR",
+        "CM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2003-01-01",
@@ -3184,7 +3236,8 @@
         "TMP",
         "pFNM",
         "H09",
-        "TPR"
+        "TPR",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2003-02-01",
@@ -3277,7 +3330,8 @@
         "STH",
         "pFNM",
         "H09",
-        "TPR"
+        "TPR",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2008-06",
@@ -3366,7 +3420,8 @@
         "TMP",
         "pFNM",
         "TPR",
-        "MPS_AKH"
+        "MPS_AKH",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2003-03-01",
@@ -3447,7 +3502,8 @@
         "USG",
         "pFNM",
         "C14",
-        "CMA"
+        "CMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2003-04-01",
@@ -3462,7 +3518,7 @@
         "Elf",
         "Druid"
       ],
-      "text": "{T}: Add {G} to your mana pool for each Elf on the battlefield.",
+      "text": "{T}: Add {G} for each Elf on the battlefield.",
       "toughness": "1",
       "type": "Creature — Elf Druid",
       "types": [
@@ -3535,12 +3591,13 @@
         "pFNM",
         "C13",
         "DDN",
-        "TPR"
+        "TPR",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2003-05-01",
       "source": "Friday Night Magic prize",
-      "text": "Sacrifice a creature: Goblin Bombardment deals 1 damage to target creature or player.",
+      "text": "Sacrifice a creature: Goblin Bombardment deals 1 damage to any target.",
       "type": "Enchantment",
       "types": [
         "Enchantment"
@@ -3627,7 +3684,8 @@
       "printings": [
         "TMP",
         "pFNM",
-        "TSB"
+        "TSB",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2003-06-01",
@@ -3649,7 +3707,7 @@
       "subtypes": [
         "Beast"
       ],
-      "text": "Scragnoth can't be countered.\nProtection from blue",
+      "text": "This spell can't be countered.\nProtection from blue",
       "toughness": "4",
       "type": "Creature — Beast",
       "types": [
@@ -3741,7 +3799,8 @@
         "pFNM",
         "ONS",
         "WWK",
-        "DDP"
+        "DDP",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2003-08-01",
@@ -3826,7 +3885,8 @@
       "power": "2",
       "printings": [
         "pFNM",
-        "ONS"
+        "ONS",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2003-09-01",
@@ -3903,7 +3963,8 @@
       "power": "1",
       "printings": [
         "pFNM",
-        "ONS"
+        "ONS",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2003-10-01",
@@ -3928,6 +3989,10 @@
         "Green"
       ],
       "foreignNames": [
+        {
+          "language": "Chinese Simplified",
+          "name": "克洛萨长牙野猪"
+        },
         {
           "language": "French",
           "name": "Terrocorne krosian"
@@ -3988,7 +4053,10 @@
         "DDL",
         "C13",
         "VMA",
-        "DD3_GVL"
+        "DD3_GVL",
+        "A25",
+        "DDU",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2003-11-01",
@@ -4003,7 +4071,7 @@
         },
         {
           "date": "2008-10-01",
-          "text": "The cycling ability and the triggered ability are separate. If the triggered ability is countered (with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card."
+          "text": "The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card."
         }
       ],
       "source": "Friday Night Magic prize",
@@ -4011,7 +4079,7 @@
         "Boar",
         "Beast"
       ],
-      "text": "Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)\nWhen you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.",
+      "text": "Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)\nWhen you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library. (Do this before you draw.)",
       "toughness": "5",
       "type": "Creature — Boar Beast",
       "types": [
@@ -4100,7 +4168,8 @@
         "pFNM",
         "LGN",
         "TSB",
-        "HOP"
+        "HOP",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2003-12-01",
@@ -4200,7 +4269,9 @@
         "DD2",
         "DDN",
         "C14",
-        "DD3_JVC"
+        "DD3_JVC",
+        "A25",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2004-01-01",
@@ -4212,6 +4283,18 @@
         {
           "date": "2013-04-15",
           "text": "If a spell with split second is on the stack, you can still respond by turning this creature face up and targeting that spell with the trigger. This is because split second only stops players from casting spells or activating abilities, while turning a creature face up is a special action."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "You don't choose the new target for the spell until Willbender's triggered ability resolves. You must change the target if possible. However, you can't change the target to an illegal target. If there are no legal targets to choose from, the target isn't changed. It doesn't matter if the original target of that spell has somehow become illegal itself."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "If a spell or ability targets multiple things, you can't target it with Willbender's triggered ability, even if all but one of those targets have become illegal."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "If a spell or ability targets the same player or object multiple times, you can't target it with Willbender's ability."
         }
       ],
       "source": "Friday Night Magic prize",
@@ -4289,7 +4372,8 @@
       "printings": [
         "pFNM",
         "ONS",
-        "C13"
+        "C13",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2004-02-01",
@@ -4304,7 +4388,7 @@
         },
         {
           "date": "2008-10-01",
-          "text": "The cycling ability and the triggered ability are separate. If the triggered ability is countered (with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card."
+          "text": "The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card."
         }
       ],
       "source": "Friday Night Magic prize",
@@ -4379,7 +4463,8 @@
       "printings": [
         "pFNM",
         "SCG",
-        "DDG"
+        "DDG",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2004-03-01",
@@ -4460,7 +4545,8 @@
       "printings": [
         "pFNM",
         "SCG",
-        "C13"
+        "C13",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2004-04-01",
@@ -4535,7 +4621,8 @@
       "printings": [
         "pFNM",
         "ONS",
-        "VMA"
+        "VMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2004-05-01",
@@ -4546,7 +4633,7 @@
         }
       ],
       "source": "Friday Night Magic prize",
-      "text": "Whenever a player cycles a card, you may pay {1}. If you do, Lightning Rift deals 2 damage to target creature or player.",
+      "text": "Whenever a player cycles a card, you may pay {1}. If you do, Lightning Rift deals 2 damage to any target.",
       "type": "Enchantment",
       "types": [
         "Enchantment"
@@ -4622,7 +4709,8 @@
         "pFNM",
         "SCG",
         "DDE",
-        "EMA"
+        "EMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2004-06-01",
@@ -4723,14 +4811,16 @@
         "DDD",
         "DDG",
         "DD3_GVL",
-        "DDR"
+        "DDR",
+        "DDU",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2004-07-01",
       "rulings": [
         {
           "date": "2008-08-01",
-          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature."
+          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature."
         },
         {
           "date": "2009-10-01",
@@ -4738,7 +4828,7 @@
         }
       ],
       "source": "Friday Night Magic prize",
-      "text": "Treetop Village enters the battlefield tapped.\n{T}: Add {G} to your mana pool.\n{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)",
+      "text": "Treetop Village enters the battlefield tapped.\n{T}: Add {G}.\n{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)",
       "type": "Land",
       "types": [
         "Land"
@@ -4755,6 +4845,10 @@
       ],
       "flavor": "\"I have seen and heard much here. There are secrets within secrets. Let me show you.\"\n—Takara, to Eladamri",
       "foreignNames": [
+        {
+          "language": "Chinese Simplified",
+          "name": "累积的知识"
+        },
         {
           "language": "French",
           "name": "Connaissance accumulée"
@@ -4808,14 +4902,16 @@
       "printings": [
         "pFNM",
         "NMS",
-        "DDO"
+        "DDO",
+        "A25",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2004-08-01",
       "rulings": [
         {
-          "date": "2004-10-04",
-          "text": "The count does not include the card that is currently resolving. The card does not go to the graveyard until after it is done resolving."
+          "date": "2018-03-16",
+          "text": "Because Accumulated Knowledge is still on the stack as you perform its instructions, it isn't in your graveyard and won't add to the number of cards drawn."
         }
       ],
       "source": "Friday Night Magic prize",
@@ -4905,7 +5001,8 @@
       "printings": [
         "ULG",
         "pFNM",
-        "TSB"
+        "TSB",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2004-09-01",
@@ -4985,7 +5082,8 @@
         "ARC",
         "PD3",
         "VMA",
-        "TPR"
+        "TPR",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2004-10-01",
@@ -5074,7 +5172,8 @@
         "CMD",
         "DDO",
         "EMA",
-        "CMA"
+        "CMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2004-11-01",
@@ -5172,13 +5271,16 @@
         "CNS",
         "VMA",
         "C15",
-        "EMA"
+        "EMA",
+        "A25",
+        "SS1",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2004-12-01",
       "rulings": [
         {
-          "date": "2016-06-08",
+          "date": "2018-03-16",
           "text": "You draw three cards and put two cards back all while Brainstorm is resolving. Nothing can happen between the two, and no player may choose to take actions."
         }
       ],
@@ -5279,14 +5381,17 @@
         "M13",
         "DD3_GVL",
         "EMA",
-        "PCA"
+        "PCA",
+        "E02",
+        "A25",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2005-01-01",
       "rulings": [
         {
-          "date": "2016-06-08",
-          "text": "If the target of Rancor when it's cast as a spell is an illegal target when Rancor tries to resolve, Rancor will be countered and put into its owner's graveyard. It won't return to its owner's hand."
+          "date": "2018-03-16",
+          "text": "If the creature this Aura would enchant is an illegal target by the time Rancor tries to resolve, the Aura spell doesn't resolve. It won't enter the battlefield, so it won't be put into a graveyard from the battlefield and its ability won't trigger."
         }
       ],
       "source": "Friday Night Magic prize",
@@ -5369,7 +5474,8 @@
         "NMS",
         "VMA",
         "C15",
-        "EMA"
+        "EMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2005-02-01",
@@ -5461,7 +5567,9 @@
         "VMA",
         "C14",
         "DD3_JVC",
-        "E01"
+        "E01",
+        "CM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2005-03-01",
@@ -5544,7 +5652,8 @@
         "NMS",
         "DDD",
         "VMA",
-        "DD3_GVL"
+        "DD3_GVL",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2005-04-01",
@@ -5627,18 +5736,19 @@
         "pFNM",
         "JUD",
         "PD3",
-        "EMA"
+        "EMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2005-05-01",
       "rulings": [
         {
           "date": "2016-06-08",
-          "text": "You name the card as Cabal Therapy resolves, not as you cast it. Then the targeted player reveals his or her hand and discards if appropriate. No player may choose to take actions between you naming the card and the targeted player revealing and discarding."
+          "text": "You name the card as Cabal Therapy resolves, not as you cast it. Then the targeted player reveals their hand and discards if appropriate. No player may choose to take actions between you naming the card and the targeted player revealing and discarding."
         }
       ],
       "source": "Friday Night Magic prize",
-      "text": "Choose a nonland card name. Target player reveals his or her hand and discards all cards with that name.\nFlashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "text": "Choose a nonland card name. Target player reveals their hand and discards all cards with that name.\nFlashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -5718,7 +5828,9 @@
         "VMA",
         "DD3_JVC",
         "C15",
-        "EMA"
+        "EMA",
+        "CM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2005-06-01",
@@ -5835,7 +5947,9 @@
         "ME4",
         "M15",
         "EMA",
-        "DOM"
+        "DOM",
+        "BBD",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2005-07-01",
@@ -5950,7 +6064,8 @@
         "pFNM",
         "7ED",
         "8ED",
-        "9ED"
+        "9ED",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2005-08-01",
@@ -6049,7 +6164,8 @@
         "9ED",
         "V09",
         "DDH",
-        "EMA"
+        "EMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2005-09-01",
@@ -6166,12 +6282,14 @@
         "DTK",
         "EMA",
         "XLN",
-        "IMA"
+        "IMA",
+        "Friday Night Magic",
+        "M19"
       ],
       "rarity": "Special",
       "releaseDate": "2005-10-01",
       "source": "Friday Night Magic prize",
-      "text": "Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.",
+      "text": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -6278,7 +6396,10 @@
         "DD3_JVC",
         "TPR",
         "EMA",
-        "MPS_AKH"
+        "MPS_AKH",
+        "A25",
+        "SS1",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2005-11-01",
@@ -6317,6 +6438,10 @@
         {
           "language": "Japanese",
           "name": "氷の干渉器"
+        },
+        {
+          "language": "Korean",
+          "name": "얼어붙은 조종기계"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -6378,7 +6503,8 @@
         "10E",
         "ME4",
         "DDH",
-        "DOM"
+        "DOM",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2005-12-01",
@@ -6475,7 +6601,8 @@
         "pFNM",
         "RAV",
         "ME3",
-        "DDJ"
+        "DDJ",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2006-01-01",
@@ -6484,7 +6611,7 @@
         "Elf",
         "Druid"
       ],
-      "text": "{T}: Add {B} to your mana pool. Elves of Deep Shadow deals 1 damage to you.",
+      "text": "{T}: Add {B}. Elves of Deep Shadow deals 1 damage to you.",
       "toughness": "1",
       "type": "Creature — Elf Druid",
       "types": [
@@ -6564,7 +6691,8 @@
         "DDE",
         "ARC",
         "VMA",
-        "EMA"
+        "EMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2006-02-01",
@@ -6678,7 +6806,8 @@
         "C16",
         "MM3",
         "CMA",
-        "C17"
+        "C17",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2006-03-01",
@@ -6754,7 +6883,8 @@
       "printings": [
         "TMP",
         "pFNM",
-        "INV"
+        "INV",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2006-04-01",
@@ -6781,7 +6911,7 @@
         }
       ],
       "source": "Friday Night Magic prize",
-      "text": "Target player reveals his or her hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles his or her library.",
+      "text": "Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles their library.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -6799,6 +6929,14 @@
       "flavor": "They poured from the Skirk Ridge like lava, burning and devouring everything in their path.",
       "foreignNames": [
         {
+          "language": "Chinese Simplified",
+          "name": "鬼怪战酋长"
+        },
+        {
+          "language": "Chinese Traditional",
+          "name": "鬼怪戰酋長"
+        },
+        {
           "language": "French",
           "name": "Chef de guerre gobelin"
         },
@@ -6815,8 +6953,16 @@
           "name": "ゴブリンの戦長"
         },
         {
+          "language": "Korean",
+          "name": "고블린 전쟁족장"
+        },
+        {
           "language": "Portuguese (Brazil)",
           "name": "Comandante de Guerra Goblin"
+        },
+        {
+          "language": "Russian",
+          "name": "Боевой Вождь Гоблинов"
         },
         {
           "language": "Spanish",
@@ -6864,7 +7010,8 @@
         "VMA",
         "DDN",
         "DD3_EVG",
-        "DOM"
+        "DOM",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2006-05-01",
@@ -6879,7 +7026,7 @@
         "Goblin",
         "Warrior"
       ],
-      "text": "Goblin spells you cast cost {1} less to cast.\nGoblin creatures you control have haste.",
+      "text": "Goblin spells you cast cost {1} less to cast.\nGoblins you control have haste.",
       "toughness": "2",
       "type": "Creature — Goblin Warrior",
       "types": [
@@ -6949,7 +7096,8 @@
         "ODY",
         "DDD",
         "VMA",
-        "DD3_GVL"
+        "DD3_GVL",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2006-06-01",
@@ -7025,7 +7173,8 @@
         "pFNM",
         "TOR",
         "V13",
-        "VMA"
+        "VMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2006-07-01",
@@ -7095,7 +7244,8 @@
       "printings": [
         "pFNM",
         "TOR",
-        "VMA"
+        "VMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2006-08-01",
@@ -7166,7 +7316,8 @@
       "printings": [
         "pFNM",
         "ONS",
-        "VMA"
+        "VMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2006-09-01",
@@ -7248,7 +7399,8 @@
       "printings": [
         "pFNM",
         "TOR",
-        "VMA"
+        "VMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2006-10-01",
@@ -7331,14 +7483,15 @@
       "printings": [
         "pFNM",
         "APC",
-        "DDJ"
+        "DDJ",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2006-11-01",
       "rulings": [
         {
           "date": "2008-08-01",
-          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature."
+          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature."
         }
       ],
       "source": "Friday Night Magic prize",
@@ -7416,7 +7569,8 @@
       "printings": [
         "pFNM",
         "APC",
-        "DDJ"
+        "DDJ",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2006-11-01",
@@ -7496,12 +7650,13 @@
         "pFNM",
         "APC",
         "CMD",
-        "DDJ"
+        "DDJ",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2006-12-01",
       "source": "Friday Night Magic prize",
-      "text": "Fire deals 2 damage divided as you choose among one or two target creatures and/or players.",
+      "text": "Fire deals 2 damage divided as you choose among one or two targets.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -7576,7 +7731,8 @@
         "pFNM",
         "APC",
         "CMD",
-        "DDJ"
+        "DDJ",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2006-12-01",
@@ -7658,12 +7814,13 @@
         "DD2",
         "DD3_JVC",
         "EMA",
-        "DDS"
+        "DDS",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2007-01-01",
       "source": "Friday Night Magic prize",
-      "text": "Firebolt deals 2 damage to target creature or player.\nFlashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "text": "Firebolt deals 2 damage to any target.\nFlashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -7740,7 +7897,8 @@
         "DDH",
         "C13",
         "VMA",
-        "EMA"
+        "EMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2007-02-01",
@@ -7812,7 +7970,8 @@
       "number": "82",
       "printings": [
         "pFNM",
-        "APC"
+        "APC",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2007-03-01",
@@ -7885,7 +8044,8 @@
         "TOR",
         "DDD",
         "VMA",
-        "DD3_GVL"
+        "DD3_GVL",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2007-04-01",
@@ -7978,7 +8138,9 @@
         "CMD",
         "C13",
         "EMA",
-        "CMA"
+        "CMA",
+        "CM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2007-05-01",
@@ -8054,7 +8216,8 @@
       "power": "2",
       "printings": [
         "pFNM",
-        "APC"
+        "APC",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2007-06-01",
@@ -8063,7 +8226,7 @@
         "Goblin",
         "Soldier"
       ],
-      "text": "{R}, Sacrifice Goblin Legionnaire: Goblin Legionnaire deals 2 damage to target creature or player.\n{W}, Sacrifice Goblin Legionnaire: Prevent the next 2 damage that would be dealt to target creature or player this turn.",
+      "text": "{R}, Sacrifice Goblin Legionnaire: It deals 2 damage to any target.\n{W}, Sacrifice Goblin Legionnaire: Prevent the next 2 damage that would be dealt to any target this turn.",
       "toughness": "2",
       "type": "Creature — Goblin Soldier",
       "types": [
@@ -8130,7 +8293,8 @@
       "printings": [
         "ULG",
         "pFNM",
-        "7ED"
+        "7ED",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2007-07-01",
@@ -8162,6 +8326,10 @@
         {
           "language": "Italian",
           "name": "Capobanda Goblin"
+        },
+        {
+          "language": "Japanese",
+          "name": "ゴブリンの首謀者"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -8204,7 +8372,8 @@
         "EVG",
         "VMA",
         "DD3_EVG",
-        "DDT"
+        "DDT",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2007-08-01",
@@ -8288,7 +8457,8 @@
         "SCG",
         "C14",
         "C17",
-        "IMA"
+        "IMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2007-09-01",
@@ -8377,12 +8547,13 @@
       "printings": [
         "pFNM",
         "TOR",
-        "HOP"
+        "HOP",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2007-10-01",
       "source": "Friday Night Magic prize",
-      "text": "{2}, {T}: Add {B} to your mana pool for each Swamp you control.",
+      "text": "{2}, {T}: Add {B} for each Swamp you control.",
       "type": "Land",
       "types": [
         "Land"
@@ -8457,7 +8628,8 @@
         "ODY",
         "VMA",
         "EMA",
-        "DDS"
+        "DDS",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2007-11-01",
@@ -8530,7 +8702,8 @@
         "pFNM",
         "7ED",
         "ME3",
-        "DDJ"
+        "DDJ",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2007-12-01",
@@ -8624,7 +8797,8 @@
         "pFNM",
         "RAV",
         "DDM",
-        "MM2"
+        "MM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2008-01-01",
@@ -8727,7 +8901,8 @@
         "TSB",
         "M13",
         "M15",
-        "C14"
+        "C14",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2008-02-01",
@@ -8815,7 +8990,9 @@
         "DDJ",
         "MMA",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2008-03-01",
@@ -8890,7 +9067,8 @@
       "printings": [
         "pFNM",
         "SCG",
-        "VMA"
+        "VMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2008-04-01",
@@ -8996,7 +9174,9 @@
         "LEG",
         "ATH",
         "pFNM",
-        "TSB"
+        "TSB",
+        "A25",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2008-05-01",
@@ -9010,7 +9190,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "{T}: Add {G} to your mana pool.\n{T}: Target 1/1 creature gets +1/+2 until end of turn.",
+      "text": "{T}: Add {G}.\n{T}: Target 1/1 creature gets +1/+2 until end of turn.",
       "type": "Legendary Land",
       "types": [
         "Land"
@@ -9097,7 +9277,8 @@
         "CEI",
         "3ED",
         "pFNM",
-        "TSB"
+        "TSB",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2008-06-01",
@@ -9191,7 +9372,8 @@
         "pFNM",
         "TSB",
         "ARC",
-        "IMA"
+        "IMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2008-07-01",
@@ -9206,7 +9388,7 @@
         "Plant",
         "Wall"
       ],
-      "text": "Defender\nPut a -0/-1 counter on Wall of Roots: Add {G} to your mana pool. Activate this ability only once each turn.",
+      "text": "Defender\nPut a -0/-1 counter on Wall of Roots: Add {G}. Activate this ability only once each turn.",
       "toughness": "5",
       "type": "Creature — Plant Wall",
       "types": [
@@ -9282,7 +9464,8 @@
         "ARN",
         "pFNM",
         "TSB",
-        "V12"
+        "V12",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2008-08-01",
@@ -9300,7 +9483,7 @@
       "subtypes": [
         "Desert"
       ],
-      "text": "{T}: Add {C} to your mana pool.\n{T}: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.",
+      "text": "{T}: Add {C}.\n{T}: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.",
       "type": "Land — Desert",
       "types": [
         "Land"
@@ -9376,7 +9559,8 @@
         "MRD",
         "HOP",
         "DDF",
-        "MMA"
+        "MMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2008-09-01",
@@ -9465,7 +9649,8 @@
         "pFNM",
         "TSB",
         "DDD",
-        "DD3_GVL"
+        "DD3_GVL",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2008-10-01",
@@ -9549,7 +9734,8 @@
         "MRD",
         "V10",
         "DDJ",
-        "EMA"
+        "EMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2008-11-01",
@@ -9675,7 +9861,9 @@
         "pFNM",
         "MRD",
         "MMA",
-        "M15"
+        "M15",
+        "DDU",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2008-12-01",
@@ -9690,7 +9878,7 @@
         }
       ],
       "source": "Friday Night Magic prize",
-      "text": "As an additional cost to cast Shrapnel Blast, sacrifice an artifact.\nShrapnel Blast deals 5 damage to target creature or player.",
+      "text": "As an additional cost to cast this spell, sacrifice an artifact.\nShrapnel Blast deals 5 damage to any target.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -9787,7 +9975,8 @@
         "DDL",
         "THS",
         "DD3_JVC",
-        "MM3"
+        "MM3",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2009-01-01",
@@ -9806,11 +9995,11 @@
         },
         {
           "date": "2013-09-15",
-          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it will be countered and none of its effects will happen. You won't scry."
+          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it won't resolve and none of its effects will happen. You won't scry."
         }
       ],
       "source": "Friday Night Magic prize",
-      "text": "Magma Jet deals 2 damage to target creature or player. Scry 2.",
+      "text": "Magma Jet deals 2 damage to any target. Scry 2.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -9885,7 +10074,8 @@
         "MRD",
         "HOP",
         "MMA",
-        "MM2"
+        "MM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2009-02-02",
@@ -9983,7 +10173,8 @@
       "printings": [
         "pFNM",
         "SHM",
-        "MMA"
+        "MMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2009-03-03",
@@ -10010,7 +10201,7 @@
         },
         {
           "date": "2013-06-07",
-          "text": "If multiple creatures with persist are put into the graveyard at the same time (due to combat damage or a spell that destroys all creatures, for example), the active player (the player whose turn it is) puts all of his or her persist triggers on the stack in any order, then each other player in turn order does the same. The last trigger put on the stack is the first one that resolves. That means that in a two-player game, the nonactive player's persist creatures will return to the battlefield first, then the active player's persist creatures do the same. The creatures return to the battlefield one at a time."
+          "text": "If multiple creatures with persist are put into the graveyard at the same time (due to combat damage or a spell that destroys all creatures, for example), the active player (the player whose turn it is) puts all of their persist triggers on the stack in any order, then each other player in turn order does the same. The last trigger put on the stack is the first one that resolves. That means that in a two-player game, the nonactive player's persist creatures will return to the battlefield first, then the active player's persist creatures do the same. The creatures return to the battlefield one at a time."
         },
         {
           "date": "2013-06-07",
@@ -10109,7 +10300,8 @@
       "printings": [
         "pFNM",
         "LRW",
-        "DDT"
+        "DDT",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2009-04-04",
@@ -10206,7 +10398,8 @@
         "pFNM",
         "LRW",
         "EVG",
-        "DD3_EVG"
+        "DD3_EVG",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2009-05-05",
@@ -10215,7 +10408,7 @@
         "Elf",
         "Warrior"
       ],
-      "text": "As an additional cost to cast Wren's Run Vanquisher, reveal an Elf card from your hand or pay {3}.\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+      "text": "As an additional cost to cast this spell, reveal an Elf card from your hand or pay {3}.\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
       "toughness": "3",
       "type": "Creature — Elf Warrior",
       "types": [
@@ -10308,7 +10501,9 @@
         "C14",
         "DD3_JVC",
         "MM2",
-        "C15"
+        "C15",
+        "CM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2009-06-01",
@@ -10405,7 +10600,8 @@
       "printings": [
         "pFNM",
         "SHM",
-        "MMA"
+        "MMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2009-07-01",
@@ -10436,7 +10632,7 @@
         },
         {
           "date": "2013-06-07",
-          "text": "If multiple creatures with persist are put into the graveyard at the same time (due to combat damage or a spell that destroys all creatures, for example), the active player (the player whose turn it is) puts all of his or her persist triggers on the stack in any order, then each other player in turn order does the same. The last trigger put on the stack is the first one that resolves. That means that in a two-player game, the nonactive player's persist creatures will return to the battlefield first, then the active player's persist creatures do the same. The creatures return to the battlefield one at a time."
+          "text": "If multiple creatures with persist are put into the graveyard at the same time (due to combat damage or a spell that destroys all creatures, for example), the active player (the player whose turn it is) puts all of their persist triggers on the stack in any order, then each other player in turn order does the same. The last trigger put on the stack is the first one that resolves. That means that in a two-player game, the nonactive player's persist creatures will return to the battlefield first, then the active player's persist creatures do the same. The creatures return to the battlefield one at a time."
         },
         {
           "date": "2013-06-07",
@@ -10448,7 +10644,7 @@
         "Goblin",
         "Assassin"
       ],
-      "text": "When Murderous Redcap enters the battlefield, it deals damage equal to its power to target creature or player.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",
+      "text": "When Murderous Redcap enters the battlefield, it deals damage equal to its power to any target.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",
       "toughness": "2",
       "type": "Creature — Goblin Assassin",
       "types": [
@@ -10528,7 +10724,9 @@
         "MPS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2009-08-01",
@@ -10627,7 +10825,9 @@
       "printings": [
         "pFNM",
         "RAV",
-        "ARC"
+        "ARC",
+        "A25",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2009-09-01",
@@ -10724,12 +10924,14 @@
         "TSB",
         "HOP",
         "PD2",
-        "DDK"
+        "DDK",
+        "A25",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2009-10-01",
       "source": "Friday Night Magic prize",
-      "text": "Any player may have Browbeat deal 5 damage to him or her. If no one does, target player draws three cards.",
+      "text": "Any player may have Browbeat deal 5 damage to them. If no one does, target player draws three cards.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -10830,7 +11032,8 @@
         "M12",
         "DDI",
         "M13",
-        "MM2"
+        "MM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2009-11-01",
@@ -10939,7 +11142,8 @@
         "CNS",
         "C15",
         "C16",
-        "CMA"
+        "CMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2009-12-01",
@@ -11034,7 +11238,8 @@
         "pFNM",
         "ALA",
         "MMA",
-        "MD1"
+        "MD1",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2010-01-01",
@@ -11048,7 +11253,7 @@
       "subtypes": [
         "Zombie"
       ],
-      "text": "When Tidehollow Sculler enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.\nWhen Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand.",
+      "text": "When Tidehollow Sculler enters the battlefield, target opponent reveals their hand and you choose a nonland card from it. Exile that card.\nWhen Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand.",
       "toughness": "2",
       "type": "Artifact Creature — Zombie",
       "types": [
@@ -11132,7 +11337,8 @@
         "PC2",
         "CN2",
         "C16",
-        "PCA"
+        "PCA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2010-02-01",
@@ -11147,7 +11353,7 @@
         }
       ],
       "source": "Friday Night Magic prize",
-      "text": "Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.",
+      "text": "Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you.",
       "type": "Enchantment",
       "types": [
         "Enchantment"
@@ -11222,7 +11428,8 @@
       "printings": [
         "pFNM",
         "CON",
-        "H09"
+        "H09",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2010-03-01",
@@ -11237,7 +11444,7 @@
         }
       ],
       "source": "Friday Night Magic prize",
-      "text": "{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell.",
+      "text": "{T}: Add one mana of any color. Spend this mana only to cast a creature spell.",
       "type": "Land",
       "types": [
         "Land"
@@ -11302,7 +11509,7 @@
         },
         {
           "format": "Modern",
-          "legality": "Banned"
+          "legality": "Legal"
         },
         {
           "format": "Shards of Alara Block",
@@ -11324,7 +11531,8 @@
         "PC2",
         "EMA",
         "C16",
-        "PCA"
+        "PCA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2010-04-01",
@@ -11430,7 +11638,8 @@
       "number": "120",
       "printings": [
         "pFNM",
-        "MRD"
+        "MRD",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2010-05-01",
@@ -11438,7 +11647,7 @@
       "subtypes": [
         "Locus"
       ],
-      "text": "Cloudpost enters the battlefield tapped.\n{T}: Add {C} to your mana pool for each Locus on the battlefield.",
+      "text": "Cloudpost enters the battlefield tapped.\n{T}: Add {C} for each Locus on the battlefield.",
       "type": "Land — Locus",
       "types": [
         "Land"
@@ -11532,7 +11741,9 @@
         "ORI",
         "C15",
         "DDR",
-        "CMA"
+        "CMA",
+        "BBD",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2010-06-01",
@@ -11625,7 +11836,8 @@
       "power": "2",
       "printings": [
         "pFNM",
-        "ARB"
+        "ARB",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2010-07-01",
@@ -11720,7 +11932,8 @@
         "MMA",
         "C13",
         "C15",
-        "CMA"
+        "CMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2010-08-01",
@@ -11837,7 +12050,8 @@
         "pFNM",
         "ARB",
         "DDH",
-        "C17"
+        "C17",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2010-09-01",
@@ -11930,7 +12144,8 @@
         "TSP",
         "MMA",
         "DDS",
-        "IMA"
+        "IMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2010-10-01",
@@ -11977,7 +12192,7 @@
         }
       ],
       "source": "Friday Night Magic prize",
-      "text": "Rift Bolt deals 3 damage to target creature or player.\nSuspend 1—{R} (Rather than cast this card from your hand, you may pay {R} and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",
+      "text": "Rift Bolt deals 3 damage to any target.\nSuspend 1—{R} (Rather than cast this card from your hand, you may pay {R} and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -12060,7 +12275,8 @@
       "printings": [
         "pFNM",
         "ZEN",
-        "DDK"
+        "DDK",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2010-11-01",
@@ -12153,7 +12369,8 @@
       "printings": [
         "pFNM",
         "ALA",
-        "DDH"
+        "DDH",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2010-12-01",
@@ -12252,7 +12469,9 @@
         "DDF",
         "C14",
         "MM2",
-        "C16"
+        "C16",
+        "CM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2011-01-01",
@@ -12263,7 +12482,7 @@
         }
       ],
       "source": "Friday Night Magic prize",
-      "text": "Multikicker {2} (You may pay an additional {2} any number of times as you cast this spell.)\nEverflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.\n{T}: Add {C} to your mana pool for each charge counter on Everflowing Chalice.",
+      "text": "Multikicker {2} (You may pay an additional {2} any number of times as you cast this spell.)\nEverflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.\n{T}: Add {C} for each charge counter on Everflowing Chalice.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -12349,14 +12568,15 @@
       "printings": [
         "pFNM",
         "LRW",
-        "MMA"
+        "MMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2011-02-01",
       "rulings": [
         {
           "date": "2007-10-01",
-          "text": "The value of X needs to be determined both when the ability triggers (so you can choose a target) and again when the ability resolves (to check if that target is still legal). If the number of Faeries you control has decreased enough in that time to make the target illegal, Spellstutter Sprite's ability will be countered (and the targeted spell will resolve as normal)."
+          "text": "The value of X needs to be determined both when the ability triggers (so you can choose a target) and again when the ability resolves (to check if that target is still legal). If the number of Faeries you control has decreased enough in that time to make the target illegal, Spellstutter Sprite's ability won't resolve (and the targeted spell will resolve as normal)."
         }
       ],
       "source": "Friday Night Magic prize",
@@ -12450,7 +12670,8 @@
         "ROE",
         "CMD",
         "DDK",
-        "EMA"
+        "EMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2011-03-01",
@@ -12539,29 +12760,27 @@
         "CMD",
         "C14",
         "MM2",
-        "DDP"
+        "DDP",
+        "CM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2011-04-01",
       "rulings": [
         {
           "date": "2010-06-15",
-          "text": "Annihilator abilities trigger and resolve during the declare attackers step. The defending player chooses and sacrifices the required number of permanents before he or she declares blockers. Any creatures sacrificed this way won't be able to block."
+          "text": "Annihilator abilities trigger and resolve during the declare attackers step. The defending player chooses and sacrifices the required number of permanents before they declare blockers. Any creatures sacrificed this way won't be able to block."
         },
         {
           "date": "2010-06-15",
           "text": "If a creature with annihilator is attacking a planeswalker, and the defending player chooses to sacrifice that planeswalker, the attacking creature continues to attack. It may be blocked. If it isn't blocked, it simply won't deal combat damage to anything."
-        },
-        {
-          "date": "2010-06-15",
-          "text": "In a Two-Headed Giant game, the controller of an attacking creature with annihilator chooses which of the defending players is affected by the ability. Only that player sacrifices permanents. The choice is made as the ability resolves; once a player is chosen, it's too late for anyone to respond."
         }
       ],
       "source": "Friday Night Magic prize",
       "subtypes": [
         "Eldrazi"
       ],
-      "text": "When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.\nAnnihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)",
+      "text": "When you cast this spell, you may return target creature card from your graveyard to the battlefield.\nAnnihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)",
       "toughness": "9",
       "type": "Creature — Eldrazi",
       "types": [
@@ -12644,7 +12863,9 @@
       "printings": [
         "pFNM",
         "M11",
-        "EMA"
+        "EMA",
+        "A25",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2011-05-01",
@@ -12740,7 +12961,8 @@
       "printings": [
         "pFNM",
         "ALA",
-        "MM3"
+        "MM3",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2011-06-01",
@@ -12837,7 +13059,8 @@
         "pFNM",
         "M11",
         "DDM",
-        "M15"
+        "M15",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2011-07-01",
@@ -12930,7 +13153,10 @@
         "C16",
         "PCA",
         "E01",
-        "C17"
+        "C17",
+        "A25",
+        "CM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2011-08-01",
@@ -13018,12 +13244,13 @@
       "printings": [
         "pFNM",
         "ZEN",
-        "PD2"
+        "PD2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2011-09-01",
       "source": "Friday Night Magic prize",
-      "text": "Teetering Peaks enters the battlefield tapped.\nWhen Teetering Peaks enters the battlefield, target creature gets +2/+0 until end of turn.\n{T}: Add {R} to your mana pool.",
+      "text": "Teetering Peaks enters the battlefield tapped.\nWhen Teetering Peaks enters the battlefield, target creature gets +2/+0 until end of turn.\n{T}: Add {R}.",
       "type": "Land",
       "types": [
         "Land"
@@ -13102,7 +13329,8 @@
       "printings": [
         "pFNM",
         "DDF",
-        "SOM"
+        "SOM",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2011-10-01",
@@ -13219,14 +13447,15 @@
       "printings": [
         "pFNM",
         "MBS",
-        "C17"
+        "C17",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2011-11-01",
       "rulings": [
         {
           "date": "2011-06-01",
-          "text": "If the targeted creature is also an artifact when Go for the Throat tries to resolve, it will be countered."
+          "text": "If the targeted creature is also an artifact when Go for the Throat tries to resolve, it won't resolve."
         }
       ],
       "source": "Friday Night Magic prize",
@@ -13313,12 +13542,13 @@
         "C13",
         "C16",
         "MM3",
-        "C17"
+        "C17",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2011-12-01",
       "source": "Friday Night Magic prize",
-      "text": "Savage Lands enters the battlefield tapped.\n{T}: Add {B}, {R}, or {G} to your mana pool.",
+      "text": "Savage Lands enters the battlefield tapped.\n{T}: Add {B}, {R}, or {G}.",
       "type": "Land",
       "types": [
         "Land"
@@ -13404,7 +13634,8 @@
       "power": "1",
       "printings": [
         "pFNM",
-        "NPH"
+        "NPH",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2012-01-01",
@@ -13508,12 +13739,13 @@
       "printings": [
         "pFNM",
         "NPH",
-        "KTK"
+        "KTK",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2012-02-01",
       "source": "Friday Night Magic prize",
-      "text": "Target opponent reveals his or her hand. You choose a creature or planeswalker card from it. That player discards that card.",
+      "text": "Target opponent reveals their hand. You choose a creature or planeswalker card from it. That player discards that card.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -13593,7 +13825,8 @@
         "pFNM",
         "WWK",
         "C14",
-        "EXP"
+        "EXP",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2012-03-01",
@@ -13608,7 +13841,7 @@
         }
       ],
       "source": "Friday Night Magic prize",
-      "text": "{T}: Add {C} to your mana pool.\n{1}, {T}, Sacrifice Tectonic Edge: Destroy target nonbasic land. Activate this ability only if an opponent controls four or more lands.",
+      "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice Tectonic Edge: Destroy target nonbasic land. Activate this ability only if an opponent controls four or more lands.",
       "type": "Land",
       "types": [
         "Land"
@@ -13695,7 +13928,8 @@
         "pFNM",
         "NPH",
         "MD1",
-        "MM2"
+        "MM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2012-04-01",
@@ -13814,7 +14048,8 @@
         "pFNM",
         "TSP",
         "ISD",
-        "MM3"
+        "MM3",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2012-05-01",
@@ -13912,7 +14147,9 @@
         "C13",
         "DDM",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2012-06-01",
@@ -14008,7 +14245,8 @@
         "pFNM",
         "ISD",
         "DDQ",
-        "MM3"
+        "MM3",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2012-07-01",
@@ -14107,7 +14345,8 @@
       "printings": [
         "pFNM",
         "ISD",
-        "MM3"
+        "MM3",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2012-08-01",
@@ -14116,7 +14355,7 @@
         "Human",
         "Monk"
       ],
-      "text": "{T}: Add {W} to your mana pool.",
+      "text": "{T}: Add {W}.",
       "toughness": "1",
       "type": "Creature — Human Monk",
       "types": [
@@ -14210,7 +14449,8 @@
         "DKA",
         "DDK",
         "MD1",
-        "MM3"
+        "MM3",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2012-09-01",
@@ -14345,7 +14585,9 @@
         "CMA",
         "C17",
         "IMA",
-        "RIX"
+        "RIX",
+        "CM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2012-10-01",
@@ -14440,7 +14682,8 @@
       "printings": [
         "pFNM",
         "AVR",
-        "IMA"
+        "IMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2012-11-01",
@@ -14455,7 +14698,7 @@
         }
       ],
       "source": "Friday Night Magic prize",
-      "text": "Pillar of Flame deals 2 damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead.",
+      "text": "Pillar of Flame deals 2 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -14540,7 +14783,8 @@
       "number": "151",
       "printings": [
         "pFNM",
-        "NPH"
+        "NPH",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2012-12-01",
@@ -14567,7 +14811,7 @@
         },
         {
           "date": "2011-06-01",
-          "text": "The targeted player may have no cards in his or her hand. You'll still draw a card."
+          "text": "The targeted player may have no cards in their hand. You'll still draw a card."
         }
       ],
       "source": "Friday Night Magic prize",
@@ -14657,12 +14901,13 @@
       "printings": [
         "pFNM",
         "M13",
-        "E01"
+        "E01",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2013-01-01",
       "source": "Friday Night Magic prize",
-      "text": "Searing Spear deals 3 damage to target creature or player.",
+      "text": "Searing Spear deals 3 damage to any target.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -14719,6 +14964,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -14731,7 +14980,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Shards of Alara Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -14748,7 +14997,10 @@
         "M13",
         "C14",
         "C15",
-        "C16"
+        "C16",
+        "CM2",
+        "Friday Night Magic",
+        "M19"
       ],
       "rarity": "Special",
       "releaseDate": "2013-02-01",
@@ -14759,7 +15011,7 @@
         }
       ],
       "source": "Friday Night Magic prize",
-      "text": "You have no maximum hand size.\n{T}: Add {C} to your mana pool.",
+      "text": "You have no maximum hand size.\n{T}: Add {C}.",
       "type": "Land",
       "types": [
         "Land"
@@ -14851,7 +15103,8 @@
         "RAV",
         "M13",
         "C16",
-        "C17"
+        "C17",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2013-03-01",
@@ -14954,7 +15207,8 @@
       "printings": [
         "pFNM",
         "RTR",
-        "MM3"
+        "MM3",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2013-04-01",
@@ -15051,7 +15305,8 @@
       "power": "1",
       "printings": [
         "pFNM",
-        "RTR"
+        "RTR",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2013-05-01",
@@ -15152,7 +15407,8 @@
         "pFNM",
         "DDJ",
         "RTR",
-        "MM3"
+        "MM3",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2013-06-01",
@@ -15249,7 +15505,8 @@
       "power": "1",
       "printings": [
         "pFNM",
-        "RTR"
+        "RTR",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2013-07-01",
@@ -15367,7 +15624,8 @@
       "number": "159",
       "printings": [
         "pFNM",
-        "GTC"
+        "GTC",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2013-08-01",
@@ -15462,7 +15720,8 @@
       "printings": [
         "pFNM",
         "GTC",
-        "C15"
+        "C15",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2013-09-01",
@@ -15595,7 +15854,8 @@
       "printings": [
         "pFNM",
         "GTC",
-        "MM3"
+        "MM3",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2013-10-01",
@@ -15697,7 +15957,8 @@
         "pFNM",
         "RTR",
         "C15",
-        "CMA"
+        "CMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2013-11-01",
@@ -15795,7 +16056,8 @@
       "printings": [
         "pFNM",
         "DGM",
-        "MM3"
+        "MM3",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2013-12-01",
@@ -15810,7 +16072,7 @@
         "Human",
         "Cleric"
       ],
-      "text": "When Sin Collector enters the battlefield, target opponent reveals his or her hand. You choose an instant or sorcery card from it and exile that card.",
+      "text": "When Sin Collector enters the battlefield, target opponent reveals their hand. You choose an instant or sorcery card from it and exile that card.",
       "toughness": "1",
       "type": "Creature — Human Cleric",
       "types": [
@@ -15902,18 +16164,19 @@
       "number": "164",
       "printings": [
         "pFNM",
-        "DGM"
+        "DGM",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2014-01-01",
       "rulings": [
         {
           "date": "2013-04-15",
-          "text": "If the target creature or player is an illegal target when Warleader's Helix tries to resolve, it will be countered and none of its effects will happen. You won't gain 4 life."
+          "text": "If the target permanent or player is an illegal target when Warleader's Helix tries to resolve, it won't resolve and none of its effects will happen. You won't gain 4 life."
         }
       ],
       "source": "Friday Night Magic prize",
-      "text": "Warleader's Helix deals 4 damage to target creature or player and you gain 4 life.",
+      "text": "Warleader's Helix deals 4 damage to any target and you gain 4 life.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -16002,7 +16265,9 @@
         "M14",
         "M15",
         "C14",
-        "CMA"
+        "CMA",
+        "DDU",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2014-02-01",
@@ -16011,7 +16276,7 @@
         "Elf",
         "Druid"
       ],
-      "text": "{T}: Add {G} to your mana pool.",
+      "text": "{T}: Add {G}.",
       "toughness": "1",
       "type": "Creature — Elf Druid",
       "types": [
@@ -16099,7 +16364,8 @@
       "printings": [
         "pFNM",
         "M14",
-        "DDO"
+        "DDO",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2014-03-01",
@@ -16213,12 +16479,13 @@
       "number": "167",
       "printings": [
         "pFNM",
-        "M14"
+        "M14",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2014-04-01",
       "source": "Friday Night Magic prize",
-      "text": "{T}: Add {C} to your mana pool.\n{4}, {T}, Sacrifice Encroaching Wastes: Destroy target nonbasic land.",
+      "text": "{T}: Add {C}.\n{4}, {T}, Sacrifice Encroaching Wastes: Destroy target nonbasic land.",
       "type": "Land",
       "types": [
         "Land"
@@ -16307,7 +16574,8 @@
       "power": "2",
       "printings": [
         "pFNM",
-        "THS"
+        "THS",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2014-05-01",
@@ -16421,7 +16689,8 @@
       "printings": [
         "pFNM",
         "THS",
-        "IMA"
+        "IMA",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2014-06-01",
@@ -16440,7 +16709,7 @@
         },
         {
           "date": "2013-09-15",
-          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it will be countered and none of its effects will happen. You won't scry."
+          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it won't resolve and none of its effects will happen. You won't scry."
         }
       ],
       "source": "Friday Night Magic prize",
@@ -16548,7 +16817,8 @@
         "ALA",
         "DDJ",
         "JOU",
-        "AKH"
+        "AKH",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2014-07-01",
@@ -16648,7 +16918,8 @@
       "number": "171",
       "printings": [
         "pFNM",
-        "BNG"
+        "BNG",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2014-08-01",
@@ -16659,7 +16930,7 @@
         },
         {
           "date": "2014-02-01",
-          "text": "If the target creature is an illegal target as Bile Blight tries to resolve, it will be countered and none of its effects will happen. No creature will get -3/-3."
+          "text": "If the target creature is an illegal target as Bile Blight tries to resolve, it won't resolve and none of its effects will happen. No creature will get -3/-3."
         },
         {
           "date": "2014-02-01",
@@ -16756,7 +17027,9 @@
       "printings": [
         "pFNM",
         "JOU",
-        "C15"
+        "C15",
+        "CM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2014-09-01",
@@ -16878,7 +17151,8 @@
       "power": "3",
       "printings": [
         "pFNM",
-        "BNG"
+        "BNG",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2014-10-01",
@@ -17003,7 +17277,8 @@
       "power": "1",
       "printings": [
         "pFNM",
-        "JOU"
+        "JOU",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2014-11-01",
@@ -17014,7 +17289,7 @@
         },
         {
           "date": "2014-04-26",
-          "text": "If Brain Maggot leaves the battlefield before its enters-the-battlefield ability resolves, the opponent will reveal his or her hand, but no card will be exiled."
+          "text": "If Brain Maggot leaves the battlefield before its enters-the-battlefield ability resolves, the opponent will reveal their hand, but no card will be exiled."
         },
         {
           "date": "2014-04-26",
@@ -17029,7 +17304,7 @@
       "subtypes": [
         "Insect"
       ],
-      "text": "When Brain Maggot enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card until Brain Maggot leaves the battlefield.",
+      "text": "When Brain Maggot enters the battlefield, target opponent reveals their hand and you choose a nonland card from it. Exile that card until Brain Maggot leaves the battlefield.",
       "toughness": "1",
       "type": "Enchantment Creature — Insect",
       "types": [
@@ -17115,7 +17390,8 @@
       "number": "175",
       "printings": [
         "pFNM",
-        "M15"
+        "M15",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2014-12-01",
@@ -17150,7 +17426,7 @@
         }
       ],
       "source": "Friday Night Magic prize",
-      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nStoke the Flames deals 4 damage to target creature or player.",
+      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nStoke the Flames deals 4 damage to any target.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -17242,10 +17518,18 @@
         "pFNM",
         "RAV",
         "M15",
-        "DDN"
+        "DDN",
+        "A25",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-01",
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "Frenzied Goblin's ability has only one target. You can't pay {R} multiple times to stop multiple creatures from blocking."
+        }
+      ],
       "source": "Friday Night Magic prize",
       "subtypes": [
         "Goblin",
@@ -17342,7 +17626,9 @@
       "printings": [
         "pFNM",
         "KTK",
-        "C16"
+        "C16",
+        "CM2",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2015-02-01",
@@ -17443,7 +17729,9 @@
       "printings": [
         "pFNM",
         "KTK",
-        "DDT"
+        "DDT",
+        "A25",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-01",
@@ -17536,7 +17824,8 @@
       "number": "179",
       "printings": [
         "pFNM",
-        "KTK"
+        "KTK",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2015-04-01",
@@ -17547,7 +17836,7 @@
         },
         {
           "date": "2014-09-20",
-          "text": "If the target creature becomes an illegal target before the ability resolves, perhaps because its toughness was lowered, the ability will be countered and none of its effects will happen. No creature will be exiled, and Suspension Field will remain on the battlefield."
+          "text": "If the target creature becomes an illegal target before the ability resolves, perhaps because its toughness was lowered, the ability won't resolve and none of its effects will happen. No creature will be exiled, and Suspension Field will remain on the battlefield."
         },
         {
           "date": "2014-09-20",
@@ -17661,7 +17950,8 @@
       "power": "2",
       "printings": [
         "pFNM",
-        "FRF"
+        "FRF",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2015-05-01",
@@ -17771,14 +18061,15 @@
       "power": "4",
       "printings": [
         "pFNM",
-        "FRF"
+        "FRF",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2015-06-01",
       "rulings": [
         {
           "date": "2014-11-24",
-          "text": "If Frost Walker becomes the target of a spell or ability, its ability triggers and is put on the stack on top of that spell or ability. Frost Walker's ability will resolve (causing it to be sacrificed) first. Unless the spell or ability has another target, it will be countered as it tries to resolve for having no legal targets."
+          "text": "If Frost Walker becomes the target of a spell or ability, its ability triggers and is put on the stack on top of that spell or ability. Frost Walker's ability will resolve (causing it to be sacrificed) first. Unless the spell or ability has another target, it won't resolve as it tries to resolve for having no legal targets."
         }
       ],
       "source": "Friday Night Magic prize",
@@ -17874,22 +18165,24 @@
         "MMA",
         "MD1",
         "MM3",
-        "CMA"
+        "CMA",
+        "E02",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-01",
       "rulings": [
         {
           "date": "2017-03-14",
-          "text": "If the targeted creature becomes an illegal target by the time Path to Exile would resolve, the entire spell is countered. The creature's controller won't search for a basic land card."
+          "text": "If the targeted creature becomes an illegal target by the time Path to Exile would resolve, the entire spell doesn't resolve. The creature's controller won't search for a basic land card."
         },
         {
           "date": "2017-03-14",
-          "text": "The controller of the exiled creature isn't required to search his or her library for a basic land. If that player doesn't, the player won't shuffle his or her library."
+          "text": "The controller of the exiled creature isn't required to search their library for a basic land. If that player doesn't, the player won't shuffle their library."
         }
       ],
       "source": "Friday Night Magic prize",
-      "text": "Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.",
+      "text": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -17968,7 +18261,8 @@
         "pFNM",
         "5DN",
         "CN2",
-        "MM3"
+        "MM3",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2015-08-01",
@@ -18063,7 +18357,8 @@
       "printings": [
         "pFNM",
         "DTK",
-        "C17"
+        "C17",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2015-09-01",
@@ -18086,7 +18381,7 @@
         "Bird",
         "Monk"
       ],
-      "text": "As an additional cost to cast Orator of Ojutai, you may reveal a Dragon card from your hand.\nDefender, flying\nWhen Orator of Ojutai enters the battlefield, if you revealed a Dragon card or controlled a Dragon as you cast Orator of Ojutai, draw a card.",
+      "text": "As an additional cost to cast this spell, you may reveal a Dragon card from your hand.\nDefender, flying\nWhen Orator of Ojutai enters the battlefield, if you revealed a Dragon card or controlled a Dragon as you cast this spell, draw a card.",
       "toughness": "4",
       "type": "Creature — Bird Monk",
       "types": [
@@ -18181,7 +18476,8 @@
       "printings": [
         "pFNM",
         "RTR",
-        "DTK"
+        "DTK",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2015-10-01",
@@ -18285,7 +18581,8 @@
       "number": "186",
       "printings": [
         "pFNM",
-        "DTK"
+        "DTK",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2015-11-01",
@@ -18353,15 +18650,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -18370,6 +18663,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -18384,7 +18681,9 @@
       "printings": [
         "pFNM",
         "DTK",
-        "BFZ"
+        "BFZ",
+        "Friday Night Magic",
+        "M19"
       ],
       "rarity": "Special",
       "releaseDate": "2015-12-01",
@@ -18474,7 +18773,8 @@
       "printings": [
         "pFNM",
         "ORI",
-        "C17"
+        "C17",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2016-01-01",
@@ -18578,7 +18878,8 @@
       "number": "189",
       "printings": [
         "pFNM",
-        "ORI"
+        "ORI",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2016-02-01",
@@ -18674,14 +18975,15 @@
         "pFNM",
         "SHM",
         "MM2",
-        "ORI"
+        "ORI",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2016-03-01",
       "rulings": [
         {
           "date": "2015-06-22",
-          "text": "Smash to Smithereens targets only the artifact, not any player. If that artifact becomes an illegal target by the time Smash to Smithereens tries to resolve, Smash to Smithereens will be countered and none of its effects will happen. No damage will be dealt."
+          "text": "Smash to Smithereens targets only the artifact, not any player. If that artifact becomes an illegal target by the time Smash to Smithereens tries to resolve, Smash to Smithereens won't resolve and none of its effects will happen. No damage will be dealt."
         }
       ],
       "source": "Friday Night Magic prize",
@@ -18770,12 +19072,13 @@
       "number": "191",
       "printings": [
         "pFNM",
-        "BFZ"
+        "BFZ",
+        "Friday Night Magic"
       ],
       "rarity": "Special",
       "releaseDate": "2016-04-01",
       "source": "Friday Night Magic prize",
-      "text": "{T}: Add {C} to your mana pool.\n{4}{B}, {T}, Sacrifice Blighted Fen: Target opponent sacrifices a creature.",
+      "text": "{T}: Add {C}.\n{4}{B}, {T}, Sacrifice Blighted Fen: Target opponent sacrifices a creature.",
       "type": "Land",
       "types": [
         "Land"

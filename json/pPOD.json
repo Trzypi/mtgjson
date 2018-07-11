@@ -73,7 +73,8 @@
         "6ED",
         "BRB",
         "S00",
-        "TPR"
+        "TPR",
+        "Portal Demo Game"
       ],
       "rarity": "Special",
       "releaseDate": "1997-05-01",
@@ -149,7 +150,8 @@
         "pPOD",
         "USG",
         "S99",
-        "7ED"
+        "7ED",
+        "Portal Demo Game"
       ],
       "rarity": "Special",
       "releaseDate": "1997-05-01",
@@ -210,7 +212,8 @@
       "power": "1",
       "printings": [
         "POR",
-        "pPOD"
+        "pPOD",
+        "Portal Demo Game"
       ],
       "rarity": "Special",
       "releaseDate": "1997-05-01",
@@ -289,7 +292,8 @@
         "pPOD",
         "6ED",
         "S99",
-        "BTD"
+        "BTD",
+        "Portal Demo Game"
       ],
       "rarity": "Special",
       "releaseDate": "1997-05-01",
@@ -356,6 +360,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -368,7 +376,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ravnica Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -389,7 +397,9 @@
         "RAV",
         "10E",
         "M10",
-        "DPA"
+        "DPA",
+        "Portal Demo Game",
+        "M19"
       ],
       "rarity": "Special",
       "releaseDate": "1997-05-01",
@@ -493,7 +503,8 @@
         "S99",
         "7ED",
         "8ED",
-        "9ED"
+        "9ED",
+        "Portal Demo Game"
       ],
       "rarity": "Special",
       "releaseDate": "1997-05-01",

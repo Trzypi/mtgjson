@@ -90,7 +90,8 @@
         "p2HG",
         "10E",
         "M10",
-        "DPA"
+        "DPA",
+        "Two-Headed Giant Tournament"
       ],
       "rarity": "Special",
       "releaseDate": "2005-12-09",
@@ -105,7 +106,7 @@
         }
       ],
       "source": "Two-Headed Giant Tournament",
-      "text": "Whenever an opponent draws a card, Underworld Dreams deals 1 damage to him or her.",
+      "text": "Whenever an opponent draws a card, Underworld Dreams deals 1 damage to that player.",
       "type": "Enchantment",
       "types": [
         "Enchantment"

@@ -6836,7 +6836,8 @@
         "DDQ",
         "CN2",
         "E01",
-        "IMA"
+        "IMA",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -8763,7 +8764,8 @@
         "BNG",
         "M15",
         "CN2",
-        "DOM"
+        "DOM",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Draw two cards.",
@@ -9397,7 +9399,8 @@
         "OGW",
         "CN2",
         "AER",
-        "RIX"
+        "RIX",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -9439,6 +9442,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -9448,6 +9455,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -9466,7 +9477,9 @@
       "printings": [
         "THS",
         "DDO",
-        "CN2"
+        "CN2",
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -10366,6 +10379,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -10375,6 +10392,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -10399,7 +10420,8 @@
         "M15",
         "CN2",
         "IMA",
-        "E02"
+        "E02",
+        "M19"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -11332,6 +11354,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -11344,7 +11370,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Shadows over Innistrad Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -11363,7 +11389,8 @@
         "M13",
         "EMN",
         "CN2",
-        "A25"
+        "A25",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Destroy target creature.",
@@ -12265,7 +12292,8 @@
       "printings": [
         "ODY",
         "GTC",
-        "CN2"
+        "CN2",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -12782,6 +12810,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -12794,7 +12826,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -12815,13 +12847,18 @@
         "C13",
         "CN2",
         "E01",
-        "IMA"
+        "IMA",
+        "M19"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
-          "date": "2017-11-17",
-          "text": "Guttersnipe's ability resolves before the spell that caused it to trigger."
+          "date": "2018-07-13",
+          "text": "Guttersnipe's triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "In a Two-Headed Giant game, Guttersnipe's ability causes the opposing team to lose 4 life."
         }
       ],
       "subtypes": [
@@ -13468,15 +13505,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -13485,10 +13518,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shadows over Innistrad Block",
           "legality": "Legal"
         },
         {
@@ -13513,13 +13542,14 @@
         "SOI",
         "CN2",
         "AKH",
-        "IMA"
+        "IMA",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2017-11-17",
-          "text": "Because discarding a card is an additional cost, you can't cast Tormenting Voice if you have no other cards in hand."
+          "date": "2018-07-13",
+          "text": "You must discard exactly one card to cast Tormenting Voice; you can't cast it without discarding a card, and you can't discard additional cards."
         }
       ],
       "text": "As an additional cost to cast this spell, discard a card.\nDraw two cards.",
@@ -13555,6 +13585,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -13564,6 +13598,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -13586,7 +13624,9 @@
         "KTK",
         "CN2",
         "IMA",
-        "A25"
+        "A25",
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
@@ -13740,7 +13780,8 @@
         "DDL",
         "CN2",
         "C16",
-        "PCA"
+        "PCA",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -14985,7 +15026,8 @@
         "BFZ",
         "CN2",
         "RIX",
-        "A25"
+        "A25",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Destroy target creature with flying.",
@@ -16500,7 +16542,8 @@
       "power": "5",
       "printings": [
         "MBS",
-        "CN2"
+        "CN2",
+        "BBD"
       ],
       "rarity": "Common",
       "subtypes": [

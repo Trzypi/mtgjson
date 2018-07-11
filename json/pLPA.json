@@ -90,7 +90,8 @@
       "printings": [
         "MOR",
         "pLPA",
-        "MMA"
+        "MMA",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2008-02-01",
@@ -105,7 +106,7 @@
         "Goblin",
         "Rogue"
       ],
-      "text": "Prowl {2}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)\nWhen Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles his or her library.",
+      "text": "Prowl {2}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)\nWhen Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles their library.",
       "toughness": "3",
       "type": "Creature — Goblin Rogue",
       "types": [
@@ -194,7 +195,8 @@
       "power": "2",
       "printings": [
         "pLPA",
-        "SHM"
+        "SHM",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2008-05",
@@ -202,10 +204,6 @@
         {
           "date": "2008-05-01",
           "text": "After Vexing Shusher's ability resolves, any spells or abilities that would counter the targeted spell will still resolve. They just won't counter that spell."
-        },
-        {
-          "date": "2008-05-01",
-          "text": "Vexing Shusher's ability won't prevent the targeted spell from being countered by the game rules (for example, if all its targets are illegal)."
         }
       ],
       "source": "Shadowmoor Launch Party participation bonus",
@@ -213,7 +211,7 @@
         "Goblin",
         "Shaman"
       ],
-      "text": "Vexing Shusher can't be countered.\n{R/G}: Target spell can't be countered by spells or abilities.",
+      "text": "This spell can't be countered.\n{R/G}: Target spell can't be countered.",
       "toughness": "2",
       "type": "Creature — Goblin Shaman",
       "types": [
@@ -300,7 +298,8 @@
         "EVE",
         "PD2",
         "MMA",
-        "DDL"
+        "DDL",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2008-07-25",
@@ -416,7 +415,8 @@
         "pPRE",
         "pLPA",
         "ALA",
-        "DDH"
+        "DDH",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2008-10-03",
@@ -437,7 +437,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "+1: Target permanent doesn't untap during its controller's next untap step.\n−2: Ajani Vengeant deals 3 damage to target creature or player and you gain 3 life.\n−7: Destroy all lands target player controls.",
+      "text": "+1: Target permanent doesn't untap during its controller's next untap step.\n−2: Ajani Vengeant deals 3 damage to any target and you gain 3 life.\n−7: Destroy all lands target player controls.",
       "type": "Legendary Planeswalker — Ajani",
       "types": [
         "Planeswalker"
@@ -518,12 +518,13 @@
       "number": "5",
       "printings": [
         "pLPA",
-        "CON"
+        "CON",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2009-02-06",
       "source": "Conflux Launch Party participation bonus",
-      "text": "{1}{W}, {T}: You gain 5 life.\n{1}{U}, {T}: Draw a card, then discard a card.\n{1}{B}, {T}: Target creature gets -2/-2 until end of turn.\n{1}{R}, {T}: Obelisk of Alara deals 3 damage to target player.\n{1}{G}, {T}: Target creature gets +4/+4 until end of turn.",
+      "text": "{1}{W}, {T}: You gain 5 life.\n{1}{U}, {T}: Draw a card, then discard a card.\n{1}{B}, {T}: Target creature gets -2/-2 until end of turn.\n{1}{R}, {T}: Obelisk of Alara deals 3 damage to target player or planeswalker.\n{1}{G}, {T}: Target creature gets +4/+4 until end of turn.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -607,7 +608,8 @@
       "power": "2",
       "printings": [
         "pLPA",
-        "ARB"
+        "ARB",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2009-04-30",
@@ -702,7 +704,8 @@
       "printings": [
         "pLPA",
         "M10",
-        "MM2"
+        "MM2",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2009-07-17",
@@ -787,7 +790,8 @@
       "number": "8",
       "printings": [
         "pLPA",
-        "ZEN"
+        "ZEN",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2009-10-02",
@@ -806,11 +810,11 @@
         },
         {
           "date": "2009-10-01",
-          "text": "You target a creature or player when the ability triggers. You decide whether to have Valakut deal damage to that creature or player as the ability resolves."
+          "text": "You target a permanent or player when the ability triggers. You decide whether to have Valakut deal damage to that permanent or player as the ability resolves."
         }
       ],
       "source": "Zendikar Launch Launch Party participation bonus",
-      "text": "Valakut, the Molten Pinnacle enters the battlefield tapped.\nWhenever a Mountain enters the battlefield under your control, if you control at least five other Mountains, you may have Valakut, the Molten Pinnacle deal 3 damage to target creature or player.\n{T}: Add {R} to your mana pool.",
+      "text": "Valakut, the Molten Pinnacle enters the battlefield tapped.\nWhenever a Mountain enters the battlefield under your control, if you control at least five other Mountains, you may have Valakut, the Molten Pinnacle deal 3 damage to any target.\n{T}: Add {R}.",
       "type": "Land",
       "types": [
         "Land"
@@ -897,7 +901,8 @@
         "pLPA",
         "WWK",
         "C14",
-        "CMA"
+        "CMA",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2010-02-05",
@@ -994,7 +999,8 @@
       "power": "3",
       "printings": [
         "pLPA",
-        "ROE"
+        "ROE",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2010-04-23",
@@ -1026,10 +1032,6 @@
         {
           "date": "2010-06-15",
           "text": "In a multiplayer game, the only player affected by the last ability is the one Lord of Shatterskull Pass is attacking (or the one who controls the planeswalker Lord of Shatterskull Pass is attacking)."
-        },
-        {
-          "date": "2010-06-15",
-          "text": "If a level 6 Lord of Shatterskull Pass attacks in a Two-Headed Giant game, its controller chooses which one of the defending players is affected by its ability. The choice is made as the ability resolves."
         }
       ],
       "source": "Rise of the Eldrazi Launch Party participation bonus",
@@ -1120,7 +1122,8 @@
       "power": "6",
       "printings": [
         "pLPA",
-        "M11"
+        "M11",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2010-07-16",
@@ -1216,7 +1219,9 @@
         "pLPA",
         "SOM",
         "C14",
-        "C17"
+        "C17",
+        "CM2",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2010-10-01",
@@ -1343,7 +1348,9 @@
       "power": "5",
       "printings": [
         "pLPA",
-        "MBS"
+        "MBS",
+        "DDU",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2011-02-04",
@@ -1444,7 +1451,8 @@
       "power": "0",
       "printings": [
         "pLPA",
-        "NPH"
+        "NPH",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2011-05-13",
@@ -1495,7 +1503,7 @@
         },
         {
           "date": "2011-06-01",
-          "text": "If Phyrexian Metamorph somehow enters the battlefield at the same time as another permanent (due to Mass Polymorph or Liliana Vess's third ability, for example), Phyrexian Metamorph can't become a copy of that permanent. You may only choose a permanent that's already on the battlefield."
+          "text": "If Phyrexian Metamorph somehow enters the battlefield at the same time as another permanent (due to Mass Polymorph or Liliana Vess's third ability, for example), Phyrexian Metamorph can't become a copy of that permanent. You may choose only a permanent that's already on the battlefield."
         },
         {
           "date": "2011-06-01",
@@ -1599,7 +1607,8 @@
         "pLPA",
         "M12",
         "M14",
-        "W17"
+        "W17",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2011-07-15",
@@ -1723,7 +1732,8 @@
       "power": "0",
       "printings": [
         "pLPA",
-        "ISD"
+        "ISD",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2011-09-30",
@@ -1827,7 +1837,8 @@
       "power": "13",
       "printings": [
         "pLPA",
-        "ISD"
+        "ISD",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2011-09-30",
@@ -1931,7 +1942,8 @@
       "power": "3",
       "printings": [
         "pLPA",
-        "DKA"
+        "DKA",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2012-02-03",
@@ -2044,7 +2056,8 @@
       "power": "5",
       "printings": [
         "pLPA",
-        "DKA"
+        "DKA",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2012-02-03",
@@ -2144,7 +2157,8 @@
         "pLPA",
         "AVR",
         "MM3",
-        "IMA"
+        "IMA",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2012-05-04",
@@ -2252,12 +2266,14 @@
         "pLPA",
         "M13",
         "C15",
-        "C17"
+        "C17",
+        "CM2",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2012-07-07",
       "source": "Magic 2013 Launch Party participation bonus",
-      "text": "At the beginning of your upkeep, draw a card.\n{T}: Staff of Nin deals 1 damage to target creature or player.",
+      "text": "At the beginning of your upkeep, draw a card.\n{T}: Staff of Nin deals 1 damage to any target.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -2347,7 +2363,8 @@
       "power": "5",
       "printings": [
         "pLPA",
-        "RTR"
+        "RTR",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2012-10-05",
@@ -2452,7 +2469,8 @@
       "power": "9",
       "printings": [
         "pLPA",
-        "GTC"
+        "GTC",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2013-02-01",
@@ -2556,7 +2574,8 @@
       "number": "22a",
       "printings": [
         "pLPA",
-        "DGM"
+        "DGM",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2013-05-03",
@@ -2575,7 +2594,7 @@
         },
         {
           "date": "2013-04-15",
-          "text": "When resolving a fused split spell with multiple targets, treat it as you would any spell with multiple targets. If all targets are illegal when the spell tries to resolve, the spell is countered and none of its effects happen. If at least one target is still legal at that time, the spell resolves, but an illegal target can't perform any actions or have any actions performed on it."
+          "text": "When resolving a fused split spell with multiple targets, treat it as you would any spell with multiple targets. If all targets are illegal when the spell tries to resolve, the spell doesn't resolve and none of its effects happen. If at least one target is still legal at that time, the spell resolves, but an illegal target can't perform any actions or have any actions performed on it."
         },
         {
           "date": "2013-04-15",
@@ -2603,7 +2622,7 @@
         }
       ],
       "source": "Dragon's Maze Launch Party participation bonus",
-      "text": "Target player puts the top eight cards of his or her library into his or her graveyard.\nFuse (You may cast one or both halves of this card from your hand.)",
+      "text": "Target player puts the top eight cards of their library into their graveyard.\nFuse (You may cast one or both halves of this card from your hand.)",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -2698,7 +2717,8 @@
       "number": "22b",
       "printings": [
         "pLPA",
-        "DGM"
+        "DGM",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2013-05-03",
@@ -2721,7 +2741,7 @@
         },
         {
           "date": "2013-04-15",
-          "text": "When resolving a fused split spell with multiple targets, treat it as you would any spell with multiple targets. If all targets are illegal when the spell tries to resolve, the spell is countered and none of its effects happen. If at least one target is still legal at that time, the spell resolves, but an illegal target can't perform any actions or have any actions performed on it."
+          "text": "When resolving a fused split spell with multiple targets, treat it as you would any spell with multiple targets. If all targets are illegal when the spell tries to resolve, the spell doesn't resolve and none of its effects happen. If at least one target is still legal at that time, the spell resolves, but an illegal target can't perform any actions or have any actions performed on it."
         },
         {
           "date": "2013-04-15",
@@ -2834,7 +2854,8 @@
       "power": "5",
       "printings": [
         "pLPA",
-        "M14"
+        "M14",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2013-07-19",
@@ -2963,18 +2984,20 @@
       "printings": [
         "pLPA",
         "THS",
-        "C15"
+        "C15",
+        "A25",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2013-09-27",
       "rulings": [
         {
-          "date": "2013-09-15",
+          "date": "2018-03-16",
           "text": "The controller of each attacking creature still chooses which player or planeswalker that creature attacks."
         },
         {
-          "date": "2013-09-15",
-          "text": "If, during a player's declare attackers step, a creature is tapped, is affected by a spell or ability that says it can't attack, or hasn't been under that player's control continuously since the turn began (and doesn't have haste), then it doesn't attack. If there's a cost associated with having a creature attack, the player isn't forced to pay that cost, so it doesn't have to attack in that case either."
+          "date": "2018-03-16",
+          "text": "If a creature can't attack for any reason (such as being tapped or having come under that player's control that turn), then it doesn't attack. If there's a cost associated with having a creature attack, the player isn't forced to pay that cost, so it doesn't have to attack in that case either."
         }
       ],
       "source": "Theros Launch Party participation bonus",
@@ -3071,14 +3094,15 @@
       "power": "8",
       "printings": [
         "pLPA",
-        "BNG"
+        "BNG",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2014-02-07",
       "rulings": [
         {
           "date": "2014-02-01",
-          "text": "The defending player may block Tromokratis with each creature he or she controls. If that player can't, perhaps because one of those creatures is tapped, or chooses not to, Tromokratis can't be blocked."
+          "text": "The defending player may block Tromokratis with each creature they control. If that player can't, perhaps because one of those creatures is tapped, or chooses not to, Tromokratis can't be blocked."
         },
         {
           "date": "2014-02-01",
@@ -3182,7 +3206,8 @@
       "number": "26",
       "printings": [
         "pLPA",
-        "JOU"
+        "JOU",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2014-05-02",
@@ -3292,7 +3317,8 @@
       "number": "27",
       "printings": [
         "pLPA",
-        "KTK"
+        "KTK",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "rulings": [
@@ -3398,7 +3424,8 @@
       "printings": [
         "pLPA",
         "M15",
-        "C16"
+        "C16",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2014-07-18",
@@ -3494,7 +3521,8 @@
       "printings": [
         "pPRE",
         "pLPA",
-        "FRF"
+        "FRF",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2015-01-23",
@@ -3605,7 +3633,8 @@
         "pLPA",
         "DTK",
         "E01",
-        "C17"
+        "C17",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2015-03-27",
@@ -3711,7 +3740,8 @@
       "printings": [
         "pPRE",
         "pLPA",
-        "ORI"
+        "ORI",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2015-07-17",
@@ -3835,7 +3865,8 @@
       "printings": [
         "pPRE",
         "pLPA",
-        "BFZ"
+        "BFZ",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2015-10-02",
@@ -3854,7 +3885,7 @@
         },
         {
           "date": "2015-08-25",
-          "text": "Face-down cards in exile are grouped using two criteria: what caused them to be exiled face down and when they were exiled face down. If you want to put a face-down card in exile into its owner's graveyard, you must first choose one of these groups and then choose a card from within that group at random. For example, say an artifact causes your opponent to exile his or her hand of three cards face down. Then on a later turn, that artifact causes your opponent to exile another two cards face down. If you use Wasteland Strangler to put one of those cards into his or her graveyard, you would pick the first or second pile and put a card chosen at random from that pile into the graveyard."
+          "text": "Face-down cards in exile are grouped using two criteria: what caused them to be exiled face down and when they were exiled face down. If you want to put a face-down card in exile into its owner's graveyard, you must first choose one of these groups and then choose a card from within that group at random. For example, say an artifact causes your opponent to exile their hand of three cards face down. Then on a later turn, that artifact causes your opponent to exile another two cards face down. If you use Wasteland Strangler to put one of those cards into their graveyard, you would pick the first or second pile and put a card chosen at random from that pile into the graveyard."
         },
         {
           "date": "2015-08-25",
@@ -3870,7 +3901,7 @@
         },
         {
           "date": "2015-08-25",
-          "text": "Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell will be countered and none of its effects will happen. You won't get any Eldrazi Scions."
+          "text": "Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell won't resolve and none of its effects will happen. You won't get any Eldrazi Scions."
         }
       ],
       "source": "Battle of Zendikar Launch Party participation bonus",
@@ -3878,7 +3909,7 @@
         "Eldrazi",
         "Processor"
       ],
-      "text": "When you cast Blight Herder, you may put two cards your opponents own from exile into their owners' graveyards. If you do, create three 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
+      "text": "When you cast this spell, you may put two cards your opponents own from exile into their owners' graveyards. If you do, create three 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this creature: Add {C}.\"",
       "toughness": "5",
       "type": "Creature — Eldrazi Processor",
       "types": [
@@ -3962,7 +3993,8 @@
       "power": "5",
       "printings": [
         "pLPA",
-        "OGW"
+        "OGW",
+        "Launch Parties"
       ],
       "rarity": "Special",
       "releaseDate": "2016-01-22",
@@ -3984,7 +4016,7 @@
       "subtypes": [
         "Eldrazi"
       ],
-      "text": "Untap Endbringer during each other player's untap step.\n{T}: Endbringer deals 1 damage to target creature or player.\n{C}, {T}: Target creature can't attack or block this turn.\n{C}{C}, {T}: Draw a card.",
+      "text": "Untap Endbringer during each other player's untap step.\n{T}: Endbringer deals 1 damage to any target.\n{C}, {T}: Target creature can't attack or block this turn.\n{C}{C}, {T}: Draw a card.",
       "toughness": "5",
       "type": "Creature — Eldrazi",
       "types": [

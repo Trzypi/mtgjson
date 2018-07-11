@@ -2199,7 +2199,9 @@
         "M12",
         "M14",
         "DDN",
-        "AER"
+        "AER",
+        "BBD",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Shock deals 2 damage to any target.",
@@ -5839,6 +5841,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -5851,7 +5857,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -5870,7 +5876,8 @@
         "9ED",
         "10E",
         "TPR",
-        "A25"
+        "A25",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Draw three cards, then discard a card.",

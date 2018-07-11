@@ -1957,11 +1957,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -2001,12 +1997,13 @@
         "MM2",
         "ORI",
         "OGW",
-        "AKH"
+        "AKH",
+        "M19"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2017-04-18",
+          "date": "2018-07-13",
           "text": "Giving a creature flying after it's already been blocked won't change or undo that block. If you want to affect what can block the creature, you must cast Mighty Leap during the declare attackers step at the latest."
         }
       ],
@@ -7212,6 +7209,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -7221,6 +7222,10 @@
         },
         {
           "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -7242,7 +7247,8 @@
         "M12",
         "DDJ",
         "DDK",
-        "MM2"
+        "MM2",
+        "M19"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -8084,6 +8090,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -8096,7 +8106,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Shards of Alara Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -8115,17 +8125,22 @@
         "CON",
         "DPA",
         "DDN",
-        "MM2"
+        "MM2",
+        "M19"
       ],
       "rarity": "Rare",
       "rulings": [
         {
-          "date": "2009-02-01",
-          "text": "Banefire checks the number you chose for X, not the amount of mana you actually spent."
+          "date": "2018-07-13",
+          "text": "To determine whether it can be countered and its damage can be prevented, Banefire checks the number you chose for X, not the amount of mana you actually spent or the amount of damage it will actually deal."
         },
         {
-          "date": "2009-02-01",
-          "text": "Banefire can be targeted by spells that try to counter it (such as Countersquall) regardless of what the value of X is. If X is 5 or more, those spells will still resolve, but the part of their effect that would counter Banefire won't do anything. Any other effects those spells have will work as normal."
+          "date": "2018-07-13",
+          "text": "Banefire can be targeted by spells that try to counter it regardless of what the value of X is. If X is 5 or more, those spells will still resolve, but the part of their effect that would counter Banefire won't do anything. Any other effects those spells have will work as normal."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "If its target is illegal by the time Banefire tries to resolve, the spell isn't countered, but it doesn't resolve. The target won't be dealt damage."
         }
       ],
       "text": "Banefire deals X damage to any target.\nIf X is 5 or more, this spell can't be countered and the damage can't be prevented.",
@@ -10720,7 +10735,8 @@
       "printings": [
         "ROE",
         "CNS",
-        "MM2"
+        "MM2",
+        "BBD"
       ],
       "rarity": "Common",
       "rulings": [
@@ -12064,6 +12080,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -12076,11 +12096,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Vintage",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Zendikar Block",
+          "format": "Vintage",
           "legality": "Legal"
         }
       ],
@@ -12095,7 +12115,8 @@
       "printings": [
         "ROE",
         "CNS",
-        "MM2"
+        "MM2",
+        "M19"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -12179,7 +12200,8 @@
         "BFZ",
         "CN2",
         "RIX",
-        "A25"
+        "A25",
+        "M19"
       ],
       "rarity": "Common",
       "text": "Destroy target creature with flying.",
@@ -13460,7 +13482,8 @@
       "power": "0",
       "printings": [
         "CON",
-        "MM2"
+        "MM2",
+        "BBD"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -16259,7 +16282,8 @@
       "originalType": "Artifact",
       "printings": [
         "SOM",
-        "MM2"
+        "MM2",
+        "BBD"
       ],
       "rarity": "Uncommon",
       "rulings": [

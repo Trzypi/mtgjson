@@ -97,7 +97,8 @@
         "DD3_EVG",
         "C15",
         "DDR",
-        "CMA"
+        "CMA",
+        "Gateway"
       ],
       "rarity": "Special",
       "releaseDate": "2006",
@@ -198,7 +199,8 @@
         "pGTW",
         "TSB",
         "ME2",
-        "DDO"
+        "DDO",
+        "Gateway"
       ],
       "rarity": "Special",
       "releaseDate": "2006",
@@ -207,7 +209,7 @@
         "Human",
         "Soldier"
       ],
-      "text": "Icatian Javelineers enters the battlefield with a javelin counter on it.\n{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.",
+      "text": "Icatian Javelineers enters the battlefield with a javelin counter on it.\n{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to any target.",
       "toughness": "1",
       "type": "Creature — Human Soldier",
       "types": [
@@ -306,7 +308,8 @@
         "TOR",
         "pGTW",
         "TSB",
-        "SOI"
+        "SOI",
+        "Gateway"
       ],
       "rarity": "Special",
       "releaseDate": "2006",
@@ -349,7 +352,7 @@
         }
       ],
       "source": "Gateway Prize",
-      "text": "Fiery Temper deals 3 damage to target creature or player.\nMadness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+      "text": "Fiery Temper deals 3 damage to any target.\nMadness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
       "type": "Instant",
       "types": [
         "Instant"
@@ -444,7 +447,8 @@
         "pGTW",
         "10E",
         "ME3",
-        "DPA"
+        "DPA",
+        "Gateway"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -531,7 +535,8 @@
       "printings": [
         "pGTW",
         "PLC",
-        "EMA"
+        "EMA",
+        "Gateway"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -628,7 +633,8 @@
       "power": "4",
       "printings": [
         "pGTW",
-        "PLC"
+        "PLC",
+        "Gateway"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -725,7 +731,8 @@
       "power": "2",
       "printings": [
         "pGTW",
-        "FUT"
+        "FUT",
+        "Gateway"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -843,12 +850,24 @@
         "CMD",
         "C14",
         "C15",
-        "CMA"
+        "CMA",
+        "A25",
+        "Gateway"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "When Zoetic Cavern is turned face up, any Auras on it that can't legally enchant it will be put into their owners' graveyards. Any Equipment will become unattached and remain on the battlefield. Any counters on it will remain on it."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "If Blood Moon is on the battlefield and a player controls a face-down Zoetic Cavern, it can't be turned face up since it won't have a morph cost."
+        }
+      ],
       "source": "Gateway Prize",
-      "text": "{T}: Add {C} to your mana pool.\nMorph {2} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+      "text": "{T}: Add {C}.\nMorph {2} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
       "type": "Land",
       "types": [
         "Land"
@@ -891,7 +910,7 @@
         },
         {
           "language": "Korean",
-          "name": "라노와의 엘프"
+          "name": "라노워 엘프"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -967,7 +986,9 @@
         "DD3_EVG",
         "EMA",
         "CMA",
-        "DOM"
+        "DOM",
+        "Gateway",
+        "M19"
       ],
       "rarity": "Special",
       "releaseDate": "2007-10",
@@ -976,7 +997,7 @@
         "Elf",
         "Druid"
       ],
-      "text": "{T}: Add {G} to your mana pool.",
+      "text": "{T}: Add {G}.",
       "toughness": "1",
       "type": "Creature — Elf Druid",
       "types": [
@@ -1071,7 +1092,8 @@
         "PD2",
         "DD3_EVG",
         "TPR",
-        "EMA"
+        "EMA",
+        "Gateway"
       ],
       "rarity": "Special",
       "releaseDate": "2007-10",
@@ -1085,7 +1107,7 @@
       "subtypes": [
         "Goblin"
       ],
-      "text": "Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.",
+      "text": "Sacrifice Mogg Fanatic: It deals 1 damage to any target.",
       "toughness": "1",
       "type": "Creature — Goblin",
       "types": [
@@ -1172,12 +1194,14 @@
         "DD3_JVC",
         "DDP",
         "C15",
-        "IMA"
+        "IMA",
+        "CM2",
+        "Gateway"
       ],
       "rarity": "Special",
       "releaseDate": "2007-10",
       "source": "Gateway Prize",
-      "text": "{T}: Add {C} to your mana pool.\n{1}, {T}, Sacrifice Mind Stone: Draw a card.",
+      "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice Mind Stone: Draw a card.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -1262,7 +1286,8 @@
       "power": "*",
       "printings": [
         "pGTW",
-        "LRW"
+        "LRW",
+        "Gateway"
       ],
       "rarity": "Special",
       "releaseDate": "2008-11",
@@ -1345,6 +1370,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -1357,7 +1386,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Urza Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -1385,12 +1414,14 @@
         "M11",
         "M12",
         "M14",
-        "M15"
+        "M15",
+        "Gateway",
+        "M19"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
       "source": "Gateway Prize",
-      "text": "Lava Axe deals 5 damage to target player.",
+      "text": "Lava Axe deals 5 damage to target player or planeswalker.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -1476,7 +1507,8 @@
       "power": "1",
       "printings": [
         "pGTW",
-        "MOR"
+        "MOR",
+        "Gateway"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
@@ -1577,7 +1609,8 @@
       "power": "1",
       "printings": [
         "pGTW",
-        "MOR"
+        "MOR",
+        "Gateway"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
@@ -1668,7 +1701,7 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
@@ -1684,15 +1717,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
-          "legality": "Legal"
-        },
-        {
-          "format": "Tempest Block",
           "legality": "Legal"
         },
         {
@@ -1725,7 +1750,10 @@
         "M15",
         "TPR",
         "EMA",
-        "AKH"
+        "AKH",
+        "CM2",
+        "Gateway",
+        "M19"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
@@ -1829,7 +1857,8 @@
       "printings": [
         "pGTW",
         "SHM",
-        "PD2"
+        "PD2",
+        "Gateway"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
@@ -1928,7 +1957,8 @@
       "printings": [
         "pGTW",
         "SHM",
-        "DDG"
+        "DDG",
+        "Gateway"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
@@ -2024,7 +2054,8 @@
         "EVE",
         "HOP",
         "CMD",
-        "CMA"
+        "CMA",
+        "Gateway"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
@@ -2135,7 +2166,8 @@
       "power": "2",
       "printings": [
         "pGTW",
-        "EVE"
+        "EVE",
+        "Gateway"
       ],
       "rarity": "Special",
       "releaseDate": "2008",

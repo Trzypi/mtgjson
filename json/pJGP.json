@@ -101,12 +101,14 @@
         "M11",
         "PD2",
         "MM2",
-        "E01"
+        "E01",
+        "A25",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "1998",
       "source": "Judge reward for different purposes.",
-      "text": "Lightning Bolt deals 3 damage to target creature or player.",
+      "text": "Lightning Bolt deals 3 damage to any target.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -182,7 +184,8 @@
         "USG",
         "VMA",
         "C14",
-        "C15"
+        "C15",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "1998",
@@ -248,7 +251,8 @@
       "number": "3",
       "printings": [
         "pJGP",
-        "USG"
+        "USG",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "1998",
@@ -257,7 +261,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "{T}: Add {G} to your mana pool for each creature you control.",
+      "text": "{T}: Add {G} for each creature you control.",
       "type": "Legendary Land",
       "types": [
         "Land"
@@ -336,7 +340,8 @@
         "6ED",
         "7ED",
         "DDM",
-        "EMA"
+        "EMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2000-12-25",
@@ -453,7 +458,10 @@
         "DD3_JVC",
         "TPR",
         "EMA",
-        "MPS_AKH"
+        "MPS_AKH",
+        "A25",
+        "SS1",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2000",
@@ -533,7 +541,8 @@
         "pJGP",
         "6ED",
         "VMA",
-        "EMA"
+        "EMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2000-08-02",
@@ -628,7 +637,9 @@
         "BTD",
         "MED",
         "M10",
-        "PD2"
+        "PD2",
+        "A25",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2001-05-31",
@@ -642,7 +653,7 @@
       "subtypes": [
         "Elemental"
       ],
-      "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)\nHaste (This creature can attack and {T} as soon as it comes under your control.)\nAt the beginning of the end step, sacrifice Ball Lightning.",
+      "text": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nHaste (This creature can attack and {T} as soon as it comes under your control.)\nAt the beginning of the end step, sacrifice Ball Lightning.",
       "toughness": "1",
       "type": "Creature — Elemental",
       "types": [
@@ -718,7 +729,8 @@
         "EXO",
         "VMA",
         "TPR",
-        "C16"
+        "C16",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2001-09",
@@ -729,11 +741,11 @@
         },
         {
           "date": "2009-10-01",
-          "text": "The targeted player controlling more creatures than the current player is a part of the targeting requirement. A player can't be targeted by this ability unless it's true, and the ability will be countered on resolution if it's no longer true at that time."
+          "text": "The targeted player controlling more creatures than the current player is a part of the targeting requirement. A player can't be targeted by this ability unless it's true, and the ability doesn't resolve if it's no longer true at that time."
         }
       ],
       "source": "Judge reward",
-      "text": "At the beginning of each player's upkeep, that player chooses target player who controls more creatures than he or she does and is his or her opponent. The first player may reveal cards from the top of his or her library until he or she reveals a creature card. If he or she does, that player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard.",
+      "text": "At the beginning of each player's upkeep, that player chooses target player who controls more creatures than they do and is their opponent. The first player may reveal cards from the top of their library until they reveal a creature card. If the first player does, that player puts that card onto the battlefield and all other cards revealed this way into their graveyard.",
       "type": "Enchantment",
       "types": [
         "Enchantment"
@@ -804,12 +816,13 @@
         "pJGP",
         "6ED",
         "8ED",
-        "PD2"
+        "PD2",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2002-03-15",
       "source": "Judge reward at Pro Tour Osaka.",
-      "text": "Hammer of Bogardan deals 3 damage to target creature or player.\n{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.",
+      "text": "Hammer of Bogardan deals 3 damage to any target.\n{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -877,7 +890,8 @@
         "TMP",
         "pJGP",
         "VMA",
-        "TPR"
+        "TPR",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2002-11-08",
@@ -951,7 +965,8 @@
       "printings": [
         "TMP",
         "pJGP",
-        "TPR"
+        "TPR",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2003-07",
@@ -1037,7 +1052,8 @@
       "printings": [
         "pJGP",
         "USG",
-        "EMA"
+        "EMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2004-05-29",
@@ -1077,6 +1093,10 @@
         "Black"
       ],
       "foreignNames": [
+        {
+          "language": "Chinese Simplified",
+          "name": "行尸走肉"
+        },
         {
           "language": "French",
           "name": "Mort vivante"
@@ -1135,26 +1155,25 @@
         "CMD",
         "VMA",
         "V14",
-        "TPR"
+        "TPR",
+        "A25",
+        "CM2",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2003-05-09",
       "rulings": [
         {
-          "date": "2004-10-04",
-          "text": "The creatures which are sacrificed can't be regenerated."
+          "date": "2018-03-16",
+          "text": "As Living Death resolves, all players exile their creature cards from graveyards at the same time. Then all players sacrifice all creatures they control at the same time. Then all players put all creatures they exiled onto the battlefield at the same time."
         },
         {
-          "date": "2004-10-04",
-          "text": "Both players exile their creature cards at once. Then both players sacrifice all creatures they control at once. Then both players put all creatures they exiled onto the battlefield. If there are any choices involved for a given step, the current player makes their choices first, then the other player, and finally you do the action all at once."
-        },
-        {
-          "date": "2013-09-20",
-          "text": "\"All cards he or she exiled this way\" refers only to the cards exiled in the first part of the effect. If a replacement effect (such as Leyline of the Void) exiles any of the sacrificed creatures instead of putting them into the graveyard, those cards aren't returned to the battlefield."
+          "date": "2018-03-16",
+          "text": "Only cards exiled by Living Death's first instruction are put onto the battlefield. If a replacement effect (such as that of Leyline of the Void) causes any of the sacrificed creatures to be exiled instead of put into a graveyard, those cards aren't returned to the battlefield."
         }
       ],
       "source": "Judge reward at Pro Tour Yokohama.",
-      "text": "Each player exiles all creature cards from his or her graveyard, then sacrifices all creatures he or she controls, then puts all cards he or she exiled this way onto the battlefield.",
+      "text": "Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -1172,6 +1191,10 @@
       "flavor": "\"'O miserable of happy! Is this the end/ Of this new glorious world... ?'\"\n—John Milton, Paradise Lost",
       "foreignNames": [
         {
+          "language": "Chinese Simplified",
+          "name": "毁天灭地"
+        },
+        {
           "language": "French",
           "name": "Armaguedon"
         },
@@ -1182,6 +1205,10 @@
         {
           "language": "Italian",
           "name": "Armageddon"
+        },
+        {
+          "language": "Japanese",
+          "name": "ハルマゲドン"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -1232,7 +1259,9 @@
         "ME4",
         "VMA",
         "V14",
-        "MPS_AKH"
+        "MPS_AKH",
+        "A25",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2004-12-17",
@@ -1315,7 +1344,8 @@
         "V09",
         "ME4",
         "VMA",
-        "EMA"
+        "EMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2004-05-29",
@@ -1334,7 +1364,7 @@
         }
       ],
       "source": "Judge mailing gift.",
-      "text": "Each player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.",
+      "text": "Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -1418,7 +1448,9 @@
         "pJGP",
         "S99",
         "M10",
-        "TPR"
+        "TPR",
+        "E02",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2004-12-17",
@@ -1500,7 +1532,8 @@
       "printings": [
         "pJGP",
         "UDS",
-        "DDE"
+        "DDE",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2004-12-17",
@@ -1582,7 +1615,8 @@
       "printings": [
         "pJGP",
         "ULG",
-        "VMA"
+        "VMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2005-09-21",
@@ -1666,7 +1700,8 @@
         "STH",
         "pJGP",
         "VMA",
-        "TPR"
+        "TPR",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2004-12-17",
@@ -1760,7 +1795,8 @@
       "printings": [
         "WTH",
         "pJGP",
-        "TSB"
+        "TSB",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2005-07-02",
@@ -1775,7 +1811,7 @@
         }
       ],
       "source": "Amateur Championships prize at Origins games convention.",
-      "text": "Gemstone Mine enters the battlefield with three mining counters on it.\n{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color to your mana pool. If there are no mining counters on Gemstone Mine, sacrifice it.",
+      "text": "Gemstone Mine enters the battlefield with three mining counters on it.\n{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color. If there are no mining counters on Gemstone Mine, sacrifice it.",
       "type": "Land",
       "types": [
         "Land"
@@ -1791,6 +1827,10 @@
         "Green"
       ],
       "foreignNames": [
+        {
+          "language": "Chinese Simplified",
+          "name": "再生新芽"
+        },
         {
           "language": "French",
           "name": "Réapparition"
@@ -1839,7 +1879,9 @@
         "pJGP",
         "ME4",
         "DDL",
-        "VMA"
+        "VMA",
+        "A25",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2006-03-03",
@@ -1922,12 +1964,14 @@
         "MPS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2005-07-10",
       "source": "Judge reward at Pro Tour London.",
-      "text": "{T}: Add {C}{C} to your mana pool.",
+      "text": "{T}: Add {C}{C}.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -1992,7 +2036,9 @@
         "pJGP",
         "MED",
         "DDF",
-        "EMA"
+        "EMA",
+        "A25",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2005-10-28",
@@ -2003,7 +2049,7 @@
         },
         {
           "date": "2008-08-01",
-          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature."
+          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature."
         },
         {
           "date": "2009-10-01",
@@ -2019,7 +2065,7 @@
         }
       ],
       "source": "Judge reward at Pro Tour Los Angeles.",
-      "text": "{T}: Add {C} to your mana pool.\n{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.\n{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.",
+      "text": "{T}: Add {C}.\n{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.\n{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.",
       "type": "Land",
       "types": [
         "Land"
@@ -2086,7 +2132,8 @@
       "printings": [
         "pJGP",
         "ONS",
-        "V15"
+        "V15",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2005-11-30",
@@ -2190,7 +2237,8 @@
         "TOR",
         "PD2",
         "M12",
-        "E01"
+        "E01",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2005-11-30",
@@ -2205,7 +2253,7 @@
         "Human",
         "Wizard"
       ],
-      "text": "{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to target creature or player.",
+      "text": "{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to any target.",
       "toughness": "1",
       "type": "Creature — Human Wizard",
       "types": [
@@ -2295,7 +2343,8 @@
       "printings": [
         "pJGP",
         "PLS",
-        "ARB"
+        "ARB",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2006-06-16",
@@ -2407,10 +2456,22 @@
       "printings": [
         "pJGP",
         "APC",
-        "CNS"
+        "CNS",
+        "A25",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2005-11-30",
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "If a permanent has {X} in its mana cost, X is considered to be 0."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "A token has a converted mana cost of 0 unless it is copying something else."
+        }
+      ],
       "source": "Judge reward at World Championships in Yokohama",
       "text": "{X}, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less.",
       "type": "Enchantment",
@@ -2485,7 +2546,8 @@
         "ONS",
         "DDD",
         "C13",
-        "DD3_GVL"
+        "DD3_GVL",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -2559,7 +2621,8 @@
       "number": "29",
       "printings": [
         "pJGP",
-        "JUD"
+        "JUD",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -2655,7 +2718,8 @@
       "printings": [
         "pJGP",
         "USG",
-        "VMA"
+        "VMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -2768,7 +2832,9 @@
         "pJGP",
         "APC",
         "EMA",
-        "MPS_AKH"
+        "MPS_AKH",
+        "A25",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -2848,23 +2914,13 @@
         "SCG",
         "VMA",
         "C14",
-        "DDO"
+        "DDO",
+        "A25",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
       "rulings": [
-        {
-          "date": "2004-10-04",
-          "text": "The two X's in the mana cost mean that you pay 2 mana (above the {2}{W}{W} base cost) for each token you want to create."
-        },
-        {
-          "date": "2004-10-04",
-          "text": "When you cycle this card, the last ability triggers. When that ability resolves, you choose a value of X and pay it during resolution."
-        },
-        {
-          "date": "2004-10-04",
-          "text": "You can cast this with X=0."
-        },
         {
           "date": "2008-10-01",
           "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
@@ -2875,7 +2931,11 @@
         },
         {
           "date": "2008-10-01",
-          "text": "The cycling ability and the triggered ability are separate. If the triggered ability is countered (with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card."
+          "text": "The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "A mana cost of {X}{X} means that you pay twice X. If you want X to be 3, you pay {8}{W}{W} to cast Decree of Justice."
         }
       ],
       "source": "5/5 G07",
@@ -2943,7 +3003,8 @@
       "number": "33",
       "printings": [
         "pJGP",
-        "PLS"
+        "PLS",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
@@ -2962,7 +3023,7 @@
         }
       ],
       "source": "1/5 G08",
-      "text": "Kicker {W} (You may pay an additional {W} as you cast this spell.)\nTarget player can't cast spells this turn.\nIf Orim's Chant was kicked, creatures can't attack this turn.",
+      "text": "Kicker {W} (You may pay an additional {W} as you cast this spell.)\nTarget player can't cast spells this turn. If this spell was kicked, creatures can't attack this turn.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -3033,7 +3094,8 @@
         "SCG",
         "VMA",
         "V16",
-        "DDS"
+        "DDS",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
@@ -3125,7 +3187,8 @@
         "DDC",
         "ME4",
         "VMA",
-        "DD3_DVD"
+        "DD3_DVD",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
@@ -3236,7 +3299,8 @@
         "pJGP",
         "ONS",
         "VMA",
-        "ORI"
+        "ORI",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2008-02",
@@ -3269,6 +3333,10 @@
       ],
       "foreignNames": [
         {
+          "language": "Chinese Simplified",
+          "name": "生机祈愿"
+        },
+        {
           "language": "French",
           "name": "Souhait vivant"
         },
@@ -3279,6 +3347,10 @@
         {
           "language": "Italian",
           "name": "Desiderio Vivente"
+        },
+        {
+          "language": "Japanese",
+          "name": "生ける願い"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -3316,7 +3388,9 @@
       "number": "37",
       "printings": [
         "pJGP",
-        "JUD"
+        "JUD",
+        "A25",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -3363,6 +3437,10 @@
         "Black"
       ],
       "foreignNames": [
+        {
+          "language": "Chinese Simplified",
+          "name": "黑暗祭礼"
+        },
         {
           "language": "French",
           "name": "Messe noire"
@@ -3458,12 +3536,14 @@
         "VMA",
         "DD3_DVD",
         "TPR",
-        "MPS_AKH"
+        "MPS_AKH",
+        "A25",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
       "source": "Judge reward",
-      "text": "Add {B}{B}{B} to your mana pool.",
+      "text": "Add {B}{B}{B}.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -3511,7 +3591,8 @@
         "pJGP",
         "ME4",
         "V12",
-        "EMA"
+        "EMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -3604,7 +3685,8 @@
         "pJGP",
         "SCG",
         "CNS",
-        "MPS_AKH"
+        "MPS_AKH",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -3689,7 +3771,8 @@
         "pJGP",
         "EXO",
         "VMA",
-        "TPR"
+        "TPR",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -3775,7 +3858,8 @@
         "pJGP",
         "JUD",
         "VMA",
-        "CN2"
+        "CN2",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -3893,7 +3977,8 @@
         "pJGP",
         "ONS",
         "KTK",
-        "EXP"
+        "EXP",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -3985,7 +4070,8 @@
         "pJGP",
         "ONS",
         "KTK",
-        "EXP"
+        "EXP",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -4077,7 +4163,8 @@
         "pJGP",
         "ONS",
         "KTK",
-        "EXP"
+        "EXP",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -4169,7 +4256,8 @@
         "pJGP",
         "ONS",
         "KTK",
-        "EXP"
+        "EXP",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -4261,7 +4349,8 @@
         "pJGP",
         "ONS",
         "KTK",
-        "EXP"
+        "EXP",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -4320,7 +4409,8 @@
         "CEI",
         "pJGP",
         "ME4",
-        "EMA"
+        "EMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -4400,7 +4490,8 @@
         "VIS",
         "POR",
         "pJGP",
-        "EMA"
+        "EMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -4415,7 +4506,7 @@
         }
       ],
       "source": "Judge reward",
-      "text": "As an additional cost to cast Natural Order, sacrifice a green creature.\nSearch your library for a green creature card and put it onto the battlefield. Then shuffle your library.",
+      "text": "As an additional cost to cast this spell, sacrifice a green creature.\nSearch your library for a green creature card and put it onto the battlefield. Then shuffle your library.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -4474,7 +4565,8 @@
       "power": "12",
       "printings": [
         "MIR",
-        "pJGP"
+        "pJGP",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -4566,7 +4658,8 @@
         "ALL",
         "pJGP",
         "MED",
-        "VMA"
+        "VMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -4645,7 +4738,9 @@
         "4ED",
         "pJGP",
         "BRB",
-        "ME3"
+        "ME3",
+        "BBD",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -4730,7 +4825,8 @@
       "printings": [
         "pJGP",
         "USG",
-        "VMA"
+        "VMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -4799,13 +4895,14 @@
         "3ED",
         "pJGP",
         "ME4",
-        "VMA"
+        "VMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
       "reserved": true,
       "source": "Judge reward",
-      "text": "Each player discards his or her hand, then draws seven cards.",
+      "text": "Each player discards their hand, then draws seven cards.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -4875,12 +4972,13 @@
         "pMPR",
         "TPR",
         "EXP",
-        "EMA"
+        "EMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
       "source": "Judge reward",
-      "text": "{T}: Add {C} to your mana pool.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land.",
+      "text": "{T}: Add {C}.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land.",
       "type": "Land",
       "types": [
         "Land"
@@ -4956,7 +5054,8 @@
         "ODY",
         "PD3",
         "EMA",
-        "MPS_AKH"
+        "MPS_AKH",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2014",
@@ -5033,21 +5132,22 @@
         "pJGP",
         "DST",
         "MMA",
-        "MPS"
+        "MPS",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
       "rulings": [
         {
           "date": "2013-06-07",
-          "text": "The triggered ability has one target: the creature or player to be dealt 2 damage. If that creature or player is an illegal target when the ability tries to resolve, it will be countered and none of its effects will happen. You won't draw a card."
+          "text": "The triggered ability has one target: the permanent or player to be dealt 2 damage. If that permanent or player is an illegal target when the ability tries to resolve, it won't resolve and none of its effects will happen. You won't draw a card."
         }
       ],
       "source": "Judge reward",
       "subtypes": [
         "Equipment"
       ],
-      "text": "Equipped creature gets +2/+2 and has protection from red and from blue.\nWhenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to target creature or player and you draw a card.\nEquip {2}",
+      "text": "Equipped creature gets +2/+2 and has protection from red and from blue.\nWhenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to any target and you draw a card.\nEquip {2}",
       "type": "Artifact — Equipment",
       "types": [
         "Artifact"
@@ -5134,7 +5234,9 @@
         "pJGP",
         "MOR",
         "MMA",
-        "MM2"
+        "MM2",
+        "A25",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -5146,7 +5248,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "Flash\nFlying\nWhen Vendilion Clique enters the battlefield, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of his or her library, then draws a card.",
+      "text": "Flash\nFlying\nWhen Vendilion Clique enters the battlefield, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of their library, then draws a card.",
       "toughness": "1",
       "type": "Legendary Creature — Faerie Wizard",
       "types": [
@@ -5233,7 +5335,8 @@
       "printings": [
         "pJGP",
         "MOR",
-        "MM2"
+        "MM2",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -5310,7 +5413,8 @@
         "ME2",
         "VMA",
         "EMA",
-        "MPS"
+        "MPS",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -5321,7 +5425,7 @@
         }
       ],
       "source": "Judge reward",
-      "text": "At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.\n{T}: Add {C}{C} to your mana pool.",
+      "text": "At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.\n{T}: Add {C}{C}.",
       "type": "Artifact",
       "types": [
         "Artifact"
@@ -5405,7 +5509,8 @@
         "pJGP",
         "RAV",
         "MMA",
-        "MM2"
+        "MM2",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -5492,7 +5597,9 @@
       "printings": [
         "pJGP",
         "RAV",
-        "MMA"
+        "MMA",
+        "BBD",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -5590,7 +5697,10 @@
       "printings": [
         "pJGP",
         "ULG",
-        "C14"
+        "C14",
+        "DDU",
+        "CM2",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -5656,7 +5766,8 @@
       "printings": [
         "pJGP",
         "PTK",
-        "ME3"
+        "ME3",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2012",
@@ -5699,6 +5810,10 @@
         "Blue"
       ],
       "foreignNames": [
+        {
+          "language": "Chinese Simplified",
+          "name": "躁乱风暴"
+        },
         {
           "language": "French",
           "name": "Déluge irrité"
@@ -5745,7 +5860,8 @@
         "pJGP",
         "CMD",
         "VMA",
-        "IMA"
+        "IMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2012",
@@ -5857,7 +5973,8 @@
       "printings": [
         "pJGP",
         "CON",
-        "MM2"
+        "MM2",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2012",
@@ -5866,7 +5983,7 @@
         "Human",
         "Druid"
       ],
-      "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{T}: Add {G}, {W}, or {U} to your mana pool.",
+      "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{T}: Add {G}, {W}, or {U}.",
       "toughness": "1",
       "type": "Creature — Human Druid",
       "types": [
@@ -5944,7 +6061,8 @@
         "C13",
         "VMA",
         "EMA",
-        "CMA"
+        "CMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2012",
@@ -6027,7 +6145,8 @@
       "printings": [
         "pJGP",
         "USG",
-        "EMA"
+        "EMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2012",
@@ -6096,7 +6215,8 @@
         "LEG",
         "pJGP",
         "ME3",
-        "EMA"
+        "EMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2012",
@@ -6104,7 +6224,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "{T}: Add {W} to your mana pool.\n{T}: Return target legendary creature to its owner's hand.",
+      "text": "{T}: Add {W}.\n{T}: Return target legendary creature to its owner's hand.",
       "type": "Legendary Land",
       "types": [
         "Land"
@@ -6176,14 +6296,15 @@
         "pJGP",
         "DST",
         "MMA",
-        "MPS"
+        "MPS",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2012",
       "rulings": [
         {
           "date": "2013-06-07",
-          "text": "You may put the triggered ability with no targets. However, If you choose a target creature in your graveyard, and that card is an illegal target when the ability tries to resolve, it will be countered and none of its effects will happen. You won't gain 3 life."
+          "text": "You may put the triggered ability with no targets. However, If you choose a target creature in your graveyard, and that card is an illegal target when the ability tries to resolve, it won't resolve and none of its effects will happen. You won't gain 3 life."
         }
       ],
       "source": "Judge reward",
@@ -6258,7 +6379,9 @@
         "C15",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2012",
@@ -6277,7 +6400,7 @@
         }
       ],
       "source": "Judge reward",
-      "text": "{T}: Add to your mana pool one mana of any color in your commander's color identity.",
+      "text": "{T}: Add one mana of any color in your commander's color identity.",
       "type": "Land",
       "types": [
         "Land"
@@ -6367,17 +6490,20 @@
         "EMA",
         "C16",
         "C17",
-        "IMA"
+        "IMA",
+        "A25",
+        "BBD",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2013",
       "rulings": [
         {
-          "date": "2017-11-17",
-          "text": "The amount of life gained is equal to the power of the target creature as it last existed on the battlefield."
+          "date": "2018-03-16",
+          "text": "The amount of life gained is equal to the power of the targeted creature as it last existed on the battlefield."
         },
         {
-          "date": "2017-11-17",
+          "date": "2018-03-16",
           "text": "If the creature's power is negative, its controller doesn't lose or gain life."
         }
       ],
@@ -6451,7 +6577,8 @@
       "printings": [
         "pJGP",
         "MMQ",
-        "8ED"
+        "8ED",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2013",
@@ -6466,7 +6593,7 @@
         }
       ],
       "source": "Judge reward",
-      "text": "Search target opponent's library for a creature card and put that card onto the battlefield under your control. Then that player shuffles his or her library.",
+      "text": "Search target opponent's library for a creature card and put that card onto the battlefield under your control. Then that player shuffles their library.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -6484,7 +6611,7 @@
       "foreignNames": [
         {
           "language": "Chinese Simplified",
-          "name": "Imperial Recruiter"
+          "name": "近卫队"
         },
         {
           "language": "Japanese",
@@ -6516,7 +6643,9 @@
       "printings": [
         "pJGP",
         "PTK",
-        "ME2"
+        "ME2",
+        "A25",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2013",
@@ -6535,7 +6664,7 @@
         "Human",
         "Advisor"
       ],
-      "text": "When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, and put it into your hand. Then shuffle your library.",
+      "text": "When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle your library.",
       "toughness": "1",
       "type": "Creature — Human Advisor",
       "types": [
@@ -6589,6 +6718,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -6597,11 +6730,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Mirrodin Block",
+          "format": "Modern",
           "legality": "Legal"
         },
         {
-          "format": "Modern",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -6617,22 +6750,20 @@
         "pJGP",
         "5DN",
         "10E",
-        "MPS"
+        "MPS",
+        "Judge Gift Program",
+        "M19"
       ],
       "rarity": "Special",
       "releaseDate": "2013",
       "rulings": [
         {
-          "date": "2004-12-01",
-          "text": "Crucible of Worlds allows you to play land cards from your graveyard as well as from your hand."
-        },
-        {
-          "date": "2004-12-01",
+          "date": "2018-07-13",
           "text": "Crucible of Worlds doesn't change the times when you can play those land cards. You can still play only one land per turn, and only during your main phase when you have priority and the stack is empty."
         },
         {
-          "date": "2004-12-01",
-          "text": "Crucible of Worlds doesn't allow you to activate activated abilities (such as cycling) of land cards in your graveyard."
+          "date": "2018-07-13",
+          "text": "Crucible of Worlds doesn't allow you to activate abilities (such as cycling) of land cards in your graveyard."
         }
       ],
       "source": "Judge reward",
@@ -6686,7 +6817,8 @@
       "printings": [
         "pJGP",
         "PTK",
-        "ME4"
+        "ME4",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2013",
@@ -6765,7 +6897,8 @@
       "printings": [
         "pJGP",
         "USG",
-        "CN2"
+        "CN2",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2013",
@@ -6784,7 +6917,7 @@
         }
       ],
       "source": "Judge reward",
-      "text": "Each player may put an artifact, creature, enchantment, or land card from his or her hand onto the battlefield.",
+      "text": "Each player may put an artifact, creature, enchantment, or land card from their hand onto the battlefield.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -6861,7 +6994,9 @@
         "pJGP",
         "APC",
         "EMA",
-        "MPS_AKH"
+        "MPS_AKH",
+        "A25",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -6933,7 +7068,8 @@
       "printings": [
         "pJGP",
         "JUD",
-        "VMA"
+        "VMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2013",
@@ -7001,14 +7137,15 @@
           "legality": "Legal"
         }
       ],
-      "manaCost": "{5}{B}{G}{W}",
+      "manaCost": "{5}{W}{B}{G}",
       "mciNumber": "80",
       "name": "Karador, Ghost Chieftain",
       "number": "80",
       "power": "3",
       "printings": [
         "pJGP",
-        "CMD"
+        "CMD",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2014",
@@ -7046,7 +7183,7 @@
       "supertypes": [
         "Legendary"
       ],
-      "text": "Karador, Ghost Chieftain costs {1} less to cast for each creature card in your graveyard.\nDuring each of your turns, you may cast one creature card from your graveyard.",
+      "text": "This spell costs {1} less to cast for each creature card in your graveyard.\nDuring each of your turns, you may cast one creature card from your graveyard.",
       "toughness": "4",
       "type": "Legendary Creature — Centaur Spirit",
       "types": [
@@ -7125,7 +7262,9 @@
       "printings": [
         "pJGP",
         "USG",
-        "9ED"
+        "9ED",
+        "BBD",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2014",
@@ -7198,14 +7337,15 @@
           "legality": "Legal"
         }
       ],
-      "manaCost": "{2}{U}{R}{G}",
+      "manaCost": "{2}{G}{U}{R}",
       "mciNumber": "82",
       "name": "Riku of Two Reflections",
       "number": "82",
       "power": "2",
       "printings": [
         "pJGP",
-        "CMD"
+        "CMD",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2014",
@@ -7336,7 +7476,8 @@
         "MED",
         "VMA",
         "EMA",
-        "MPS_AKH"
+        "MPS_AKH",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2014",
@@ -7347,7 +7488,7 @@
         }
       ],
       "source": "Judge reward",
-      "text": "You may pay 1 life and exile a blue card from your hand rather than pay Force of Will's mana cost.\nCounter target spell.",
+      "text": "You may pay 1 life and exile a blue card from your hand rather than pay this spell's mana cost.\nCounter target spell.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -7424,7 +7565,9 @@
       "printings": [
         "pJGP",
         "INV",
-        "C16"
+        "C16",
+        "A25",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2014",
@@ -7517,7 +7660,8 @@
         "pJGP",
         "MBS",
         "MD1",
-        "MPS"
+        "MPS",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2014",
@@ -7597,7 +7741,8 @@
       "power": "2",
       "printings": [
         "pJGP",
-        "C13"
+        "C13",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2014",
@@ -7698,7 +7843,8 @@
         "pJGP",
         "NPH",
         "MM2",
-        "IMA"
+        "IMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2014",
@@ -7781,7 +7927,8 @@
       "power": "4",
       "printings": [
         "pJGP",
-        "C13"
+        "C13",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2014",
@@ -8012,8 +8159,14 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Judge Gift Program",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "2014",
@@ -8211,8 +8364,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Judge Gift Program",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "2014",
@@ -8414,8 +8574,13 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DOM",
+        "BBD",
+        "CM2",
+        "Judge Gift Program",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "2014",
@@ -8619,8 +8784,15 @@
         "C17",
         "XLN",
         "DDT",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Judge Gift Program",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "2014",
@@ -8821,8 +8993,15 @@
         "HOU",
         "C17",
         "XLN",
+        "UST",
         "RIX",
-        "DOM"
+        "DDU",
+        "DOM",
+        "BBD",
+        "CM2",
+        "GS1",
+        "Judge Gift Program",
+        "M19"
       ],
       "rarity": "Basic Land",
       "releaseDate": "2014",
@@ -8883,7 +9062,8 @@
       "printings": [
         "pJGP",
         "PTK",
-        "ME2"
+        "ME2",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2015",
@@ -8971,7 +9151,8 @@
         "pMPR",
         "PLC",
         "MM3",
-        "MPS_AKH"
+        "MPS_AKH",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2015",
@@ -9050,7 +9231,9 @@
         "pJGP",
         "C14",
         "EMA",
-        "E01"
+        "E01",
+        "CM2",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2015",
@@ -9156,7 +9339,9 @@
       "power": "2",
       "printings": [
         "pJGP",
-        "C14"
+        "C14",
+        "CM2",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2015",
@@ -9261,12 +9446,13 @@
         "pMPR",
         "TPR",
         "EXP",
-        "EMA"
+        "EMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
       "source": "Judge reward",
-      "text": "{T}: Add {C} to your mana pool.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land.",
+      "text": "{T}: Add {C}.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land.",
       "type": "Land",
       "types": [
         "Land"
@@ -9284,8 +9470,16 @@
       "flavor": "\"Power is wasted on the weak. They never keep it for long.\"\n—Nicol Bolas",
       "foreignNames": [
         {
+          "language": "Chinese Simplified",
+          "name": "汲取魔力"
+        },
+        {
           "language": "Italian",
           "name": "Risucchia Potere"
+        },
+        {
+          "language": "Japanese",
+          "name": "マナ吸収"
         }
       ],
       "id": "de517ae15166bd2069a16729272512efef842964",
@@ -9314,7 +9508,8 @@
         "pJGP",
         "ME3",
         "VMA",
-        "IMA"
+        "IMA",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2016",
@@ -9325,7 +9520,7 @@
         },
         {
           "date": "2017-11-17",
-          "text": "If the target spell is an illegal target when Mana Drain tries to resolve, it will be countered and none of its effects will happen. You won't get any mana."
+          "text": "If the target spell is an illegal target when Mana Drain tries to resolve, it won't resolve and none of its effects will happen. You won't get any mana."
         },
         {
           "date": "2017-11-17",
@@ -9333,7 +9528,7 @@
         }
       ],
       "source": "Judge reward",
-      "text": "Counter target spell. At the beginning of your next main phase, add an amount of {C} to your mana pool equal to that spell's converted mana cost.",
+      "text": "Counter target spell. At the beginning of your next main phase, add an amount of {C} equal to that spell's converted mana cost.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -9391,7 +9586,8 @@
       "number": "105",
       "printings": [
         "pJGP",
-        "C15"
+        "C15",
+        "Judge Gift Program"
       ],
       "rarity": "Special",
       "releaseDate": "2016",
@@ -9410,7 +9606,7 @@
         }
       ],
       "source": "Judge reward",
-      "text": "{T}: Add {C} to your mana pool.\n{T}, Sacrifice Command Beacon: Put your commander into your hand from the command zone.",
+      "text": "{T}: Add {C}.\n{T}, Sacrifice Command Beacon: Put your commander into your hand from the command zone.",
       "type": "Land",
       "types": [
         "Land"

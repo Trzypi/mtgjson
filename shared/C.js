@@ -426,7 +426,8 @@
     'HOU',
     'XLN',
     'RIX',
-    'DOM'
+    'DOM',
+    'M19'
   ];
 
 })(typeof exports==="undefined" ? window.C={} : exports);

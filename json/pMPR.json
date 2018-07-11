@@ -74,12 +74,13 @@
         "pMPR",
         "TPR",
         "EXP",
-        "EMA"
+        "EMA",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2001-05",
       "source": "Magic Player Rewards program reward",
-      "text": "{T}: Add {C} to your mana pool.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land.",
+      "text": "{T}: Add {C}.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land.",
       "type": "Land",
       "types": [
         "Land"
@@ -165,7 +166,8 @@
       "printings": [
         "pMPR",
         "ONS",
-        "TSB"
+        "TSB",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2003-01",
@@ -233,7 +235,8 @@
       "number": "3",
       "printings": [
         "UDS",
-        "pMPR"
+        "pMPR",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2003-09",
@@ -317,7 +320,8 @@
       "printings": [
         "pMPR",
         "ODY",
-        "VMA"
+        "VMA",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2004-09",
@@ -429,7 +433,8 @@
         "MRD",
         "10E",
         "DPA",
-        "ME4"
+        "ME4",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2004-09",
@@ -542,7 +547,8 @@
         "M12",
         "C13",
         "DD3_JVC",
-        "IMA"
+        "IMA",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2005-01",
@@ -565,7 +571,7 @@
         }
       ],
       "source": "Magic Player Rewards program reward",
-      "text": "Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.\nFireball costs {1} more to cast for each target beyond the first.",
+      "text": "This spell costs {1} more to cast for each target beyond the first.\nFireball deals X damage divided evenly, rounded down, among any number of targets.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -641,7 +647,8 @@
       "number": "7",
       "printings": [
         "pMPR",
-        "DST"
+        "DST",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2005-01",
@@ -740,7 +747,8 @@
         "DDN",
         "TPR",
         "MM2",
-        "IMA"
+        "IMA",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2005-05",
@@ -822,7 +830,8 @@
       "printings": [
         "pMPR",
         "CHK",
-        "DDG"
+        "DDG",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2005-05",
@@ -919,7 +928,8 @@
         "pMPR",
         "9ED",
         "10E",
-        "M10"
+        "M10",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2005-09",
@@ -1010,7 +1020,8 @@
       "number": "11",
       "printings": [
         "pMPR",
-        "CHK"
+        "CHK",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2005-09",
@@ -1110,7 +1121,9 @@
         "M11",
         "DDK",
         "DDL",
-        "MM3"
+        "MM3",
+        "A25",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2005-09",
@@ -1231,7 +1244,11 @@
         "RTR",
         "M14",
         "DD3_EVG",
-        "DD3_GVL"
+        "DD3_GVL",
+        "E02",
+        "A25",
+        "BBD",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2006-01",
@@ -1336,7 +1353,9 @@
         "C15",
         "C16",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2006-01",
@@ -1430,7 +1449,9 @@
         "ODY",
         "8ED",
         "9ED",
-        "ARC"
+        "ARC",
+        "A25",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2006-05",
@@ -1522,18 +1543,20 @@
         "DDH",
         "MMA",
         "DDN",
-        "IMA"
+        "IMA",
+        "E02",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2006-05",
       "rulings": [
         {
           "date": "2017-11-17",
-          "text": "If the chosen target is illegal when Lightning Helix tries to resolve, it will be countered and none of its effects will happen. You won't gain 3 life."
+          "text": "If the chosen target is illegal when Lightning Helix tries to resolve, it won't resolve and none of its effects will happen. You won't gain 3 life."
         }
       ],
       "source": "Magic Player Rewards program reward",
-      "text": "Lightning Helix deals 3 damage to target creature or player and you gain 3 life.",
+      "text": "Lightning Helix deals 3 damage to any target and you gain 3 life.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -1631,7 +1654,8 @@
         "C13",
         "V14",
         "EMA",
-        "MPS_AKH"
+        "MPS_AKH",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2006-09",
@@ -1725,7 +1749,8 @@
         "M11",
         "DDL",
         "C14",
-        "C17"
+        "C17",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2006-09",
@@ -1824,7 +1849,10 @@
         "CNS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "E02",
+        "CM2",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2006-09",
@@ -1920,12 +1948,13 @@
         "CED",
         "CEI",
         "pMPR",
-        "TSB"
+        "TSB",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2007-03",
       "source": "Magic Player Rewards program reward",
-      "text": "Psionic Blast deals 4 damage to target creature or player and 2 damage to you.",
+      "text": "Psionic Blast deals 4 damage to any target and 2 damage to you.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -2009,7 +2038,8 @@
         "9ED",
         "10E",
         "DDC",
-        "DD3_DVD"
+        "DD3_DVD",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2007-07",
@@ -2140,7 +2170,9 @@
         "ME3",
         "TPR",
         "CN2",
-        "IMA"
+        "IMA",
+        "A25",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2007-03",
@@ -2209,6 +2241,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -2221,7 +2257,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Ravnica Block",
+          "format": "Standard",
           "legality": "Legal"
         },
         {
@@ -2236,7 +2272,9 @@
       "printings": [
         "pMPR",
         "RAV",
-        "10E"
+        "10E",
+        "Magic Player Rewards",
+        "M19"
       ],
       "rarity": "Special",
       "releaseDate": "2007-07",
@@ -2324,7 +2362,8 @@
         "pMPR",
         "PLC",
         "MM3",
-        "MPS_AKH"
+        "MPS_AKH",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2007-12",
@@ -2417,7 +2456,8 @@
         "S99",
         "pMPR",
         "9ED",
-        "10E"
+        "10E",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2007-12",
@@ -2521,7 +2561,8 @@
         "DD2",
         "DPA",
         "M12",
-        "DD3_JVC"
+        "DD3_JVC",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2007-12",
@@ -2532,7 +2573,7 @@
         }
       ],
       "source": "Magic Player Rewards program reward",
-      "text": "Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.",
+      "text": "Incinerate deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -2612,7 +2653,8 @@
       "number": "27",
       "printings": [
         "pMPR",
-        "PLC"
+        "PLC",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2008-03",
@@ -2718,7 +2760,8 @@
         "EMA",
         "MM3",
         "DDS",
-        "C17"
+        "C17",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2008-03",
@@ -2815,7 +2858,8 @@
         "pMPR",
         "LRW",
         "M10",
-        "M12"
+        "M12",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2008-07",
@@ -2927,7 +2971,8 @@
         "M11",
         "M14",
         "DD3_DVD",
-        "DD3_GVL"
+        "DD3_GVL",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2008-07",
@@ -2950,7 +2995,7 @@
         }
       ],
       "source": "Magic Player Rewards program reward",
-      "text": "Corrupt deals damage to target creature or player equal to the number of Swamps you control. You gain life equal to the damage dealt this way.",
+      "text": "Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -3038,7 +3083,8 @@
         "MMA",
         "MM2",
         "MPS_AKH",
-        "IMA"
+        "IMA",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -3049,7 +3095,7 @@
         },
         {
           "date": "2017-11-17",
-          "text": "Look at both chosen modes to determine how many targets Cryptic Command has, if any. If it has at least one target, and all its targets are illegal when it tries to resolve, then it will be countered and none of its effects will happen. For example, if you choose the second and fourth modes, and the permanent is an illegal target when Cryptic Command tries to resolve, you won't draw a card."
+          "text": "Look at both chosen modes to determine how many targets Cryptic Command has, if any. If it has at least one target, and all its targets are illegal when it tries to resolve, then it won't resolve and none of its effects will happen. For example, if you choose the second and fourth modes, and the permanent is an illegal target when Cryptic Command tries to resolve, you won't draw a card."
         }
       ],
       "source": "Magic Player Rewards program reward",
@@ -3140,7 +3186,8 @@
         "SHM",
         "DD2",
         "DDK",
-        "DD3_JVC"
+        "DD3_JVC",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -3163,7 +3210,7 @@
         }
       ],
       "source": "Magic Player Rewards program reward",
-      "text": "({2/R} can be paid with any two mana or with {R}. This card's converted mana cost is 6.)\nFlame Javelin deals 4 damage to target creature or player.",
+      "text": "({2/R} can be paid with any two mana or with {R}. This card's converted mana cost is 6.)\nFlame Javelin deals 4 damage to any target.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -3247,7 +3294,8 @@
         "pMPR",
         "EVE",
         "ARC",
-        "DDK"
+        "DDK",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -3337,7 +3385,8 @@
       "printings": [
         "pMPR",
         "LRW",
-        "MM2"
+        "MM2",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -3449,7 +3498,8 @@
         "8ED",
         "9ED",
         "10E",
-        "ME3"
+        "ME3",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -3543,7 +3593,9 @@
       "printings": [
         "pMPR",
         "ALA",
-        "DDK"
+        "DDK",
+        "A25",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2009-04",
@@ -3554,7 +3606,7 @@
         }
       ],
       "source": "Magic Player Rewards program reward",
-      "text": "Blightning deals 3 damage to target player. That player discards two cards.",
+      "text": "Blightning deals 3 damage to target player or planeswalker. That player or that planeswalker's controller discards two cards.",
       "type": "Sorcery",
       "types": [
         "Sorcery"
@@ -3662,7 +3714,8 @@
         "MM2",
         "C15",
         "C16",
-        "DDS"
+        "DDS",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2009-04",
@@ -3782,7 +3835,10 @@
         "OGW",
         "CN2",
         "AER",
-        "RIX"
+        "RIX",
+        "BBD",
+        "SS1",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -3888,7 +3944,8 @@
         "C16",
         "MM3",
         "CMA",
-        "C17"
+        "C17",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -3988,12 +4045,14 @@
         "M11",
         "PD2",
         "MM2",
-        "E01"
+        "E01",
+        "A25",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
       "source": "Magic Player Rewards program reward",
-      "text": "Lightning Bolt deals 3 damage to target creature or player.",
+      "text": "Lightning Bolt deals 3 damage to any target.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -4055,19 +4114,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -4079,27 +4130,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Standard",
           "legality": "Legal"
         },
         {
-          "format": "Time Spiral Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -4124,7 +4159,9 @@
         "KTK",
         "PCA",
         "AKH",
-        "XLN"
+        "XLN",
+        "Magic Player Rewards",
+        "M19"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -4222,7 +4259,9 @@
         "M15",
         "C14",
         "DD3_GVL",
-        "MM2"
+        "MM2",
+        "CM2",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -4315,7 +4354,8 @@
         "ALA",
         "ARC",
         "C13",
-        "CN2"
+        "CN2",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -4402,7 +4442,8 @@
         "pMPR",
         "CON",
         "ARC",
-        "CNS"
+        "CNS",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -4413,7 +4454,7 @@
         }
       ],
       "source": "Magic Player Rewards program reward",
-      "text": "Volcanic Fallout can't be countered.\nVolcanic Fallout deals 2 damage to each creature and each player.",
+      "text": "This spell can't be countered.\nVolcanic Fallout deals 2 damage to each creature and each player.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -4501,7 +4542,8 @@
         "M10",
         "M11",
         "M12",
-        "MM2"
+        "MM2",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -4598,7 +4640,8 @@
         "ARC",
         "PC2",
         "C16",
-        "PCA"
+        "PCA",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -4714,12 +4757,13 @@
       "printings": [
         "pMPR",
         "ZEN",
-        "MM2"
+        "MM2",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
       "source": "Magic Player Rewards program reward",
-      "text": "Kicker {4} (You may pay an additional {4} as you cast this spell.)\nBurst Lightning deals 2 damage to target creature or player. If Burst Lightning was kicked, it deals 4 damage to that creature or player instead.",
+      "text": "Kicker {4} (You may pay an additional {4} as you cast this spell.)\nBurst Lightning deals 2 damage to any target. If this spell was kicked, it deals 4 damage to that permanent or player instead.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -4814,7 +4858,8 @@
         "C14",
         "TPR",
         "DDP",
-        "CMA"
+        "CMA",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2010",
@@ -4833,7 +4878,7 @@
         }
       ],
       "source": "Magic Player Rewards program reward",
-      "text": "As an additional cost to cast Harrow, sacrifice a land.\nSearch your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.",
+      "text": "As an additional cost to cast this spell, sacrifice a land.\nSearch your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.",
       "type": "Instant",
       "types": [
         "Instant"
@@ -4920,7 +4965,9 @@
         "pMPR",
         "ZEN",
         "M11",
-        "M12"
+        "M12",
+        "E02",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -5015,7 +5062,8 @@
         "pMPR",
         "ZEN",
         "M14",
-        "C14"
+        "C14",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -5121,7 +5169,9 @@
         "M14",
         "DDR",
         "E01",
-        "IMA"
+        "IMA",
+        "E02",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -5211,7 +5261,8 @@
       "printings": [
         "pMEI",
         "pMPR",
-        "WWK"
+        "WWK",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -5311,7 +5362,8 @@
       "printings": [
         "pMPR",
         "WWK",
-        "DDI"
+        "DDI",
+        "Magic Player Rewards"
       ],
       "rarity": "Special",
       "releaseDate": "2011",
@@ -5346,7 +5398,7 @@
         }
       ],
       "source": "Magic Player Rewards program reward",
-      "text": "Searing Blaze deals 1 damage to target player and 1 damage to target creature that player controls.\nLandfall — If you had a land enter the battlefield under your control this turn, Searing Blaze deals 3 damage to that player and 3 damage to that creature instead.",
+      "text": "Searing Blaze deals 1 damage to target player or planeswalker and 1 damage to target creature that player or that planeswalker's controller controls.\nLandfall — If you had a land enter the battlefield under your control this turn, Searing Blaze deals 3 damage to that player or planeswalker and 3 damage to that creature instead.",
       "type": "Instant",
       "types": [
         "Instant"

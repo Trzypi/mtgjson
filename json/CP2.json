@@ -91,7 +91,8 @@
       "printings": [
         "pPRE",
         "KTK",
-        "CP2"
+        "CP2",
+        "Fate Reforged Clash Pack"
       ],
       "rarity": "Special",
       "rulings": [
@@ -210,7 +211,8 @@
       "number": "2",
       "printings": [
         "THS",
-        "CP2"
+        "CP2",
+        "Fate Reforged Clash Pack"
       ],
       "rarity": "Special",
       "source": "Fate Reforged",
@@ -309,7 +311,8 @@
       "name": "Sultai Ascendacy",
       "number": "3",
       "printings": [
-        "CP2"
+        "CP2",
+        "Fate Reforged Clash Pack"
       ],
       "rarity": "Special",
       "source": "Fate Reforged",
@@ -405,7 +408,8 @@
       "printings": [
         "THS",
         "DDM",
-        "CP2"
+        "CP2",
+        "Fate Reforged Clash Pack"
       ],
       "rarity": "Special",
       "rulings": [
@@ -431,7 +435,7 @@
         },
         {
           "date": "2013-09-15",
-          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it will be countered and none of its effects will happen. You won't scry."
+          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it won't resolve and none of its effects will happen. You won't scry."
         }
       ],
       "source": "Fate Reforged",
@@ -527,7 +531,8 @@
       "number": "5",
       "printings": [
         "THS",
-        "CP2"
+        "CP2",
+        "Fate Reforged Clash Pack"
       ],
       "rarity": "Special",
       "rulings": [
@@ -642,25 +647,27 @@
       "power": "2",
       "printings": [
         "BNG",
-        "CP2"
+        "CP2",
+        "A25",
+        "Fate Reforged Clash Pack"
       ],
       "rarity": "Special",
       "rulings": [
         {
-          "date": "2014-02-01",
+          "date": "2018-03-16",
+          "text": "While playing with the top card of your library revealed, if you draw multiple cards, reveal each one before you draw it. If you put multiple cards on top of your library at once, reveal only the one new top card."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "If the top card of your library changes while you're casting a spell or activating an ability, you don't reveal the new top card until you finish casting that spell or activating that ability."
+        },
+        {
+          "date": "2018-03-16",
           "text": "Courser of Kruphix doesn't change when you can play lands. You can do so only during your main phase when you have priority and the stack is empty."
         },
         {
-          "date": "2014-02-01",
-          "text": "Playing a land with the second ability counts as your land play for the turn. If you play a land from your hand during your turn, you won't be able to play an additional land from the top of your library unless another effect allows you to."
-        },
-        {
-          "date": "2014-02-01",
-          "text": "The last ability triggers whenever a land enters the battlefield under your control for any reason. It triggers whenever you play a land, as well as whenever a spell or ability (such as Rampant Growth) causes you to put a land onto the battlefield under your control. It will even trigger when a spell or ability causes another player to put a land onto the battlefield under your control (as can happen with Yavimaya Dryad's ability, for example)."
-        },
-        {
-          "date": "2014-02-01",
-          "text": "While playing with the top card of your library revealed, if you draw multiple cards, reveal each one before you draw it."
+          "date": "2018-03-16",
+          "text": "Playing a land from the top of your library counts as your land play for the turn. Once you play a land during your turn, you won't be able to play an additional land from the top of your library unless another effect (such as that of Azusa, Lost but Seeking) allows you to."
         }
       ],
       "source": "Fate Reforged",

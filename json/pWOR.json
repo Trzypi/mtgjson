@@ -21,6 +21,10 @@
       ],
       "foreignNames": [
         {
+          "language": "Chinese Simplified",
+          "name": "博都维亚部族"
+        },
+        {
           "language": "French",
           "name": "Horde Balduviane"
         },
@@ -31,6 +35,10 @@
         {
           "language": "Italian",
           "name": "Orda di Balduvia"
+        },
+        {
+          "language": "Japanese",
+          "name": "バルデュヴィアの大軍"
         },
         {
           "language": "Portuguese (Brazil)",
@@ -73,7 +81,9 @@
         "pWOR",
         "BTD",
         "DKM",
-        "MED"
+        "MED",
+        "A25",
+        "Worlds"
       ],
       "rarity": "Special",
       "releaseDate": "1999-08-04",
