@@ -2937,6 +2937,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -2945,15 +2949,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
           "legality": "Legal"
         },
         {
@@ -9021,10 +9017,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirage Block",
           "legality": "Legal"
         },
         {

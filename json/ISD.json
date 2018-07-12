@@ -14970,10 +14970,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
@@ -15734,10 +15730,6 @@
       "legalities": [
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
           "legality": "Legal"
         },
         {
@@ -28318,19 +28310,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
           "legality": "Legal"
         },
         {

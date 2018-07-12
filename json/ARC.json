@@ -1123,15 +1123,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Masques Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
           "legality": "Legal"
         },
         {
@@ -1899,10 +1891,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
           "legality": "Legal"
         },
         {
@@ -3881,10 +3869,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
@@ -5852,10 +5836,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Lorwyn-Shadowmoor Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Modern",
           "legality": "Legal"
         },
@@ -6337,10 +6317,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
           "legality": "Legal"
         },
         {
@@ -8364,19 +8340,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Return to Ravnica Block",
           "legality": "Legal"
         },
         {
@@ -9496,10 +9464,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -9546,10 +9510,6 @@
         },
         {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -9673,10 +9633,6 @@
         },
         {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -9855,10 +9811,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -10610,10 +10562,6 @@
         {
           "format": "Vintage",
           "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
-          "legality": "Legal"
         }
       ],
       "manaCost": "{9}",
@@ -10670,10 +10618,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
           "legality": "Legal"
         },
         {
@@ -11166,10 +11110,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -11224,10 +11164,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
           "legality": "Legal"
         },
         {
@@ -11286,10 +11222,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Onslaught Block",
           "legality": "Legal"
         },
         {

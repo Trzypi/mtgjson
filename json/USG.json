@@ -3965,10 +3965,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -6700,10 +6696,6 @@
           "legality": "Banned"
         },
         {
-          "format": "Urza Block",
-          "legality": "Banned"
-        },
-        {
           "format": "Vintage",
           "legality": "Restricted"
         }
@@ -7570,10 +7562,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {
@@ -9695,10 +9683,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {
@@ -16740,15 +16724,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {
@@ -18331,10 +18307,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -18374,10 +18346,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {
@@ -18424,10 +18392,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {
@@ -18844,10 +18808,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {

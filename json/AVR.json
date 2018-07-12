@@ -1148,10 +1148,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
@@ -19515,10 +19511,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
@@ -23814,10 +23806,6 @@
       "legalities": [
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
           "legality": "Legal"
         },
         {

@@ -2091,10 +2091,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -2998,10 +2994,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {
@@ -4313,10 +4305,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -4441,10 +4429,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Scars of Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -4499,10 +4483,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -4577,10 +4557,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -4825,10 +4801,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Mirrodin Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Modern",
           "legality": "Legal"
         },
@@ -5011,10 +4983,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Mirrodin Block",
-          "legality": "Banned"
-        },
-        {
           "format": "Modern",
           "legality": "Legal"
         },
@@ -5128,10 +5096,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Mirrodin Block",
-          "legality": "Banned"
-        },
-        {
           "format": "Modern",
           "legality": "Banned"
         },
@@ -5185,10 +5149,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
           "legality": "Legal"
         },
         {

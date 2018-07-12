@@ -2384,10 +2384,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -3986,10 +3982,6 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -4003,10 +3995,6 @@
         },
         {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -5133,10 +5121,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Mirrodin Block",
           "legality": "Legal"
         },
         {

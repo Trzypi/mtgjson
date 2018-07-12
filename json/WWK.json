@@ -2752,10 +2752,6 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -2768,15 +2764,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -5656,10 +5644,6 @@
         },
         {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -12933,10 +12917,6 @@
         {
           "format": "Vintage",
           "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
-          "legality": "Legal"
         }
       ],
       "manaCost": "{3}{U}{U}{B}",
@@ -13236,10 +13216,6 @@
         },
         {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -13722,10 +13698,6 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -13739,10 +13711,6 @@
         },
         {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -13948,10 +13916,6 @@
         },
         {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],

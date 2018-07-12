@@ -7594,10 +7594,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Invasion Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
@@ -13331,10 +13327,6 @@
         {
           "format": "Vintage",
           "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
-          "legality": "Legal"
         }
       ],
       "manaCost": "{4}{G}",
@@ -14427,10 +14419,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ravnica Block",
           "legality": "Legal"
         },
         {

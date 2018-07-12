@@ -4855,10 +4855,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -8079,10 +8075,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
           "legality": "Legal"
         },
         {
@@ -13243,10 +13235,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Ravnica Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -13325,10 +13313,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Shards of Alara Block",
           "legality": "Legal"
         },
         {
@@ -13600,10 +13584,6 @@
         },
         {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -14315,10 +14295,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Time Spiral Block",
           "legality": "Legal"
         },
         {

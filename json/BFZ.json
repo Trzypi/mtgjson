@@ -9282,10 +9282,6 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -9298,15 +9294,7 @@
           "legality": "Legal"
         },
         {
-          "format": "Return to Ravnica Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -28070,10 +28058,6 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Battle for Zendikar Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -28087,10 +28071,6 @@
         },
         {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],
@@ -29143,27 +29123,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Amonkhet Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Battle for Zendikar Block",
+          "format": "Brawl",
           "legality": "Legal"
         },
         {
           "format": "Commander",
-          "legality": "Legal"
-        },
-        {
-          "format": "Innistrad Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Ixalan Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
         {
@@ -29180,10 +29144,6 @@
         },
         {
           "format": "Vintage",
-          "legality": "Legal"
-        },
-        {
-          "format": "Zendikar Block",
           "legality": "Legal"
         }
       ],

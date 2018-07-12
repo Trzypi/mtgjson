@@ -87,10 +87,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Ice Age Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Legacy",
           "legality": "Legal"
         },
@@ -2757,10 +2753,6 @@
           "legality": "Banned"
         },
         {
-          "format": "Urza Block",
-          "legality": "Banned"
-        },
-        {
           "format": "Vintage",
           "legality": "Restricted"
         }
@@ -4028,10 +4020,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -4090,10 +4078,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {
@@ -6852,10 +6836,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Urza Block",
           "legality": "Legal"
         },
         {

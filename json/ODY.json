@@ -9530,14 +9530,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Mirage Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -12312,10 +12304,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Odyssey Block",
           "legality": "Legal"
         },
         {
@@ -25664,10 +25652,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Odyssey Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -26296,10 +26280,6 @@
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Odyssey Block",
           "legality": "Legal"
         },
         {

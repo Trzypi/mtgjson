@@ -1135,10 +1135,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Tempest Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -5681,10 +5677,6 @@
           "legality": "Legal"
         },
         {
-          "format": "Urza Block",
-          "legality": "Legal"
-        },
-        {
           "format": "Vintage",
           "legality": "Legal"
         }
@@ -7823,10 +7815,6 @@
         },
         {
           "format": "Modern",
-          "legality": "Legal"
-        },
-        {
-          "format": "Scars of Mirrodin Block",
           "legality": "Legal"
         },
         {
