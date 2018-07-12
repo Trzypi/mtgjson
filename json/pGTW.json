@@ -97,8 +97,7 @@
         "DD3_EVG",
         "C15",
         "DDR",
-        "CMA",
-        "Gateway"
+        "CMA"
       ],
       "rarity": "Special",
       "releaseDate": "2006",
@@ -199,8 +198,7 @@
         "pGTW",
         "TSB",
         "ME2",
-        "DDO",
-        "Gateway"
+        "DDO"
       ],
       "rarity": "Special",
       "releaseDate": "2006",
@@ -308,8 +306,7 @@
         "TOR",
         "pGTW",
         "TSB",
-        "SOI",
-        "Gateway"
+        "SOI"
       ],
       "rarity": "Special",
       "releaseDate": "2006",
@@ -447,8 +444,7 @@
         "pGTW",
         "10E",
         "ME3",
-        "DPA",
-        "Gateway"
+        "DPA"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -535,8 +531,7 @@
       "printings": [
         "pGTW",
         "PLC",
-        "EMA",
-        "Gateway"
+        "EMA"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -633,8 +628,7 @@
       "power": "4",
       "printings": [
         "pGTW",
-        "PLC",
-        "Gateway"
+        "PLC"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -731,8 +725,7 @@
       "power": "2",
       "printings": [
         "pGTW",
-        "FUT",
-        "Gateway"
+        "FUT"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -851,8 +844,7 @@
         "C14",
         "C15",
         "CMA",
-        "A25",
-        "Gateway"
+        "A25"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -987,7 +979,6 @@
         "EMA",
         "CMA",
         "DOM",
-        "Gateway",
         "M19"
       ],
       "rarity": "Special",
@@ -1092,8 +1083,7 @@
         "PD2",
         "DD3_EVG",
         "TPR",
-        "EMA",
-        "Gateway"
+        "EMA"
       ],
       "rarity": "Special",
       "releaseDate": "2007-10",
@@ -1191,8 +1181,7 @@
         "DDP",
         "C15",
         "IMA",
-        "CM2",
-        "Gateway"
+        "CM2"
       ],
       "rarity": "Special",
       "releaseDate": "2007-10",
@@ -1282,8 +1271,7 @@
       "power": "*",
       "printings": [
         "pGTW",
-        "LRW",
-        "Gateway"
+        "LRW"
       ],
       "rarity": "Special",
       "releaseDate": "2008-11",
@@ -1411,7 +1399,6 @@
         "M12",
         "M14",
         "M15",
-        "Gateway",
         "M19"
       ],
       "rarity": "Special",
@@ -1503,8 +1490,7 @@
       "power": "1",
       "printings": [
         "pGTW",
-        "MOR",
-        "Gateway"
+        "MOR"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
@@ -1605,8 +1591,7 @@
       "power": "1",
       "printings": [
         "pGTW",
-        "MOR",
-        "Gateway"
+        "MOR"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
@@ -1748,7 +1733,6 @@
         "EMA",
         "AKH",
         "CM2",
-        "Gateway",
         "M19"
       ],
       "rarity": "Special",
@@ -1853,8 +1837,7 @@
       "printings": [
         "pGTW",
         "SHM",
-        "PD2",
-        "Gateway"
+        "PD2"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
@@ -1953,8 +1936,7 @@
       "printings": [
         "pGTW",
         "SHM",
-        "DDG",
-        "Gateway"
+        "DDG"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
@@ -2050,8 +2032,7 @@
         "EVE",
         "HOP",
         "CMD",
-        "CMA",
-        "Gateway"
+        "CMA"
       ],
       "rarity": "Special",
       "releaseDate": "2008",
@@ -2162,8 +2143,7 @@
       "power": "2",
       "printings": [
         "pGTW",
-        "EVE",
-        "Gateway"
+        "EVE"
       ],
       "rarity": "Special",
       "releaseDate": "2008",

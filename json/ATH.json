@@ -79,8 +79,7 @@
         "C14",
         "EMA",
         "C16",
-        "C17",
-        "Anthologies"
+        "C17"
       ],
       "rarity": "Special",
       "rulings": [
@@ -185,8 +184,7 @@
         "7ED",
         "8ED",
         "9ED",
-        "10E",
-        "Anthologies"
+        "10E"
       ],
       "rarity": "Special",
       "rulings": [
@@ -264,8 +262,7 @@
         "5ED",
         "ATH",
         "6ED",
-        "ME4",
-        "Anthologies"
+        "ME4"
       ],
       "rarity": "Special",
       "rulings": [
@@ -370,7 +367,6 @@
         "6ED",
         "S99",
         "M12",
-        "Anthologies",
         "M19"
       ],
       "rarity": "Special",
@@ -438,8 +434,7 @@
         "V09",
         "ME4",
         "VMA",
-        "EXP",
-        "Anthologies"
+        "EXP"
       ],
       "rarity": "Special",
       "text": "{T}: Add {C}.\n{T}, Sacrifice Strip Mine: Destroy target land.",
@@ -491,8 +486,7 @@
       "printings": [
         "LEG",
         "ATH",
-        "ME3",
-        "Anthologies"
+        "ME3"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -595,8 +589,7 @@
         "MED",
         "M10",
         "M11",
-        "ME4",
-        "Anthologies"
+        "ME4"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -696,8 +689,7 @@
         "pMPR",
         "9ED",
         "10E",
-        "M10",
-        "Anthologies"
+        "M10"
       ],
       "rarity": "Special",
       "rulings": [
@@ -778,8 +770,7 @@
         "ICE",
         "5ED",
         "ATH",
-        "ME2",
-        "Anthologies"
+        "ME2"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -859,8 +850,7 @@
         "HML",
         "ATH",
         "ME2",
-        "A25",
-        "Anthologies"
+        "A25"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -963,8 +953,7 @@
         "ATH",
         "9ED",
         "M11",
-        "CN2",
-        "Anthologies"
+        "CN2"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1054,8 +1043,7 @@
         "ICE",
         "ATH",
         "DKM",
-        "MED",
-        "Anthologies"
+        "MED"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -1129,8 +1117,7 @@
       "printings": [
         "USG",
         "ATH",
-        "HOP",
-        "Anthologies"
+        "HOP"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1208,8 +1195,7 @@
       "printings": [
         "VIS",
         "ATH",
-        "6ED",
-        "Anthologies"
+        "6ED"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1310,8 +1296,7 @@
       "printings": [
         "ICE",
         "ATH",
-        "TSB",
-        "Anthologies"
+        "TSB"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -1394,8 +1379,7 @@
         "ATH",
         "ME2",
         "DDL",
-        "EMA",
-        "Anthologies"
+        "EMA"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1503,8 +1487,7 @@
         "4ED",
         "ATH",
         "BRB",
-        "TSB",
-        "Anthologies"
+        "TSB"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -1602,8 +1585,7 @@
         "ALL",
         "ATH",
         "ME4",
-        "DOM",
-        "Anthologies"
+        "DOM"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -1688,8 +1670,7 @@
         "C14",
         "DD3_GVL",
         "C15",
-        "CMA",
-        "Anthologies"
+        "CMA"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1767,8 +1748,7 @@
         "C13",
         "C14",
         "C15",
-        "CM2",
-        "Anthologies"
+        "CM2"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1825,8 +1805,7 @@
         "ARN",
         "CHR",
         "ATH",
-        "MED",
-        "Anthologies"
+        "MED"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1915,8 +1894,7 @@
       "printings": [
         "HML",
         "ATH",
-        "6ED",
-        "Anthologies"
+        "6ED"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -1975,8 +1953,7 @@
         "MED",
         "V13",
         "VMA",
-        "EMA",
-        "Anthologies"
+        "EMA"
       ],
       "rarity": "Special",
       "text": "Target player discards two cards at random.",
@@ -2083,8 +2060,7 @@
         "MRD",
         "10E",
         "DPA",
-        "ME4",
-        "Anthologies"
+        "ME4"
       ],
       "rarity": "Special",
       "text": "Destroy target nonartifact, nonblack creature. It can't be regenerated.",
@@ -2184,8 +2160,7 @@
         "M10",
         "DPA",
         "M11",
-        "DD3_DVD",
-        "Anthologies"
+        "DD3_DVD"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -2300,8 +2275,7 @@
         "M12",
         "C13",
         "DD3_JVC",
-        "IMA",
-        "Anthologies"
+        "IMA"
       ],
       "rarity": "Special",
       "rulings": [
@@ -2389,8 +2363,7 @@
         "5ED",
         "ATH",
         "6ED",
-        "7ED",
-        "Anthologies"
+        "7ED"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -2482,8 +2455,7 @@
         "ATH",
         "MED",
         "M12",
-        "DDT",
-        "Anthologies"
+        "DDT"
       ],
       "rarity": "Special",
       "rulings": [
@@ -2567,8 +2539,7 @@
         "ATH",
         "6ED",
         "S99",
-        "S00",
-        "Anthologies"
+        "S00"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -2645,8 +2616,7 @@
         "7ED",
         "EVG",
         "VMA",
-        "DD3_EVG",
-        "Anthologies"
+        "DD3_EVG"
       ],
       "rarity": "Special",
       "rulings": [
@@ -2730,8 +2700,7 @@
       "power": "1",
       "printings": [
         "MIR",
-        "ATH",
-        "Anthologies"
+        "ATH"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -2804,8 +2773,7 @@
       "power": "1",
       "printings": [
         "WTH",
-        "ATH",
-        "Anthologies"
+        "ATH"
       ],
       "rarity": "Special",
       "rulings": [
@@ -2919,8 +2887,7 @@
         "PD2",
         "MM2",
         "E01",
-        "A25",
-        "Anthologies"
+        "A25"
       ],
       "rarity": "Special",
       "text": "Lightning Bolt deals 3 damage to any target.",
@@ -3017,8 +2984,7 @@
         "PD2",
         "DD3_EVG",
         "TPR",
-        "EMA",
-        "Anthologies"
+        "EMA"
       ],
       "rarity": "Special",
       "rulings": [
@@ -3127,8 +3093,7 @@
         "M13",
         "TPR",
         "MM3",
-        "A25",
-        "Anthologies"
+        "A25"
       ],
       "rarity": "Special",
       "rulings": [
@@ -3223,8 +3188,7 @@
       "power": "1",
       "printings": [
         "TMP",
-        "ATH",
-        "Anthologies"
+        "ATH"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -3329,8 +3293,7 @@
         "7ED",
         "8ED",
         "HOP",
-        "FRF",
-        "Anthologies"
+        "FRF"
       ],
       "rarity": "Special",
       "rulings": [
@@ -3447,8 +3410,7 @@
         "10E",
         "EVG",
         "M10",
-        "DD3_EVG",
-        "Anthologies"
+        "DD3_EVG"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -3656,7 +3618,6 @@
         "BBD",
         "CM2",
         "GS1",
-        "Anthologies",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -3865,7 +3826,6 @@
         "BBD",
         "CM2",
         "GS1",
-        "Anthologies",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -4070,7 +4030,6 @@
         "DOM",
         "BBD",
         "CM2",
-        "Anthologies",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -4275,7 +4234,6 @@
         "DOM",
         "BBD",
         "CM2",
-        "Anthologies",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -4370,8 +4328,7 @@
         "6ED",
         "7ED",
         "9ED",
-        "10E",
-        "Anthologies"
+        "10E"
       ],
       "rarity": "Special",
       "text": "{T}: Add {C}.\n{T}: Add {G} or {W}. Brushland deals 1 damage to you.",
@@ -4461,8 +4418,7 @@
         "EXO",
         "ATH",
         "10E",
-        "TPR",
-        "Anthologies"
+        "TPR"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -4559,8 +4515,7 @@
         "VMA",
         "V14",
         "MPS_AKH",
-        "A25",
-        "Anthologies"
+        "A25"
       ],
       "rarity": "Special",
       "text": "Destroy all lands.",
@@ -4650,8 +4605,7 @@
         "MIR",
         "ATH",
         "TSB",
-        "C14",
-        "Anthologies"
+        "C14"
       ],
       "rarity": "Special",
       "rulings": [
@@ -4739,8 +4693,7 @@
         "ATH",
         "pFNM",
         "TSB",
-        "A25",
-        "Anthologies"
+        "A25"
       ],
       "rarity": "Special",
       "rulings": [
@@ -4822,8 +4775,7 @@
         "6ED",
         "7ED",
         "C14",
-        "CM2",
-        "Anthologies"
+        "CM2"
       ],
       "rarity": "Special",
       "text": "{2}, {T}: Draw a card, then discard a card.",
@@ -4894,8 +4846,7 @@
       "power": "2",
       "printings": [
         "TMP",
-        "ATH",
-        "Anthologies"
+        "ATH"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -4974,8 +4925,7 @@
         "ATH",
         "BTD",
         "JUD",
-        "VMA",
-        "Anthologies"
+        "VMA"
       ],
       "rarity": "Special",
       "rulings": [
@@ -5096,8 +5046,7 @@
         "BRB",
         "7ED",
         "DKM",
-        "10E",
-        "Anthologies"
+        "10E"
       ],
       "rarity": "Special",
       "rulings": [
@@ -5170,8 +5119,7 @@
       "printings": [
         "HML",
         "ATH",
-        "MED",
-        "Anthologies"
+        "MED"
       ],
       "rarity": "Special",
       "rulings": [
@@ -5288,8 +5236,7 @@
         "C15",
         "CN2",
         "PCA",
-        "CMA",
-        "Anthologies"
+        "CMA"
       ],
       "rarity": "Special",
       "rulings": [
@@ -5367,8 +5314,7 @@
         "ICE",
         "5ED",
         "ATH",
-        "ME2",
-        "Anthologies"
+        "ME2"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -5459,8 +5405,7 @@
       "printings": [
         "USG",
         "ATH",
-        "9ED",
-        "Anthologies"
+        "9ED"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -5590,8 +5535,7 @@
         "W17",
         "CMA",
         "IMA",
-        "DOM",
-        "Anthologies"
+        "DOM"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -5690,8 +5634,7 @@
         "C17",
         "IMA",
         "A25",
-        "BBD",
-        "Anthologies"
+        "BBD"
       ],
       "rarity": "Special",
       "rulings": [
@@ -5803,8 +5746,7 @@
         "M10",
         "M11",
         "ME4",
-        "DDG",
-        "Anthologies"
+        "DDG"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -5877,8 +5819,7 @@
       "printings": [
         "EXO",
         "ATH",
-        "TPR",
-        "Anthologies"
+        "TPR"
       ],
       "rarity": "Special",
       "text": "Buyback—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)\nCreate a 1/1 white Pegasus creature token with flying.",
@@ -5950,8 +5891,7 @@
         "C13",
         "C14",
         "C15",
-        "CM2",
-        "Anthologies"
+        "CM2"
       ],
       "rarity": "Special",
       "rulings": [
@@ -6036,8 +5976,7 @@
         "C14",
         "DD3_GVL",
         "C15",
-        "CMA",
-        "Anthologies"
+        "CMA"
       ],
       "rarity": "Special",
       "rulings": [
@@ -6125,8 +6064,7 @@
         "pFNM",
         "TSB",
         "DDD",
-        "DD3_GVL",
-        "Anthologies"
+        "DD3_GVL"
       ],
       "rarity": "Special",
       "rulings": [
@@ -6222,8 +6160,7 @@
         "8ED",
         "10E",
         "TPR",
-        "BBD",
-        "Anthologies"
+        "BBD"
       ],
       "rarity": "Special",
       "rulings": [
@@ -6300,8 +6237,7 @@
         "DRK",
         "4ED",
         "ATH",
-        "MED",
-        "Anthologies"
+        "MED"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -6428,8 +6364,7 @@
         "DD3_GVL",
         "E02",
         "A25",
-        "BBD",
-        "Anthologies"
+        "BBD"
       ],
       "rarity": "Special",
       "text": "Target creature gets +3/+3 until end of turn.",
@@ -6548,7 +6483,6 @@
         "M14",
         "AKH",
         "GS1",
-        "Anthologies",
         "M19"
       ],
       "rarity": "Special",
@@ -6630,8 +6564,7 @@
         "ALL",
         "ATH",
         "6ED",
-        "7ED",
-        "Anthologies"
+        "7ED"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -6759,7 +6692,6 @@
         "EMA",
         "CMA",
         "DOM",
-        "Anthologies",
         "M19"
       ],
       "rarity": "Special",
@@ -6835,8 +6767,7 @@
         "5ED",
         "ATH",
         "7ED",
-        "ME4",
-        "Anthologies"
+        "ME4"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -6913,8 +6844,7 @@
         "ATH",
         "BTD",
         "DKM",
-        "ME2",
-        "Anthologies"
+        "ME2"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -6994,8 +6924,7 @@
         "6ED",
         "BRB",
         "S00",
-        "TPR",
-        "Anthologies"
+        "TPR"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -7090,8 +7019,7 @@
       "printings": [
         "WTH",
         "ATH",
-        "10E",
-        "Anthologies"
+        "10E"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -7141,8 +7069,7 @@
       "printings": [
         "FEM",
         "ATH",
-        "ME2",
-        "Anthologies"
+        "ME2"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -7278,8 +7205,7 @@
         "TPR",
         "CN2",
         "IMA",
-        "A25",
-        "Anthologies"
+        "A25"
       ],
       "rarity": "Special",
       "rulings": [
@@ -7354,8 +7280,7 @@
       "power": "1",
       "printings": [
         "VIS",
-        "ATH",
-        "Anthologies"
+        "ATH"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -7448,8 +7373,7 @@
         "pGTW",
         "TSB",
         "ME2",
-        "DDO",
-        "Anthologies"
+        "DDO"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -7551,8 +7475,7 @@
         "M11",
         "DDF",
         "DDN",
-        "IMA",
-        "Anthologies"
+        "IMA"
       ],
       "rarity": "Special",
       "rulings": [
@@ -7673,8 +7596,7 @@
         "TPR",
         "EMA",
         "A25",
-        "BBD",
-        "Anthologies"
+        "BBD"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -7777,8 +7699,7 @@
         "7ED",
         "8ED",
         "9ED",
-        "10E",
-        "Anthologies"
+        "10E"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -7874,8 +7795,7 @@
         "ATH",
         "6ED",
         "9ED",
-        "10E",
-        "Anthologies"
+        "10E"
       ],
       "rarity": "Special",
       "rulings": [
@@ -7974,8 +7894,7 @@
         "10E",
         "TPR",
         "MM3",
-        "E01",
-        "Anthologies"
+        "E01"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -8180,7 +8099,6 @@
         "BBD",
         "CM2",
         "GS1",
-        "Anthologies",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -8386,7 +8304,6 @@
         "BBD",
         "CM2",
         "GS1",
-        "Anthologies",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -8589,7 +8506,6 @@
         "BBD",
         "CM2",
         "GS1",
-        "Anthologies",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -8792,7 +8708,6 @@
         "BBD",
         "CM2",
         "GS1",
-        "Anthologies",
         "M19"
       ],
       "rarity": "Basic Land",
