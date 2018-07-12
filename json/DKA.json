@@ -10525,7 +10525,8 @@
         "DDK",
         "C14",
         "C15",
-        "EMA"
+        "EMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -19202,7 +19203,8 @@
         "CMA",
         "C17",
         "IMA",
-        "RIX"
+        "RIX",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",

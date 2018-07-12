@@ -15996,7 +15996,8 @@
         "M10",
         "DDG",
         "C14",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -20553,7 +20554,8 @@
       "printings": [
         "TSP",
         "C14",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -28769,7 +28771,8 @@
       "power": "1",
       "printings": [
         "TSP",
-        "CMD"
+        "CMD",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -29238,7 +29241,8 @@
       "printings": [
         "TSP",
         "CMD",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}.\n{1}, {T}: Put a storage counter on Dreadship Reef.\n{1}, Remove X storage counters from Dreadship Reef: Add X mana in any combination of {U} and/or {B}.",
@@ -29990,7 +29994,8 @@
         "C16",
         "PCA",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",
@@ -30476,6 +30481,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30770,6 +30776,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31064,6 +31071,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31358,6 +31366,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31652,6 +31661,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31946,6 +31956,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -32240,6 +32251,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -32534,6 +32546,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -32831,6 +32844,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -33127,6 +33141,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -33423,6 +33438,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -33719,6 +33735,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -34018,6 +34035,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -34318,6 +34336,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -34618,6 +34637,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -34918,6 +34938,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35215,6 +35236,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35512,6 +35534,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35809,6 +35832,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -36106,6 +36130,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

@@ -112,7 +112,8 @@
         "BRB",
         "DKM",
         "8ED",
-        "CMD"
+        "CMD",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -1488,6 +1489,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -1662,6 +1664,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -2769,7 +2772,8 @@
         "CMD",
         "C15",
         "C16",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.",
@@ -3274,6 +3278,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -3441,6 +3446,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -4039,7 +4045,8 @@
         "VMA",
         "V14",
         "TPR",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -4095,7 +4102,8 @@
         "USG",
         "BRB",
         "CMD",
-        "CN2"
+        "CN2",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -5126,6 +5134,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -6854,7 +6863,8 @@
         "BRB",
         "C13",
         "C14",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -7122,6 +7132,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -7299,6 +7310,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -7476,6 +7488,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -7653,6 +7666,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -7830,6 +7844,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -8007,6 +8022,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -8184,6 +8200,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -8361,6 +8378,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -8535,6 +8553,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -8709,6 +8728,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -8883,6 +8903,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -9057,6 +9078,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -9231,6 +9253,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -9405,6 +9428,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -9579,6 +9603,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -9753,6 +9778,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -9924,6 +9950,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -10095,6 +10122,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -10266,6 +10294,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -10437,6 +10466,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -10608,6 +10638,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -10779,6 +10810,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -10950,6 +10982,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -11121,6 +11154,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -11292,6 +11326,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -11459,6 +11494,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -11626,6 +11662,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -11793,6 +11830,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -11963,6 +12001,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -12131,6 +12170,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -12299,6 +12339,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",

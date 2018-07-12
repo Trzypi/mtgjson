@@ -6866,7 +6866,8 @@
       "printings": [
         "PO2",
         "5DN",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -8251,7 +8252,8 @@
         "DDJ",
         "MMA",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -15513,7 +15515,8 @@
         "C14",
         "MM2",
         "C15",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{2}, {T}, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.",

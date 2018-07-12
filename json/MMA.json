@@ -1789,7 +1789,8 @@
       "printings": [
         "MOR",
         "MMA",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -3658,7 +3659,8 @@
         "C14",
         "DD3_JVC",
         "MM2",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -8945,7 +8947,8 @@
       "printings": [
         "LRW",
         "MMA",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -9142,7 +9145,8 @@
       "printings": [
         "LRW",
         "MMA",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -9778,7 +9782,8 @@
         "DDJ",
         "MMA",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -14073,7 +14078,8 @@
       "printings": [
         "FUT",
         "MMA",
-        "C14"
+        "C14",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -14428,7 +14434,8 @@
         "MRD",
         "MMA",
         "C14",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -15222,7 +15229,8 @@
         "C16",
         "PCA",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",
@@ -15270,7 +15278,8 @@
         "MMA",
         "C13",
         "C15",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Vivid Crag enters the battlefield tapped with two charge counters on it.\n{T}: Add {R}.\n{T}, Remove a charge counter from Vivid Crag: Add one mana of any color.",
@@ -15480,7 +15489,8 @@
         "MMA",
         "C15",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Vivid Meadow enters the battlefield tapped with two charge counters on it.\n{T}: Add {W}.\n{T}, Remove a charge counter from Vivid Meadow: Add one mana of any color.",

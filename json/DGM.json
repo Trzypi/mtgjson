@@ -6972,7 +6972,8 @@
       "originalType": "Enchantment",
       "printings": [
         "DGM",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -11165,7 +11166,8 @@
         "C15",
         "C16",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -13828,7 +13830,8 @@
       "power": "1",
       "printings": [
         "DGM",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -19287,7 +19290,8 @@
       "originalType": "Artifact",
       "printings": [
         "DGM",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}: Add {R} or {W}.\n{R}{W}, {T}, Sacrifice Boros Cluestone: Draw a card.",
@@ -20331,7 +20335,8 @@
         "C13",
         "C15",
         "MM3",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [

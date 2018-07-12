@@ -1147,7 +1147,8 @@
         "CMD",
         "PD3",
         "CN2",
-        "MPS_AKH"
+        "MPS_AKH",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -1912,7 +1913,8 @@
         "CMD",
         "C15",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -3149,7 +3151,8 @@
         "M15",
         "C14",
         "DD3_GVL",
-        "MM2"
+        "MM2",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "Target player draws two cards and loses 2 life.",
@@ -3889,7 +3892,8 @@
         "ARC",
         "DDG",
         "CMD",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Kicker {2} (You may pay an additional {2} as you cast this spell.)\nBreath of Darigaaz deals 1 damage to each creature without flying and each player. If this spell was kicked, it deals 4 damage to each creature without flying and each player instead.",
@@ -5857,7 +5861,8 @@
         "HOP",
         "ARC",
         "C15",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -6339,7 +6344,8 @@
         "C15",
         "CN2",
         "C16",
-        "E01"
+        "E01",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -9479,7 +9485,8 @@
         "RAV",
         "ARC",
         "CMD",
-        "MM3"
+        "MM3",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {U}{B}.",
@@ -9526,7 +9533,8 @@
         "CMD",
         "C14",
         "C15",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}{C}{C}.\n{3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards.",
@@ -9650,7 +9658,8 @@
         "DDF",
         "C14",
         "MM2",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -9839,7 +9848,8 @@
         "MPS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -10579,7 +10589,8 @@
         "CMD",
         "C14",
         "MM2",
-        "DDP"
+        "DDP",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -10642,7 +10653,8 @@
         "C14",
         "DD3_DVD",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -11132,7 +11144,8 @@
         "DDO",
         "C15",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -11197,7 +11210,8 @@
         "C16",
         "PCA",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",
@@ -11247,7 +11261,8 @@
         "DD3_EVG",
         "CMA",
         "C17",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -11462,6 +11477,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -11627,6 +11643,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -11792,6 +11809,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -11958,6 +11976,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -12124,6 +12143,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -12293,6 +12313,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -12461,6 +12482,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -12629,6 +12651,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -12800,6 +12823,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -12972,6 +12996,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -13144,6 +13169,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -13313,6 +13339,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -13482,6 +13509,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -13651,6 +13679,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

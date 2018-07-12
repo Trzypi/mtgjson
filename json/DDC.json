@@ -1345,7 +1345,8 @@
         "DDC",
         "DD3_DVD",
         "C15",
-        "EMA"
+        "EMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -1631,7 +1632,8 @@
         "DDO",
         "C15",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -1792,6 +1794,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -1959,6 +1962,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -2126,6 +2130,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -2293,6 +2298,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -4227,7 +4233,8 @@
         "C14",
         "DD3_DVD",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -4391,6 +4398,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -4560,6 +4568,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -4729,6 +4738,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -4898,6 +4908,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",

@@ -237,7 +237,8 @@
       "printings": [
         "KTK",
         "C16",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -6264,7 +6265,8 @@
         "CMD",
         "C15",
         "C16",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.",
@@ -9440,7 +9442,8 @@
         "M10",
         "DDG",
         "C14",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -13621,7 +13624,8 @@
       "printings": [
         "DTK",
         "C16",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -15896,7 +15900,8 @@
         "pPRE",
         "RTR",
         "C16",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -17551,7 +17556,8 @@
         "DD3_JVC",
         "DDP",
         "C15",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice Mind Stone: Draw a card.",
@@ -17789,7 +17795,8 @@
         "MRD",
         "CMD",
         "MPS",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "{4}, {T}: Put a fate counter on target permanent.\n{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.",
@@ -17846,7 +17853,8 @@
       "printings": [
         "SOM",
         "C14",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -17909,7 +17917,8 @@
         "NPH",
         "C13",
         "C14",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -18037,7 +18046,8 @@
       "power": "4",
       "printings": [
         "C15",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -18376,7 +18386,8 @@
         "MM2",
         "C16",
         "CMA",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -18447,7 +18458,8 @@
         "C16",
         "CMA",
         "C17",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -18516,7 +18528,8 @@
         "C16",
         "PCA",
         "C17",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -18608,7 +18621,8 @@
         "CMA",
         "C17",
         "IMA",
-        "RIX"
+        "RIX",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
@@ -18672,7 +18686,8 @@
         "C15",
         "C16",
         "CMA",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -19573,7 +19588,8 @@
         "MM2",
         "C15",
         "C16",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [

@@ -12595,7 +12595,8 @@
         "C16",
         "CMA",
         "C17",
-        "E02"
+        "E02",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -16074,7 +16075,8 @@
         "C16",
         "MM3",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {W}{B}.",

@@ -7591,7 +7591,8 @@
         "VMA",
         "V14",
         "TPR",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -11216,7 +11217,8 @@
       "power": "3",
       "printings": [
         "C15",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -13037,7 +13039,8 @@
         "PCA",
         "E01",
         "C17",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -16127,7 +16130,8 @@
       "printings": [
         "AVR",
         "C15",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -18470,7 +18474,8 @@
         "C16",
         "CMA",
         "C17",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -18616,7 +18621,8 @@
       "originalType": "Land",
       "printings": [
         "C16",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}.\nBasic landcycling {1} ({1}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand, then shuffle your library.)",

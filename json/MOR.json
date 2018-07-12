@@ -2439,7 +2439,8 @@
       "printings": [
         "MOR",
         "MMA",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -6953,7 +6954,8 @@
       "power": "0",
       "printings": [
         "MOR",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -9759,7 +9761,8 @@
       "power": "4",
       "printings": [
         "MOR",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -11789,7 +11792,8 @@
         "CMD",
         "C13",
         "C14",
-        "MM2"
+        "MM2",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -12242,7 +12246,8 @@
         "HOP",
         "ARC",
         "C15",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -16471,7 +16476,8 @@
       "printings": [
         "MOR",
         "V12",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [

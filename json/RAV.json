@@ -1829,7 +1829,8 @@
         "DDC",
         "DD3_DVD",
         "C15",
-        "EMA"
+        "EMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -10184,7 +10185,8 @@
       "power": "1",
       "printings": [
         "RAV",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -13475,7 +13477,8 @@
       "power": "5",
       "printings": [
         "RAV",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -13572,7 +13575,8 @@
       "power": "6",
       "printings": [
         "RAV",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -23217,7 +23221,8 @@
         "C15",
         "C16",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -24597,7 +24602,8 @@
       "power": "5",
       "printings": [
         "RAV",
-        "CMD"
+        "CMD",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -25028,7 +25034,8 @@
         "CMD",
         "C15",
         "C16",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -26825,7 +26832,8 @@
         "C15",
         "MM3",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {R}{W}.",
@@ -27297,7 +27305,8 @@
         "RAV",
         "ARC",
         "CMD",
-        "MM3"
+        "MM3",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {U}{B}.",
@@ -27484,7 +27493,8 @@
         "C15",
         "C16",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {B}{G}.",
@@ -28770,7 +28780,8 @@
         "C16",
         "CMA",
         "C17",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -28870,7 +28881,8 @@
         "C16",
         "PCA",
         "C17",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -29063,7 +29075,8 @@
         "C15",
         "C16",
         "CMA",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -29590,7 +29603,8 @@
       "printings": [
         "RAV",
         "CMD",
-        "DDJ"
+        "DDJ",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -30206,6 +30220,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30500,6 +30515,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30794,6 +30810,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31088,6 +31105,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31382,6 +31400,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31676,6 +31695,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31970,6 +31990,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -32264,6 +32285,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -32561,6 +32583,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -32857,6 +32880,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -33153,6 +33177,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -33449,6 +33474,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -33748,6 +33774,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -34048,6 +34075,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -34348,6 +34376,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -34648,6 +34677,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -34945,6 +34975,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35242,6 +35273,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35539,6 +35571,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35836,6 +35869,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

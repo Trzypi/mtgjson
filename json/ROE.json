@@ -237,7 +237,8 @@
         "CMD",
         "C14",
         "MM2",
-        "DDP"
+        "DDP",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -1789,7 +1790,8 @@
       "power": "2",
       "printings": [
         "ROE",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -15966,7 +15968,8 @@
         "ROE",
         "CMD",
         "C15",
-        "E02"
+        "E02",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "As an additional cost to cast this spell, reveal a creature card from your hand.\nDisaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost.",
@@ -19001,7 +19004,8 @@
       "power": "1",
       "printings": [
         "ROE",
-        "C14"
+        "C14",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -24246,7 +24250,8 @@
         "CMD",
         "C14",
         "C15",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}{C}{C}.\n{3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards.",
@@ -25430,7 +25435,8 @@
         "CMA",
         "C17",
         "IMA",
-        "RIX"
+        "RIX",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
@@ -25712,6 +25718,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -26006,6 +26013,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -26300,6 +26308,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -26594,6 +26603,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -26888,6 +26898,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27182,6 +27193,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27476,6 +27488,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27770,6 +27783,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -28067,6 +28081,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -28363,6 +28378,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -28659,6 +28675,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -28955,6 +28972,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -29254,6 +29272,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -29554,6 +29573,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -29854,6 +29874,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30154,6 +30175,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30451,6 +30473,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30748,6 +30771,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31045,6 +31069,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31342,6 +31367,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

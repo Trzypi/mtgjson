@@ -2058,7 +2058,8 @@
         "BRB",
         "DKM",
         "8ED",
-        "CMD"
+        "CMD",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -2840,7 +2841,8 @@
         "DKM",
         "9ED",
         "10E",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "{T}: Add {C} to your mana pool.\n{T}: Add {U} or {B} to your mana pool. Underground River deals 1 damage to you.",
@@ -2996,6 +2998,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -3158,6 +3161,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -3320,6 +3324,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -3484,6 +3489,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -3649,6 +3655,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -3814,6 +3821,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -3976,6 +3984,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -4138,6 +4147,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -4300,6 +4310,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

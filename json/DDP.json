@@ -2215,7 +2215,8 @@
         "C14",
         "DDP",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -2369,7 +2370,8 @@
         "CMA",
         "C17",
         "IMA",
-        "RIX"
+        "RIX",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
@@ -2724,6 +2726,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -2907,6 +2910,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -3090,6 +3094,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -3276,6 +3281,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -3462,6 +3468,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -3648,6 +3655,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -3784,7 +3792,8 @@
         "CMD",
         "C14",
         "MM2",
-        "DDP"
+        "DDP",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -4173,7 +4182,8 @@
         "DDP",
         "C15",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -5452,7 +5462,8 @@
         "DD3_JVC",
         "DDP",
         "C15",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice Mind Stone: Draw a card.",
@@ -5869,6 +5880,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -6054,6 +6066,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -6239,6 +6252,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -6427,6 +6441,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -6616,6 +6631,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -6805,6 +6821,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

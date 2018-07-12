@@ -4270,7 +4270,8 @@
         "DDL",
         "C14",
         "C15",
-        "E01"
+        "E01",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -10893,6 +10894,7 @@
         "TPR",
         "EMA",
         "AKH",
+        "CM2",
         "M19"
       ],
       "rarity": "Common",
@@ -16273,7 +16275,8 @@
         "M12",
         "C13",
         "C15",
-        "E01"
+        "E01",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -17747,7 +17750,8 @@
         "PC2",
         "C13",
         "C15",
-        "PCA"
+        "PCA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -17861,7 +17865,8 @@
         "C13",
         "DDM",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -23613,7 +23618,8 @@
         "HOP",
         "DDF",
         "M12",
-        "C14"
+        "C14",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -24027,7 +24033,8 @@
         "C15",
         "MPS",
         "C16",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -24237,7 +24244,8 @@
         "C16",
         "CMA",
         "C17",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -24750,7 +24758,8 @@
       "printings": [
         "M12",
         "C14",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice Buried Ruin: Return target artifact card from your graveyard to your hand.",
@@ -25603,6 +25612,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -25897,6 +25907,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -26191,6 +26202,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -26485,6 +26497,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -26779,6 +26792,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27073,6 +27087,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27367,6 +27382,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27661,6 +27677,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27958,6 +27975,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -28254,6 +28272,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -28550,6 +28569,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -28846,6 +28866,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -29145,6 +29166,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -29445,6 +29467,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -29745,6 +29768,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30045,6 +30069,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30342,6 +30367,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30639,6 +30665,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30936,6 +30963,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31233,6 +31261,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

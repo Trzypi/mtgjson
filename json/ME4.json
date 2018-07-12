@@ -10476,7 +10476,8 @@
         "ME4",
         "C13",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -12855,7 +12856,8 @@
         "MPS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "{T}: Add {C}{C}.",

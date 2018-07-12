@@ -1905,6 +1905,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -2075,6 +2076,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -2245,6 +2247,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -2415,6 +2418,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -2871,7 +2875,8 @@
         "DDN",
         "DD3_GVL",
         "ORI",
-        "CN2"
+        "CN2",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -3610,7 +3615,8 @@
         "M15",
         "C14",
         "DD3_GVL",
-        "MM2"
+        "MM2",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "Target player draws two cards and loses 2 life.",
@@ -4037,6 +4043,7 @@
         "C15",
         "EMN",
         "CMA",
+        "CM2",
         "M19"
       ],
       "rarity": "Uncommon",
@@ -4414,6 +4421,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -4583,6 +4591,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -4752,6 +4761,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -4921,6 +4931,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",

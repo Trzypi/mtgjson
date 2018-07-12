@@ -753,7 +753,8 @@
         "DDC",
         "DD3_DVD",
         "C15",
-        "EMA"
+        "EMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -1201,7 +1202,8 @@
         "VMA",
         "C15",
         "EMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -3616,7 +3618,8 @@
         "VMA",
         "DD3_JVC",
         "C15",
-        "EMA"
+        "EMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -5740,7 +5743,8 @@
         "CMD",
         "C13",
         "EMA",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -6646,6 +6650,7 @@
         "TPR",
         "EMA",
         "AKH",
+        "CM2",
         "M19"
       ],
       "rarity": "Common",
@@ -8841,7 +8846,8 @@
         "DDN",
         "C14",
         "EMA",
-        "PCA"
+        "PCA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -9431,7 +9437,8 @@
         "pJGP",
         "C14",
         "EMA",
-        "E01"
+        "E01",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -9531,7 +9538,8 @@
         "DDK",
         "C14",
         "C15",
-        "EMA"
+        "EMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -11757,7 +11765,8 @@
       "printings": [
         "JUD",
         "CMD",
-        "EMA"
+        "EMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -16985,7 +16994,8 @@
         "C14",
         "BFZ",
         "EMA",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -17375,7 +17385,8 @@
         "C14",
         "C15",
         "EMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Worn Powerstone enters the battlefield tapped.\n{T}: Add {C}{C}.",
@@ -18270,7 +18281,8 @@
         "FRF",
         "C15",
         "EMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "Wind-Scarred Crag enters the battlefield tapped.\nWhen Wind-Scarred Crag enters the battlefield, you gain 1 life.\n{T}: Add {R} or {W}.",

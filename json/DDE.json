@@ -1233,7 +1233,8 @@
         "MPS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -1527,7 +1528,8 @@
         "C14",
         "C15",
         "EMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Worn Powerstone enters the battlefield tapped.\n{T}: Add {C}{C}.",
@@ -1968,7 +1970,8 @@
         "VMA",
         "V14",
         "TPR",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -2158,6 +2161,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -2349,6 +2353,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -2540,6 +2545,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -2731,6 +2737,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -3341,7 +3348,8 @@
         "UDS",
         "DDE",
         "CMD",
-        "VMA"
+        "VMA",
+        "CM2"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -4834,7 +4842,8 @@
         "C16",
         "PCA",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",
@@ -4997,6 +5006,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -5167,6 +5177,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -5343,6 +5354,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -5520,6 +5532,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -5700,6 +5713,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

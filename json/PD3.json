@@ -403,7 +403,8 @@
         "CMD",
         "PD3",
         "CN2",
-        "MPS_AKH"
+        "MPS_AKH",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -1277,7 +1278,8 @@
         "WTH",
         "ODY",
         "CMD",
-        "PD3"
+        "PD3",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -1746,6 +1748,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -1915,6 +1918,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -2084,6 +2088,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -2253,6 +2258,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",

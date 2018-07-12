@@ -866,7 +866,8 @@
         "MPS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Special",
       "rulings": [
@@ -1418,7 +1419,8 @@
         "MPS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Special",
       "text": "{T}: Add {C}{C}.",
@@ -1467,7 +1469,8 @@
         "C15",
         "MPS",
         "C16",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Special",
       "subtypes": [
@@ -2368,7 +2371,8 @@
         "MRD",
         "CMD",
         "MPS",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Special",
       "text": "{4}, {T}: Put a fate counter on target permanent.\n{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.",
@@ -3160,7 +3164,8 @@
         "pPRE",
         "SOM",
         "C14",
-        "MPS"
+        "MPS",
+        "CM2"
       ],
       "rarity": "Special",
       "rulings": [

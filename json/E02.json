@@ -834,7 +834,8 @@
       "originalType": "Enchantment — Aura",
       "printings": [
         "CMD",
-        "E02"
+        "E02",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -1567,7 +1568,8 @@
         "ROE",
         "CMD",
         "C15",
-        "E02"
+        "E02",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "As an additional cost to cast this spell, reveal a creature card from your hand.\nDisaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost.",
@@ -2253,7 +2255,8 @@
       "originalType": "Enchantment — Aura",
       "printings": [
         "CMD",
-        "E02"
+        "E02",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -2439,7 +2442,8 @@
         "C16",
         "CMA",
         "C17",
-        "E02"
+        "E02",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [

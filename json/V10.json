@@ -711,7 +711,8 @@
         "MPS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "text": "{T}: Add {C}{C}.",

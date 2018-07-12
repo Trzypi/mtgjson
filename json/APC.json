@@ -1093,7 +1093,8 @@
         "HOP",
         "CMD",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "Kicker {R} (You may pay an additional {R} as you cast this spell.)\nDestroy target artifact or enchantment. If this spell was kicked, it deals damage equal to that permanent's converted mana cost to target creature.",
@@ -4267,7 +4268,8 @@
       "printings": [
         "APC",
         "TSB",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [

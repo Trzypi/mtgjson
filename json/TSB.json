@@ -4157,7 +4157,8 @@
         "CMD",
         "PD3",
         "CN2",
-        "MPS_AKH"
+        "MPS_AKH",
+        "CM2"
       ],
       "rarity": "Special",
       "rulings": [
@@ -6327,7 +6328,8 @@
       "printings": [
         "APC",
         "TSB",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Special",
       "subtypes": [

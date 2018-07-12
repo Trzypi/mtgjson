@@ -86,7 +86,8 @@
       "originalText": "Whenever one or more creatures attack, you may have target attacking creature gain double strike until end of turn.",
       "originalType": "Enchantment",
       "printings": [
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -273,7 +274,8 @@
       "originalType": "Creature — Human Advisor",
       "power": "1",
       "printings": [
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -473,7 +475,8 @@
       "originalText": "Undaunted (This spell costs {1} less to cast for each opponent.)\nDestroy all creatures.",
       "originalType": "Sorcery",
       "printings": [
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -656,7 +659,8 @@
       "originalType": "Creature — Fish",
       "power": "3",
       "printings": [
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -871,7 +875,8 @@
       "originalText": "Gain control of target Equipment, then create a 0/0 black Germ creature token and attach that Equipment to it.",
       "originalType": "Instant",
       "printings": [
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -961,7 +966,8 @@
       "originalText": "Reveal the top ten cards of your library. Starting with the next opponent in turn order, each opponent chooses a different nonland card from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order.",
       "originalType": "Sorcery",
       "printings": [
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -2678,7 +2684,8 @@
       "originalText": "Draw cards equal to the number of cards in your hand, then discard a card for each card drawn this way.\nBasic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)",
       "originalType": "Instant",
       "printings": [
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -2775,7 +2782,8 @@
       "originalType": "Legendary Creature — Angel Horror",
       "power": "4",
       "printings": [
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -3197,7 +3205,8 @@
       "originalType": "Legendary Creature — Naga Wizard",
       "power": "3",
       "printings": [
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -3315,7 +3324,8 @@
       "originalType": "Legendary Creature — Bird Monk",
       "power": "1",
       "printings": [
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -3935,7 +3945,8 @@
       "originalText": "Create four 1/1 white Bird creature tokens with flying.\nBasic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)",
       "originalType": "Sorcery",
       "printings": [
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Create four 1/1 white Bird creature tokens with flying.\nBasic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)",
@@ -4131,7 +4142,8 @@
       "originalType": "Legendary Creature — Human Warrior",
       "power": "0",
       "printings": [
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -4598,7 +4610,8 @@
       "originalText": "Exile up to two target artifacts and/or enchantments.\nBasic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)",
       "originalType": "Instant",
       "printings": [
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Exile up to two target artifacts and/or enchantments.\nBasic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)",
@@ -5652,7 +5665,8 @@
       "originalType": "Artifact Creature — Construct",
       "power": "1",
       "printings": [
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -5853,7 +5867,8 @@
       "originalType": "Land",
       "printings": [
         "C16",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}: Add {C}.\nBasic landcycling {1} ({1}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand, then shuffle your library.)",
@@ -5941,7 +5956,8 @@
       "printings": [
         "KTK",
         "C16",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -6249,7 +6265,8 @@
       "originalType": "Enchantment",
       "printings": [
         "KTK",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -6342,7 +6359,8 @@
       "printings": [
         "AVR",
         "C14",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -6433,7 +6451,8 @@
       "originalType": "Enchantment",
       "printings": [
         "FRF",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -6529,7 +6548,8 @@
       "power": "0",
       "printings": [
         "CNS",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -6717,7 +6737,8 @@
       "power": "2",
       "printings": [
         "FRF",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -7670,7 +7691,8 @@
       "printings": [
         "MOR",
         "MMA",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -9130,7 +9152,8 @@
       "printings": [
         "pFNM",
         "KTK",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -9637,7 +9660,8 @@
       "originalType": "Sorcery",
       "printings": [
         "CMD",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -10249,7 +10273,8 @@
       "printings": [
         "NPH",
         "MM2",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -10358,7 +10383,8 @@
       "printings": [
         "SOM",
         "MM2",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -10471,7 +10497,8 @@
       "originalType": "Sorcery",
       "printings": [
         "KTK",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -10783,7 +10810,8 @@
         "CMD",
         "C15",
         "C16",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.",
@@ -10956,7 +10984,8 @@
       "power": "4",
       "printings": [
         "LGN",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -11373,7 +11402,8 @@
       "power": "0",
       "printings": [
         "MOR",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -11799,7 +11829,8 @@
         "pPRE",
         "pMGD",
         "ORI",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "All creatures get -4/-4 until end of turn.",
@@ -11885,7 +11916,8 @@
       "power": "1",
       "printings": [
         "RAV",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -12398,7 +12430,8 @@
       "printings": [
         "ISD",
         "C14",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -12595,7 +12628,8 @@
         "VMA",
         "C14",
         "C16",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -12699,7 +12733,8 @@
       "originalType": "Planeswalker — Daretti",
       "printings": [
         "C14",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -13959,7 +13994,8 @@
         "HOP",
         "ARC",
         "C15",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -14482,7 +14518,8 @@
       "printings": [
         "NPH",
         "C14",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Whipflare deals 2 damage to each nonartifact creature.",
@@ -14860,7 +14897,8 @@
       "power": "1",
       "printings": [
         "AVR",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -15060,7 +15098,8 @@
         "PCA",
         "E01",
         "C17",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -15452,7 +15491,8 @@
         "C15",
         "CN2",
         "C16",
-        "E01"
+        "E01",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -15662,7 +15702,8 @@
       "printings": [
         "pPRE",
         "KTK",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -15758,7 +15799,8 @@
       "printings": [
         "DTK",
         "C16",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -15855,7 +15897,8 @@
       "power": "0",
       "printings": [
         "M14",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -17089,7 +17132,8 @@
         "CMD",
         "M14",
         "C16",
-        "MM3"
+        "MM3",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -17282,7 +17326,8 @@
       "originalType": "Instant",
       "printings": [
         "JOU",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -17789,7 +17834,8 @@
       "power": "2",
       "printings": [
         "KTK",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -19145,7 +19191,8 @@
       "originalType": "Enchantment",
       "printings": [
         "DGM",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -19554,7 +19601,8 @@
         "pPRE",
         "RTR",
         "C16",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -19980,7 +20028,8 @@
       "printings": [
         "pPRE",
         "KTK",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -20182,7 +20231,8 @@
       "printings": [
         "DTK",
         "C16",
-        "BBD"
+        "BBD",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -20388,7 +20438,8 @@
       "printings": [
         "pPRE",
         "GTC",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -20622,7 +20673,8 @@
       "power": "0",
       "printings": [
         "CMD",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "subtypes": [
@@ -21375,7 +21427,8 @@
         "CSP",
         "DDG",
         "CN2",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -21681,7 +21734,8 @@
       "power": "2",
       "printings": [
         "GTC",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -21780,7 +21834,8 @@
       "printings": [
         "GTC",
         "C16",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -21881,7 +21936,8 @@
         "C16",
         "CMA",
         "C17",
-        "E02"
+        "E02",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -22421,7 +22477,8 @@
         "C15",
         "C16",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -23442,7 +23499,8 @@
       "power": "1",
       "printings": [
         "DGM",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -23548,7 +23606,8 @@
         "CMD",
         "C15",
         "C16",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -24240,7 +24299,8 @@
       "originalType": "Instant",
       "printings": [
         "SHM",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -24456,7 +24516,8 @@
       "originalType": "Sorcery",
       "printings": [
         "EVE",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -25330,7 +25391,8 @@
       "originalType": "Artifact",
       "printings": [
         "BNG",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -25620,7 +25682,8 @@
       "originalType": "Artifact",
       "printings": [
         "SHM",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -25819,7 +25882,8 @@
         "C14",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -26011,7 +26075,8 @@
         "C15",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Indestructible\n{T}: Add one mana of any color.",
@@ -26274,7 +26339,8 @@
         "DDF",
         "C14",
         "MM2",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -26367,7 +26433,8 @@
         "CMD",
         "C15",
         "C16",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -26486,7 +26553,8 @@
         "C15",
         "C16",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {B}{G}.",
@@ -26771,7 +26839,8 @@
         "MBS",
         "C14",
         "C16",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -26955,7 +27024,8 @@
         "MPS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -27052,7 +27122,8 @@
         "C14",
         "C15",
         "C16",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -27137,7 +27208,8 @@
         "NPH",
         "C14",
         "C16",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -27226,7 +27298,8 @@
         "C13",
         "C14",
         "C16",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -27329,7 +27402,8 @@
         "MRD",
         "MMA",
         "C14",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -27519,7 +27593,8 @@
         "C16",
         "MM3",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {W}{B}.",
@@ -27895,7 +27970,8 @@
         "C15",
         "C16",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {G}{U}.",
@@ -28081,7 +28157,8 @@
         "MPS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}{C}.",
@@ -28167,7 +28244,8 @@
         "C15",
         "MPS",
         "C16",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -28458,7 +28536,8 @@
         "C16",
         "CMA",
         "C17",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -28629,7 +28708,8 @@
         "M13",
         "M14",
         "C14",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "{1}, {T}, Discard a card: You gain 4 life.\n{1}, {T}, Pay 1 life: Create a 0/1 white Goat creature token.\n{1}, {T}, Sacrifice a creature: Return target artifact card from your graveyard to your hand.\n{1}, {T}, Sacrifice an artifact: Draw a card.",
@@ -28899,7 +28979,8 @@
         "C13",
         "C16",
         "MM3",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Arcane Sanctum enters the battlefield tapped.\n{T}: Add {W}, {U}, or {B}.",
@@ -28987,7 +29068,8 @@
         "MM2",
         "C16",
         "CMA",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -29083,7 +29165,8 @@
         "C16",
         "CMA",
         "C17",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -29169,7 +29252,8 @@
       "printings": [
         "M12",
         "C14",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice Buried Ruin: Return target artifact card from your graveyard to your hand.",
@@ -29351,7 +29435,8 @@
         "C15",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -29543,7 +29628,8 @@
         "C14",
         "MM2",
         "C16",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -29629,7 +29715,8 @@
       "originalType": "Land",
       "printings": [
         "ODY",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "{1}, {T}: Add {U}{B}.",
@@ -29717,7 +29804,8 @@
         "C16",
         "PCA",
         "C17",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -30001,7 +30089,8 @@
       "printings": [
         "TSP",
         "CMD",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}.\n{1}, {T}: Put a storage counter on Dreadship Reef.\n{1}, Remove X storage counters from Dreadship Reef: Add X mana in any combination of {U} and/or {B}.",
@@ -30112,7 +30201,8 @@
         "CMA",
         "C17",
         "IMA",
-        "RIX"
+        "RIX",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
@@ -30195,7 +30285,8 @@
         "CN2",
         "C16",
         "PCA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -30479,7 +30570,8 @@
         "C15",
         "C16",
         "CMA",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -31378,7 +31470,8 @@
       "printings": [
         "MOR",
         "V12",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -31726,7 +31819,8 @@
         "C13",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -31829,7 +31923,8 @@
       "printings": [
         "KTK",
         "C16",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Opulent Palace enters the battlefield tapped.\n{T}: Add {B}, {G}, or {U}.",
@@ -32120,6 +32215,7 @@
         "C14",
         "C15",
         "C16",
+        "CM2",
         "M19"
       ],
       "rarity": "Uncommon",
@@ -32414,6 +32510,7 @@
         "C16",
         "PCA",
         "CMA",
+        "CM2",
         "M19"
       ],
       "rarity": "Common",
@@ -32500,7 +32597,8 @@
         "KTK",
         "CP3",
         "C16",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Sandsteppe Citadel enters the battlefield tapped.\n{T}: Add {W}, {B}, or {G}.",
@@ -32680,7 +32778,8 @@
         "C16",
         "MM3",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Seaside Citadel enters the battlefield tapped.\n{T}: Add {G}, {W}, or {U}.",
@@ -33040,7 +33139,8 @@
         "MM2",
         "C15",
         "C16",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -33225,7 +33325,8 @@
       "originalType": "Land",
       "printings": [
         "ODY",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "{1}, {T}: Add {G}{W}.",
@@ -33503,7 +33604,8 @@
         "C15",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}{C}. Activate this ability only if you control five or more lands.",
@@ -33600,7 +33702,8 @@
         "C16",
         "PCA",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",
@@ -33857,7 +33960,8 @@
         "DKM",
         "9ED",
         "10E",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "{T}: Add {C}.\n{T}: Add {U} or {B}. Underground River deals 1 damage to you.",
@@ -34212,6 +34316,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -34485,6 +34590,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -34758,6 +34864,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35031,6 +35138,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35304,6 +35412,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35577,6 +35686,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35853,6 +35963,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -36128,6 +36239,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -36403,6 +36515,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -36681,6 +36794,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -36960,6 +37074,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -37239,6 +37354,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -37515,6 +37631,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -37791,6 +37908,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -38067,6 +38185,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

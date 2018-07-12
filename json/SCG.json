@@ -10249,7 +10249,8 @@
         "C15",
         "CN2",
         "C16",
-        "E01"
+        "E01",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -12201,7 +12202,8 @@
         "C15",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}{C}. Activate this ability only if you control five or more lands.",

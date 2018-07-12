@@ -12220,7 +12220,8 @@
         "10E",
         "DPA",
         "CMD",
-        "DDL"
+        "DDL",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -13266,7 +13267,8 @@
       "printings": [
         "MRD",
         "HOP",
-        "C14"
+        "C14",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -13357,7 +13359,8 @@
         "DD2",
         "C14",
         "DD3_JVC",
-        "TPR"
+        "TPR",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -13440,7 +13443,8 @@
         "USG",
         "MRD",
         "C14",
-        "MM2"
+        "MM2",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -17839,7 +17843,8 @@
         "MPS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -18016,7 +18021,8 @@
         "C14",
         "C15",
         "C16",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -19245,7 +19251,8 @@
         "MRD",
         "MMA",
         "C14",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -19817,7 +19824,8 @@
         "MRD",
         "CMD",
         "MPS",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "{4}, {T}: Put a fate counter on target permanent.\n{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.",
@@ -20168,7 +20176,8 @@
         "HOP",
         "DDF",
         "M12",
-        "C14"
+        "C14",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -21825,7 +21834,8 @@
         "C15",
         "MPS",
         "C16",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -24963,7 +24973,8 @@
         "MRD",
         "HOP",
         "C14",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}: Add {R}.",
@@ -25583,6 +25594,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -25872,6 +25884,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -26161,6 +26174,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -26450,6 +26464,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -26739,6 +26754,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27028,6 +27044,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27317,6 +27334,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27606,6 +27624,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27898,6 +27917,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -28189,6 +28209,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -28480,6 +28501,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -28771,6 +28793,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -29065,6 +29088,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -29360,6 +29384,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -29655,6 +29680,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -29950,6 +29976,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30242,6 +30269,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30534,6 +30562,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30826,6 +30855,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31118,6 +31148,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

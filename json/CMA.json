@@ -1187,7 +1187,8 @@
         "HOP",
         "CMD",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "Kicker {R} (You may pay an additional {R} as you cast this spell.)\nDestroy target artifact or enchantment. If this spell was kicked, it deals damage equal to that permanent's converted mana cost to target creature.",
@@ -2786,7 +2787,8 @@
         "CMD",
         "C13",
         "EMA",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -3186,7 +3188,8 @@
         "DDP",
         "C15",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -3737,7 +3740,8 @@
         "CMD",
         "C15",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -4144,6 +4148,7 @@
         "C15",
         "EMN",
         "CMA",
+        "CM2",
         "M19"
       ],
       "rarity": "Uncommon",
@@ -4410,7 +4415,8 @@
       "originalType": "Sorcery",
       "printings": [
         "CMD",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Each other player sacrifices a creature. You create a 2/2 black Zombie creature token for each creature sacrificed this way.",
@@ -4460,7 +4466,8 @@
         "CMD",
         "C14",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "Each other player discards a card. You draw a card for each card discarded this way.",
@@ -4640,7 +4647,8 @@
       "printings": [
         "CMD",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -5261,7 +5269,8 @@
         "CMD",
         "C15",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -5746,7 +5755,8 @@
         "C13",
         "DDM",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -6820,7 +6830,8 @@
         "DDJ",
         "MMA",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -10223,7 +10234,8 @@
         "CMD",
         "VMA",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Each opponent sacrifices an artifact or enchantment.",
@@ -11956,7 +11968,8 @@
         "C16",
         "CMA",
         "C17",
-        "E02"
+        "E02",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -12085,7 +12098,8 @@
         "C15",
         "C16",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -12535,7 +12549,8 @@
         "CMD",
         "C15",
         "C16",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -13441,7 +13456,8 @@
         "ME4",
         "C13",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -13569,7 +13585,8 @@
         "C15",
         "MM3",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {R}{W}.",
@@ -13610,7 +13627,8 @@
         "C14",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -13722,7 +13740,8 @@
         "C15",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Indestructible\n{T}: Add one mana of any color.",
@@ -13901,7 +13920,8 @@
         "C15",
         "C16",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {B}{G}.",
@@ -13999,7 +14019,8 @@
         "MPS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -14047,7 +14068,8 @@
       "originalType": "Artifact",
       "printings": [
         "C14",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -14153,7 +14175,8 @@
         "C16",
         "MM3",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {W}{B}.",
@@ -14202,7 +14225,8 @@
         "C14",
         "BFZ",
         "EMA",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -14358,7 +14382,8 @@
         "C14",
         "DDP",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -14478,7 +14503,8 @@
         "C15",
         "C16",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {G}{U}.",
@@ -14590,7 +14616,8 @@
         "MPS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}{C}.",
@@ -14687,7 +14714,8 @@
         "C16",
         "CMA",
         "C17",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -14785,7 +14813,8 @@
       "originalType": "Artifact",
       "printings": [
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "You have no maximum hand size.\n{T}: Add {C}.",
@@ -14999,7 +15028,8 @@
         "MM2",
         "C16",
         "CMA",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -15163,7 +15193,8 @@
         "C14",
         "DD3_DVD",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -15274,7 +15305,8 @@
         "C16",
         "CMA",
         "C17",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -15324,7 +15356,8 @@
         "C15",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -15456,7 +15489,8 @@
         "CMA",
         "C17",
         "IMA",
-        "RIX"
+        "RIX",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
@@ -15566,7 +15600,8 @@
         "DD3_EVG",
         "C15",
         "CMA",
-        "DDT"
+        "DDT",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -15661,7 +15696,8 @@
         "MD1",
         "C14",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -15791,7 +15827,8 @@
         "C15",
         "C16",
         "CMA",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -16240,7 +16277,8 @@
         "C13",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -16559,6 +16597,7 @@
         "C16",
         "PCA",
         "CMA",
+        "CM2",
         "M19"
       ],
       "rarity": "Common",
@@ -16661,7 +16700,8 @@
         "C16",
         "MM3",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Seaside Citadel enters the battlefield tapped.\n{T}: Add {G}, {W}, or {U}.",
@@ -16711,7 +16751,8 @@
         "DDO",
         "C15",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -17112,7 +17153,8 @@
         "C15",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}{C}. Activate this ability only if you control five or more lands.",
@@ -17171,7 +17213,8 @@
         "C16",
         "PCA",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",
@@ -17221,7 +17264,8 @@
         "DD3_EVG",
         "CMA",
         "C17",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -17425,7 +17469,8 @@
         "MMA",
         "C15",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Vivid Meadow enters the battlefield tapped with two charge counters on it.\n{T}: Add {W}.\n{T}, Remove a charge counter from Vivid Meadow: Add one mana of any color.",
@@ -17641,6 +17686,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -17812,6 +17858,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -17983,6 +18030,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -18154,6 +18202,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -18325,6 +18374,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -18496,6 +18546,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -18667,6 +18718,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -18838,6 +18890,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -19009,6 +19062,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -19176,6 +19230,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -19343,6 +19398,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -19510,6 +19566,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -19680,6 +19737,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -19853,6 +19911,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -20026,6 +20085,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -20199,6 +20259,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -20372,6 +20433,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -20545,6 +20607,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -20718,6 +20781,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -20891,6 +20955,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -21067,6 +21132,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -21240,6 +21306,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -21413,6 +21480,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -21586,6 +21654,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -21756,6 +21825,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -21934,6 +22004,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -22112,6 +22183,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -22290,6 +22362,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -22468,6 +22541,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -22646,6 +22720,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -22824,6 +22899,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -23002,6 +23078,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -23180,6 +23257,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -23358,6 +23436,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -23536,6 +23615,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -23714,6 +23794,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

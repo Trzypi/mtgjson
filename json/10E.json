@@ -9017,7 +9017,8 @@
       "printings": [
         "LGN",
         "10E",
-        "CMD"
+        "CMD",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -15849,7 +15850,8 @@
         "9ED",
         "10E",
         "HOP",
-        "CMD"
+        "CMD",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -16085,6 +16087,7 @@
         "TPR",
         "EMA",
         "AKH",
+        "CM2",
         "M19"
       ],
       "rarity": "Common",
@@ -17736,7 +17739,8 @@
         "9ED",
         "10E",
         "DPA",
-        "CMD"
+        "CMD",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -33955,7 +33959,8 @@
         "10E",
         "DPA",
         "CMD",
-        "DDL"
+        "DDL",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -34728,7 +34733,8 @@
         "DD2",
         "C14",
         "DD3_JVC",
-        "TPR"
+        "TPR",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -36865,7 +36871,8 @@
         "C14",
         "C15",
         "C16",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -37186,7 +37193,8 @@
         "DD3_JVC",
         "DDP",
         "C15",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice Mind Stone: Draw a card.",
@@ -39870,7 +39878,8 @@
         "C16",
         "PCA",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",
@@ -40080,7 +40089,8 @@
         "DKM",
         "9ED",
         "10E",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "{T}: Add {C}.\n{T}: Add {U} or {B}. Underground River deals 1 damage to you.",
@@ -40471,6 +40481,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -40765,6 +40776,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -41059,6 +41071,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -41353,6 +41366,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -41647,6 +41661,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -41941,6 +41956,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -42235,6 +42251,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -42529,6 +42546,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -42826,6 +42844,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -43122,6 +43141,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -43418,6 +43438,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -43714,6 +43735,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -44013,6 +44035,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -44313,6 +44336,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -44613,6 +44637,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -44913,6 +44938,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -45210,6 +45236,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -45507,6 +45534,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -45804,6 +45832,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -46101,6 +46130,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

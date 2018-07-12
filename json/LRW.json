@@ -245,7 +245,8 @@
       "printings": [
         "LRW",
         "CMD",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -1229,7 +1230,8 @@
       "originalType": "Tribal Instant — Shapeshifter",
       "printings": [
         "LRW",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -8327,7 +8329,8 @@
         "C14",
         "DD3_JVC",
         "MM2",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -18827,7 +18830,8 @@
         "LRW",
         "M13",
         "C15",
-        "CN2"
+        "CN2",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -19140,7 +19144,8 @@
         "LRW",
         "DD2",
         "DD3_JVC",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -19566,7 +19571,8 @@
         "LRW",
         "DD2",
         "C14",
-        "DD3_JVC"
+        "DD3_JVC",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -20776,7 +20782,8 @@
       "printings": [
         "LRW",
         "MMA",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -20878,7 +20885,8 @@
       "power": "5",
       "printings": [
         "LRW",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -21195,7 +21203,8 @@
       "printings": [
         "LRW",
         "MMA",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -28858,7 +28867,8 @@
       "originalType": "Land",
       "printings": [
         "LRW",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "As Ancient Amphitheater enters the battlefield, you may reveal a Giant card from your hand. If you don't, Ancient Amphitheater enters the battlefield tapped.\n{T}: Add {R} or {W}.",
@@ -29748,7 +29758,8 @@
         "MMA",
         "C13",
         "C15",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Vivid Crag enters the battlefield tapped with two charge counters on it.\n{T}: Add {R}.\n{T}, Remove a charge counter from Vivid Crag: Add one mana of any color.",
@@ -30146,7 +30157,8 @@
         "MMA",
         "C15",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Vivid Meadow enters the battlefield tapped with two charge counters on it.\n{T}: Add {W}.\n{T}, Remove a charge counter from Vivid Meadow: Add one mana of any color.",
@@ -30627,6 +30639,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30921,6 +30934,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31215,6 +31229,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31509,6 +31524,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31803,6 +31819,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -32097,6 +32114,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -32391,6 +32409,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -32685,6 +32704,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -32982,6 +33002,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -33278,6 +33299,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -33574,6 +33596,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -33870,6 +33893,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -34169,6 +34193,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -34469,6 +34494,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -34769,6 +34795,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35069,6 +35096,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35366,6 +35394,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35663,6 +35692,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35960,6 +35990,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -36257,6 +36288,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

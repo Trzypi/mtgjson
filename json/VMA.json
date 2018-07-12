@@ -1710,7 +1710,8 @@
         "VMA",
         "C15",
         "EMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -3905,7 +3906,8 @@
         "VMA",
         "DD3_JVC",
         "C15",
-        "EMA"
+        "EMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -6580,7 +6582,8 @@
         "CMD",
         "PC2",
         "VMA",
-        "PCA"
+        "PCA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -7408,7 +7411,8 @@
         "VMA",
         "V14",
         "TPR",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -8855,7 +8859,8 @@
         "DDN",
         "C14",
         "EMA",
-        "PCA"
+        "PCA",
+        "CM2"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -9132,7 +9137,8 @@
         "VMA",
         "C14",
         "C16",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -9500,7 +9506,8 @@
         "VMA",
         "C14",
         "DD3_JVC",
-        "E01"
+        "E01",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -11171,7 +11178,8 @@
         "ONS",
         "C13",
         "VMA",
-        "C14"
+        "C14",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -14038,7 +14046,8 @@
         "CMD",
         "VMA",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "Each opponent sacrifices an artifact or enchantment.",
@@ -14142,7 +14151,8 @@
         "UDS",
         "DDE",
         "CMD",
-        "VMA"
+        "VMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -16677,7 +16687,8 @@
         "MPS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "text": "{T}: Add {C}{C}.",
@@ -17147,7 +17158,8 @@
         "C14",
         "DD3_DVD",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -17403,7 +17415,8 @@
         "DD3_EVG",
         "C15",
         "CMA",
-        "DDT"
+        "DDT",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -17745,7 +17758,8 @@
         "C13",
         "VMA",
         "C14",
-        "DDT"
+        "DDT",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -18278,7 +18292,8 @@
         "DDO",
         "C15",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -18588,7 +18603,8 @@
         "DD3_EVG",
         "CMA",
         "C17",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [

@@ -5663,7 +5663,8 @@
         "DDP",
         "C15",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -12929,7 +12930,8 @@
       "power": "5",
       "printings": [
         "WWK",
-        "CMD"
+        "CMD",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -13233,7 +13235,8 @@
         "DDF",
         "C14",
         "MM2",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -13729,7 +13732,8 @@
         "C14",
         "BFZ",
         "EMA",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -13932,7 +13936,8 @@
         "C14",
         "DDP",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [

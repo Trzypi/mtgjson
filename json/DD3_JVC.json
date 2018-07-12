@@ -463,7 +463,8 @@
         "DD2",
         "C14",
         "DD3_JVC",
-        "TPR"
+        "TPR",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -774,7 +775,8 @@
         "C14",
         "DD3_JVC",
         "MM2",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -1556,7 +1558,8 @@
         "DD3_JVC",
         "DDP",
         "C15",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice Mind Stone: Draw a card.",
@@ -1802,7 +1805,8 @@
         "VMA",
         "DD3_JVC",
         "C15",
-        "EMA"
+        "EMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -2134,6 +2138,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -2301,6 +2306,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -2468,6 +2474,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -2635,6 +2642,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -3206,7 +3214,8 @@
         "VMA",
         "C14",
         "DD3_JVC",
-        "E01"
+        "E01",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -3398,7 +3407,8 @@
         "LRW",
         "DD2",
         "C14",
-        "DD3_JVC"
+        "DD3_JVC",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -3591,7 +3601,8 @@
         "LRW",
         "DD2",
         "DD3_JVC",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -4438,6 +4449,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -4611,6 +4623,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -4784,6 +4797,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -4957,6 +4971,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

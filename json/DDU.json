@@ -2113,7 +2113,8 @@
         "DD3_EVG",
         "CMA",
         "C17",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -2371,6 +2372,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -2563,6 +2565,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -2755,6 +2758,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -2947,6 +2951,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -3013,7 +3018,8 @@
         "pJGP",
         "ULG",
         "C14",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -4320,7 +4326,8 @@
         "MBS",
         "C14",
         "C16",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -4444,7 +4451,8 @@
         "NPH",
         "C14",
         "C16",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -4503,7 +4511,8 @@
         "C13",
         "C14",
         "C16",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -4575,7 +4584,8 @@
       "printings": [
         "MBS",
         "C14",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -4825,7 +4835,8 @@
         "C15",
         "MPS",
         "C16",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -5004,7 +5015,8 @@
         "C14",
         "MM2",
         "C16",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -5114,7 +5126,8 @@
         "MRD",
         "HOP",
         "C14",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}: Add {R}.",
@@ -5165,7 +5178,8 @@
       "printings": [
         "NPH",
         "C14",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -5586,6 +5600,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -5763,6 +5778,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -5946,6 +5962,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -6129,6 +6146,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

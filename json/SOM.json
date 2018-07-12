@@ -5260,7 +5260,8 @@
       "printings": [
         "SOM",
         "MM2",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -10511,7 +10512,8 @@
       "power": "5",
       "printings": [
         "SOM",
-        "C14"
+        "C14",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -19239,7 +19241,8 @@
       "originalType": "Artifact",
       "printings": [
         "SOM",
-        "C14"
+        "C14",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -20254,7 +20257,8 @@
         "C13",
         "C14",
         "C16",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -21353,7 +21357,8 @@
       "printings": [
         "SOM",
         "C14",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -21451,7 +21456,8 @@
       "originalType": "Artifact",
       "printings": [
         "SOM",
-        "C14"
+        "C14",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Panic Spellbomb: Target creature can't block this turn.\nWhen Panic Spellbomb is put into a graveyard from the battlefield, you may pay {R}. If you do, draw a card.",
@@ -23037,7 +23043,8 @@
         "pLPA",
         "SOM",
         "C14",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -24952,7 +24959,8 @@
         "pPRE",
         "SOM",
         "C14",
-        "MPS"
+        "MPS",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -25887,6 +25895,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -26181,6 +26190,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -26475,6 +26485,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -26769,6 +26780,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27063,6 +27075,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27357,6 +27370,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27651,6 +27665,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27945,6 +27960,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -28242,6 +28258,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -28538,6 +28555,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -28834,6 +28852,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -29130,6 +29149,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -29429,6 +29449,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -29729,6 +29750,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30029,6 +30051,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30329,6 +30352,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30626,6 +30650,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30923,6 +30948,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31220,6 +31246,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31517,6 +31544,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

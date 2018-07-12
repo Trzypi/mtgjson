@@ -4696,7 +4696,8 @@
         "CMD",
         "C15",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -15160,7 +15161,8 @@
         "CN2",
         "C16",
         "PCA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -15279,6 +15281,7 @@
         "C14",
         "C15",
         "C16",
+        "CM2",
         "M19"
       ],
       "rarity": "Uncommon",
@@ -15384,6 +15387,7 @@
         "C16",
         "PCA",
         "CMA",
+        "CM2",
         "M19"
       ],
       "rarity": "Common",

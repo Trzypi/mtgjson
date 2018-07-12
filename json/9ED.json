@@ -14317,7 +14317,8 @@
         "9ED",
         "10E",
         "HOP",
-        "CMD"
+        "CMD",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -14442,6 +14443,7 @@
         "TPR",
         "EMA",
         "AKH",
+        "CM2",
         "M19"
       ],
       "rarity": "Common",
@@ -15616,7 +15618,8 @@
         "9ED",
         "10E",
         "DPA",
-        "CMD"
+        "CMD",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -31022,7 +31025,8 @@
         "DD2",
         "C14",
         "DD3_JVC",
-        "TPR"
+        "TPR",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -31738,7 +31742,8 @@
         "CMD",
         "C15",
         "C16",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -32400,7 +32405,8 @@
         "C14",
         "C15",
         "C16",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -34696,7 +34702,8 @@
         "DKM",
         "9ED",
         "10E",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "{T}: Add {C}.\n{T}: Add {U} or {B}. Underground River deals 1 damage to you.",
@@ -35367,6 +35374,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35661,6 +35669,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35955,6 +35964,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -36249,6 +36259,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -36543,6 +36554,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -36837,6 +36849,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -37131,6 +37144,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -37425,6 +37439,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -37722,6 +37737,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -38018,6 +38034,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -38314,6 +38331,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -38610,6 +38628,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -38909,6 +38928,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -39209,6 +39229,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -39509,6 +39530,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -39809,6 +39831,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -40106,6 +40129,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -40403,6 +40427,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -40700,6 +40725,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -40997,6 +41023,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

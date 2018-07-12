@@ -13499,7 +13499,8 @@
         "CSP",
         "DDG",
         "CN2",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -14144,7 +14145,8 @@
       "originalType": "Snow Artifact",
       "printings": [
         "CSP",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "supertypes": [

@@ -47,7 +47,8 @@
         "VMA",
         "C14",
         "C16",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -113,7 +114,8 @@
         "C15",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -768,7 +770,8 @@
       "power": "0",
       "printings": [
         "CMD",
-        "CM1"
+        "CM1",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [

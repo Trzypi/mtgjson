@@ -2075,7 +2075,8 @@
         "DDL",
         "C14",
         "C15",
-        "E01"
+        "E01",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -3703,7 +3704,8 @@
         "pJGP",
         "C14",
         "EMA",
-        "E01"
+        "E01",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -3868,7 +3870,8 @@
         "VMA",
         "C14",
         "DD3_JVC",
-        "E01"
+        "E01",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -4186,7 +4189,8 @@
         "M12",
         "C13",
         "C15",
-        "E01"
+        "E01",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -4753,7 +4757,8 @@
         "PCA",
         "E01",
         "C17",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -4943,7 +4948,8 @@
         "C15",
         "CN2",
         "C16",
-        "E01"
+        "E01",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -7084,6 +7090,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -7249,6 +7256,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -7417,6 +7425,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -7587,6 +7596,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -7755,6 +7765,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -7920,6 +7931,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -8085,6 +8097,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -8253,6 +8266,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -8423,6 +8437,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -8591,6 +8606,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

@@ -12434,6 +12434,7 @@
         "C15",
         "EMN",
         "CMA",
+        "CM2",
         "M19"
       ],
       "rarity": "Uncommon",
@@ -12783,7 +12784,8 @@
         "M15",
         "C14",
         "DD3_GVL",
-        "MM2"
+        "MM2",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "Target player draws two cards and loses 2 life.",
@@ -15714,7 +15716,8 @@
         "LRW",
         "M13",
         "C15",
-        "CN2"
+        "CN2",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -16173,7 +16176,8 @@
         "pMGD",
         "M13",
         "C14",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -18401,7 +18405,8 @@
         "C13",
         "DDM",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -24819,7 +24824,8 @@
         "pLPA",
         "M13",
         "C15",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "At the beginning of your upkeep, draw a card.\n{T}: Staff of Nin deals 1 damage to any target.",
@@ -25123,7 +25129,8 @@
         "M13",
         "M14",
         "C14",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "{1}, {T}, Discard a card: You gain 4 life.\n{1}, {T}, Pay 1 life: Create a 0/1 white Goat creature token.\n{1}, {T}, Sacrifice a creature: Return target artifact card from your graveyard to your hand.\n{1}, {T}, Sacrifice an artifact: Draw a card.",
@@ -25581,7 +25588,8 @@
         "CMA",
         "C17",
         "IMA",
-        "RIX"
+        "RIX",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
@@ -25901,6 +25909,7 @@
         "C14",
         "C15",
         "C16",
+        "CM2",
         "M19"
       ],
       "rarity": "Uncommon",
@@ -26428,6 +26437,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -26722,6 +26732,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27016,6 +27027,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27310,6 +27322,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27604,6 +27617,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -27898,6 +27912,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -28192,6 +28207,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -28486,6 +28502,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -28783,6 +28800,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -29079,6 +29097,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -29375,6 +29394,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -29671,6 +29691,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -29970,6 +29991,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30270,6 +30292,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30570,6 +30593,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -30870,6 +30894,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31167,6 +31192,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31464,6 +31490,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31761,6 +31788,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -32058,6 +32086,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

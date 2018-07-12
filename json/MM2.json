@@ -174,7 +174,8 @@
         "CMD",
         "C14",
         "MM2",
-        "DDP"
+        "DDP",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -4052,7 +4053,8 @@
         "C14",
         "DD3_JVC",
         "MM2",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -4978,7 +4980,8 @@
       "printings": [
         "NPH",
         "MM2",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -5128,7 +5131,8 @@
       "printings": [
         "SOM",
         "MM2",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -7545,7 +7549,8 @@
         "M15",
         "C14",
         "DD3_GVL",
-        "MM2"
+        "MM2",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "Target player draws two cards and loses 2 life.",
@@ -9971,7 +9976,8 @@
         "CMD",
         "C13",
         "C14",
-        "MM2"
+        "MM2",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -15916,7 +15922,8 @@
         "USG",
         "MRD",
         "C14",
-        "MM2"
+        "MM2",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -16535,7 +16542,8 @@
         "DDF",
         "C14",
         "MM2",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -18076,7 +18084,8 @@
         "C14",
         "MM2",
         "C15",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{2}, {T}, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.",
@@ -18139,7 +18148,8 @@
         "MM2",
         "C16",
         "CMA",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -18286,7 +18296,8 @@
         "C16",
         "CMA",
         "C17",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -18351,7 +18362,8 @@
         "C14",
         "MM2",
         "C16",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -18421,7 +18433,8 @@
         "C16",
         "PCA",
         "C17",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -18578,7 +18591,8 @@
         "CMA",
         "C17",
         "IMA",
-        "RIX"
+        "RIX",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
@@ -18718,7 +18732,8 @@
         "C15",
         "C16",
         "CMA",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -19157,7 +19172,8 @@
         "MM2",
         "C15",
         "C16",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [

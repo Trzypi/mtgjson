@@ -1636,7 +1636,8 @@
       "power": "0",
       "printings": [
         "CNS",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -7619,7 +7620,8 @@
         "VMA",
         "DD3_JVC",
         "C15",
-        "EMA"
+        "EMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -13340,7 +13342,8 @@
         "ZEN",
         "CMD",
         "CNS",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Destroy target artifact or enchantment and up to one other target artifact or enchantment.",
@@ -14442,7 +14445,8 @@
         "C16",
         "CMA",
         "C17",
-        "E02"
+        "E02",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [

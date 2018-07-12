@@ -4455,7 +4455,8 @@
         "CMD",
         "C13",
         "EMA",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -5939,7 +5940,8 @@
       "originalType": "Sorcery",
       "printings": [
         "JUD",
-        "CMD"
+        "CMD",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -8833,7 +8835,8 @@
       "printings": [
         "JUD",
         "CMD",
-        "EMA"
+        "EMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [

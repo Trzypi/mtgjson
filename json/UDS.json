@@ -7185,7 +7185,8 @@
         "UDS",
         "DDE",
         "CMD",
-        "VMA"
+        "VMA",
+        "CM2"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -7574,7 +7575,8 @@
       "power": "1",
       "printings": [
         "UDS",
-        "C14"
+        "C14",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -8088,7 +8090,8 @@
       "originalType": "Artifact",
       "printings": [
         "UDS",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [

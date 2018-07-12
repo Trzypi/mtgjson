@@ -395,7 +395,8 @@
         "DD3_JVC",
         "DDP",
         "C15",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice Mind Stone: Draw a card.",
@@ -1232,7 +1233,8 @@
         "WTH",
         "ODY",
         "CMD",
-        "PD3"
+        "PD3",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [

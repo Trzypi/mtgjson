@@ -179,7 +179,8 @@
       "originalType": "Creature — Angel",
       "power": "5",
       "printings": [
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -366,7 +367,8 @@
       "originalType": "Creature — Angel",
       "power": "4",
       "printings": [
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -484,7 +486,8 @@
       "originalType": "Creature — Giant Soldier",
       "power": "5",
       "printings": [
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -581,7 +584,8 @@
       "printings": [
         "C15",
         "C17",
-        "BBD"
+        "BBD",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -2446,7 +2450,8 @@
       "originalType": "Creature — Dragon",
       "power": "4",
       "printings": [
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -2547,7 +2552,8 @@
       "originalText": "Choose three. You may choose the same mode more than once.• Fiery Confluence deals 1 damage to each creature.• Fiery Confluence deals 2 damage to each opponent.• Destroy target artifact.",
       "originalType": "Sorcery",
       "printings": [
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -2655,7 +2661,8 @@
       "power": "3",
       "printings": [
         "C15",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -2742,7 +2749,8 @@
       "originalText": "Meteor Blast deals 4 damage to each of X target creatures and/or players.",
       "originalType": "Sorcery",
       "printings": [
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -2932,7 +2940,8 @@
       "originalText": "Creatures named Lightning Rager can't attack you or planeswalkers you control.At the beginning of each player's upkeep, that player puts a 5/1 red Elemental creature token named Lightning Rager onto the battlefield. It has trample, haste, and \"At the beginning of the end step, sacrifice this creature.\"",
       "originalType": "Enchantment",
       "printings": [
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -3018,7 +3027,8 @@
       "originalType": "Creature — Giant Warrior",
       "power": "5",
       "printings": [
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -3975,7 +3985,8 @@
       "originalType": "Legendary Creature — Angel",
       "power": "4",
       "printings": [
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -4383,7 +4394,8 @@
       "originalType": "Legendary Creature — Giant Soldier",
       "power": "3",
       "printings": [
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -5007,7 +5019,8 @@
       "originalText": "Equipped creature has myriad. (Whenever it attacks, for each opponent other than defending player, you may put a token that's a copy of that creature onto the battlefield tapped and attacking that player or a planeswalker he or she controls. Exile the tokens at end of combat.)Equip {4}",
       "originalType": "Artifact — Equipment",
       "printings": [
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -5127,7 +5140,8 @@
       "power": "4",
       "printings": [
         "C15",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -5381,7 +5395,8 @@
       "originalType": "Artifact",
       "printings": [
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "You have no maximum hand size.\n{T}: Add {C}.",
@@ -5651,7 +5666,8 @@
       "power": "5",
       "printings": [
         "RTR",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -5756,7 +5772,8 @@
       "printings": [
         "LRW",
         "CMD",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -5949,7 +5966,8 @@
       "printings": [
         "pFNM",
         "JOU",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -6357,7 +6375,8 @@
       "originalType": "Tribal Instant — Shapeshifter",
       "printings": [
         "LRW",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -6538,7 +6557,8 @@
       "power": "2",
       "printings": [
         "ROE",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -6712,7 +6732,8 @@
         "DDC",
         "DD3_DVD",
         "C15",
-        "EMA"
+        "EMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -6926,7 +6947,8 @@
         "VMA",
         "C15",
         "EMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -7587,7 +7609,8 @@
         "HOP",
         "CMD",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "Kicker {R} (You may pay an additional {R} as you cast this spell.)\nDestroy target artifact or enchantment. If this spell was kicked, it deals damage equal to that permanent's converted mana cost to target creature.",
@@ -7967,7 +7990,8 @@
         "DDL",
         "C14",
         "C15",
-        "E01"
+        "E01",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -8080,7 +8104,8 @@
       "printings": [
         "MBS",
         "C15",
-        "W17"
+        "W17",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -9127,7 +9152,8 @@
         "VMA",
         "DD3_JVC",
         "C15",
-        "EMA"
+        "EMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -9426,7 +9452,8 @@
         "C14",
         "DD3_JVC",
         "MM2",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -10741,7 +10768,8 @@
         "CMD",
         "C15",
         "C16",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.",
@@ -11381,7 +11409,8 @@
         "DDP",
         "C15",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -11980,7 +12009,8 @@
         "CMD",
         "C15",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -12962,6 +12992,7 @@
         "C15",
         "EMN",
         "CMA",
+        "CM2",
         "M19"
       ],
       "rarity": "Uncommon",
@@ -13543,7 +13574,8 @@
       "printings": [
         "CMD",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -13738,7 +13770,8 @@
       "power": "4",
       "printings": [
         "MOR",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -13822,7 +13855,8 @@
         "ARC",
         "DDG",
         "CMD",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Kicker {2} (You may pay an additional {2} as you cast this spell.)\nBreath of Darigaaz deals 1 damage to each creature without flying and each player. If this spell was kicked, it deals 4 damage to each creature without flying and each player instead.",
@@ -14208,7 +14242,8 @@
       "originalType": "Enchantment — Aura Curse",
       "printings": [
         "ISD",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -14305,7 +14340,8 @@
       "printings": [
         "APC",
         "TSB",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -14484,7 +14520,8 @@
         "ROE",
         "CMD",
         "C15",
-        "E02"
+        "E02",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "As an additional cost to cast this spell, reveal a creature card from your hand.\nDisaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost.",
@@ -14674,7 +14711,8 @@
         "CMD",
         "C15",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -14765,7 +14803,8 @@
         "DDK",
         "C14",
         "C15",
-        "EMA"
+        "EMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -14852,7 +14891,8 @@
       "originalType": "Instant",
       "printings": [
         "BNG",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -14943,7 +14983,8 @@
       "power": "3",
       "printings": [
         "BOK",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -15050,7 +15091,8 @@
         "LRW",
         "M13",
         "C15",
-        "CN2"
+        "CN2",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -15143,7 +15185,8 @@
       "power": "5",
       "printings": [
         "RAV",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -15231,7 +15274,8 @@
         "LRW",
         "DD2",
         "DD3_JVC",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -15336,7 +15380,8 @@
       "power": "6",
       "printings": [
         "RAV",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -15431,7 +15476,8 @@
         "M12",
         "C13",
         "C15",
-        "E01"
+        "E01",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -15524,7 +15570,8 @@
       "printings": [
         "PO2",
         "5DN",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -15611,7 +15658,8 @@
         "pMGD",
         "M13",
         "C14",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -15811,7 +15859,8 @@
       "printings": [
         "LRW",
         "MMA",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -15898,7 +15947,8 @@
       "printings": [
         "THS",
         "C15",
-        "CN2"
+        "CN2",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -16006,7 +16056,8 @@
       "power": "5",
       "printings": [
         "LRW",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -16096,7 +16147,8 @@
         "HOP",
         "ARC",
         "C15",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -16183,7 +16235,8 @@
       "printings": [
         "LRW",
         "MMA",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -16482,7 +16535,8 @@
         "PC2",
         "C13",
         "C15",
-        "PCA"
+        "PCA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -16574,7 +16628,8 @@
       "printings": [
         "TSP",
         "C14",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -16689,7 +16744,8 @@
         "C13",
         "DDM",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -17633,7 +17689,8 @@
         "DDJ",
         "MMA",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "subtypes": [
@@ -17842,7 +17899,8 @@
         "C15",
         "CN2",
         "C16",
-        "E01"
+        "E01",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -19946,7 +20004,8 @@
         "CMD",
         "VMA",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Each opponent sacrifices an artifact or enchantment.",
@@ -21211,7 +21270,8 @@
       "printings": [
         "AVR",
         "C15",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -22534,7 +22594,8 @@
         "C15",
         "C16",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -23146,7 +23207,8 @@
         "CMD",
         "C15",
         "C16",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -23732,7 +23794,8 @@
         "ME4",
         "C13",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -23919,7 +23982,8 @@
       "originalType": "Artifact",
       "printings": [
         "DGM",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}: Add {R} or {W}.\n{R}{W}, {T}, Sacrifice Boros Cluestone: Draw a card.",
@@ -24003,7 +24067,8 @@
         "C15",
         "MM3",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {R}{W}.",
@@ -24164,7 +24229,8 @@
       "originalType": "Snow Artifact",
       "printings": [
         "CSP",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "supertypes": [
@@ -24324,7 +24390,8 @@
         "C15",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Indestructible\n{T}: Add one mana of any color.",
@@ -24403,7 +24470,8 @@
         "CMD",
         "C14",
         "C15",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}{C}{C}.\n{3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards.",
@@ -24575,7 +24643,8 @@
         "CMD",
         "C15",
         "C16",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -24689,7 +24758,8 @@
         "C15",
         "C16",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {B}{G}.",
@@ -24858,7 +24928,8 @@
         "MPS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -24950,7 +25021,8 @@
         "C14",
         "C15",
         "C16",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -25035,7 +25107,8 @@
         "DD3_JVC",
         "DDP",
         "C15",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice Mind Stone: Draw a card.",
@@ -25280,7 +25353,8 @@
         "C16",
         "MM3",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {W}{B}.",
@@ -25452,7 +25526,8 @@
         "C14",
         "DDP",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -25642,7 +25717,8 @@
         "C15",
         "C16",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{1}, {T}: Add {G}{U}.",
@@ -25818,7 +25894,8 @@
         "MPS",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}{C}.",
@@ -25899,7 +25976,8 @@
         "C15",
         "MPS",
         "C16",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -25981,7 +26059,8 @@
         "pLPA",
         "M13",
         "C15",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "At the beginning of your upkeep, draw a card.\n{T}: Staff of Nin deals 1 damage to any target.",
@@ -26062,7 +26141,8 @@
         "C16",
         "CMA",
         "C17",
-        "A25"
+        "A25",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -26222,7 +26302,8 @@
       "originalType": "Artifact",
       "printings": [
         "UDS",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -26312,7 +26393,8 @@
         "C14",
         "MM2",
         "C15",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{2}, {T}, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.",
@@ -26387,7 +26469,8 @@
         "C14",
         "C15",
         "EMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Worn Powerstone enters the battlefield tapped.\n{T}: Add {C}{C}.",
@@ -26465,7 +26548,8 @@
       "originalType": "Land",
       "printings": [
         "LRW",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Rare",
       "text": "As Ancient Amphitheater enters the battlefield, you may reveal a Giant card from your hand. If you don't, Ancient Amphitheater enters the battlefield tapped.\n{T}: Add {R} or {W}.",
@@ -26546,7 +26630,8 @@
         "C14",
         "DD3_DVD",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -26621,7 +26706,8 @@
       "originalType": "Land",
       "printings": [
         "USG",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -26712,7 +26798,8 @@
         "C16",
         "CMA",
         "C17",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -26801,7 +26888,8 @@
         "C13",
         "C15",
         "MM3",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -26890,7 +26978,8 @@
         "C15",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -26980,7 +27069,8 @@
         "BRB",
         "C13",
         "C14",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -27092,7 +27182,8 @@
         "CMA",
         "C17",
         "IMA",
-        "RIX"
+        "RIX",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
@@ -27173,7 +27264,8 @@
         "DD3_EVG",
         "C15",
         "CMA",
-        "DDT"
+        "DDT",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -27257,7 +27349,8 @@
         "MD1",
         "C14",
         "C15",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -27451,7 +27544,8 @@
         "C15",
         "C16",
         "CMA",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -28698,6 +28792,7 @@
         "C14",
         "C15",
         "C16",
+        "CM2",
         "M19"
       ],
       "rarity": "Uncommon",
@@ -28954,7 +29049,8 @@
         "DDO",
         "C15",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -29041,7 +29137,8 @@
         "MM2",
         "C15",
         "C16",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -29312,7 +29409,8 @@
         "BTD",
         "C13",
         "C14",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -29735,7 +29833,8 @@
         "C15",
         "C16",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{T}: Add {C}{C}. Activate this ability only if you control five or more lands.",
@@ -29827,7 +29926,8 @@
         "C16",
         "PCA",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",
@@ -29991,7 +30091,8 @@
         "MMA",
         "C13",
         "C15",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Vivid Crag enters the battlefield tapped with two charge counters on it.\n{T}: Add {R}.\n{T}, Remove a charge counter from Vivid Crag: Add one mana of any color.",
@@ -30329,7 +30430,8 @@
         "MMA",
         "C15",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Vivid Meadow enters the battlefield tapped with two charge counters on it.\n{T}: Add {W}.\n{T}, Remove a charge counter from Vivid Meadow: Add one mana of any color.",
@@ -30409,7 +30511,8 @@
         "FRF",
         "C15",
         "EMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "Wind-Scarred Crag enters the battlefield tapped.\nWhen Wind-Scarred Crag enters the battlefield, you gain 1 life.\n{T}: Add {R} or {W}.",
@@ -30779,6 +30882,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31068,6 +31172,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31357,6 +31462,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31646,6 +31752,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -31935,6 +32042,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -32224,6 +32332,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -32513,6 +32622,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -32802,6 +32912,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -33094,6 +33205,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -33385,6 +33497,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -33676,6 +33789,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -33967,6 +34081,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -34261,6 +34376,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -34556,6 +34672,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -34851,6 +34968,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35146,6 +35264,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35438,6 +35557,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -35730,6 +35850,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -36022,6 +36143,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -36314,6 +36436,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

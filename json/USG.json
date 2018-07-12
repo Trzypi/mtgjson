@@ -6713,7 +6713,8 @@
         "CMD",
         "C15",
         "C16",
-        "IMA"
+        "IMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.",
@@ -7582,7 +7583,8 @@
         "CMD",
         "PC2",
         "VMA",
-        "PCA"
+        "PCA",
+        "CM2"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -9701,7 +9703,8 @@
         "USG",
         "BRB",
         "CMD",
-        "CN2"
+        "CN2",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -16744,7 +16747,8 @@
         "USG",
         "MRD",
         "C14",
-        "MM2"
+        "MM2",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -18324,7 +18328,8 @@
         "C14",
         "C15",
         "EMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Worn Powerstone enters the battlefield tapped.\n{T}: Add {C}{C}.",
@@ -18361,7 +18366,8 @@
       "originalType": "Land",
       "printings": [
         "USG",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -18411,7 +18417,8 @@
         "BRB",
         "C13",
         "C14",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -18827,7 +18834,8 @@
         "BTD",
         "C13",
         "C14",
-        "C15"
+        "C15",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -19084,6 +19092,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -19250,6 +19259,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -19416,6 +19426,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -19582,6 +19593,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -19748,6 +19760,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -19914,6 +19927,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -20080,6 +20094,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -20246,6 +20261,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -20415,6 +20431,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -20583,6 +20600,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -20751,6 +20769,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -20919,6 +20938,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -21090,6 +21110,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -21262,6 +21283,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -21434,6 +21456,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -21606,6 +21629,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -21775,6 +21799,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -21944,6 +21969,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -22113,6 +22139,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -22282,6 +22309,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

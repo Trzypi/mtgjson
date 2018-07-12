@@ -10251,7 +10251,8 @@
         "CMD",
         "PD3",
         "CN2",
-        "MPS_AKH"
+        "MPS_AKH",
+        "CM2"
       ],
       "rarity": "Mythic Rare",
       "rulings": [
@@ -10847,7 +10848,8 @@
         "DDN",
         "DD3_GVL",
         "ORI",
-        "CN2"
+        "CN2",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -11890,7 +11892,8 @@
         "USG",
         "BRB",
         "CMD",
-        "CN2"
+        "CN2",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -12908,7 +12911,8 @@
         "LRW",
         "M13",
         "C15",
-        "CN2"
+        "CN2",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -13348,7 +13352,8 @@
       "printings": [
         "THS",
         "C15",
-        "CN2"
+        "CN2",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -14335,7 +14340,8 @@
         "C15",
         "CN2",
         "C16",
-        "E01"
+        "E01",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -16082,7 +16088,8 @@
         "CSP",
         "DDG",
         "CN2",
-        "C16"
+        "C16",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -17088,7 +17095,8 @@
         "CMA",
         "C17",
         "IMA",
-        "RIX"
+        "RIX",
+        "CM2"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
@@ -17146,7 +17154,8 @@
         "CN2",
         "C16",
         "PCA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [

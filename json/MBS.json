@@ -1992,7 +1992,8 @@
       "printings": [
         "MBS",
         "C15",
-        "W17"
+        "W17",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -11966,7 +11967,8 @@
         "MBS",
         "C14",
         "C16",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -12614,7 +12616,8 @@
       "printings": [
         "MBS",
         "C14",
-        "DDU"
+        "DDU",
+        "CM2"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -14649,7 +14652,8 @@
       "printings": [
         "MBS",
         "C13",
-        "C14"
+        "C14",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -15822,6 +15826,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -16079,6 +16084,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -16336,6 +16342,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -16593,6 +16600,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -16853,6 +16861,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -17112,6 +17121,7 @@
         "RIX",
         "DOM",
         "BBD",
+        "CM2",
         "M19"
       ],
       "rarity": "Basic Land",
@@ -17374,6 +17384,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -17637,6 +17648,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -17897,6 +17909,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],
@@ -18157,6 +18170,7 @@
         "DDU",
         "DOM",
         "BBD",
+        "CM2",
         "GS1",
         "M19"
       ],

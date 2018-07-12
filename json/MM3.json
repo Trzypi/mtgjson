@@ -5335,7 +5335,8 @@
         "CMD",
         "C15",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -10388,7 +10389,8 @@
         "CMD",
         "M14",
         "C16",
-        "MM3"
+        "MM3",
+        "CM2"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -13855,7 +13857,8 @@
         "C15",
         "C16",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "rulings": [
@@ -16848,7 +16851,8 @@
         "C15",
         "MM3",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{1}, {T}: Add {R}{W}.",
@@ -16982,7 +16986,8 @@
         "RAV",
         "ARC",
         "CMD",
-        "MM3"
+        "MM3",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{1}, {T}: Add {U}{B}.",
@@ -17046,7 +17051,8 @@
         "C15",
         "C16",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{1}, {T}: Add {B}{G}.",
@@ -17311,7 +17317,8 @@
         "C16",
         "MM3",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{1}, {T}: Add {W}{B}.",
@@ -17509,7 +17516,8 @@
         "C15",
         "C16",
         "MM3",
-        "CMA"
+        "CMA",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "{1}, {T}: Add {G}{U}.",
@@ -17571,7 +17579,8 @@
         "C13",
         "C16",
         "MM3",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Arcane Sanctum enters the battlefield tapped.\n{T}: Add {W}, {U}, or {B}.",
@@ -17766,7 +17775,8 @@
         "C13",
         "C15",
         "MM3",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Common",
       "rulings": [
@@ -18744,7 +18754,8 @@
         "C16",
         "MM3",
         "CMA",
-        "C17"
+        "C17",
+        "CM2"
       ],
       "rarity": "Uncommon",
       "text": "Seaside Citadel enters the battlefield tapped.\n{T}: Add {G}, {W}, or {U}.",
